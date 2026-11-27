@@ -1,0 +1,36 @@
+name: poll
+
+# Public repository: this log is public. The bot prints counters only (bot/log.py).
+on:
+  schedule:
+    - cron: "0 3,8,12,16 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: poll
+  cancel-in-progress: false
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          repository: lapanti/kuntapaatokset
+          ssh-key: ${{ secrets.KUNTAPAATOKSET_DEPLOY_KEY }}
+          path: kuntapaatokset
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install --quiet -r requirements.txt
+      - run: python -m bot run
+        env:
+          PYTHONPATH: kuntapaatokset
+          BOT_CONFIG: ${{ secrets.BOT_CONFIG }}
+          DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}

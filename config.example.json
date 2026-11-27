@@ -1,0 +1,1 @@
+{"municipality": "<kuntapaatokset municipality slug>", "guild_id": "100000000000000001", "forum_id": "100000000000000002", "focus": "<party code, e.g. vihr>", "bodies": {"kunnanhallitus": {"tag": "100000000000000010", "mode": "full", "members": ["100000000000000100", "100000000000000101"]}, "<body-slug>": {"tag": "100000000000000012", "mode": "short"}}}

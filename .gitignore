@@ -1,0 +1,6 @@
+# Real configuration and tokens never enter this public repository. Keep them outside it,
+# e.g. ~/.config/kokousbotti/, or in GitHub secrets.
+config.json
+*.local.json
+.env
+__pycache__/
