@@ -1,0 +1,531 @@
+{
+  "title": "Kuntakehityksen lautakunta Pöytäkirja 25.02.2026 klo 17:00 - 19:59 ⁄ Tarkastettu Kirkkonummen kunnantalo, Kirkkonummi-sali | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Kuntakehityksen lautakunta",
+  "doctype": "Pöytäkirja",
+  "date": "2026-02-25",
+  "items": [
+    {
+      "id": "20262246-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262246-1",
+      "decision": "Puheenjohtaja totesi kokouksen laillisesti koolle kutsutuksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Puheenjohtaja totesi kokouksen laillisesti koolle kutsutuksi ja päätösvaltaiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20262246-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajan valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262246-2",
+      "decision": "Kuntakehityksen lautakunta päätti päätösehdotuksen mukaisesti. Pöytäkirjantarkistajaksi valittiin Tuovi Ronkainen",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kuntakehityksen lautakunta päättää 1 valita yhden pöytäkirjantarkastajan tarkastamaan tämän kokouksen pöytäkirjan 2 tarkastaa tämän pöytäkirjan sähköisesti seuraavan aikataulun mukaan: Pöytäkirja tarkastetaan tiistaina 3.3.2026. Jos hyväksymisviestiä ei tule sihteerille em. ajankohtaan mennessä, pöytäkirja katsotaan hyväksytyksi. Tarkastettu pöytäkirja asetetaan yleisesti nähtäville kunnan julkiseen tietoverkkoon keskiviikkona 4.3.2026",
+        "paatos": "Kuntakehityksen lautakunta päätti päätösehdotuksen mukaisesti. Pöytäkirjantarkistajaksi valittiin Tuovi Ronkainen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20262246-3",
+      "ordinal": "3",
+      "title": "Tulevaisuuden Sundsberg-paikkatietokyselyn tulokset ja Sundsbergin ideasuunnitelma, tiedoksi.",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262246-3",
+      "decision": "Kuntakehityksen lautakunta päätti 1. merkitä tiedoksi Tulevaisuuden Sundsberg-paikkatietokyselyn tulokset ja Sundsbergin ideasuunnitelman 2. todeta, että esitetty ideasuunnitelma ei ole Kirkkonummen Kuntastrategian 2024-2030 mukainen Kuntastrategian mukaisesti kaavoitamme pientalovaltaisesti luonnonläheisiä, viihtyisiä ja turvallisia asuinalueita. Lautakunta on evästänyt hyväksyessään Sundsbergin osayleiskaavan osallistumis-ja arviointisuunnitelman (OAS), että tavoitteena on viihtyisä, kaupunkimaisesti rakennettu alue Sundsbergintien ja Länsiväylän risteysalueen tuntumassa sekä pientalovaltaisesti rakennetut ympäristöt, jotka tukevat osaltaan palveluiden kehittymistä. Lautakunnan evästys ei tarkoita ideasuunnitelmassa esitetyssä laajuudessa 4-8 kerroksisia kerrostaloja vaan pientaloalueiden tulee evästyksen mukaisesti olla laajempia ja kerrostaloalueiden suppeampia. Lautakunta kiinnittää huomion myös ideasuunnitelman toteutuskustannuksiin mm. esitetyn kanavan sekä Länsiväylän ylittävien uusien siltojen osalta. sekä evästää seuraavasti: 1. Sundsbergin aarniometsän suojelualueen lähin tehokkaamman rakentamisen alue (liite 2) toteutetaan maksimissaan nelikerroksisena. 2. tiiviin rakentamisen alueella suositetaan ensisijaisesti kerrostaloissa loft rakentamista",
+      "votes": [
+        {
+          "jaa": [
+            "Ronkainen Tuovi",
+            "Lahti Jukka"
+          ],
+          "ei": [
+            "Kaurila Matti",
+            "Ragnell Sami",
+            "Vasenius Thomas",
+            "Granström Anneli",
+            "Rönnberg Janina",
+            "Lindström Kim",
+            "Polkko Aleksander"
+          ],
+          "tyhja": [
+            "Somervuori Mervi",
+            "Pekkarniemi Pinja"
+          ],
+          "named_by": "surname",
+          "totals": {
+            "jaa": 2,
+            "ei": 7,
+            "tyhja": 2
+          },
+          "as_written": {
+            "jaa": [
+              "Ronkainen",
+              "Lahti"
+            ],
+            "ei": [
+              "Kaurila",
+              "Ragnell",
+              "Vasenius",
+              "Granström",
+              "Rönnberg",
+              "Lindström",
+              "Polkko"
+            ],
+            "tyhja": [
+              "Somervuori",
+              "Pekkarniemi"
+            ]
+          },
+          "names_from": "osallistujat",
+          "unresolved": [],
+          "parties": {
+            "jaa": {
+              "sdp": 2
+            },
+            "ei": {
+              "kok": 3,
+              "rkp": 2,
+              "ps": 1,
+              "prok": 1
+            },
+            "tyhja": {
+              "vihr": 2
+            }
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta",
+            "ei_label": "Kaurilan evästystä",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "evastys",
+            "kind": "procedural_substantive",
+            "rationale": "Käsittelyn aikana Matti Kaurila teki seuraavan evästysehdotuksen: ”Lautakunta toteaa, että esitetty ideasuunnitelma ei ole Kirkkonummen Kuntastrategian 2024-2030 mukainen.",
+            "winner": "ei",
+            "source": "parsed",
+            "evidence": "Ne, jotka kannattavat pohjaehdotusta, äänestävät JAA ja ne, jotka kannattavat Kaurilan evästystä, äänestävät EI — Äänet jakautuivat seuraavasti: 2 JAA-ääntä (Ronkainen, Lahti) 7 EI-ääntä (Kaurila, Ragnell, Vasenius, Granström, Rönnberg, Lindström, Polkko) 2 TYHJÄÄ (Somervuori, Pekkarniemi)"
+          }
+        },
+        {
+          "jaa": [
+            "Lahti Jukka",
+            "Ronkainen Tuovi"
+          ],
+          "ei": [
+            "Polkko Aleksander",
+            "Rönnberg Janina",
+            "Somervuori Mervi",
+            "Lindström Kim",
+            "Pekkarniemi Pinja",
+            "Kaurila Matti",
+            "Vasenius Thomas",
+            "Ragnell Sami"
+          ],
+          "tyhja": [
+            "Granström Anneli"
+          ],
+          "named_by": "surname",
+          "totals": {
+            "jaa": 2,
+            "ei": 8,
+            "tyhja": 1
+          },
+          "as_written": {
+            "jaa": [
+              "Lahti",
+              "Ronkainen"
+            ],
+            "ei": [
+              "Polkko",
+              "Rönnberg",
+              "Somervuori",
+              "Lindström",
+              "Pekkarniemi",
+              "Kaurila",
+              "Vasenius",
+              "Ragnell"
+            ],
+            "tyhja": [
+              "Granström"
+            ]
+          },
+          "names_from": "osallistujat",
+          "unresolved": [],
+          "parties": {
+            "jaa": {
+              "sdp": 2
+            },
+            "ei": {
+              "prok": 1,
+              "rkp": 2,
+              "vihr": 2,
+              "kok": 3
+            },
+            "tyhja": {
+              "ps": 1
+            }
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta",
+            "ei_label": "Ragnellin evästystä",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "evastys",
+            "kind": "procedural_substantive",
+            "rationale": ", jolloin Kaurilan evästysehdotus voitti.",
+            "winner": "ei",
+            "source": "parsed",
+            "evidence": "Ne, jotka kannattavat pohjaehdotusta, äänestävät JAA ja ne, jotka kannattavat Ragnellin evästystä, äänestävät EI — Äänet jakautuivat seuraavasti: 8 EI- ääntä (Polkko, Rönnberg, Somervuori, Lindström, Pekkarniemi, Kaurila, Vasenius, Ragnell) 2 JAA-ääntä (Lahti, Ronkainen) 1 TYHJÄ (Granström)"
+          }
+        },
+        {
+          "jaa": [
+            "Vasenius Thomas",
+            "Ragnell Sami",
+            "Kaurila Matti",
+            "Polkko Aleksander",
+            "Rönnberg Janina",
+            "Granström Anneli",
+            "Lindström Kim"
+          ],
+          "ei": [
+            "Ronkainen Tuovi",
+            "Lahti Jukka"
+          ],
+          "tyhja": [
+            "Somervuori Mervi",
+            "Pekkarniemi Pinja"
+          ],
+          "named_by": "surname",
+          "totals": {
+            "jaa": 7,
+            "ei": 2,
+            "tyhja": 2
+          },
+          "as_written": {
+            "jaa": [
+              "Vasenius",
+              "Ragnell",
+              "Kaurila",
+              "Polkko",
+              "Rönnberg",
+              "Granström",
+              "Lindström"
+            ],
+            "ei": [
+              "Ronkainen",
+              "Lahti"
+            ],
+            "tyhja": [
+              "Somervuori",
+              "Pekkarniemi"
+            ]
+          },
+          "names_from": "osallistujat",
+          "unresolved": [],
+          "parties": {
+            "jaa": {
+              "rkp": 2,
+              "kok": 3,
+              "prok": 1,
+              "ps": 1
+            },
+            "ei": {
+              "sdp": 2
+            },
+            "tyhja": {
+              "vihr": 2
+            }
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta",
+            "ei_label": "Lahden evästystä",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "evastys",
+            "kind": "procedural_substantive",
+            "rationale": ", jolloin Ragnellin evästysehdotus voitti.",
+            "winner": "jaa",
+            "source": "parsed",
+            "evidence": "Ne, jotka kannattavat pohjaehdotusta, äänestävät JAA ja ne, jotka kannattavat Lahden evästystä, äänestävät EI — Äänet jakautuivat seuraavasti: 7 JAA-ääntä (Vasenius, Ragnell, Kaurila, Polkko, Rönnberg, Granström, Lindström) 2 EI-ääntä (Ronkainen, Lahti) 2 TYHJÄÄ (Somervuori, Pekkarniemi)"
+          }
+        }
+      ],
+      "sections": {
+        "liitteet": "Numero Otsikko 1\n1\n1. Tulevaisuuden Sundsberg -raportti (pdf 5.17 mb) 2\n2\n2. Sundsberg OYK Ideasuunnitelma (pdf 18.60 mb) Kokousasian teksti Tulevaisuuden Sundsberg-paikkatietokyselyn tulokset ja Sundsbergin ideasuunnitelma, tiedoksi. Kuntakehityksen lautakunta 25.02.2026 § 14 744/10.02.02/2023",
+        "valmistelija": "kaavoitusarkkitehti Anniina Lehtonen etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kuntakehitysjohtaja Kauppinen Anna-Kaisa Kuntakehityksen lautakunta päättää merkitä tiedoksi Tulevaisuuden Sundsberg-paikkatietokyselyn tulokset ja Sundsbergin ideasuunnitelman",
+        "kasittely": "Victoria Rumbin ja Tuomas Seppänen poistuivat kokouksesta pykälän esittelyn jälkeen klo 17.55. Käsittelyn aikana Matti Kaurila teki seuraavan evästysehdotuksen: ”Lautakunta toteaa, että esitetty ideasuunnitelma ei ole Kirkkonummen Kuntastrategian 2024-2030 mukainen. Kuntastrategian mukaisesti kaavoitamme pientalovaltaisesti luonnonläheisiä, viihtyisiä ja turvallisia asuinalueita. Lautakunta on evästänyt hyväksyessään Sundsbergin osayleiskaavan osallistumis-ja arviointisuunnitelman (OAS), että tavoitteena on viihtyisä, kaupunkimaisesti rakennettu alue Sundsbergintien ja Länsiväylän risteysalueen tuntumassa sekä pientalovaltaisesti rakennetut ympäristöt, jotka tukevat osaltaan palveluiden kehittymistä. Lautakunnan evästys ei tarkoita ideasuunnitelmassa esitetyssä laajuudessa 4-8 kerroksisia kerrostaloja vaan pientaloalueiden tulee evästyksen mukaisesti olla laajempia ja kerrostaloalueiden suppeampia. Lautakunta kiinnittää huomion myös ideasuunnitelman toteutuskustannuksiin mm. esitetyn kanavan sekä Länsiväylän ylittävien uusien siltojen osalta.” Aleksander Polkko, Thomas Vasenius, Sami Ragnell, Anneli Granström ja Kim Lindström kannattivat ehdotusta. Puheenjohtaja totesi, että evästystä ei kannateta yksimielisesti, joten asiasta tulee äänestää. Puheenjohtaja käynnisti äänestyksen. Ne, jotka kannattavat pohjaehdotusta, äänestävät JAA ja ne, jotka kannattavat Kaurilan evästystä, äänestävät EI. Puheenjohtaja päätti äänestyksen. Äänet jakautuivat seuraavasti: 2 JAA-ääntä (Ronkainen, Lahti) 7 EI-ääntä (Kaurila, Ragnell, Vasenius, Granström, Rönnberg, Lindström, Polkko) 2 TYHJÄÄ (Somervuori, Pekkarniemi), jolloin Kaurilan evästysehdotus voitti. Käsittelyn aikana Sami Ragnell teki seuraavan evästysehdotuksen: ”Evästys jatkokäsittelyyn Sundsbergin aarniometsän suojelualueen lähin tehokkaamman rakentamisen alue (liite 2) toteutetaan maksimissaan nelikerroksisena.” Matti Kaurila, Aleksander Polkko, Thomas Vasenius, Mervi Somervuori, Pinja Pekkarniemi, Kim Lindström ja Anneli Granström kannattivat evästystä. Evästys hyväksyttiin yksimielisesti. Käsittelyn aikana Sami Ragnell teki seuraavan evästysehdotuksen: ”tiiviin rakentamisen alueella suositetaan ensisijaisesti kerrostaloissa loft rakentamista.” Matti Kaurila, Aleksander Polkko, Thomas Vasenius ja Kim Lindström kannattivat evästystä. Puheenjohtaja totesi, että evästystä ei kannateta yksimielisesti, joten asiasta tulee äänestää. Puheenjohtaja käynnisti äänestyksen. Ne, jotka kannattavat pohjaehdotusta, äänestävät JAA ja ne, jotka kannattavat Ragnellin evästystä, äänestävät EI. Puheenjohtaja päätti äänestyksen. Äänet jakautuivat seuraavasti: 8 EI- ääntä (Polkko, Rönnberg, Somervuori, Lindström, Pekkarniemi, Kaurila, Vasenius, Ragnell) 2 JAA-ääntä (Lahti, Ronkainen) 1 TYHJÄ (Granström), jolloin Ragnellin evästysehdotus voitti. Käsittelyn aikana Jukka Lahti teki seuraavan evästysehdotuksen: ”Metro tai kevyempi raideliikkenne varaus tulisi lisätä suunnitelmiin ja samalla kasvattaa asukasmäärää tavoitetta. Alue nojautuu vahvasti Espoonlahden palveluihin, minkä vuoksi merkittävä joukkoliikenneratkaisu alueiden välille on perusteltu.” Tuovi Ronkainen kannatti evästystä. Puheenjohtaja totesi, että evästystä ei kannateta yksimielisesti, joten asiasta tulee äänestää. Puheenjohtaja käynnisti äänestyksen. Ne, jotka kannattavat pohjaehdotusta, äänestävät JAA ja ne, jotka kannattavat Lahden evästystä, äänestävät EI. Puheenjohtaja päätti äänestyksen. Äänet jakautuivat seuraavasti: 7 JAA-ääntä (Vasenius, Ragnell, Kaurila, Polkko, Rönnberg, Granström, Lindström) 2 EI-ääntä (Ronkainen, Lahti) 2 TYHJÄÄ (Somervuori, Pekkarniemi), jolloin pohjaehdotus voitti. Kaavoitusarkkitehti Anniina Lehtonen poistui kokouksesta klo 18.10 pykälän käsittelyn jälkeen",
+        "paatos": "Kuntakehityksen lautakunta päätti 1. merkitä tiedoksi Tulevaisuuden Sundsberg-paikkatietokyselyn tulokset ja Sundsbergin ideasuunnitelman 2. todeta, että esitetty ideasuunnitelma ei ole Kirkkonummen Kuntastrategian 2024-2030 mukainen Kuntastrategian mukaisesti kaavoitamme pientalovaltaisesti luonnonläheisiä, viihtyisiä ja turvallisia asuinalueita. Lautakunta on evästänyt hyväksyessään Sundsbergin osayleiskaavan osallistumis-ja arviointisuunnitelman (OAS), että tavoitteena on viihtyisä, kaupunkimaisesti rakennettu alue Sundsbergintien ja Länsiväylän risteysalueen tuntumassa sekä pientalovaltaisesti rakennetut ympäristöt, jotka tukevat osaltaan palveluiden kehittymistä. Lautakunnan evästys ei tarkoita ideasuunnitelmassa esitetyssä laajuudessa 4-8 kerroksisia kerrostaloja vaan pientaloalueiden tulee evästyksen mukaisesti olla laajempia ja kerrostaloalueiden suppeampia. Lautakunta kiinnittää huomion myös ideasuunnitelman toteutuskustannuksiin mm. esitetyn kanavan sekä Länsiväylän ylittävien uusien siltojen osalta. sekä evästää seuraavasti: 1. Sundsbergin aarniometsän suojelualueen lähin tehokkaamman rakentamisen alue (liite 2) toteutetaan maksimissaan nelikerroksisena. 2. tiiviin rakentamisen alueella suositetaan ensisijaisesti kerrostaloissa loft rakentamista",
+        "selostus": "Yleistä Sundsbergin osayleiskaavan osallistumis- ja arviointisuunnitelma hyväksyttiin kuntakehityksen lautakunnassa 27.8.2025 (§ 9) ja hanke kuulutettiin vireille 1.10.2025. Sundsbergin osayleiskaavan tavoitteena on mahdollistaa Kirkkonummen itäosaan, Länsiväylän varrelle ja Espoonlahdelle rannalle uusi, moderni pikkukaupunki, joka erottautuu Helsingin seudulla omanlaisenaan. Tulevaisuuden Sundsberg-paikkatietokysely Osayleiskaavan suunnittelun lähtötiedoksi haluttiin kerätä alueen asukkailta, maanomistajilta ja muilta käyttäjiltä tietoa alueen nykyisistä luonto- ja virkistysalueiden, kohteiden sekä palveluiden saavutettavuudesta, tulevaisuuden vetovoimatekijöistä, uuden rakentamisen sijoittelusta, alueelle toivottavista palveluista sekä naapurusto- ja yhteisöllisyyskokemuksista. Kysely oli avoin kaikille, ja siihen vastasi yhteensä 550 henkilöä. Kysely toteutettiin sähköisenä ArcGIS Survey123 -lomakkeena, johon pystyi vastaamaan millä tahansa verkkoselaimella anonyymisti ajalla 16.9.2025–17.10.2025 suomeksi sekä ruotsiksi. Kyselyyn vastaamisessa tarjottiin myös henkilökohtaista apua Masalan kirjastossa 23.9.2025 sekä 6.10.2025. Korkeakouluharjoittelija laati paikkatietokyselyn, aineiston analyysin ja raportin Kirkkonummen kaavoitus- ja liikennejärjestelmäpalveluiden ohjauksessa. Sundsbergin ideasuunnitelma Länsiväylän ja Sundsbergintien pohjoispuolella sijaitsevan suunnittelualueen osan keskeiset maanomistajat ovat laatineet omille alueilleen Sundsbergin ideasuunnitelman vuonna 2024 (ONE Architects Finland Oy, 2024) Kirkkonummen kunnan ohjauksessa. Lokakuussa 2024 ideasuunnitelmaa käsiteltiin luottamushenkilöille järjestetyssä Sundsbergin osayleiskaavan tavoiteseminaarissa. Muuta Kuntakehityksen lautakuntaan Tulevaisuuden Sundsberg-paikkatietokyselyä tulee esittelemään Victoria Rumbin ja Sundsbergin ideasuunnitelmaa arkkitehti Tuomas Seppänen (ONE Architects Finland Oy)",
+        "oheismateriaali": "Tulevaisuuden Sundsberg-paikkatietokyselyn raportti Sundsbergin ideasuunnitelma"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": "Liite 1",
+          "title": "Liite 1. Tulevaisuuden Sundsberg -raportti",
+          "size": "pdf 5.17 mb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20262246-3-138123.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": "Liite 2",
+          "title": "Liite 2. Sundsberg OYK Ideasuunnitelma",
+          "size": "pdf 18.60 mb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20262246-3-138106.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Sami Ragnell",
+          "kind": "evastysehdotus",
+          "text": "”Evästys jatkokäsittelyyn Sundsbergin aarniometsän suojelualueen lähin tehokkaamman rakentamisen alue (liite 2) toteutetaan maksimissaan nelikerroksisena.” Matti Kaurila, Aleksander Polkko, Thomas Vasenius, Mervi Somervuori, Pinja Pekkarniemi, Kim Lindström ja Anneli Granström kannattivat evästystä. Evästys hyväksyttiin yksimielisesti. Käsittelyn aikana",
+          "source": "introduction",
+          "party": "kok"
+        },
+        {
+          "proposer": "Jukka Lahti",
+          "kind": "evastysehdotus",
+          "text": "”Metro tai kevyempi raideliikkenne varaus tulisi lisätä suunnitelmiin ja samalla kasvattaa asukasmäärää tavoitetta. Alue nojautuu vahvasti Espoonlahden palveluihin, minkä vuoksi merkittävä joukkoliikenneratkaisu alueiden välille on perusteltu.” Tuovi Ronkainen kannatti evästystä",
+          "source": "introduction",
+          "party": "sdp"
+        }
+      ]
+    },
+    {
+      "id": "20262246-4",
+      "ordinal": "4",
+      "title": "Läduvikin ranta-asemakaava, (hanke 25400), ranta-asemakaavan vireilletulo sekä osallistumis- ja arviointisuunnitelman hyväksyminen (AKL 62 § ja 63 §) ja kaavan valmisteluaineiston asettaminen julkisesti näht...",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262246-4",
+      "decision": "Kuntakehityksen lautakunta päätti yksimielisesti palauttaa asian valmisteluun",
+      "votes": [],
+      "sections": {
+        "liitteet": "Numero Otsikko 3\n1 3530 Läduvik ranta-asemakaava - Läduvik stranddetaljplan (pdf 1,022.10 kb) 4\n2 3530 Läduvik ranta-asemakaavan selostus (pdf 10.80 mb) 5\n3 3530 Läduvik ranta-asemakaava - selostuksen liitteet 1-4 (pdf 10.06 mb) 6\n4\n5. Porkkalanniemi, arkeologinen inventointi (pdf 10.79 mb) 7\n5\n6. Läduviken, luontoarvojen perusselvitys (pdf 6.18 mb) 8\n6 OAS_Läduvik_ranta-asemakaava (pdf 2.01 mb) 9\n7 3530 Stranddetaljplanebeskrivning för Läduvik (pdf 10.79 mb) 10\n8 3530 Läduvik stranddetaljplan - beskrivningens bilagor 1-4 (pdf 10.06 mb) 11\n9 PDB_Läduvik_stranddetaljplan (pdf 2.04 mb) Kokousasian teksti Läduvikin ranta-asemakaava, (hanke 25400), ranta-asemakaavan vireilletulo sekä osallistumis- ja arviointisuunnitelman hyväksyminen (AKL 62 § ja 63 §) ja kaavan valmisteluaineiston asettaminen julkisesti nähtäville AKL 62 §:n ja MRA 30 §:n mukaisesti. Kuntakehityksen lautakunta 25.02.2026 § 15 899/10.02.04/2025",
+        "valmistelija": "Kaavoitusarkkitehti Seppo Mäkinen etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kuntakehitysjohtaja Kauppinen Anna-Kaisa Kuntakehityksen lautakunta päättää, että 1. se hyväksyy Läduvikin ranta-asemakaavan osallistumis- ja arviointisuunnitelman (AKL 62 § ja 63 §) 2. se hyväksyy kaavan laatijaksi Patrick Erikssonin, arkkitehti SAFA 3. että kaavahanke kuuluu kaavoitusohjausmaksun (YTL 19.1.2023, § 4) maksuluokkaan III 4. se asettaa kaavan valmisteluaineiston julkisesti nähtäville AKL 62 §:n ja MRA 30 §:n mukaisesti. 5. että kaavoitusohjausmaksun lisäksi maanomistajat vastaavat kaavan laatimisen muista kustannuksista. 6. se pyytää kaavan valmisteluaineistosta lausunnot seuraavilta tahoilta: Kirkkonummen kunta: - rakennusvalvonta - ympäristönsuojelu - elinvoimapalvelut - kunnossapitopalvelut - tonttipalvelut - paikkatietopalvelut - Vanhusneuvosto - Vammaisneuvosto - Nuorisovaltuusto Muut viranomaiset: - Lupa- ja valvontavirasto - Uudenmaan elinvoimakeskus - Uudenmaan liitto - Länsi-Uudenmaan pelastuslaitos - Länsi-Uudenmaan museo - Espoon Seudun ympäristöterveys - Metsähallitus Yhdistykset ja järjestöt: - Kirkkonummen ympäristöyhdistys ry - Kyrkslätts Natur och Miljö r.f. - Tullandintien tiekunta - Dragetintien tiekunta Yritykset: - Caruna Espoo Oy - Elisa Oyj - Telia Finland Oy - DNA Oy",
+        "kasittely": "Käsittelyn aikana Jukka Lahti teki seuraavan muutosehdotuksen: ” Pohjoisen pysäköintialue muutetaan kaikille sallituksi mahdollistaen alueen helpomman virkistyskäytön. Loma-asumisen pysäköinti määrätään tonteilla tapahtuvaksi.” Sami Ragnell ja Kim Lindström kannattivat ehdotusta. Käsittelyn jatkuessa Matti Kaurila teki seuraavan palautusehdotuksen: ” Palautuksen aikana pohjoinen pysäköintialue muutetaan yleiseksi pysäköintialueeksi. Loma-asutuksen pysäköinti ratkaistaan tonteilla.” Jukka Lahti veti ehdotuksensa pois ja se korvattiin Matti Kaurilan palautusehdotuksen yhteydessä esitetyllä ehdotuksella. Lautakunta päätti pitää tauon 18.54 – 19.02 Kunnanarkkitehti Tero Luomajärvi poistui kokouksesta klo 18.54. Kaavoitusarkkitehti Seppo Mäkinen poistui kokouksesta klo 19.11 pykälän käsittelyn jälkeen",
+        "paatos": "Kuntakehityksen lautakunta päätti yksimielisesti palauttaa asian valmisteluun",
+        "selostus": "Taustaa ja alueen sijainti Suunnittelualue sijoittuu Porkkalanniemelle Tullandintien ja Porkkalanniemen luonnonsuojelualueen väliin. Alueen pohjoispuolelle sijoittuu Telegrafberget. Kokonaispinta-ala on 5,75 hehtaaria, josta maapinta-alan osuus on noin 5 hehtaaria. Kirkkonummen kunta hankki vuonna 2024 omistukseensa kiinteistön Läduvik (257-470-2-15), joka oli aikaisemmin Nurmijärven kunnan omistuksessa virkistysalueena. Kiinteistöstä erotettiin kaupan yhteydessä noin 5600 m2 suuruinen määräala, joka myytiin yksityiseen omistukseen ja jolla sijaitsee alueella oleva vanha virkistysalueen palvelurakennuksena toiminut rakennus. Rakennuksen yhteydessä on myös 2000-luvun alkupuolella rakennettu sauna. Määräalasta on muodostettu vuonna 2024 kiinteistö Helmis stuga (257-470-2-142). Kiinteistökauppojen yhteydessä neuvoteltiin kunnan ja yksityisten maanomistajien kanssa ranta-asemakaavan käynnistämisestä alueelle siten, että siihen sisältyisi heidän omistamat kiinteistöt (4 kpl), sekä kunnan omistukseen tullut Läduvik -kiinteistön länsipuolinen osa. Maanomistajat ovat toimittaneet virallisen kaavoitusaloitteen kuntaan 6.11.2025. Osallistumis- ja arviointisuunnitelma Osallistumis- ja arviointisuunnitelman tavoitteena on tiedottaa alueen asukkaita ja muita osallisia kaavan taustasta ja tarkoituksesta sekä tavoitellusta aikataulusta. Kaavan tavoitteet Yksityisten maanomistajien tavoitteena on järjestellä ranta-asemakaavan kautta uudelleen voimassa olevan saaristo- ja rannikkoalueiden osayleiskaavan mukaiset suunnittelualueen loma-asumisen alueet ja niiden rakennusoikeuden määrä siten, että huomioidaan nykyinen maanomistustilanne. Tahtotilana on loma-asumisen jatkuminen ja sen kehittäminen. Kirkkonummen kunnan tavoitteena on virkistyskäytön jatkuminen ja turvaaminen omistukseensa siirtyneellä kiinteistöllä luonto- ja kulttuurihistorialliset arvot huomioon ottaen. Ranta-asemakaavalla poiketaan saaristo- ja rannikkoalueiden osayleiskaavassa osoitetusta retkeily- ja ulkoilualuetta koskevasta merkinnästä ja määräyksestä (VR) kiinteistön Helmis stuga (2:142) osalta. Kaavamääräyksen mukaan kuitenkin alueella mm. ”sallitaan asuntoja ja niiden sivuasuntoja vain niillä rakennuspaikoilla, jotka ovat osayleiskaavan vahvistamisajankohtana jo mainitussa käytössä. Rakennuspaikkojen lukumäärää ei saa lisätä eikä vapaa-ajanasuntoja muuttaa pysyviksi asunnoiksi (omakotitaloiksi).” Kyseessä onkin vanha rakennuspaikka, jossa on sijainnut rakennus jo 1930-luvulla, ennen kuin alue on osoitettu virkistysalueeksi. Laadittavassa ranta-asemakaavassa noudatetaan tältä osin osayleiskaavamääräystä, vaikka rakennus ei ole ollut osayleiskaavan vahvistamisajankohtana varsinaisessa loma-asumiskäytössä. Lisäksi ratkaisu selkeyttää maankäytöllistä tilannetta alueella. Alustava aikataulu ja osallistuminen Hankkeelle on laadittu osallistumis- ja arviointisuunnitelmassa alustava rajaus, jota tarkennetaan tarpeen mukaan suunnitteluprosessin edetessä. Kaavan valmisteluaineisto asetetaan nähtäville alkuvuodesta 2026 ja kaavaehdotus myöhemmin samana vuonna. Kaava on tällöin mahdollista hyväksyä vuonna 2027. Osallistuminen, osalliset ja yhteistyö on kuvattu osallistumis- ja arviointisuunnitelmassa. Kaavan toteutuminen ja rakentuminen on riippuvainen alueen yksityisestä maanomistajasta. Kaavaluonnos Käyttötarkoitukset Ranta-asemakaavassa osoitetaan alueita loma-asumiseen (RA), retkeilyyn ja ulkoiluun (VR) sekä luonnonsuojeluun (SL). Lisäksi kaavaan sisältyy vesialuetta (W), joka on yhteisomistuksessa. Kaavassa osoitetaan myös alueita ohjeellista pysäköintiä ja ajo- sekä muita kulkuyhteyksiä varten sekä alueita, joille sijoittuu kulttuurihistoriallisia jäänteitä (sm). Rakennusoikeus ja kaavamääräykset Kokonaisrakennusoikeudeksi muodostuu 1590 m2, joka kohdistuu kaavassa osoitetuille RA-tonteille. Rakennusoikeuden määrä noudattelee kunnan rakennusjärjestyksen linjauksia loma-asumisen osalta. Kaavaan ei tule muuta rakentamista. Loma-asuntojen korttelialueelle (RA) osoitetaan kolme ranta-asemakaavatonttia, joiden rakennusoikeus tonttia kohden on 330 k-m2. Tonttikohtainen rakennusoikeus muodostuu seuraavasti: - lomarakennus 150 k-m2, - sivulomarakennus 50 k-m2, - talousrakennukset 100 k-m2 ja - sauna 30 k-m2. Lisäksi kaavassa osoitetaan rakennusalat venevajoille, jotka sijoittuvat tonteille 2 ja 3 ja mahdollistavat yhteensä neljän venevajan toteuttamisen. Rakennusoikeutta niille varataan yhteensä 300 k-m2. Kaksi venevajoista on olemassa olevia. Kaavassa ohjataan myös lomarakennusten rakentamistapaa mm. niiden pääasiallisen julkisivumateriaalin, värityksen ja sijainnin osalta. Retkeily- ja ulkoilualueelle (VR) saa sijoittaa virkistystä palvelevia rakenteita. Sille sijoittuu neljä kiinteää muinaisjäännöstä, joiden alueet osoitetaan kaavassa. Esihistoriallisia kohteita ei alueelta löytynyt, vaan kyseessä ovat uudemmat historiallisen ajan jäännökset. Kaavassa annetaan myös puuston ja kasvillisuuden käsittelyä koskevia määräyksiä sekä RA-tonttien, että VR-alueen osalta. Näillä pyritään turvaamaan mm. rantamaiseman ilmeen ja luonnon säilymistä. Kulkuyhteydet Alueen kiinteistöjä koskevia tietoimituksia on tehty useaan otteeseen. Vanhin oli vuodelta 1972, jossa määriteltiin länsipuolinen kulkuyhteys eteläosan RA-kiinteistöille Tullandintieltä. Vuonna 2024 määriteltiin kulkuyhteys kaavassa osoitettavan VR-alueen kautta RA-tontille 3 ja vuonna 2025 määriteltiin alueen länsipuolelta ja myös osittain kaava-alueen ulkopuolelta kulkeva yhteys tarkemmin. Ensin mainittu on leveydeltään 2 metriä ja jälkimmäinen 6 metriä. Maanomistajilla on oikeus rakentaa maanmittaustoimituksissa vahvistetut yksityistiet Tullandintielle erillään ranta-asemakaavasta. Kiinteistöt ovat jo ennestään osakkaina Tullandintien tiekunnassa. Muuta Kaavahanke kuuluu kaavoitusohjausmaksun maksuluokkaan III (YTL 19.1.2023, § 4). Kaavoitusohjausmaksun lisäksi maanomistaja vastaa myös kaavan laatimisen muista kustannuksista. Valtion aluehallinnon organisaatio on muuttunut 1.1.2026 alkaen. Uudenmaan elinkeino-, liikenne- ja ympäristökeskuksen toiminnot ovat jakautuneet lupa- ja valvontaviraston (LVV) sekä Uudenmaan elinvoimakeskuksen alle. LVV vastaa jatkossa suurimmasta osasta entisten ELY-keskusten ympäristö- ja luonnonvarat -vastuualueen alaisista tehtävistä (kuten alueidenkäyttö). Uudenmaan elinvoimakeskus vastaa puolestaan Uudenmaan ELY-keskuksen liikenne ja infrastruktuuri -vastuualueen sekä lopuista ELY-keskuksen ympäristö- ja luonnonvarat -vastuualueen alaisista tehtävistä (kuten luonnon monimuotoisuus ja luonnonsuojelu, kulttuuriympäristön ja rakennusperinnön hoito sekä maiseman suojelu). Muutoksen vuoksi lausuntopyynnöt lähetetään jatkossa molemmille organisaatioille niiden vastuualueiden mukaisesti. Asiakirjat: - Läduvikin ranta-asemakaava, osallistumis- ja arviointisuunnitelma - Läduvikin ranta-asemakaava, selostus liitteineen (sisältäen mm. ranta-asemakaavakartan piir.nro 3530)"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": "Liite 1",
+          "title": "3530 Läduvik ranta-asemakaava - Läduvik stranddetaljplan",
+          "size": "pdf 1,022.10 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20262246-4-138256.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": "Liite 2",
+          "title": "3530 Läduvik ranta-asemakaavan selostus",
+          "size": "pdf 10.80 mb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20262246-4-138265.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": "Liite 3",
+          "title": "3530 Läduvik ranta-asemakaava - selostuksen liitteet 1-4",
+          "size": "pdf 10.06 mb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20262246-4-138257.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": "Liite 4",
+          "title": "Liite 5. Porkkalanniemi, arkeologinen inventointi",
+          "size": "pdf 10.79 mb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20262246-4-138268.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": "Liite 5",
+          "title": "Liite 6. Läduviken, luontoarvojen perusselvitys",
+          "size": "pdf 6.18 mb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20262246-4-138269.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": "Liite 6",
+          "title": "OAS_Läduvik_ranta-asemakaava",
+          "size": "pdf 2.01 mb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20262246-4-138270.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": "Liite 7",
+          "title": "3530 Stranddetaljplanebeskrivning för Läduvik",
+          "size": "pdf 10.79 mb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20262246-4-138267.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": "Liite 8",
+          "title": "3530 Läduvik stranddetaljplan - beskrivningens bilagor 1-4",
+          "size": "pdf 10.06 mb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20262246-4-138266.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": "Liite 9",
+          "title": "PDB_Läduvik_stranddetaljplan",
+          "size": "pdf 2.04 mb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20262246-4-138271.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Jukka Lahti",
+          "kind": "vastaehdotus",
+          "text": "” Pohjoisen pysäköintialue muutetaan kaikille sallituksi mahdollistaen alueen helpomman virkistyskäytön. Loma-asumisen pysäköinti määrätään tonteilla tapahtuvaksi.” Sami Ragnell ja Kim Lindström kannattivat ehdotusta. Käsittelyn jatkuessa",
+          "source": "introduction",
+          "party": "sdp"
+        },
+        {
+          "proposer": "Matti Kaurila",
+          "kind": "palautusehdotus",
+          "text": "” Palautuksen aikana pohjoinen pysäköintialue muutetaan yleiseksi pysäköintialueeksi. Loma-asutuksen pysäköinti ratkaistaan tonteilla.” Jukka Lahti veti ehdotuksensa pois ja se korvattiin Matti Kaurilan palautusehdotuksen yhteydessä esitetyllä ehdotuksella. Lautakunta päätti pitää tauon 18.54 – 19.02 Kunnanarkkitehti Tero Luomajärvi poistui kokouksesta klo 18.54. Kaavoitusarkkitehti Seppo Mäkinen poistui kokouksesta klo 19.11 pykälän käsittelyn jälkeen",
+          "source": "introduction",
+          "party": "kok"
+        }
+      ]
+    },
+    {
+      "id": "20262246-5",
+      "ordinal": "5",
+      "title": "Kuntakehityksen lautakunnan toimintakertomus vuodelta 2025",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262246-5",
+      "decision": "Kuntakehityksen lautakunta päätti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Numero Otsikko 12\n1 Toimintakertomus 2025, Kuntakehityksen lautakunta (pdf 1.15 mb) Kokousasian teksti Kuntakehityksen lautakunnan toimintakertomus vuodelta 2025 Kuntakehityksen lautakunta 25.02.2026 § 16 677/02.02.02/2024",
+        "valmistelija": "kuntakehitysjohtaja Anna-Kaisa Kauppinen, kunnanarkkitehti Tero Luomajärvi, infrapalvelujohtaja Toni Keski-Lusa, kunnangeodeetti Otso Kärkkäinen, paikkatietopäällikkö Markku Korhonen, hallintopäällikkö Kia Forsell, etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kuntakehitysjohtaja Kauppinen Anna-Kaisa Kuntakehityksen lautakunta päättää: 1. hyväksyä liitteen mukaisesti vuoden 2025 toimintakertomuksen ja lähettää sen edelleen kunnanhallituksen ja kunnanvaltuuston käsiteltäväksi 2. hyväksyä liitteen mukaisesti vuoden 2025 sisäisen valvonnan suunnitelman toteutumisen. 3. valtuuttaa viranhaltijat tekemään teknisiä korjauksia toimintakertomukseen",
+        "paatos": "Kuntakehityksen lautakunta päätti päätösehdotuksen mukaisesti",
+        "selostus": "Kuntalain (410/2015) 115 §:n mukaan toimintakertomuksessa on esitettävä selvitys valtuuston asettamien toiminnan ja talouden tavoitteiden toteutumisesta kunnassa ja kuntakonsernissa. Toimintakertomuksessa on myös annettava tietoja sellaisista kunnan ja kuntakonsernin talouteen liittyvistä olennaisista asioista, jotka eivät käy ilmi kunnan tai kuntakonsernin taseesta, tuloslaskelmasta tai rahoituslaskelmasta. Tällaisia asioita ovat ainakin arvio todennäköisestä tulevasta kehityksestä sekä tiedot sisäisen valvonnan ja riskienhallinnan järjestämisestä ja keskeisistä johtopäätöksistä. Kunnanvaltuusto hyväksyi 18.11.2024 § 92 vuoden 2025 talousarvion ja taloussuunnitelman vuosille 2026-2027. Yhdyskuntatekniikan lautakunta hyväksyi puolestaan vuoden 2025 käyttösuunnitelman 23.1.2025 § 4. Kunnanvaltuuston 19.5.2025 § 53 hyväksymän hallintosäännön mukaan yhdyskuntatekniikan lautakunnan nimi on muutettu 16.6.2025 alkaen kuntakehityksen lautakunnaksi. Lisäksi uuden hallintosäännön myötä liikunta- ja virksitysalueiden kunnossapito ja sen määrärahat siirtyivät toimitilapalvelujen lautakunnasta kuntakehityksen lautakunnalle. Elinkeinopalvelut ja sen määrärahat siirtyivät myös kuntakehityksen lautakunnalle. Tämä muutos on huomioitu toimintakertomuksessa siten, että ko. määrärahat on siirretty kuntakehityksen lautakunnalle. Yhdyskuntatekniikan lautakunnan eli nykyisen Kuntakehityksen lautakunnan talousarvion sitovuus valtuustoon nähden on kunnanvaltuuston päätöksen mukaan kuntakehityksen lautakunnan ulkoinen toimintakate eli tuloarvioiden ja menomäärärahojen erotus. Toimielinsitovuudesta poiketen joukkoliikenteen palveluryhmä on valtuustoon nähden erikseen sitova. Kuntakehityksen lautakunnan talousarvio pysyi annetun määrärahan puitteissa, jolloin valtuustoon nähden sitova ulkoinen toimintakate ei ylittynyt. Kunnanvaltuuston hyväksymään talousarvioon sisältyy sitovia toiminnallisia tavoitteita, toimintaa kuvaavia tunnuslukuja sekä sisäisen valvonnan suunnitelma. Liitteeltä Kuntakehityksen lautakunnan toimintakertomus 2025 ilmenee toimielimen sitovien toiminnallisten ja taloudellisten tavoitteiden toteutumat, toimintaympäristön muutoksia koskevat kuvaukset sekä tunnusluvut"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": "Liite 1",
+          "title": "Toimintakertomus 2025, Kuntakehityksen lautakunta",
+          "size": "pdf 1.15 mb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20262246-5-138822.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20262246-6",
+      "ordinal": "6",
+      "title": "Yleisten alueiden hankinta Kirkkonummen seurakuntayhtymältä",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262246-6",
+      "decision": "Kuntakehityksen lautakunta päätti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Numero Otsikko 13\n1 Karttaliitteet_02022026 (pdf 7.05 mb) Kokousasian teksti Yleisten alueiden hankinta Kirkkonummen seurakuntayhtymältä Kuntakehityksen lautakunta 25.02.2026 § 17 857/10.00.01/2025",
+        "valmistelija": "Maankäyttöasiantuntija Laura Tuovinen etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kuntakehitysjohtaja Kauppinen Anna-Kaisa Kuntakehityksen lautakunta 1 päättää, että Kirkkonummen kunta ostaa liitteenä olevan kauppakirjan ehdoin kiinnityksistä vapaana kauppahintaan 41 300 euroa Kirkkonummen Seurakuntayhtymältä, y-tunnus 0203109-7, Kirkkonummen kunnassa: - tilasta Finnsbacka, kiinteistötunnus 257-416-1-57, liitekartalla 1a ja 1b osoitetun noin 2470 m² määräalan, joka on asemakaavassa katualuetta. - liitekartalla 2 osoitetun kiinteistön KYRKSLÄTT FÖRSAMLINGS KLOCKARBOL, kiinteistötunnus 257-418-3-48, jonka kiinteistörekisteriotteen mukainen pinta-ala on 0,0271 ha. Kiinteistö on asemakaavassa katualuetta. - tilasta PRÄSTGÅRDEN, kiinteistötunnus 257-418-3-56, liitekartalla 3a ja 3b osoitetun noin 13300 m² määräalan, joka on asemakaavassa katualuetta. - tilasta Pyhän Mikaelin Kirkko ja hautausmaat - Sankt Mikaels Kyrka och gravgårdar, kiinteistötunnus 257-418-3-58, liitekartalla 4 osoitetun noin 450 m² määräalan, joka on asemakaavassa katualuetta. 2 oikeuttaa kuntakehitysjohtajan tekemään kauppakirjaan vähäisiä tarkistuksia ja allekirjoittamaan kauppakirjan. Kauppakirja on allekirjoitettava kuuden kuukauden kuluessa ostopäätöksen lainvoimaisuudesta. 3 tämä päätös korvaa kuntakehityksen lautakunnan aiemman päätöksen 27.11.2025 §75",
+        "paatos": "Kuntakehityksen lautakunta päätti päätösehdotuksen mukaisesti",
+        "tiedoksi": "Kirkkonummen Seurakuntayhtymä",
+        "selostus": "Tonttipalvelut on neuvotellut Kirkkonummen Seurakuntayhtymän kanssa liitekartoilla esitettyjen asemakaavan mukaisten yleisten alueiden (katualueiden) hankinnasta. Kauppaehtoja on aiemman päätöksen jälkeen tarkennettu ja leikkipuistoalue jätetty ulos kaupasta. Päätöksen liitteet: neuvoteltu kauppakirjaluonnos karttaliitteineen ostettavista määräaloista ja kiinteistöstä"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": "Liite 1",
+          "title": "Karttaliitteet_02022026",
+          "size": "pdf 7.05 mb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20262246-6-137438.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20262246-7",
+      "ordinal": "7",
+      "title": "Keskustan tekojääkenttä hankkeen lisääminen vuoden 2026 investointiohjelmaan",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262246-7",
+      "decision": "Kuntakehityksen lautakunta päätti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "Projektipäällikkö Hannu Ruhanen etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kuntakehitysjohtaja Kauppinen Anna-Kaisa Kuntakehityksen lautakunta päättää, että vuoden 2026 lautakunnan käyttösuunnitelman investointiosaan hankeryhmään liikunta- ja virkistysalueet, suunnitteluun kohteelle 9405 9910 tekojää, lisätään 11 000 euroa. Määräraha siirretään hankkeelta 9401 liikunta- ja virkistysalueiden kehittämissuunnitelma 2035, joka ei ole vielä alkanut",
+        "paatos": "Kuntakehityksen lautakunta päätti päätösehdotuksen mukaisesti",
+        "selostus": "Kirkkonummen kunnan infrapalvelut on yhdessä nuoriso- ja vapaa-aikapalveluiden kanssa suunnittelemassa tekojääkenttää keskustan urheilupuiston alueelle. Suunnittelukonsulttina kohteessa on Sweco Finland Oy ja kohteen suunnittelu on alkanut vuonna 2025. Suunnitelmat valmistuivat pääosin vuoden 2025 lopussa, osa suunnittelukustannuksista kohdistuu kuitenkin vielä vuodelle 2026. Kohteelle ei ole varattu vuoden 2026 talousarvioon rahaa vaan se on varattu vuodelle 2027. Vuodelle 2026 kohdistuvista kustannuksista on pyydetty lisätyötarjous Sweco Finland Oy:lta. Kattohintainen tarjous on noin 11 000 euroa. Hanketta on määrä jatkaa suunnittelun osalta vuonna 2027 yhteensovittamalla se viereisen tekonurmikentän pinnan uusimisen kanssa siten, että tekojääkentästä saatavaa hukkaenergiaa voitaisiin hyödyntää tekonurmikentän sulanapidossa. Kohteen rakentaminen on esitetty taloussuunnitelmassa vuodelle 2028"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20262246-8",
+      "ordinal": "8",
+      "title": "Sokeritehtaantien saneerauksen lisääminen vuoden 2026 investointiohjelmaan",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262246-8",
+      "decision": "Kuntakehityksen lautakunta päätti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "Projektipäällikkö Hannu Ruhanen etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kuntakehitysjohtaja Kauppinen Anna-Kaisa Kuntakehityksen lautakunta päättää että vuoden 2026 lautakunnan käyttösuunnitelman investointiosan hankeryhmään liikenneväylät ja puistot ja edelleen urakat kohteelle 9458 9451 Sokeritehtaantie lisätään 1 000 000 euroa. Määrärahat siirretään hankkeilta 9410 9104 Rovastinpuisto 800 000 euroa ja 9430 9201 Munkinmäentien saneeraus 200 000 euroa. Rovastinpuiston ja Munkinmäentien saneerauksen hankkeet eivät ole vielä alkaneet",
+        "paatos": "Kuntakehityksen lautakunta päätti päätösehdotuksen mukaisesti",
+        "selostus": "Infrapalvelut on rakentamassa Sokeritehtaantien 1.vaihetta. Alkupeärisistä suunnitelmista poiketen alueelle joudutaan tekemään stabilointia, mikä on hidastanut urakan etenemistä. Urakan oli määrä valmistua kesään 2025 mennessä, mutta stabiloinnista johtuen työt valmsituvat kesään 2026 mennessä. Kohteelle ei ole varattu vuoden 2026 talousarvioon rahaa. Stabilointityön ja muut urakan loppuun saattamisen kustannukset ovat noin 1 000 000 €. Kohteen urakoitsijana toimii Louhintahiekka Oy"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20262246-9",
+      "ordinal": "9",
+      "title": "Kantatien 51 parantaminen Vuohimäen kohdalla, tiesuunnitelma, Kirkkonummi, kustannusjaon hyväksyminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262246-9",
+      "decision": "Kuntakehityksen lautakunta päätti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "Projektipäällikkö Hannu Ruhanen etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kuntakehitysjohtaja Kauppinen Anna-Kaisa Kuntakehityksen lautakunta sitoutuu Elinvoimakeskuksen ehdotukseen Kantatien 51 parantamisesta Vuohimäen kohdalla tehdyn kustannusjakoesityksen 50/50 % mukaisesti tiesuunnitelman osalta",
+        "paatos": "Kuntakehityksen lautakunta päätti päätösehdotuksen mukaisesti",
+        "selostus": "Vuohimäen eritasoliittymä mahdollistaa alueen maankäytön kehittymistä ja parantaa alueen liikenteen sujuvuutta ja turvallisuutta. Eritasoliittymän suunnitelmaratkaisussa huomioidaan kantatien tavoitetilanne sekä tiejärjestelyt eritasoliittymän eteläpuolisella alueella kunnan maankäytön kehittämistavoitteiden mukaisesti. Uudenmaan ELY-keskus (Elinvoimakeskus) esittää Kirkkonummen kunnalle tiesuunnittelun käynnistämistä yhteisrahoitteisesti. Rakentamisen kustannusjaosta ja hankkeeseen sisältyvien väylien omistuksesta neuvotellaan erikseen myöhemmin. Alustava kustannusarvio toimeksiannon kustannuksista on 600 000 euroa (alv 0 %), joka tarkentuu työn aikana esille tulevien lisäselvitystarpeiden ja tutkimusten myötä. Kustannusarvioon sisältyy myös suunnittelun tarvitsemien lähtötietojen ja erillisselvitysten hankinta. Uudenmaan ELY-keskus esittää tiesuunnitteluvaiheen kustannukset jaettavaksi Uudenmaan ELY-keskuksen ja Kirkkonummen kunnan välillä 50/50 % periaatteella. Kustannusarvion mukaisesti Kirkkonummen kunnan kustannusosuus olisi 300 000 €. Hankkeelle on varattu määräraha lautakunnan talousarvioin investointisuunnitelmassa 2026"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20262246-10",
+      "ordinal": "10",
+      "title": "Ilmoitusasioita tiedoksi",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262246-10",
+      "decision": "Kuntakehityksen lautakunta merkitsi oheiset asiat tiedoksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kuntakehityksen lautakunta merkitsee ilmoitusasiat tiedokseen. - VISIO-kaavan lausuntopyyntö - Otto-oikeuden käyttäminen kunnanarkkitehdin viranhaltijapäätökseen §2 2026",
+        "paatos": "Kuntakehityksen lautakunta merkitsi oheiset asiat tiedoksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    }
+  ],
+  "id": "20262246",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20262246"
+}

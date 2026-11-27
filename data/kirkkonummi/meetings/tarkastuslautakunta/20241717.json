@@ -1,0 +1,75 @@
+{
+  "title": "Tarkastuslautakunta Pöytäkirja 24.04.2024 klo 17:30 - 20:13 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Tarkastuslautakunta",
+  "doctype": "Pöytäkirja",
+  "date": "2024-04-24",
+  "items": [
+    {
+      "id": "20241717-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241717-1",
+      "decision": "Tarkastuslautakunta totesi kokouksen lailliseksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Tarkastuslautakunta toteaa kokouksen lailliseksi ja päätösvaltaiseksi",
+        "paatos": "Tarkastuslautakunta totesi kokouksen lailliseksi ja päätösvaltaiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241717-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan laatiminen ja tarkastaminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241717-2",
+      "decision": "Pöytäkirjantarkastajiksi valittiin Teppo Lampovaara ja Sami Sailo",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Tarkastuslautakunta valitsee kaksi pöytäkirjantarkastajaa",
+        "paatos": "Pöytäkirjantarkastajiksi valittiin Teppo Lampovaara ja Sami Sailo"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241717-3",
+      "ordinal": "3",
+      "title": "Sisäinen valvonta, riskienhallinta sekä konserniohjaus- ja valvonta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241717-3",
+      "decision": null,
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallituksen puheenjohtajan antama selvitys ja siitä käyty keskustelu merkitään tiedoksi",
+        "esittelija": "veti asian pois esityslistalta",
+        "selostus": "Kunnanhallituksen puheenjohtaja Timo Haapaniemi on kutsuttu kokoukseen antamaan selvityksen kunnan sisäisestä valvonnasta, riskienhallinnasta, konserniohjauksesta ja -valvonnasta sekä niiden toteuttamisesta vuonna 2023 ja muista ajankohtaisista asioista"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241717-4",
+      "ordinal": "4",
+      "title": "Arviointikertomus 2023",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241717-4",
+      "decision": "Tarkastuslautakunta valmisteli arviointikertomusta vuodelta 2023. Valmistelua jatketaan seuraavassa kokouksessa",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Tarkastuslautakunta valmistelee arviointikertomusta vuodelta 2023",
+        "paatos": "Tarkastuslautakunta valmisteli arviointikertomusta vuodelta 2023. Valmistelua jatketaan seuraavassa kokouksessa"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    }
+  ],
+  "id": "20241717",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20241717"
+}

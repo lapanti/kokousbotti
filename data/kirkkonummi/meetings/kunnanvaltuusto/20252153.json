@@ -1,0 +1,478 @@
+{
+  "title": "Kunnanvaltuusto Pöytäkirja 06.10.2025 klo 18:00 - 19:20 ⁄ Tarkastettu Kirkkonummen kunnantalo, Kirkkonummi-sali | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Kunnanvaltuusto",
+  "doctype": "Pöytäkirja",
+  "date": "2025-10-06",
+  "items": [
+    {
+      "id": "20252153-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252153-1",
+      "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Kokous todettiin lailliseksi ja päätösvaltaiseksi",
+        "selostus": "Kunnanvaltuuston kokouskutsu on julkaistu kunnan verkkosivulla 1.10.2025. Samana päivänä kutsu on toimitettu valtuutetuille ja varavaltuutetuille"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252153-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252153-2",
+      "decision": "Pöytäkirjantarkastajiksi valittiin Urho Blom ja Sini Felipe",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanvaltuusto päättää valita kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan",
+        "paatos": "Pöytäkirjantarkastajiksi valittiin Urho Blom ja Sini Felipe"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252153-3",
+      "ordinal": "3",
+      "title": "Kestävän kuntatalouden ohjelman linjausten hyväksyminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252153-3",
+      "decision": "Kunnanvaltuusto päätti päätösehdotuksen mukaisesti. Lisäksi kunnanvaltuusto hyväksyi yksimielisesti seuraavan ponnen: Kirkkonummi kiinnittää erityistä huomiota päätösten vaikutusten arviointiin. Kunnan talouden tasapainottaminen kestävällä tavalla edellyttää, että päätöksenteon tueksi tehdään riittävän monipuolinen vaikutusten arviointi",
+      "votes": [
+        {
+          "jaa": [
+            "Haapaniemi Timo",
+            "Huhmarniemi Saara",
+            "Kaurila Matti",
+            "Adlercreutz Anders",
+            "Castrén Heidi",
+            "Tapio Suvi",
+            "Valli Lauri",
+            "Kiukas Maiju",
+            "Valtonen Martin",
+            "Vasenius Thomas",
+            "Ylitolonen Oona",
+            "Granström Anneli",
+            "Blom Urho",
+            "Ekman Jani",
+            "Jäppinen Sanni",
+            "Lavanti Lauri",
+            "Björk Tony",
+            "Ragnell Sami",
+            "Karkinen Ronja",
+            "Lindgren Viveca",
+            "Taussi Henri",
+            "Aallonharja Piia",
+            "Lankia Eero",
+            "Björkroth Sofia",
+            "Sahiluoma Anna",
+            "Kähkönen Jani",
+            "Jeremejew Miisa",
+            "Frantsi-Lankia Marjut",
+            "Korkman Nadia",
+            "Hedberg Hans",
+            "Liljequist Kim",
+            "Engström Miika",
+            "Aintila Anna",
+            "Kjerin Ulf",
+            "Hakapää Minna",
+            "Kock Fredrik",
+            "Frimodig Josephine",
+            "Fleming Johanna",
+            "Kilappa Antti",
+            "Åström Kim",
+            "Orko Maarit",
+            "Purra Riikka"
+          ],
+          "ei": [
+            "Niemi Edla",
+            "Enqvist Minna",
+            "Felipe Sini",
+            "Kettunen Noora",
+            "Suominen Tero",
+            "Lahti Viveca",
+            "Piili Noora",
+            "Lahti Jukka",
+            "Ronkainen Tuovi"
+          ],
+          "tyhja": [],
+          "totals": {
+            "jaa": 42,
+            "ei": 9,
+            "tyhja": 0
+          },
+          "parties": {
+            "jaa": {
+              "kok": 14,
+              "vihr": 7,
+              "rkp": 11,
+              "prok": 3,
+              "kd": 1,
+              "ps": 4,
+              "kesk": 2
+            },
+            "ei": {
+              "vas": 2,
+              "sdp": 6,
+              "prok": 1
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "asian jatkokäsittelyä",
+            "ei_label": "Sini Felipen palautusesitystä",
+            "jaa_kind": "jatkokasittely",
+            "ei_kind": "jatkokasittely",
+            "kind": "procedural_substantive",
+            "rationale": "Puheenjohtaja julisti keskustelun päättyneeksi ja totesi, että keskustelun aikana on jätetty palautus-, vasta- ja ponsiesityksiä seuraavasti: Sini Felipen palautusesitys: Ohjelma linjauksineen palautetaan valmisteluun siten, että linjaukset tulevat hyväksyttäväksi yhtä aikaa ohjelman kanssa.",
+            "winner": null,
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat asian jatkokäsittelyä äänestävät JAA, ja ne jotka kannattavat Sini Felipen palautusesitystä äänestävät EI — annettiin 42 JAA ja 9 EI ääntä."
+          }
+        },
+        {
+          "jaa": [
+            "Björkroth Sofia",
+            "Kähkönen Jani",
+            "Castrén Heidi",
+            "Kock Fredrik",
+            "Tapio Suvi",
+            "Adlercreutz Anders",
+            "Björk Tony",
+            "Kaurila Matti",
+            "Frimodig Josephine",
+            "Purra Riikka",
+            "Kilappa Antti",
+            "Blom Urho",
+            "Kjerin Ulf",
+            "Liljequist Kim",
+            "Hedberg Hans",
+            "Ylitolonen Oona",
+            "Engström Miika",
+            "Aallonharja Piia",
+            "Kiukas Maiju",
+            "Granström Anneli",
+            "Haapaniemi Timo",
+            "Valtonen Martin",
+            "Korkman Nadia",
+            "Ragnell Sami",
+            "Valli Lauri",
+            "Vasenius Thomas",
+            "Aintila Anna",
+            "Piili Noora",
+            "Taussi Henri",
+            "Sahiluoma Anna",
+            "Ekman Jani",
+            "Åström Kim",
+            "Lindgren Viveca"
+          ],
+          "ei": [
+            "Huhmarniemi Saara",
+            "Orko Maarit",
+            "Lavanti Lauri",
+            "Hakapää Minna",
+            "Niemi Edla",
+            "Jeremejew Miisa",
+            "Lahti Viveca",
+            "Lahti Jukka",
+            "Karkinen Ronja",
+            "Felipe Sini",
+            "Kettunen Noora",
+            "Suominen Tero",
+            "Lankia Eero",
+            "Jäppinen Sanni",
+            "Fleming Johanna",
+            "Enqvist Minna",
+            "Frantsi-Lankia Marjut",
+            "Ronkainen Tuovi"
+          ],
+          "tyhja": [],
+          "totals": {
+            "jaa": 33,
+            "ei": 18,
+            "tyhja": 0
+          },
+          "parties": {
+            "jaa": {
+              "kok": 14,
+              "ps": 4,
+              "rkp": 11,
+              "prok": 3,
+              "kd": 1
+            },
+            "ei": {
+              "vihr": 7,
+              "prok": 1,
+              "vas": 2,
+              "sdp": 6,
+              "kesk": 2
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta",
+            "ei_label": "Edla Niemen vastaesitystä",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": "jaa",
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Edla Niemen vastaesitystä äänestävät EI — annettiin 33 JAA ja 18 EI ääntä."
+          }
+        }
+      ],
+      "sections": {
+        "liitteet": "Numero Otsikko 1\n1 Kestävän kuntatalouden ohjelma_2025_10_06 (kv) (pdf 1.98 mb) 2\n2\n1 Strategisen kehittämisen suunnitelma (pdf 265.60 kb)\n2_Kuntatalous monen muuttujan summa 2025_Kuntaliiton kestävän kasvun ohjelma (pdf 4.09 mb)",
+        "oheismateriaali": "Otsikko\n1\n2\n_FCG_Kestävän kasvun kuntavertailu (pdf 961.54 kb) Kokousasian teksti Kestävän kuntatalouden ohjelman linjausten hyväksyminen Kunnanvaltuusto 06.10.2025 § 94 143/00.01.05/2025",
+        "paatosehdotus": "Kunnanhallitus esittää kunnanvaltuustolle, että se 1 hyväksyy kestävän kuntatalouden ohjelmaan sisältyvät linjaukset: - Talouden saattaminen tasapainoon siten, että tavoittelemme vuosittain ylijäämäistä tulosta. Tämä on tärkeää, koska kunnan velkamäärä ja korkokulut kasvavat investointien suuren määrän vuoksi. Ylijäämäinen tulos tarkoittaa vuosittain talousarvioon toimintaa tehostavia toimenpiteitä. Kestävän kuntatalouden ohjelma tarjoaa toimenpide-ehdotuksia talouden kestävyyden edistämiseksi. Operatiivinen organisaatio valmistelee talouden tasapainottamiseen liittyviä toimenpiteitä ja esittää ne päätettäväksi sille toimielimelle tai viranhaltijalle, jolla on asiassa toimivalta hallintosäännön mukaan. Osana jatkuvaa talouden tasapainottamistyötä reagoimme tarvittaessa muuttuneisiin talouden reunaehtoihin myös talousarviovuosien aikana. - Arvioimme palvelujen erilaisia tuotantotapoja. Palvelutuotannon tulee tukea kunnan strategisia tavoitteita ja toimia kustannustehokkaasti. Henkilöstön osalta jatketaan hallittuja rakenteellisia uudistuksia kestävän kasvun mahdollistamiseksi (mm. digitalisaatio, osaamisen kehittäminen ja resurssointi suunnittelu) ja käytetään viimesijaisesti yhteistoimintaneuvottelujen pohjalta muita keinoja. - Kiinteistöveron nostamisesta tai sen tulevasta tasosta ei tehdä linjausta vielä, vaan todetaan tämän olevan mahdollisuus ja lisätään mahdollisiin toimenpiteisiin vuoden 2025 budjettineuvotteluihin. Jos niissä päädytään nostamaan kiinteistöveroa, niin samalla otetaan myös kantaa korotuksen suuruuteen. - Kunnan kokonaisinvestointitaso on huipussaan tulevina vuosina. Investointisuunnitelman laadimme siten, että kokonaisinvestointien leikkaus vuosina 2026–2029 on yhteensä 35 milj. euroa verrattuna talousarvion 2025 investointisuunnitelmaan. Tämä vastaa 10 % leikkausta investointien kokonaismäärästä samalla aikajaksolla. Kunnanvaltuuston hyväksymät palveluverkkoinvestoinnit kuitenkin toteutetaan. - Lähivuosina suurten talonrakennusinvestointien vuoksi väistötilaratkaisut muodostavat kunnalle suuren kustannuserän. Toteutamme väistötilat kustannustehokkaasti hyödyntäen ensisijaisesti olemassa olevia kiinteistöjä ja tiloja, mikäli se on perusteltua ottaen huomioon sijainti, tilojen kunto, toimivuus ja kustannukset. - Kunnanhallitus on kokouksessaan 9.6.2025 Vuoden 2026 talousarvion laadintakehyksen käsittelyssä (Kunnanhallitus 9.6.2025 § 222) päättänyt, että \"Kunnan hankintoja tehostetaan noin 1 MEUR:illa / annum.\" Osana Kestävän kuntatalouden ohjelmaa linjataan, että kunnan hankintojen tehostaminen käynnistetään viipymättä. Tarvittaessa voidaan hyödyntää ulkopuolista asiantuntemusta ja osaamista. Linjaukset tulevat olemaan talousarvion 2026 ja taloussuunnitelman 2027–2028 laadinnan perustana. 2 merkitsee kestävän kuntatalouden ohjelman liitteineen muilta osin tiedoksi",
+        "kasittely": "Kunnanjohtaja Virpi Sailas esitteli asiaa kokouksessa. Puheenjohtaja julisti keskustelun päättyneeksi ja totesi, että keskustelun aikana on jätetty palautus-, vasta- ja ponsiesityksiä seuraavasti: Sini Felipen palautusesitys: Ohjelma linjauksineen palautetaan valmisteluun siten, että linjaukset tulevat hyväksyttäväksi yhtä aikaa ohjelman kanssa. Valtuustoryhmillä tulee olla tosiasiallinen mahdollisuus vaikuttaa ohjelman sisältöön. Ohjelma valmistellaan luonteeltaan ylätason toimintaa ohjaavaksi ohjelmaksi, eikä siinä oteta kantaa yksittäisiin päätöksentekoon tuleviin asioihin tai valtuustoaloitteisiin. Palautusesitystä kannattivat Noora Piili, Viveca Lahti, Jukka Lahti, Tero Suominen, Noora Kettunen, Tuovi Ronkainen ja Minna Enqvist. Palautusesitystä ei hyväksytty yksimielisesti, joten puheenjohtaja ilmoitti että asiasta on äänestettävä. Puheenjohtaja ehdotti että asiasta äänestetään niin, että ne jotka kannattavat asian jatkokäsittelyä äänestävät JAA, ja ne jotka kannattavat Sini Felipen palautusesitystä äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 42 JAA ääntä ja 9 EI ääntä. Asian jatkokäsittely sai enemmän ääniä ja asian käsittelyä jatkettiin. JAA äänestivät Haapaniemi Timo, Huhmarniemi Saara, Kaurila Matti, Adlercreutz Anders, Castrén Heidi, Tapio Suvi, Valli Lauri, Kiukas Maiju, Valtonen Martin, Vasenius Thomas, Ylitolonen Oona, Granström Anneli, Blom Urho, Ekman Jani, Jäppinen Sanni, Lavanti Lauri, Björk Tony, Ragnell Sami, Karkinen Ronja, Lindgren Viveca, Taussi Henri, Aallonharja Piia, Lankia Eero, Björkroth Sofia, Sahiluoma Anna, Kähkönen Jani, Jeremejew Miisa, Frantsi-Lankia Marjut, Korkman Nadia, Hedberg Hans, Liljequist Kim, Engström Miika, Aintila Anna, Kjerin Ulf, Hakapää Minna, Kock Fredrik, Frimodig Josephine, Fleming Johanna, Kilappa Antti, Åström Kim, Orko Maarit ja Purra Riikka EI äänestivät Niemi Edla, Enqvist Minna, Felipe Sini, Kettunen Noora, Suominen Tero, Lahti Viveca, Piili Noora, Lahti Jukka ja Ronkainen Tuovi. Edla Niemen vastaesitys: Muutetaan ensimmäinen linjaus muotoon: \"Talouden saattaminen tasapainoon siten, että tavoittelemme vuosittain ylijäämäistä tulosta. Tämä on tärkeää, koska kunnan velkamäärä ja korkokulut kasvavat investointien suuren määrän vuoksi. Ylijäämäinen tulos tarkoittaa vuosittain talousarvioon toimintaa tehostavia toimenpiteitä. Tasapainottamistoimien kokonaisuudessa tarkastelemme myös verotusta ja muita tulopohjaa kasvattavia keinoja kestävän talouden turvaamiseksi. Kestävän kuntatalouden ohjelma tarjoaa toimenpide-ehdotuksia talouden kestävyyden edistämiseksi. Operatiivinen organisaatio valmistelee talouden tasapainottamiseen liittyviä toimenpiteitä ja esittää ne päätettäväksi sille toimielimelle tai viranhaltijalle, jolla on asiassa toimivalta hallintosäännön mukaan. Osana jatkuvaa talouden tasapainottamistyötä reagoimme tarvittaessa muuttuneisiin talouden reunaehtoihin myös talousarviovuosien aikana.\" Vastaesitystä kannattivat Minna Enqvist, Noora Kettunen, Johanna Fleming, Marjut Frantsi-Lankia ja Eero Lankia. Vastaesitystä ei hyväksytty yksimielisesti, joten puheenjohtaja ilmoitti että asiasta on äänestettävä. Puheenjohtaja ehdotti että asiasta äänestetään niin, että ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Edla Niemen vastaesitystä äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 33 JAA ääntä ja 18 EI ääntä. Pohjaehdotus sai enemmän ääniä ja voitti. JAA äänestivät Björkroth Sofia, Kähkönen Jani, Castrén Heidi, Kock Fredrik, Tapio Suvi, Adlercreutz Anders, Björk Tony, Kaurila Matti, Frimodig Josephine, Purra Riikka, Kilappa Antti, Blom Urho, Kjerin Ulf, Liljequist Kim, Hedberg Hans, Ylitolonen Oona, Engström Miika, Aallonharja Piia, Kiukas Maiju, Granström Anneli, Haapaniemi Timo, Valtonen Martin, Korkman Nadia, Ragnell Sami, Valli Lauri, Vasenius Thomas, Aintila Anna, Piili Noora, Taussi Henri, Sahiluoma Anna, Ekman Jani, Åström Kim ja Lindgren Viveca EI äänestivät Huhmarniemi Saara, Orko Maarit, Lavanti Lauri, Hakapää Minna, Niemi Edla, Jeremejew Miisa, Lahti Viveca, Lahti Jukka, Karkinen Ronja, Felipe Sini, Kettunen Noora, Suominen Tero, Lankia Eero, Jäppinen Sanni, Fleming Johanna, Enqvist Minna, Frantsi-Lankia Marjut ja Ronkainen Tuovi. Saara Huhmarniemen ponsiehdotus: Kunnanvaltuusto toteaa pontenaan, että Kirkkonummi kiinnittää erityistä huomiota päätösten vaikutusten arviointiin. Kunnan talouden tasapainottaminen kestävällä tavalla edellyttää, että päätöksenteon tueksi tehdään riittävän monipuolinen vaikutusten arviointi. Ponsiehdotusta kannattivat Lauri Lavanti, Noora Kettunen, Miisa Jeremejew, Minna Enqvist, Edla Niemi, Maarit Orko, Johanna Fleming, Sanni Jäppinen, Noora Piili, Marjut Frantsi-Lankia, Nadia Korkman, Anna Aintila, Ronja Karkinen, Viveca Lahti, Jukka Lahti, Jani Ekman, Tuovi Ronkainen, Kim Åström, Miika Engström, Anneli Granström, Sofia Björkroth, Oona Ylitolonen ja Lauri Valli. Puheenjohtajan tiedustellessa ponsiehdotus hyväksyttiin yksimielisesti",
+        "paatos": "Kunnanvaltuusto päätti päätösehdotuksen mukaisesti. Lisäksi kunnanvaltuusto hyväksyi yksimielisesti seuraavan ponnen: Kirkkonummi kiinnittää erityistä huomiota päätösten vaikutusten arviointiin. Kunnan talouden tasapainottaminen kestävällä tavalla edellyttää, että päätöksenteon tueksi tehdään riittävän monipuolinen vaikutusten arviointi",
+        "selostus": "Kunnanhallituksen tekemät muutokset linjauksiin on otettu huomioon liitteenä olevaan kestävän kuntatalouden ohjelmassa ja tehty myös teknisiä korjauksia poistamalla liitteestä jo toteutetut muutokset. Kiinteistöveron osalta ohjelmaan jätettiin skenaario kuvaamaan yhden korotusvaihtoehdon vaikutuksesta kunnan talouteen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": "Liite 1",
+          "title": "Kestävän kuntatalouden ohjelma_2025_10_06 (kv)",
+          "size": "pdf 1.98 mb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252153-3-132015.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": "Liite 2",
+          "title": "Liite 1 Strategisen kehittämisen suunnitelma",
+          "size": "pdf 265.60 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252153-3-124958.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": "Oheismateriaali 1",
+          "title": "Liite 2_Kuntatalous monen muuttujan summa 2025_Kuntaliiton kestävän kasvun ohjelma",
+          "size": "pdf 4.09 mb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252153-3-120899.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": "Oheismateriaali 2",
+          "title": "Oheismateriaali_FCG_Kestävän kasvun kuntavertailu",
+          "size": "pdf 961.54 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252153-3-120898.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Sini Felipe",
+          "kind": "palautusehdotus",
+          "text": null,
+          "source": "order",
+          "party": "sdp"
+        },
+        {
+          "proposer": "Edla Niemi",
+          "kind": "vastaehdotus",
+          "text": null,
+          "source": "order",
+          "party": "vas"
+        }
+      ]
+    },
+    {
+      "id": "20252153-4",
+      "ordinal": "4",
+      "title": "Lisämäärärahaesitys rakennusten purkamisista aiheutuneisiin alaskirjauksiin",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252153-4",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus esittää valtuustolle, että satunnaisiin kuluihin myönnetään 869 268 euron lisämääräraha",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti päätösehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252153-5",
+      "ordinal": "5",
+      "title": "Kirkkonummen kunnan edustajan valinta Länsi-Uudenmaan poliisilaitoksen poliisin neuvottelukuntaan vuosiksi 2025-2029",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252153-5",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto valitsee Tatu Pätiälän (KOK) jäseneksi ja Kristiina Kouroksen (KOK) varajäseneksi Länsi-Uudenmaan poliisilaitoksen neuvottelukuntaan vuosiksi 2025 – 2029",
+        "kasittely": "Urho Blom / kokoomuksen ehdotus: Tatu Pätiälä ehdotetaan jäseneksi ja Kristiina Kouros varajäseneksi",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti päätösehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252153-6",
+      "ordinal": "6",
+      "title": "Vastaus valtuustoaloitteeseen 9⁄2024: Kirkkonummen taisteltava asunnottomuutta vastaan",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252153-6",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "initiative": {
+        "ref": "9/2024",
+        "proposer": "e valmisteltavaksi.   Selostus   Kirkkonummen Vasemmiston valtuustoryhmä / Katja Ylisiurua",
+        "party": "vas",
+        "name": "Katja Ylisiurua"
+      },
+      "sections": {
+        "oheismateriaali": "Otsikko\n1 Valtuustoaloite 9-2024 allekirjoituksineen - Kirkkonummen taisteltava asunnottomuutta vastaan (pdf 1.09 mb) Kokousasian teksti Vastaus valtuustoaloitteeseen 9/2024: Kirkkonummen taisteltava asunnottomuutta vastaan Kunnanvaltuusto 06.10.2025 § 97 763/10.04.00/2024",
+        "paatosehdotus": "Kunnanhallitus antaa selostusosan mukaisen vastauksen valtuustoaloitteeseen 9/2024 \"Kirkkonummen taisteltava asunnottomuutta vastaan \" ja esittää kunnanvaltuustolle, että valtuusto pitää vastausta riittävänä ja aloitetta loppuun käsiteltynä",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti päätösehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": "Oheismateriaali 1",
+          "title": "Valtuustoaloite 9-2024 allekirjoituksineen - Kirkkonummen taisteltava asunnottomuutta vastaan",
+          "size": "pdf 1.09 mb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252153-6-114401.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20252153-7",
+      "ordinal": "7",
+      "title": "Vireillä olevat valtuustoaloitteet",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252153-7",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "initiative": {
+        "ref": null,
+        "proposer": "nnanhallituksen on vuosittain maaliskuun ja lokakuun loppuun mennessä esitettävä valtuusto",
+        "party": null,
+        "name": null
+      },
+      "sections": {
+        "liitteet": "Numero Otsikko 3\n1 Vireillä olevat valtuustoaloitteet, Kh 29.9.2025 (pdf 208.00 kb) Kokousasian teksti Vireillä olevat valtuustoaloitteet Kunnanvaltuusto 06.10.2025 § 98 788/00.01.02/2025",
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto merkitsee liitteenä olevan luettelon vireillä olevista valtuustoaloitteista tiedoksi",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti päätösehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": "Liite 1",
+          "title": "Vireillä olevat valtuustoaloitteet, Kh 29.9.2025",
+          "size": "pdf 208.00 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252153-7-131251.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20252153-8",
+      "ordinal": "8",
+      "title": "Valtuustoaloite 14⁄2025: Turvallisempi ja tarkoituksenmukaisempi iltapäivätoiminta 1.–2.-luokkalaisille",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252153-8",
+      "decision": "Kunnanvaltuusto toimittaa valtuustoaloitteen kunnanhallitukselle valmisteltavaksi",
+      "votes": [],
+      "initiative": {
+        "ref": "14/2025",
+        "proposer": "stoaloitteen kunnanhallitukselle valmisteltavaksi.     Selostus   Josephine Frimodig (RKP)",
+        "party": "rkp",
+        "name": null
+      },
+      "sections": {
+        "liitteet": "Numero Otsikko 4\n1 Valtuustoaloite 14-2025 Turvallisempi ja tarkoituksenmukaisempi iltapäivätoiminta 1.–2.-luokkalaisille, allekirjoituksin (pdf 1.19 mb) Kokousasian teksti Valtuustoaloite 14/2025: Turvallisempi ja tarkoituksenmukaisempi iltapäivätoiminta 1.–2.-luokkalaisille Kunnanvaltuusto 06.10.2025 § 99 819/12.01.03/2025",
+        "paatos": "Kunnanvaltuusto toimittaa valtuustoaloitteen kunnanhallitukselle valmisteltavaksi",
+        "selostus": "Josephine Frimodig (RKP) jätti kunnanvaltuuston kokouksessa seuraavan valtuustoaloitteen: ” Tausta 1.–2.-luokkalaiset lapset viettävät usein jopa neljä tuntia päivässä iltapäivätoiminnassa. Se on merkittävä osa heidän arkeaan ja siten keskeinen osa kunnan vastuuta taata turvallisuus, kehitys ja hyvinvointi. Nykyään ryhmäkoot ovat usein liian suuria suhteessa henkilöstöön. Kirkkonummella on suositus enintään 13–15 lapsesta per yksi aikuinen, mutta koska kyseessä on vain suositus, se voidaan ylittää. Tämä merkitsee riskejä lasten turvallisuudelle, rajoittaa mahdollisuuksia mielekkääseen toimintaan ja voi myös aiheuttaa stressiä henkilökunnalle. Pienet lapset tarvitsevat aikuisten läsnäoloa ja riittävästi tilaa sekä sisällä että ulkona voidakseen liikkua, leikkiä ja kehittyä turvallisella tavalla. Ehdotus Jotta voidaan varmistaa laatu, turvallisuus ja lapsiturvallisuus iltapäivätoiminnassa, ehdotetaan että: ● Iltapäivätoiminnan ryhmäkoko 1.–2.-luokkalaisilla on enintään 15 lasta yhtä vastuullista aikuista kohden. ● Jos ryhmässä on yli 15 lasta, viranhaltijan on palkattava kaksi aikuista. ● Kunta varmistaa, että tilat on sovitettu toiminnan kokoon ja tarpeisiin. Perustelut Kyse on turvallisuudesta. 7–8-vuotiaat lapset tarvitsevat yhä vahvasti turvallista aikuisen läsnäoloa. Selkeällä ryhmäkoon rajauksella ja kaksinkertaisella henkilöstöllä suuremmissa ryhmissä luodaan toiminta, joka edistää turvallisuutta, oppimista ja sosiaalista kehitystä. Yhteenveto – me allekirjoittaneet haluamme, että Kirkkonummen kunta: ● Ottaa käyttöön enintään 15 lapsen rajan vastuullista aikuista kohden iltapäivätoiminnassa 1.–2.-luokkalaisille. ● Jos ryhmässä on yli 15 lasta, paikalla on oltava vähintään kaksi henkilöä. ● Kunta sovittaa toiminnan tilat ja ympäristöt niin, että lasten turvallisuus ja liikkumisen vapaus taataan. Josephine Frimodig, RKP” Josephine Frimodig lisäksi valtuustoaloitteen allekirjoittivat Piia Aallonharja, Anders Adlercreutz, Anna Aintila, Tony Björk, Sofia Björkroth, Jani Ekman, Miika Engström, Minna Enqvist, Sini Felipe, Johanna Fleming, Minna Hakapää, Hans Hedberg, Miisa Jeremejew, Sanni Jäppinen, Noora Kettunen, Maiju Kiukas, Ulf Kjerin, Fredrik Kock, Nadia Korkman, Jani Kähkönen, Jukka Lahti, Viveca Lahti, Lauri Lavanti, Kim Liljequist, Viveca Lindgren, Edla Niemi, Maarit Orko, Noora Piili, Martin Valtonen, Thomas Vasenius, Oona Ylitolonen ja Kim Åström"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": "Liite 1",
+          "title": "Valtuustoaloite 14-2025 Turvallisempi ja tarkoituksenmukaisempi iltapäivätoiminta 1.–2.-luokkalaisille, allekirjoituksin",
+          "size": "pdf 1.19 mb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252153-8-131984.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20252153-9",
+      "ordinal": "9",
+      "title": "Valtuustoaloite 15⁄2025: Valtuustoaloite: Robottipohjaisen siivouksen hyödyntäminen Kirkkonummen kunnan tiloissa",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252153-9",
+      "decision": "Kunnanvaltuusto toimittaa valtuustoaloitteen kunnanhallitukselle valmisteltavaksi",
+      "votes": [],
+      "initiative": {
+        "ref": "15/2025",
+        "proposer": "oitteen kunnanhallitukselle valmisteltavaksi.     Selostus   Pro Kirkkonummi / Lauri Valli",
+        "party": "prok",
+        "name": "Lauri Valli"
+      },
+      "sections": {
+        "liitteet": "Numero Otsikko 5\n1 Valtuustoaloite 15-2025 Robottipohjaisen siivouksen hyödyntäminen Kirkkonummen kunnan tiloissa, allekirjoituksin (pdf 775.91 kb) Kokousasian teksti Valtuustoaloite 15/2025: Valtuustoaloite: Robottipohjaisen siivouksen hyödyntäminen Kirkkonummen kunnan tiloissa Kunnanvaltuusto 06.10.2025 § 100 823/10.03.02.05/2025",
+        "paatos": "Kunnanvaltuusto toimittaa valtuustoaloitteen kunnanhallitukselle valmisteltavaksi",
+        "selostus": "Pro Kirkkonummi / Lauri Valli jätti kunnanvaltuuston kokouksessa 6.10.2025 seuraavan aloitteen: ” Tausta Kirkkonummen kunnalla on noin 100 000 m² siivottavaa sisätilaa 65 rakennuksessa, ja siivouksen vuosikustannukset ovat noin 3,24 miljoonaa euroa, josta lattiapintojen siivoukseen osuus on rajauksesta riippuen arvioilta 30-50%. Työvoiman saatavuus, kustannusten hallinta sekä tilojen terveellisyys ja kestävyys kannustavat uusien ratkaisujen kokeilemiseen ja tutkimiseen. Ehdotus Me allekirjoittaneet valtuutetut esitämme, että kunta kokeilee ja tutkii robottipohjaisen siivouksen hyödyntämistä osana tilojen ylläpitoa. Selvityksen ja mahdollisten pilottien tavoitteet • kustannustehokkuuden arviointi • sisäilman laadun parantaminen • työn ergonomian ja työhyvinvoinnin edistäminen • ympäristövaikutusten, kuten veden ja kemikaalien käytön vähentäminen • Lattiapintojen kunnon ja elinkaaren paraneminen • Kerättyjen tietojen hyödyntäminen tilojen suunnittelun tukena. Perustelut Autonomiset siivousratkaisut voivat parantaa sisäilmaa vähentämällä pölyä ja allergeeneja. Säännöllinen ja oikeanlainen lattianhoito pidentää erityisesti teknisten lattiamateriaalien, kuten liikuntasalien pintojen, käyttöikää ja parantaa lattioiden käytettävyyttä sekä turvallisuutta. Lisäksi robotiikka voi tukea henkilöstöä poistamalla raskaita, hitaita ja toistuvia työvaiheita, mikä edistää työhyvinvointia. Kansainväliset ja kotimaiset kokemukset viittaavat myös merkittäviin taloudellisiin hyötyihin, kun robottisiivouksen avulla voidaan säästää työaikaa sekä vähentää veden ja kemikaalien kulutusta. Joissakin toteutuksissa on raportoitu jopa 10–30 % kustannussäästöjä siivouksen kokonaiskuluissa. Lauri Valli ProK Valtuustoryhmä” Lauri Vallin lisäksi valtuustoaloitteen allekirjoittivat Antti Kilappa, Minna Hakapää, Sami Ragnell, Suvi Tapio, Matti Kaurila, Kim Åström, Jani Ekman, Sofia Björkroth, Timo Haapaniemi, Heidi Castrén, Maiju Kiukas, Kim Liljequist, Jani Kähkönen, Piia Aallonharja, Viveca Lindgren, Miika Engström, Henri Taussi, Urho Blom, Martin Valtonen ja Noora Piili"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": "Liite 1",
+          "title": "Valtuustoaloite 15-2025 Robottipohjaisen siivouksen hyödyntäminen Kirkkonummen kunnan tiloissa, allekirjoituksin",
+          "size": "pdf 775.91 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252153-9-131985.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20252153-10",
+      "ordinal": "10",
+      "title": "Valtuustoaloite 16⁄2025: Suojatien turvallisuuden parantaminen Veikkolan Vartiontien parkkialueella",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252153-10",
+      "decision": "Kunnanvaltuusto toimittaa valtuustoaloitteen kunnanhallitukselle valmisteltavaksi",
+      "votes": [],
+      "initiative": {
+        "ref": "16/2025",
+        "proposer": "kunnanhallitukselle valmisteltavaksi.     Selostus   Kristillisdemokraatit / Maiju Kiukas",
+        "party": "kd",
+        "name": "Maiju Kiukas"
+      },
+      "sections": {
+        "liitteet": "Numero Otsikko 6\n1 Valtuustoaloite 16-2025 Suojatien turvallisuuden parantaminen Veikkolan Vartiontien parkkialueella, allekirjoituksin (pdf 1.15 mb) Kokousasian teksti Valtuustoaloite 16/2025: Suojatien turvallisuuden parantaminen Veikkolan Vartiontien parkkialueella Kunnanvaltuusto 06.10.2025 § 101 824/08.00.01/2025",
+        "paatos": "Kunnanvaltuusto toimittaa valtuustoaloitteen kunnanhallitukselle valmisteltavaksi",
+        "selostus": "Kristillisdemokraatit / Maiju Kiukas jätti kunnanvaltuuston kokouksessa 6.10.2025 seuraavan aloitteen: ”Olemme todistaneet viime viikolla tapahtunutta liikenneonnettomuutta, jossa menehtyi kouluikäinen pyöräilijä. Näitä heitteille jätettyjä risteyksiä on luvaton määrä ja niihin usein puututaan vasta kun jotain peruuttamatonta lopulta tapahtuu. Näin myös Mynämäellä toimitaan. Risteys korjataan tämän onnettomuuden seurauksena. Suojatien turvallisuuden parantaminen Veikkolan Vartiontien parkkialueella Veikkolan Vartiontien parkkipaikan läpi kulkee suojatie. Kyseinen ratkaisu on kuitenkin toteutettu puutteellisesti, mikä aiheuttaa vakavan liikenneturvallisuusriskin erityisesti koululaisille ja muille jalankulkijoille. Suojatien maalaus puuttuu. Suojatie on merkitty ainoastaan liikennemerkein. Maalaus tiehen puuttuu kokonaan, jolloin sen havaitseminen jää helposti huomiotta sekä autoilijoilta että jalankulkijoilta. Tämä heikentää merkittävästi suojatien näkyvyyttä ja käytettävyyttä. Suojatie ei kulje suorassa linjassa. Tällä hetkellä suojatie tekee mutkan sen sijaan, että se kulkisi suoraan. Tämä poikkeama totutusta ratkaisusta hämmentää sekä jalankulkijoita että autoilijoita, ja lisää vaaratilanteiden riskiä. Runsas saattoliikenne lisää riskejä. Kyseinen kohta sijaitsee parkkialueella, jossa on runsaasti koululaisten saattoliikennettä. Autojen, koululaisten ja kiireisten vanhempien yhtäaikainen liike lisää entisestään epäselvän suojatien riskejä. Ehdotan seuraavia toimenpiteitä: • Suojatien maalaaminen tiehen viipymättä, jotta se on selkeästi havaittavissa kaikille tienkäyttäjille. • Suojatien linjauksen korjaaminen suoraksi, jotta se vastaa liikenneturvallisuusohjeita ja käyttäjien odotuksia. • Selkeä ohjaus saattoliikenteelle. • Kokonaisvaltainen liikennejärjestelyn tarkastelu alueella, jotta koululaisten ja muiden jalankulkijoiden turvallisuus voidaan varmistaa erityisesti saattoliikenteen vilkkaimpina aikoina. Ehdotetut toimenpiteet ovat kustannuksiltaan ja aikataulultaan helppo toteuttaa. Näin voidaan tehokkaasti parantaa liikenneturvallisuutta Veikkolassa. Maiju Kiukas, Kristillisdemokraatit” Valtuustoaloitteen allekirjoittivat Maiju Kiukaan lisäksi Piia Aallonharja, Anders Adlercreutz, Anna Aintila, Sofia Björkroth, Urho Blom, Heidi Castrén, Jani Ekman, Miika Engström, Minna Enqvist, Sini Felipe, Johanna Fleming, Marjut Frantsi-Lankia, Josephine Frimodig, Anneli Granström, Timo Haapaniemi, Minna Hakapää, Miisa Jeremejew, Ronja Karkinen, Matti Kaurila, Noora Kettunen, Maiju Kiukas, Fredrik Kock, Nadia Korkman, Jani Kähkönen, Jukka Lahti, Viveca Lahti, Eero Lankia, Lauri Lavanti, Kim Liljequist, Viveca Lindgren, Edla Niemi, Maarit Orko, Sami Ragnell, Tuovi Ronkainen, Tero Suominen, Suvi Tapio, Henri Taussi, Lauri Valli, Martin Valtonen, Thomas Vasenius, Oona Ylitolonen ja Kim Åström"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": "Liite 1",
+          "title": "Valtuustoaloite 16-2025 Suojatien turvallisuuden parantaminen Veikkolan Vartiontien parkkialueella, allekirjoituksin",
+          "size": "pdf 1.15 mb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252153-10-131986.PDF"
+        }
+      ],
+      "proposals": []
+    }
+  ],
+  "id": "20252153",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20252153"
+}

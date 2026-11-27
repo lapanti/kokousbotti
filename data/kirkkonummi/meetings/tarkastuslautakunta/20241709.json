@@ -1,0 +1,74 @@
+{
+  "title": "Tarkastuslautakunta Pöytäkirja 26.03.2024 klo 17:30 - 19:24 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Tarkastuslautakunta",
+  "doctype": "Pöytäkirja",
+  "date": "2024-03-26",
+  "items": [
+    {
+      "id": "20241709-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241709-1",
+      "decision": "Tarkastuslautakunta totesi kokouksen lailliseksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Tarkastuslautakunta toteaa kokouksen lailliseksi ja päätösvaltaiseksi",
+        "paatos": "Tarkastuslautakunta totesi kokouksen lailliseksi ja päätösvaltaiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241709-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan laatiminen ja tarkastaminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241709-2",
+      "decision": "Pöytäkirjantarkastajiksi valittiin Teppo Suontakanen ja Matti Tanskanen",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Tarkastuslautakunta valitsee kaksi pöytäkirjantarkastajaa",
+        "paatos": "Pöytäkirjantarkastajiksi valittiin Teppo Suontakanen ja Matti Tanskanen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241709-3",
+      "ordinal": "3",
+      "title": "Tilinpäätös 2023",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241709-3",
+      "decision": "Kunnanjohtajan ja talousjohtajan antama selvitys ja asiasta käyty keskustelu merkittiin tiedoksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanjohtajan ja talousjohtajan antama selvitys ja asiasta käyty keskustelu merkitään tiedoksi",
+        "paatos": "Kunnanjohtajan ja talousjohtajan antama selvitys ja asiasta käyty keskustelu merkittiin tiedoksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241709-4",
+      "ordinal": "4",
+      "title": "Arviointikertomus 2023",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241709-4",
+      "decision": "Tarkastuslautakunta valmisteli arviointikertomusta vuodelta 2023. Valmistelua jatketaan seuraavassa kokouksessa",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Tarkastuslautakunta valmistelee arviointikertomusta vuodelta 2023",
+        "paatos": "Tarkastuslautakunta valmisteli arviointikertomusta vuodelta 2023. Valmistelua jatketaan seuraavassa kokouksessa"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    }
+  ],
+  "id": "20241709",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20241709"
+}

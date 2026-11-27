@@ -1,0 +1,441 @@
+{
+  "title": "Kuntakehityksen lautakunta Pöytäkirja 23.10.2025 klo 17:00 - 19:35 ⁄ Tarkastettu Elektroninen teams-kokous | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Kuntakehityksen lautakunta",
+  "doctype": "Pöytäkirja",
+  "date": "2025-10-23",
+  "items": [
+    {
+      "id": "20252172-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252172-1",
+      "decision": "Puheenjohtaja totesi kokouksen laillisesti koolle kutsutuksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Puheenjohtaja totesi kokouksen laillisesti koolle kutsutuksi ja päätösvaltaiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252172-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajan valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252172-2",
+      "decision": "Kuntakehityksen lautakunta päätti päätösehdotuksen mukaisesti. Pöytäkirjantarkistajaksi valittiin Jessica Dannbäck",
+      "votes": [],
+      "sections": {
+        "valmistelija": "hallinnon asiantuntija Suvi Wikström, etunimi.sukunimi@kirkkonummi.fi",
+        "paatosehdotus": "Kuntakehityksen lautakunta päättää 1 valita yhden pöytäkirjantarkastajan tarkastamaan tämän kokouksen pöytäkirjan 2 tarkastaa tämän pöytäkirjan sähköisesti seuraavan aikataulun mukaan: Pöytäkirja tarkastetaan tiistaina 28.10.2025. Jos hyväksymisviestiä ei tule sihteerille em. ajankohtaan mennessä, pöytäkirja katsotaan hyväksytyksi. Pöytäkirja allekirjoitetaan sähköisesti. Tarkastettu pöytäkirja julkaistaan keskiviikkona 29.10.2025 kunnan verkkosivulla",
+        "paatos": "Kuntakehityksen lautakunta päätti päätösehdotuksen mukaisesti. Pöytäkirjantarkistajaksi valittiin Jessica Dannbäck"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252172-3",
+      "ordinal": "3",
+      "title": "Rajanotkontien asemakaava (hanke 11101), asemakaavan hyväksyminen AKL 52 §:n mukaisesti",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252172-3",
+      "decision": "Kuntakehityksen lautakunta päätti esittää kunnanhallitukselle, että kunnanhallitus 1 hyväksyy Rajanotkontien asemakaavaehdotuksesta saatuun palautteeseen laaditut perustellut kannanotot (ns. kaavoittajan vastineet) tämän asian liitteen mukaisesti, 2 hyväksyy Rajanotkontien asemakaavan (piir. 3528) ja siihen liittyvät asiakirjat AKL 52 §:n mukaisesti sekä esittää ne edelleen kunnanvaltuuston hyväksyttäväksi, 3 tiedostaa, että ennen Rajanotkontien asemakaavan hyväksymistä kunnanvaltuustossa tulee kaavaan liittyvän maankäyttösopimuksen olla allekirjoitettu ja hyväksytty kunnanhallituksessa. 4 päättää, että autopaikkojen vähimmäismäärää muutetaan AK-korttelialueen osalta siten, että vaatimus on 1 ap / 135 k-m2 ja vähintään 0,5 ap/asunto. Esitetty autopaikkamäärä on edelleen pienempi kuin alueen Kuntatekniikan lautakunnan päättämät pysäköintimääräykset/-suositukset ovat. Päätöksen mukainen pysäköintipaikkojen muutos tehdään asemakaavakarttaan ja asemakaavan selostukseen ennen kunnanhallituksen käsittelyä. Muutosehdotuksessa on huomioitu Kirkkonummen vanhusneuvoston ja Länsi-Uudenmaan poliisilaitoksen lausunnot. sekä evästää seuraavasti: Lautakunta evästää, että ambulansseille ja inva-takseille tulee olla riittävät toiminta-alueet ja niiden tulee päästä riittävän lähelle pääovia ja sisäänkäyntejä. Lautakunta evästää myös, että tuleva kerrostalo tulee ensisijaisesti määrittää ikä-ihmisten asunnoiksi",
+      "votes": [
+        {
+          "jaa": [
+            "Lahti Jukka",
+            "Pekkarniemi Pinja",
+            "Ronkainen Tuovi"
+          ],
+          "ei": [
+            "Castrén Heidi",
+            "Ragnell Sami",
+            "Granström Anneli",
+            "Kaurila Matti",
+            "Polkko Aleksander",
+            "Vasenius Thomas",
+            "Somervuori Mervi",
+            "Dannbäck Jessica"
+          ],
+          "tyhja": [],
+          "named_by": "surname",
+          "totals": {
+            "jaa": 3,
+            "ei": 8,
+            "tyhja": 0
+          },
+          "as_written": {
+            "jaa": [
+              "Lahti",
+              "Pekkarniemi",
+              "Ronkainen"
+            ],
+            "ei": [
+              "Castrén",
+              "Ragnell",
+              "Granström",
+              "Kaurila",
+              "Polkko",
+              "Vasenius",
+              "Somervuori",
+              "Dannbäck"
+            ],
+            "tyhja": []
+          },
+          "names_from": "osallistujat",
+          "unresolved": [],
+          "parties": {
+            "jaa": {
+              "sdp": 2,
+              "vihr": 1
+            },
+            "ei": {
+              "kok": 3,
+              "ps": 1,
+              "prok": 1,
+              "rkp": 2,
+              "vihr": 1
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta",
+            "ei_label": "puheenjohtajan muutosehdotusta",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": "ei",
+            "source": "parsed",
+            "evidence": "Ne, jotka kannattavat pohjaehdotusta äänestävät JAA ja ne, jotka kannattavat puheenjohtajan muutosehdotusta, äänestävät EI — Äänet jakautuivat seuraavasti: 3 JAA- ääntä (Lahti, Pekkarniemi, Ronkainen) 8 EI-ääntä (Castrén, Ragnell, Granström, Kaurila, Polkko, Vasenius, Somervuori, Dannbäck)"
+          }
+        }
+      ],
+      "sections": {
+        "liitteet": "Numero Otsikko 1\n1\n1_ Rajanotkontien_kaavakartta_kaavamääräyksineen_3528 (pdf 158.31 kb) 2\n2\n2_Rajanotkontien asemakaavan selostus (pdf 3.94 mb) 3\n3 Selostuksen liitteet 1-5 (pdf 16.80 mb) 4\n4\n3_Rajannotkontien_Kaavoittajan_vastineet (pdf 597.64 kb) 5\n5 Beskrivningens Bilagor 1-5 (pdf 16.86 mb) 6\n6 Bilaga1_ Plankarta med bestämmelser_ Rådalsvägen_3528 (pdf 158.31 kb) 7\n7 Bilaga2_Planbeskrivning_av_deltaljplanen_för_Rådalsvägen (pdf 3.94 mb) 8\n8 Bilaga3_ Rådalsvägen_Planläggarens_bemötanden (pdf 441.43 kb) Kokousasian teksti Rajanotkontien asemakaava (hanke 11101), asemakaavan hyväksyminen AKL 52 §:n mukaisesti Kuntakehityksen lautakunta 23.10.2025 § 59 201/10.02.03/2023",
+        "valmistelija": "kaavoitusarkkitehti Leena Kankaanpää etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kuntakehitysjohtaja Kauppinen Anna-Kaisa sijainen infrapalvelujohtaja Toni Keski-Lusa Kuntakehityksen lautakunta päättää esittää kunnanhallitukselle, että kunnanhallitus 1 hyväksyy Rajanotkontien asemakaavaehdotuksesta saatuun palautteeseen laaditut perustellut kannanotot (ns. kaavoittajan vastineet) tämän asian liitteen mukaisesti, 2 hyväksyy Rajanotkontien asemakaavan (piir. 3528) ja siihen liittyvät asiakirjat AKL 52 §:n mukaisesti sekä esittää ne edelleen kunnanvaltuuston hyväksyttäväksi, 3 tiedostaa, että ennen Rajanotkontien asemakaavan hyväksymistä kunnanvaltuustossa tulee kaavaan liittyvän maankäyttösopimuksen olla allekirjoitettu ja hyväksytty kunnanhallituksessa",
+        "kasittely": "Käsittelyn aikana puheenjohtaja Matti Kaurila teki seuraavan muutosehdotuksen: ” Lautakunta päättää muuttaa autopaikkojen vähimmäismäärää AK-korttelialueen osalta siten, että vaatimus on 1 ap / 135 k-m2 ja vähintään 0,5 ap/asunto. Esitetty autopaikkamäärä on edelleen pienempi kuin alueen Kuntatekniikan lautakunnan päättämät pysäköintimääräykset/-suositukset ovat. Päätöksen mukainen pysäköintipaikkojen muutos tehdään asemakaavakarttaan ja asemakaavan selostukseen ennen kunnanhallituksen käsittelyä. Muutosehdotuksessa on huomioitu Kirkkonummen vanhusneuvoston ja Länsi-Uudenmaan poliisilaitoksen lausunnot.” Aleksander Polkko, Sami Ragnell, Jessica Dannbäck, Thomas Vasenius, Anneli Granström, Heidi Castrén ja Jukka Lahti kannattivat ehdotusta. Puheenjohtaja totesi, että ehdotusta ei kannateta yksimielisesti, joten asiasta tulee äänestää. Puheenjohtaja käynnisti äänestyksen. Ne, jotka kannattavat pohjaehdotusta äänestävät JAA ja ne, jotka kannattavat puheenjohtajan muutosehdotusta, äänestävät EI. Puheenjohtaja päätti äänestyksen. Äänet jakautuivat seuraavasti: 3 JAA- ääntä (Lahti, Pekkarniemi, Ronkainen) 8 EI-ääntä (Castrén, Ragnell, Granström, Kaurila, Polkko, Vasenius, Somervuori, Dannbäck), jolloin puheenjohtajan muutosehdotus voitti. Heidi Castrén teki seuraavan evästyssehdotuksen: ”Lautakunta evästää, että ambulansseille ja inva-takseille tulee olla riittävät toiminta-alueet ja niiden tulee päästä riittävän lähelle pääovia ja sisäänkäyntejä. Lautakunta evästää myös, että tuleva kerrostalo tulee ensisijaisesti määrittää ikä-ihmisten asunnoiksi.” Matti Kaurila, Jessica Dannbäck, Thomas Vasenius, Anneli Granström, Pinja Pekkarniemi, Tuovi Ronkainen,Aleksander Polkko,Sami Ragnell, Mervi Somervuori ja Jukka Lahti kannattivat ehdotusta. Ehdotusta kannatettiin yksimielisesti",
+        "paatos": "Kuntakehityksen lautakunta päätti esittää kunnanhallitukselle, että kunnanhallitus 1 hyväksyy Rajanotkontien asemakaavaehdotuksesta saatuun palautteeseen laaditut perustellut kannanotot (ns. kaavoittajan vastineet) tämän asian liitteen mukaisesti, 2 hyväksyy Rajanotkontien asemakaavan (piir. 3528) ja siihen liittyvät asiakirjat AKL 52 §:n mukaisesti sekä esittää ne edelleen kunnanvaltuuston hyväksyttäväksi, 3 tiedostaa, että ennen Rajanotkontien asemakaavan hyväksymistä kunnanvaltuustossa tulee kaavaan liittyvän maankäyttösopimuksen olla allekirjoitettu ja hyväksytty kunnanhallituksessa. 4 päättää, että autopaikkojen vähimmäismäärää muutetaan AK-korttelialueen osalta siten, että vaatimus on 1 ap / 135 k-m2 ja vähintään 0,5 ap/asunto. Esitetty autopaikkamäärä on edelleen pienempi kuin alueen Kuntatekniikan lautakunnan päättämät pysäköintimääräykset/-suositukset ovat. Päätöksen mukainen pysäköintipaikkojen muutos tehdään asemakaavakarttaan ja asemakaavan selostukseen ennen kunnanhallituksen käsittelyä. Muutosehdotuksessa on huomioitu Kirkkonummen vanhusneuvoston ja Länsi-Uudenmaan poliisilaitoksen lausunnot. sekä evästää seuraavasti: Lautakunta evästää, että ambulansseille ja inva-takseille tulee olla riittävät toiminta-alueet ja niiden tulee päästä riittävän lähelle pääovia ja sisäänkäyntejä. Lautakunta evästää myös, että tuleva kerrostalo tulee ensisijaisesti määrittää ikä-ihmisten asunnoiksi",
+        "selostus": "Taustaa Rajanotkontien asemakaava sisältyy Kirkkonummen kunnanvaltuuston hyväksymään kaavoitusohjelmaan 2025-2028. Kaavahanke kuulutettiin vireille 26.5.2023. Kaavaehdotus Kunnanhallitus päätti kokouksessaan 6.12.2024 (§ 411) asettaa Rajanotkontien asemakaavaehdotuksen (piir. 3510) nähtäville MRL 65 §:n ja MRA 27 §:n mukaisesti. Ehdotus oli julkisesti nähtävillä 20.1.-21.2.2025, ja siitä saatiin yhteensä 10 viranomaislausuntoa. Saadun palautteen mukaisesti kaavakartalle tehtiin vähäisiä muutoksia ja korjauksia. Lausuntoihin laaditut ns. kaavoittajan perustellut vastineet ovat osa kaava-aineistoa. Kaavan tavoitteet Suunnittelu koskee ikäihmisten palvelutalokorttelia. Maankäyttötavoitteena on vahvistaa kuntakeskuksen ja liikealueen kehittymistä ja parantaa ikäihmisten monipuolisia asumismahdollisuuksia lähellä palveluita. Tarkoituksena on luoda turvallinen ja viihtyisä korttelikokonaisuus palvelemaan eri ikääntymisvaiheessa olevien vanhusten asumisen tarpeita. Ensisijaisena tavoitteena on mahdollistaa alueella olevan vanhusten palvelutalon laajentuminen sekä vanhusten ns. välimuotoisen asumisratkaisujen sijoittuminen alueelle uuteen kerrostaloon. Erityistä huomiota suunnittelussa kiinnitetään korttelin sisäisiin piha-alueisiin. Niiden viihtyisyys ja soveltuvuus vanhusten ja muistisairaiden tarpeisiin ovat tärkeä osa korttelin asumisviihtyvyyttä ja yhteisöllisyyttä. Hyväksymiskäsittelyyn valmisteltu asemakaava Asemakaavaehdotuksesta (piir.3528) saadun palautteen pohjalta on kaavakartalle tehty vain pieniä korjauksia. Kaavakarttaan on lisätty korttelin eteläiseen osaa jalankululle- ja pyöräilylle osoitetulle katualueelle puilla ja pensailla istutettava katualueen osa, jonka tarkoituksena on laajentaa puistomaista piha-aluetta jatkaen vihreyttä aina korttelin sisäosiin saakka. Kaavaselostusta on täydennetty kaavan ilmastovaikutuksien osalta. Kaavaratkaisu tiivistää yhdyskuntarakennetta keskeisellä paikalla ja kaavaratkaisussa on löydetty hyviä keinoja ilmastokestävyyden edistämiseen. Siitä huolimatta kaava aiheuttaa kuitenkin väistämättä myös haitallisia ilmastovaikutuksia. Haitalliset ilmastovaikutukset liittyvät lähinnä purkamiseen ja uuden rakentamiseen. Koko korttelialueen suunnittelun lähtökohtana on ollut alueen toimintojen tehostaminen ja korttelin eri osien tukeutuminen toisiinsa. Kaavassa on katsottu, että uudisrakentaminen on välttämätöntä alueen kehittymisen ja toimintojen tehostamisen näkökulmasta. Maankäyttösopimukset Ennen asemakaavan hyväksymistä kunnanvaltuustossa on kunnan ja tarvittavien maanomistajatahojen kesken oltava lainvoimainen maankäyttösopimus. Asiakirjat - Kaavakartta kaavamääräyksineen (piir. 3528) - Kaavaselostus liitteineen - Kaavoittajan perustellut kannanotot (ns. kaavoittajan vastineet) asemakaavaehdotuksesta saatuihin lausuntoihin"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": "Liite 1",
+          "title": "Liite1_ Rajanotkontien_kaavakartta_kaavamääräyksineen_3528",
+          "size": "pdf 158.31 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252172-3-132169.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": "Liite 2",
+          "title": "Liite2_Rajanotkontien asemakaavan selostus",
+          "size": "pdf 3.94 mb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252172-3-132170.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": "Liite 3",
+          "title": "Selostuksen liitteet 1-5",
+          "size": "pdf 16.80 mb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252172-3-132171.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": "Liite 4",
+          "title": "Liite3_Rajannotkontien_Kaavoittajan_vastineet",
+          "size": "pdf 597.64 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252172-3-132172.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": "Liite 5",
+          "title": "Beskrivningens Bilagor 1-5",
+          "size": "pdf 16.86 mb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252172-3-132326.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": "Liite 6",
+          "title": "Bilaga1_ Plankarta med bestämmelser_ Rådalsvägen_3528",
+          "size": "pdf 158.31 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252172-3-132327.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": "Liite 7",
+          "title": "Bilaga2_Planbeskrivning_av_deltaljplanen_för_Rådalsvägen",
+          "size": "pdf 3.94 mb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252172-3-132328.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": "Liite 8",
+          "title": "Bilaga3_ Rådalsvägen_Planläggarens_bemötanden",
+          "size": "pdf 441.43 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252172-3-132329.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Matti Kaurila",
+          "kind": "vastaehdotus",
+          "text": "” Lautakunta päättää muuttaa autopaikkojen vähimmäismäärää AK-korttelialueen osalta siten, että vaatimus on 1 ap / 135 k-m2 ja vähintään 0,5 ap/asunto. Esitetty autopaikkamäärä on edelleen pienempi kuin alueen Kuntatekniikan lautakunnan päättämät pysäköintimääräykset/-suositukset ovat. Päätöksen mukainen pysäköintipaikkojen muutos tehdään asemakaavakarttaan ja asemakaavan selostukseen ennen kunnanhallituksen käsittelyä. Muutosehdotuksessa on huomioitu Kirkkonummen vanhusneuvoston ja Länsi-Uudenmaan poliisilaitoksen lausunnot.” Aleksander Polkko, Sami Ragnell, Jessica Dannbäck, Thomas Vasenius, Anneli Granström, Heidi Castrén ja Jukka Lahti kannattivat ehdotusta",
+          "source": "introduction",
+          "party": "kok"
+        },
+        {
+          "proposer": "Heidi Castrén",
+          "kind": "evastysehdotus",
+          "text": "”Lautakunta evästää, että ambulansseille ja inva-takseille tulee olla riittävät toiminta-alueet ja niiden tulee päästä riittävän lähelle pääovia ja sisäänkäyntejä. Lautakunta evästää myös, että tuleva kerrostalo tulee ensisijaisesti määrittää ikä-ihmisten asunnoiksi.” Matti Kaurila, Jessica Dannbäck, Thomas Vasenius, Anneli Granström, Pinja Pekkarniemi, Tuovi Ronkainen,Aleksander Polkko,Sami Ragnell, Mervi Somervuori ja Jukka Lahti kannattivat ehdotusta. Ehdotusta kannatettiin yksimielisesti",
+          "source": "introduction",
+          "party": "kok"
+        }
+      ]
+    },
+    {
+      "id": "20252172-4",
+      "ordinal": "4",
+      "title": "Lausunto Uudenmaan ELY-keskuksen tienpidon ja liikenteen suunnitelmasta vuosille 2026-2029",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252172-4",
+      "decision": "Kuntakehityksen lautakunta päätti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Numero Otsikko 9\n1 Kirkkonummen kunnan lausunto_ELY TLS 2026-2029_KH_27102025 (pdf 634.29 kb) 10\n2 Sve_Uudenmaan ELY-keskuksen tienpidon ja liikenteen suunnitelma 2026–2029 (pdf 44.44 mb)\nKirkkonummen kunnan lausunto Uudenmaan ELY-keskuksen tienpidon ja liikenteen suunnitelmasta vuosille 2026–2029. Oheismateriaalit: - Uudenmaan ELY-keskuksen tienpidon ja liikenteen suunnitelma 2026–2029 - Kartta_UUDELY_hankkeet_2025 - Kartta_UUDELY_kiireellisimmät_hanketarpeet_2026–2029 - Kartta_UUDELY_Väylä_invohj_maantiehankeet_2025-2032",
+        "oheismateriaali": "Otsikko\n1 Uudenmaan ELY-keskuksen tienpidon ja liikenteen suunnitelma 2026–2029 (pdf 42.00 mb)\n2 Kartta_UUDELY_hankkeet_2025 (pdf 3.49 mb)\n3 Kartta_UUDELY_kiireellisimmät_hanketarpeet_2026–2029 (pdf 3.51 mb)\n4 Kartta_UUDELY_Väylä_invohj_maantiehankeet_2025-2032 (pdf 2.28 mb)\n5 Sve_Kartta_UUDELY_hankkeet_2025 (pdf 3.54 mb)\n6 Sve_Kartta_UUDELY_kiireellisimmät_hanketarpeet_2026–2029 (pdf 3.55 mb)\n7 Sve_Kartta_UUDELY_Väylä_invohj_maantiehankeet_2025-2032 (pdf 2.30 mb) Kokousasian teksti Lausunto Uudenmaan ELY-keskuksen tienpidon ja liikenteen suunnitelmasta vuosille 2026-2029 Kuntakehityksen lautakunta 23.10.2025 § 60 1068/08.00.00/2019",
+        "valmistelija": "Liikennesuunnittelija Marko Suni etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kuntakehitysjohtaja Kauppinen Anna-Kaisa sijainen infrapalvelujohtaja Toni Keski-Lusa Kuntakehityksen lautakunta päättää 1 esittää kunnanhallitukselle, että Kirkkonummen kunta antaa liitteenä olevan lausunnon Uudenmaan ELY-keskuksen tienpidon ja liikenteen suunnitelmasta vuosille 2026-2029 2 tarkastaa tämän pykälän kokouksessa",
+        "paatos": "Kuntakehityksen lautakunta päätti päätösehdotuksen mukaisesti",
+        "selostus": "Lausuntopyyntö Uudenmaan elinkeino-, liikenne- ja ympäristökeskus lähettää kuntien käyttöön ja mahdollista lausuntoa varten tienpidon ja liikenteen suunnitelman (TLS) vuosille 2026–2029. Lausunnot ja kommentit suunnitelmasta pyydetään lähettämään 31.10.2025 mennessä. Suunnitelma päivitetään vuosittain ja julkaistaan ainoastaan digitaalisessa muodossa suomen- ja ruotsinkielillä internet-osoitteessa: www.tienpidonsuunnitelma.fi Uudenmaan ELY-keskuksen tienpidon ja liikenteen suunnitelma kattaa Uudenmaan, Kanta-Hämeen ja Päijät-Hämeen maakunnat. Suunnitelmassa kuvataan alueen tienpidon, talouden ja toiminnan reunaehdot sekä painopisteet ja siinä on esitetty toimenpiteet, jotka todennäköinen tuleva perustienpidon rahoitus mahdollistaa toimialueella. ELY-keskuksen suunnitelmassa hanketarpeina ei esitetä suurempia useiden miljoonien kehittämishankkeita, joiden toteutus vaatii eduskunnan myöntämää erillisrahoitusta. Suunnitelman liiteaineistona näkyy kuitenkin Väyläverkon investointiohjelman 2025-2032 maantiehankkeet, mistä kunta on aiemmin antanut myös lausuntonsa. Uudenmaan ELY-keskuksen tienpito perustuu valtion talousarvion perusväylänpidon määrärahaan, jolla hoidetaan valtion omistaman maantieverkon tienpito lukuun ottamatta isoja kehittämisinvestointeja, joista vastaa Väylävirasto. Valtion budjetissa myönnetyt tienpidon ja tieverkon kehittämisen määrärahat eivät ole riiittävät erityisesti pitkäjänteiseen tieverkon palvelutason kehittämiseen. Nykyisellä määrärahojen tasolla korjausvelkaa ei saada merkittävästi pienennettyä, mutta se voidaan pitää pitkälti nykytasolla. Tienpidon lisäksi Uudenmaan ELY-keskukselle on osoitettu määräraha myös joukkoliikennepalveluihin. ELY-keskusten toimintaa jatkavat vuodesta 2026 eteenpäin uudet elinvoimakeskukset. Tässä yhteydessä Kanta-Hämeen liikennetehtävät siirtyvät Sisä-Suomen elinvoimakeskuksen vastuulle ja Päijät-Hämeen vastaavasti Kaakkois-Suomen elinvoimakeskukselle. Uudenmaan elinvoimakeskus vastaa jatkossa Uudenmaan maakunnan liikenteen ja tienpidon tehtävistä. Joukkoliikenteen järjestämistehtävät siirtyvät samassa yhteydessä ELY-keskuksista Traficomin hoidettavaksi. Uudenmaan ELY-keskuksen tienpidon ja liikenteen rahoitus ja toimintaympäristö Uudenmaan ELY-keskuksen perustienpidon (ylläpito ja korjaus) rahoitus vuodelle 2025 kesäkuun tilanteessa on noin 129,1 miljoonaa euroa, jonka lisäksi Uudenmaan ELY-keskus on saanut 31,4 miljoonaa euroa päällystämiseen käytettävää korjausvelkarahaa tänäkin vuonna. Euromääräisesti kokonaisrahoituksen taso on lähellä viime vuoden tasoa, mutta viime vuosikymmenellä taso oli alle 100 miljoonan euron. Perustienpidon rahoitus nousi vuosikymmen alussa, jolloin myös Kirkkonummella on voitu päällystää useita heikkokuntoisia tieosuuksia. Rahoituksen taso on toki vaihdellut vuosittain, mikä on tuonut hieman epävarmuutta perustienpitoon. Maanteiden päivittäinen hoito on merkittävin kunnossapidon erä vuositasolla. Päällystäminen on korjaamisessa suurin kuluerä, ja päällystysurakoiden hintataso on hieman laskenut edellisestä vuodesta. Päällystystöitä on kohdistettu enemmän alemmalle tieverkolle, joilla korjausmenetelmät ovat kilometrihinnaltaan kalliimpia, koska päällystämisen lisäksi joudutaan monin paikoin myös tien rakenteita vahvistamaan. Uudellamaalla vuosittainen tarve teiden uudelleenpäällystämiseksi on noin 700 kilometriä, johon tänä vuonna päästään lähelle runsaalla 600 päällystyskilometrillä. Uudenmaan alueen tieverkon pituus on noin 12 % koko maan tiestöstä, mutta siellä syntyy kolmannes koko maan liikennesuoritteesta. Myös raskaan liikenteen osuus on alueella poikkeuksellisen suuri, noin neljäsosa koko maan kuljetussuoritteesta. Muuta maata suuremmista liikennemääristä johtuen alueen tiestö kuluu keskimääräistä nopeammin. Liikenneverkon kehittämisinvestoinnit liittyvät liikenteen palvelutason nostoon, kuten matkojen ja kuljetusten turvallisuuden ja sujuvuuden lisäämiseen. Näitä on niukalti hankelistoilla valtion rahoitustilanteen vuoksi. Vuosien 2026-2029 suunnitelmatilanne ELY-keskuksen ja Kirkkonummen kunnan yhteishankkeena rakentama jalankulku- ja pyörätie Turuntielle (st 110) Veikkolasta Kolmirantaan valmistui kesällä 2025. Hanke kuului edellisen MAL-sopimuskauden pieniin hankkeisiin. Tienpidon ja liikenteen suunnitelman kartoilla on esitetty tärkeimmät hankkeet. ELY-keskuksen vuosien 2026-2029 kartassa näkyy suunnitelmakauden kiireellisimmät hanketarpeet, joita on niukalti Uudenmaan ELY-keskuksen alueella. Kirkkonummelle osittain sijoittuvia hankkeita ovat Turuntien (mt 110) jalankulku- ja pyörätiet Espoosta Brobackantieltä Kolmirantaan ja Vihdistä Veikkolaan vt 2 – Kyntäjäntie osuudet. Molemmissa hankkeissa Kirkkonumen kunnan puolelle sijoittuu noin 400-500 metrin osuudet. Lisäksi Kelan eritasoliittymän parannus Siuntion puolella liittyy myös Kirkkonummen kunnan (Prysmian) alueeseen. Väyläviraston investointiohjelma vuosille 2025-2032 sisältää Kirkkonummen alueella uutena hallituksen puoliväliriihessä viime keväänä lisäämän Vuohimäenportin eritasoliittymän. Kunta pyrkii osaltaan aktiivisesti edistämään tärkeimpiä hankkeita, joita myös joudutaan priorisoimaan nykyisessä tilanteessa. Toisin sanoen monet hankkeet siirtyvät tulevaisuuteen tai voi jäädä jopa kokonaan ilman valtion rahoitusta tulevina vuosina. Erityisesti kuntien omaa rahoitusta painotetaan etenkin maankäyttöhankkeissa. Tähänkin kehityskulkuun tulee varautua. Helsingin seudun MAL-sopimus 2024-2027 hyväksyttiin viime vuonna ja siinä on määritelty valtion ja kuntien yhteishankkeet. MAL-sopimuksen hankkeet eivät näy tienpidon ja liikenteen suunnitelmakartalla. Kirkkonummella on 2020-luvulla toteutettu seuraavia hankkeita joko eduskunnan erillisrahoituksella, MAL-hankkeina tai ELY-keskuksen toimintarahoituksella. ELY-keskus on toteuttanut Länsiväylän (kt 51) ja Upinniementien ramppien liikennevalot (2020), kt 50 Kehä III valaistus välillä Mankki – kt 51 (2021) ja Mäyrätien pysäkkilevennys Gesterbyntielle (2022). ELY-keskuksen ja kunnan yhteishankkeena toteutettiin Kolsarin suojatie ja pysäkit Upinniementielle (2021) ja Turuntien (st 110) jalankulku- ja pyörätie Veikkola-Kolmiranta (2025). Kirkkonummen kunta antaa Uudenmaan ELY-keskuksen tienpidon ja liikenteen suunnitelmasta 2026–2029 liitteenä olevan lausunnon"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": "Liite 1",
+          "title": "Kirkkonummen kunnan lausunto_ELY TLS 2026-2029_KH_27102025",
+          "size": "pdf 634.29 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252172-4-132432.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": "Liite 2",
+          "title": "Sve_Uudenmaan ELY-keskuksen tienpidon ja liikenteen suunnitelma 2026–2029",
+          "size": "pdf 44.44 mb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252172-4-132440.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": "Oheismateriaali 1",
+          "title": "Uudenmaan ELY-keskuksen tienpidon ja liikenteen suunnitelma 2026–2029",
+          "size": "pdf 42.00 mb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252172-4-132441.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": "Oheismateriaali 2",
+          "title": "Kartta_UUDELY_hankkeet_2025",
+          "size": "pdf 3.49 mb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252172-4-132433.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": "Oheismateriaali 3",
+          "title": "Kartta_UUDELY_kiireellisimmät_hanketarpeet_2026–2029",
+          "size": "pdf 3.51 mb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252172-4-132434.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": "Oheismateriaali 4",
+          "title": "Kartta_UUDELY_Väylä_invohj_maantiehankeet_2025-2032",
+          "size": "pdf 2.28 mb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252172-4-132435.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": "Oheismateriaali 5",
+          "title": "Sve_Kartta_UUDELY_hankkeet_2025",
+          "size": "pdf 3.54 mb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252172-4-132436.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": "Oheismateriaali 6",
+          "title": "Sve_Kartta_UUDELY_kiireellisimmät_hanketarpeet_2026–2029",
+          "size": "pdf 3.55 mb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252172-4-132438.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": "Oheismateriaali 7",
+          "title": "Sve_Kartta_UUDELY_Väylä_invohj_maantiehankeet_2025-2032",
+          "size": "pdf 2.30 mb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252172-4-132439.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20252172-5",
+      "ordinal": "5",
+      "title": "Uuden urakoitsijan valinta urakan loppuunsaattamiseen, suorahankinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252172-5",
+      "decision": "Kuntakehityksen lautakunta päätti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "Rakennuttajapäällikkö Janne Suomalainen Infrapalvelujohtaja Toni Keski-Lusa etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kuntakehitysjohtaja Kauppinen Anna-Kaisa sijainen infrapalvelujohtaja Toni Keski-Lusa Kuntakehityksen lautakunta päättää: 1) valita hankintalain 40 § mukaisesti suorahankinnalla urakan loppuun saattamiseksi ja sortuma-alueen korjaustyöhön uudeksi pääurakoitsijaksi Louhintahiekka Oy:n 2) valtuuttaa kuntakehitysjohtajan allekirjoittamaan uusi urakkasopimus viipymättä Louhintahiekka Oy:n kanssa 3) valtuuttaa infrapalvelut tekemään hankintalain mukainen jälki-ilmoitus asiassa 4) tarkastaa pöytäkirja tämän kokousasian osalta kokouksessa",
+        "paatos": "Kuntakehityksen lautakunta päätti päätösehdotuksen mukaisesti",
+        "selostus": "Lautakunnalle esitetään suorahankintaa rajatun tarjousmenettelyn kautta asiassa. Kyseisellä urakoitsijalla Louhintahiekka Oy:llä on kyky ryhtyä työhön välittömästi. Urakan loppuun saattamisella on hankintalain 40 § 2 mom. 4 kohdan mukainen äärimmäinen kiire, joka ei johdu hankintayksiköstä. Urakka-alueella on tapahtunut maapohjan sortuma ja korjaustyöt tulee saattaa loppuun mahdollisimman pian yleisen turvallisuuden takaamiseksi ja lisävahinkojen välttämiseksi. Sortuma-alueen maapohjan vakavuus on heikentynyt ja se on tällä hetkellä epävakaa. Mahdollisen uuden sortuman läheisyydessä kulkee Gasgrid:n omistama DN200 maakaasulinja. Lisäksi alueen läpi kulkee edelleen henkilöautoliikenne sekä ambulanssit. Urakan alkuperäisen pääurakoitsijan sopimus on purettu sopimusrikkomuksesta johtuen. Urakka-alue ei voi olla ilman toteuttajaa edellä mainituista turvallisuussyistä johtuen. Urakoitsijan tarjous töiden loppuunsaattamisesta sekä tarvittavien stabilointitöiden aputöistä on 996 500,00 €. Hinta ei sisällä maapohjan vakavoittamiseksi tarvittavia stabilointitöitä vaan nämä työt laskutetaan toteutuneen mukaisesti. Tarvittava laajuus selviää vasta myöhemmin. Hinta ei myöskään sisällä urakka-alueella muita virheitä tai puutteita, joita on tähän mennessä havaittu ja joita ei ole vielä havaittu"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252172-6",
+      "ordinal": "6",
+      "title": "Oikaisuvaatimus Purolaakson tiekunta, kunnossapitoavustus 2025",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252172-6",
+      "decision": "Kuntakehityksen lautakunta päätti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "Infrapalvelujohtaja Toni Keski-Lusa etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kuntakehitysjohtaja Kauppinen Anna-Kaisa sijainen infrapalvelujohtaja Toni Keski-Lusa Kuntakehityksen lautakunta päättää 1 hyväksyä Purolaakson yksityistien tiekunnan 11.9.2025 jättämän oikaisuvaatimuksen 2 avustaa Purolaakson tiekuntaa kunnossapitoavustuksella vuonna 2025 tien kunnossapitoluokan (2) ja tien pituuden (0,8) km perusteella (620 €/km) eli 496 €",
+        "paatos": "Kuntakehityksen lautakunta päätti päätösehdotuksen mukaisesti",
+        "selostus": "Purolaakson yksityistien tiekunta (KTJ-tunnus 000-2007-K000090) on jättänyt 11.9.2025 oikaisuvaatimuksen Kirkkonummen kunnan kuntakehityksen lautakunnan päätöksestä 3.9.2025 § 34 Yksityistieavustukset 2025 kunnossapitoavustus koskien Purolaakson yksityistien tiekunnan kunnossapitoavustusta. Kuntakehityksen lautakunta on päätöksessään päättänyt olla myöntämättä Purolaakson yksityistien tiekunnalle kunnossapitoavustusta, koska tiekunta ei ole toimittanut vaadittavia liitteitä määräpäivään mennessä. Purolaakson tiekunnan vaatimus ja perustelut Purolaakson tiekunta hakee oikaisua 2025 yksityistien kunnossapitoavustukseen päätökseen. On ilmoitettu että puuttuvat liitteet eivät ole olleet Kirkkonummen kunnan kirjaamossa 1.7.2025 ja näin ollen ei olla saatu avustusta. Mutta se ei pidä paikkansa, tarvittavat liitteet on lähetetty ajoissa. Joka vuosi lähetetty sähköpostilla, tullut kuittaus ja kaikki ok, Tämä vuonna tapahtunut jotain Kirjaamossa ja liitteet eksyneet",
+        "liitteet": "lähetetty kirkkonummen kirjaamoon sähköpostilla 25.6.2025 kello 18.56, katso liite. Tullut sähköpostilla kuittas kirjaamolta 18.58 että liitteet vastaaotettu, katso liite. Vastine Kaikille kunnossapitoavustusta hakeneille pakollinen liite on tilityksentarkastuskertomus tai tiekunnan kokouksen pöytäkirja, jossa hoitokunnalle tai puheenjohtajalle on myönnetty tili- ja vastuuvapaus. Niiden tiekuntien, jotka eivät ole toimittaneet KTJ-otetta 2020 tai sen jälkeen tai tiekunnat, joiden tienosiin on tullut muutoksia, tulee toimittaa myös tiekunnan yksityistierekisterin rekisteriote KTJ-ote. Kunnossapitoavustushakemuksen pakolliset liitteet on lueteltu Kirkkonummen kunnan yksityistieavustusten myöntämisehdoissa ja yksityistieavustustenhakulomakkeella. Määräpäivä liitteiden toimittamiselle 1.7.2025 on kerrottu kunnan nettisivuilla 20.2.-2.5.2025 julkaistussa kuulutuksessa, Kirkkonummen sanomissa 26.2.2025 julkaistussa kuulutuksessa sekä avustuksenhakulomakkeella. Purolaakson tiekunta on aiemmin toimittanut KTJ-otteen, vuoden 2025 kunnossapitoavustukseen liittyen on puuttunut tilityksentarkastuskertomus tai tiekunnan kokouksen pöytäkirja, jossa hoitokunnalle tai puheenjohtajalle on myönnetty tili- ja vastuuvapaus. Oikaisuvaatimuksen tekijällä on esittää liitteiden lähettämisen määräaikana lähetetty sähköposti Kirkkonummen kunnan kirjaamoon sekä kirjaamosta tullut kuittaus sähköposti. Kirjaamolta saadun selvityksen mukaan: ” Purolaakson tiekunnan lähettämiä viestejä liitteineen ei löydy kirjaamon sähköpostista. Ne eivät ole tulleet perille, vaikka tiekunnan edustaja on saanut automaattisen kuittauksen. Syynä on yleensä hyvin lyhyt (sekunti tai vähemmän) tietoliikennekatkos, jonka vuoksi viestit häviävät. Tällaista tapahtuu kerran tai pari vuodessa, toisin sanoen ei ole aivan mahdotonta. Kunnan kirjaamoon tulee kuitenkin tuhansia viestejä vuosittain, joten aika harvinaista tämä on.” Koska avustuksen hakija voi osoittaa lähettäneensä tarvittavan liitteen Kirkkonummen kunnan kirjaamoon määräajan puitteissa ja syynä liitteen puuttumiseen kunnossapitoavustusten käsittelyn aikaan on ollut Kirkkonummen kirjaamon tietoliikennekatkos, esitetään Purolaakson tiekunnalle kunnossapitoavustusta vuodelta 2025 tien kunnossapitoluokan (2) ja tien pituuden (0,8 km) perusteella (620 €/km) eli 496 €"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252172-7",
+      "ordinal": "7",
+      "title": "Oikaisuvaatimus Böle enskilda väglag ⁄ Bölen yksityistie, kunnossapitoavustus 2025",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252172-7",
+      "decision": "Kuntakehityksen lautakunta päätti yksimielisesti palauttaa asian valmisteluun",
+      "votes": [],
+      "sections": {
+        "valmistelija": "Infrapalvelupäällikkö Toni Keski-Lusa etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kuntakehitysjohtaja Kauppinen Anna-Kaisa sijainen infrapalvelujohtaja Toni Keski-Lusa Kuntakehityksen lautakunta päättää 1 hylätä Bölen yksityistien tiekunnan 12.9.2025 jättämän oikaisuvaatimuksen",
+        "kasittely": "Käsittelyn aikana Jukka Lahti teki seuraavan palautusehdotuksen: ” Palautetaan uudelleen käsiteltäväksi uudestaan korjattujen asiakirjojen mukaan.” Thomas Vasenius, Mervi Somervuori, Tuovi Ronkainen, Heidi Castrén, Sami Ragnell ja Jessica Dannbäck kannattivat palautusta. Palautusta kannatettiin yksimielisesti",
+        "paatos": "Kuntakehityksen lautakunta päätti yksimielisesti palauttaa asian valmisteluun",
+        "selostus": "Bölen yksityistien tiekunta (KTJ-tunnus 000-2005-K000602) on jättänyt 12.9.2025 oikaisuvaatimuksen Kirkkonummen kunnan kuntakehityksen lautakunnan päätöksestä 3.9.2025 § 34 Yksityistieavustukset 2025 kunnossapitoavustus koskien Bölen yksityistien tiekunnan kunnossapitoavustusta. Kuntakehityksen lautakunta on päätöksessään päättänyt olla myöntämättä Bölen yksityistien tiekunnalle kunnossapitoavustusta. Tiekunta ei ole toimittanut vaadittavia liitteitä määräpäivään mennessä. Bölen tiekunnan vaatimus ja perustelut Hakemuksemme Bölen yksityistä tiekuntaa koskevasta yksityistieavustuksesta on hylätty, vaikka lähettäneet hakemuksen ajoissa ja olemme toimittaneet pöytäkirjan. Päätöksen perustelussa on kerrottu, että pöytäkirjaamme ei ole allekirjoitettu. Pöytäkirjamme on allekirjoitettu Visma Sign ohjelmistolla sähköisesti. Vastine Kaikille kunnossapitoavustusta hakeneille pakollinen liite on tilityksentarkastuskertomus tai tiekunnan kokouksen pöytäkirja, jossa hoitokunnalle tai puheenjohtajalle on myönnetty tili- ja vastuuvapaus. Niiden tiekuntien, jotka eivät ole toimittaneet KTJ-otetta 2020 tai sen jälkeen tai tiekunnat, joiden tienosiin on tullut muutoksia, tulee toimittaa myös tiekunnan yksityistierekisterin rekisteriote KTJ-ote. Kunnossapitoavustushakemuksen pakolliset liitteet on lueteltu Kirkkonummen kunnan yksityistieavustusten myöntämisehdoissa ja yksityistieavustustenhakulomakkeella. Määräpäivä liitteiden toimittamiselle 1.7.2025 on kerrottu kunnan nettisivuilla 20.2.-2.5.2025 julkaistussa kuulutuksessa, Kirkkonummen sanomissa 26.2.2025 julkaistussa kuulutuksessa sekä avustuksenhakulomakkeella. Bölen tiekunta on aiemmin toimittanut KTJ-otteen, vuoden 2025 kunnossapitoavustushakemukseen liittyen on puuttunut tilityksentarkastuskertomus tai tiekunnan kokouksen pöytäkirja, jossa hoitokunnalle tai puheenjohtajalle on myönnetty tili- ja vastuuvapaus. Bölen yksityistien tiekunta on toimittanut kunnossapitoavustushakemuksen liitteenä tiekunnan kokouksen pöytäkirjan, josta on puuttuneet allekirjoitukset. Kyseistä liitettä ei ole allekirjoitettu omakätisesti eikä sähköisesti. Liitteen ei voida katsoa täyttävän yksityistieavustusehtojen § 6 vaatimuksia"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": [
+        {
+          "proposer": "Jukka Lahti",
+          "kind": "palautusehdotus",
+          "text": "” Palautetaan uudelleen käsiteltäväksi uudestaan korjattujen asiakirjojen mukaan.” Thomas Vasenius, Mervi Somervuori, Tuovi Ronkainen, Heidi Castrén, Sami Ragnell ja Jessica Dannbäck kannattivat palautusta. Palautusta kannatettiin yksimielisesti",
+          "source": "introduction",
+          "party": "sdp"
+        }
+      ]
+    },
+    {
+      "id": "20252172-8",
+      "ordinal": "8",
+      "title": "Oikaisuvaatimus Bergstad enskild väg, kunnossapitoavustus 2025",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252172-8",
+      "decision": "Kuntakehityksen lautakunta päätti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "Infrapalvelujohtaja Toni Keski-Lusa etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kuntakehitysjohtaja Kauppinen Anna-Kaisa sijainen infrapalvelujohtaja Toni Keski-Lusa Kuntakehityksen lautakunta päättää 1 hylätä Bergstad Enskild väg tiekunnan 14.9.2025 jättämän oikaisuvaatimuksen",
+        "paatos": "Kuntakehityksen lautakunta päätti päätösehdotuksen mukaisesti",
+        "selostus": "Bergstad Enskild väg tiekunta (KTJ-tunnus 000-2007-K018195) on jättänyt 14.9.2025 oikaisuvaatimuksen Kirkkonummen kunnan kuntakehityksen lautakunnan päätöksestä 3.9.2025 § 34 Yksityistieavustukset 2025 kunnossapitoavustus koskien Bergstad Enskild väg tiekunnan kunnossapitoavustusta. Kuntakehityksen lautakunta on päätöksessään päättänyt olla myöntämättä Bergstad Enskild väg tiekunnalle kunnossapitoavustusta. Tiekunta ei ole toimittanut vaadittavia liitteitä määräpäivään mennessä. Bergstad Enskild väg tiekunnan vaatimus ja perustelut Tiekunnan tilikausi on 1.6-31.5. Avustuksen hakuaika oli 20.2.-2.5.2025. Tiekunta on hakemuksessaan toimittanut hakuajankohtana olleet viimeiset tiedot. Kuntakehityksen lautakunnan päätös perustuu oletukseen, että vastuuvapausote tulee kattaa vuonna 2025 päättyvä tilikausi, mutta avustusehdoissa ei määräkohtaisesti edellytetä tätä. Kunnan päätöksessä avustusta ei myönnetty sillä perusteella, että hakemuksesta puuttui tilityksentarkastuskertomus tai pöytäkirjan ote koskien uusinta tilikautta, eli tilikautta 1.6.2024–31.5.2025. Tämän tilikauden vastuuvapaus ei kuitenkaan voi olla käsitelty tai myönnetty hakemuksen jättöhetkellä, koska tilikausi päättyy vasta 31.5.2025, eli noin 1kk hakuajan jälkeen. Hakemuksen ehtotekstissä ei rajoiteta vastuuvapausotteen ajanjaksoa koskemaan tiettyä tilikautta, vaan edellytetään yksinomaan oikeudellista näyttöä vastuuvapauden myöntämisestä. Bergstadin tiekunta on toimittanut hakemuksen liitteeksi pöytäkirjan otteen, jossa tilivelvollisille myönnettiin vastuuvapaus tilikaudelle 31.5.2024 asti sekä tilityksentarkastuskertomuksen tilikaudelle 1.6.2023 – 31.5.2024. Koska vastuuvapausote kattaa viimeisen hakemusaikana päättyneen kokonaisen tilikauden, voidaan katsoa, että hakemuksen pakollinen liitevaatimus on täytetty. Pyydämme Kirkkonummen kunnan Kuntakehityksen lautakuntaa oikaisemaan virheellisen päätöksen seuraavasti: 1. Hyväksykää Bergstadin tiekunnan kunnossapitoavustuksen hakemus toimitettujen liitteiden perusteella. 2. Myöntäkää avustus tien pituuden ja kunnossapitoluokan mukaisesti. 3. Toimittaa oikaisupäätös kirjallisesti Vastine Kaikille kunnossapitoavustusta hakeneille pakollinen liite on tilityksentarkastuskertomus tai tiekunnan kokouksen pöytäkirja, jossa hoitokunnalle tai puheenjohtajalle on myönnetty tili- ja vastuuvapaus. Niiden tiekuntien, jotka eivät ole toimittaneet KTJ-otetta 2020 tai sen jälkeen tai tiekunnat, joiden tienosiin on tullut muutoksia, tulee toimittaa myös tiekunnan yksityistierekisterin rekisteriote KTJ-ote. Kunnossapitoavustushakemuksen pakolliset liitteet on lueteltu Kirkkonummen kunnan yksityistieavustusten myöntämisehdoissa ja yksityistieavustustenhakulomakkeella. Määräpäivä liitteiden toimittamiselle 1.7.2025 on kerrottu kunnan nettisivuilla 20.2.-2.5.2025 julkaistussa kuulutuksessa, Kirkkonummen sanomissa 26.2.2025 julkaistussa kuulutuksessa sekä avustuksenhakulomakkeella. Bergstad Enskild väg tiekunta on aiemmin toimittanut KTJ-otteen. Vuoden 2025 kunnossapitoavustushakemukseen liittyen on puuttunut tilityksentarkastuskertomus tai tiekunnan kokouksen pöytäkirja, jossa hoitokunnalle tai puheenjohtajalle on myönnetty tili- ja vastuuvapaus. Bergstad Enskild väg yksityistien tiekunta on toimittanut kunnossapitoavustushakemuksen liitteenä tiekunnan kokouksen pöytäkirjan, jossa tili- ja vastuuvapaus on myönnetty tilikaudelle 1.6.2023 – 31.5.2024. Vuoden 2025 kunnossapitoavustusten liitteiden toimitusaika on ollut 1.7.2025 asti. Näin ollen tiekunta olisi voinut toimittaa avustushakemuksen liitteeksi viimeisimmän tiekunnan kokouksen pöytäkirjan, josta ilmenee vastuuvapauden myöntäminen viimeisimmälle tilikaudelle tai vaihtoehtoisesti tilityksentarkastuskertomuksen viimeisimmältä tilikaudelta. Näin ollen toimitetun liitteen ei voida katsoa täyttävän yksityistieavustusehtojen § 6 vaatimuksia"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252172-9",
+      "ordinal": "9",
+      "title": "Oikaisuvaatimus Medvastön itäinen yksityistie, perusparannusavustus 2025",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252172-9",
+      "decision": "Kuntakehityksen lautakunta päätti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "Infrapalvelujohtaja Toni Keski-Lusa etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kuntakehitysjohtaja Kauppinen Anna-Kaisa sijainen infrapalvelujohtaja Toni Keski-Lusa Kuntakehityksen lautakunta päättää 1 hylätä Medvastön itäisen yksityistien tiekunnan 15.9.2025 jättämän oikaisuvaatimuksen",
+        "paatos": "Kuntakehityksen lautakunta päätti päätösehdotuksen mukaisesti",
+        "selostus": "Medvastön itäinen yksityistie tiekunta (KTJ-tunnus 000-2007-K17192) on jättänyt 15.9.2025 oikaisuvaatimuksen Kirkkonummen kunnan kuntakehityksen lautakunnan päätöksestä 3.9.2025 § 36 Yksityistieavustukset 2025 perusparannusavustus Medvastön itäinen yksityistie. Kuntakehityksen lautakunta on päätöksessään päättänyt olla myöntämättä Medvastön itäinen yksityistie tiekunnalle perusparannusavustusta. Medvastön itäinen yksityistie tiekunnan vaatimus ja perustelut Kuntakehityksen lautakunta on tehnyt päätöksen olla myöntämättä perusparannusavustusta sillan perusparannushankkeelle ilmiselvästi väärin/puutteellisin perustein. Silta ei ole erittäin huonokuntoinen. Sillan kunnosta teetettiin väyläviraston hyväksymällä tarkastajalla, Kiwa Oy:n toimialapäällikkö Jyrki Pulkilla perusteellinen 15 sivuinen yleistarkastusraportti. Perusteellisen tutkimuksen tulos oli, että silta on päällysrakenteen osalta hyvässä kunnossa. Raportin esittämät korjauskohteet rajoittuvat sillan maatuentaan, kaiteisiin ja kannen ajolankutukseen. Nimenomaan näihin kohteisiin tiekunta haki Kirkkonummen kunnalta avustusta. Tiekunnan esittämä kustannusarvio ei ole alimitoitettu vaan se perustui tarkastusraportin antamiin korjaussuosituksiin, asiantuntijoiden arvioihin, siltasuunnittelija Wessmaninin ja Avarc Arkkitehdit Oy:n suunnitelmiin sekä urakoitsijoiden kanssa käytyihin neuvotteluihin ja saatuihin urakkatarjouksiin. Koska silta on peruskunnoltaan todettu hyväksi, tiekunnan suunnittelemalla perusparannuksella ja tulevilla korjaustoimilla saavutettaisiin sillalle ja sen perusrakenteelle pitkä, jopa 20 vuotta ylittävä käyttöikä. Vastine Kirkkonummen kunnan yksityistieavustusten myöntämisehtojen 4 § mukaan perusparannusavustus on harkinnanvarainen avustus. Ehdoissa todetaan lisäksi, että kunta osallistuu niiden tiekuntien perusparannushankkeisiin, joihin valtio on myöntänyt perusparannusavustusta. Valtio ei ole myöntänyt avustusta kyseiseen Medvastön itäisen yksityistien sillan perusparannushankkeeseen. Medvastön itäisen yksityistien tiekunnan sillalle on tehty yleistarkastus joulukuussa 2022. Yleistarkastuksessa on kartoitettu sillan rakenneosien ja siltapaikan rakenteiden kunto silmämääräisesti. Lisäksi puupaaluja on koestettu piikillä. Yleistarkastusraportin mukaan maatukien kunto on heikko / välttävä, rakenteissa on vakavia ja tulopenkereen stabiliteettiin vaikuttavia vaurioita. Maatuet eivät tällä hetkellä toimi päällysrakenteen kantavina rakenteina täysipainoisesti vaan liimapuupalkistojen päät toimivat ulokkeina sillan päissä. Kaiteissa on liikenneturvallisuutta vaarantavia vaurioita ja puutteita. Kaiteen lujuus, johteet ja pylväsvälit eivät täytä maantiesillan tarkastusohjeen mukaisia toiminnallisia vaatimuksia. Lisäksi sillalle johtavat tieluiskat sortuvat tai ovat sortumisvaarassa siipimuurien päällä. Yleistarkastuksessa lahovauriot sillan kantavista rakenteista on tutkittu pintapuolisesti. Sillan kantavien rakenteiden mahdollista sisäistä lahovauriota ei ole tutkittu esimerkiksi mikroporaamalla. Puurakenteessa lahovauriot voivat sijaita myös rakenneosan sisällä täysin terveenoloisen puupinnan sisäpuolella. Kirkkonummen kunta katsoo, ettei tiekunnan tekemät korjaussuunnitelmat ole riittävällä ammattitaidolla toteutettu. Sillan korjaussuunnitelman ja toimien tulee olla siltasuunnittelijan laatimat (esimerkiksi FISE pätevyys). Lisäksi sillan korjaussuunnittelun lähtökohdaksi tulee tehdä sillan erikoistarkastus, jossa sillan rakenteet on tutkittu seikkaperäisesti. Tiekunnan esittämä korjauskustannusarvio (75 000 €) ei ole millään muotoa riittävä korjaamaan tulopenkereiden/maatukien stabiliteetin ongelmia sekä siltakaiteiden täydellistä uusimista nykyvaatimusten mukaisiksi huomioiden liikennekuormat ja tavoiteltu sillan hyötykuorma. Näin ollen voidaan myös todeta, että tiekunnan esitys on riittämätön saavuttamaan korjaussuunnitelmassa tavoitteena esitetty 20 vuoden käyttöikä. Vertailukohtana mainittakoon, että vastaavan rakenteen ja iän omaava silta Medvastön saaren toisella puolella todettiin erikoistarkastuksessa uusittavaksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252172-10",
+      "ordinal": "10",
+      "title": "Oikaisuvaatimus Framnäs-Harvs tiekunta, kunnossapitoavustus 2025",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252172-10",
+      "decision": "Kuntakehityksen lautakunta päätti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "Infrapalvelujohtaja Toni Keski-Lusa etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kuntakehitysjohtaja Kauppinen Anna-Kaisa sijainen infrapalvelujohtaja Toni Keski-Lusa Kuntakehityksen lautakunta päättää 1 hylätä Framnäs-Harvs yksityistien tiekunnan 16.9.2025 jättämän oikaisuvaatimuksen",
+        "paatos": "Kuntakehityksen lautakunta päätti päätösehdotuksen mukaisesti",
+        "selostus": "Framnäs-Harvs yksityistien tiekunta (KTJ-tunnus 000-2005-K029833) on jättänyt 16.9.2025 oikaisuvaatimuksen Kirkkonummen kunnan kuntakehityksen lautakunnan päätöksestä 3.9.2025 § 34 Yksityistieavustukset 2025 kunnossapitoavustus koskien Framnäs-Harvs yksityistien tiekunnan kunnossapitoavustusta. Kuntakehityksen lautakunta on päätöksessään päättänyt olla myöntämättä Framnäs-Harvs yksityistien tiekunnalle kunnossapitoavustusta. Tiekunta ei ole toimittanut vaadittavia liitteitä määräpäivään mennessä. Framnäs-Harvs tiekunnan vaatimus ja perustelut Hakemukseen ei ole liitetty tiehoitokunnan kokouspöytäkirjaa koska hakemus tehty 13.3. ja kokous pidetty 23.4.2025. Pöytäkirja on myöhemmin lähetetty sähköisesti kuntaan 5.6.2025 klo 13.50. Lähetys on mennyt läpi koneesta, joten ollaan luultu että asia ok. Samana päivänä siihen aikaan on ollut Evitskogin alueella sähkökatkos, Carunan toimesta, joka on vaikuttanut mahdollisesti lähetyksen perille tuloon. Vastine Kaikille kunnossapitoavustusta hakeneille pakollinen liite on tilityksentarkastuskertomus tai tiekunnan kokouksen pöytäkirja, jossa hoitokunnalle tai puheenjohtajalle on myönnetty tili- ja vastuuvapaus. Niiden tiekuntien, jotka eivät ole toimittaneet KTJ-otetta 2020 tai sen jälkeen tai tiekunnat, joiden tienosiin on tullut muutoksia, tulee toimittaa myös tiekunnan yksityistierekisterin rekisteriote KTJ-ote. Kunnossapitoavustushakemuksen pakolliset liitteet on lueteltu Kirkkonummen kunnan yksityistieavustusten myöntämisehdoissa ja yksityistieavustustenhakulomakkeella. Määräpäivä liitteiden toimittamiselle 1.7.2025 on kerrottu kunnan nettisivuilla 20.2.-2.5.2025 julkaistussa kuulutuksessa, Kirkkonummen sanomissa 26.2.2025 julkaistussa kuulutuksessa sekä avustuksenhakulomakkeella. Framnäs-Harvs tiekunta on aiemmin toimittanut KTJ-otteen. Vuoden 2025 kunnossapitoavustushakemukseen liittyen on puuttunut tilityksentarkastuskertomus tai tiekunnan kokouksen pöytäkirja, jossa hoitokunnalle tai puheenjohtajalle on myönnetty tili- ja vastuuvapaus. Kirkkonummen kirjaamoon ei ole saapunut määräaikana Framnäs-Harvs tiekunnan liitteitä. Kirkkonummen kirjaamo lähettää automaattisen kuittausviestin kaikkiin heille saapuneisiin sähköpostiviesteihin. Framnäs-Harvs yksityistien tiekunta ei ole toimittanut oikaisuvaatimuksen liitteenä Kirkkonummen kunnan kirjaamoon lähettämäänsä viestiä tai Kirkkonummen kunnan kirjaamosta tullutta kuittausviestiä"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252172-11",
+      "ordinal": "11",
+      "title": "Oikaisuvaatimus Axboda-Tolls, kunnossapitoavustukset 2025",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252172-11",
+      "decision": "Kuntakehityksen lautakunta päätti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "Infrapalvelujohtaja Toni Keski-Lusa etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kuntakehitysjohtaja Kauppinen Anna-Kaisa sijainen infrapalvelujohtaja Toni Keski-Lusa Kuntakehityksen lautakunta päättää 1 hylätä Axboda-Tolls yksityistien tiekunnan 18.9.2025 jättämän oikaisuvaatimuksen",
+        "paatos": "Kuntakehityksen lautakunta päätti päätösehdotuksen mukaisesti",
+        "selostus": "Axboda-Tolls yksityistien tiekunta (KTJ-tunnus 000-2005-K003162) on 18.9.2025 jättänyt oikaisuvaatimuksen Kirkkonummen kunnan kuntakehityksen lautakunnan päätöksestä 3.9.2025 § 34 Yksityistieavustukset 2025 kunnossapitoavustus koskien Axboda-Tolls yksityistien tiekunnan kunnossapitoavustusta. Kuntakehityksen lautakunta on päätöksessään päättänyt olla myöntämättä Axboda-Tolls yksityistien tiekunnalle kunnossapitoavustusta. Tiekunta ei ole toimittanut vaadittavia liitteitä määräpäivään mennessä. Axboda-Tolls tiekunnan vaatimus ja perustelut Kuntakehityksen lautakunta on päätöksessään jättänyt Axboda-Tolls tiekunnan ilman avustusta perusteenaan, että yksityistieavustusten myöntämisehtojen 6 §:n mukaiset liitteet puuttuvat. Olen tiekunnan toimitsijana lähettänyt tarvittavat liitteet 5.6.2025 Kirkkonummen kunnan kirjaamoon sähköpostitse, eli hyvissä ajoin ennen määräaikaa (1.7.2025). Sain samana päivänä viestin, että Kirkkonummen kirjaamo on vastaanottanut viestin. Vaadin, että Kuntakehityksen lautakunta muuttaa päätöksensä ja päättää myöntää Axboda-Tolls tiekunnalle sille kuuluvan kunnossapitoavustuksen. Vastine Kaikille kunnossapitoavustusta hakeneille pakollinen liite on tilityksentarkastuskertomus tai tiekunnan kokouksen pöytäkirja, jossa hoitokunnalle tai puheenjohtajalle on myönnetty tili- ja vastuuvapaus. Niiden tiekuntien, jotka eivät ole toimittaneet KTJ-otetta 2020 tai sen jälkeen tai tiekunnat, joiden tienosiin on tullut muutoksia, tulee toimittaa myös tiekunnan yksityistierekisterin rekisteriote KTJ-ote. Kunnossapitoavustushakemuksen pakolliset liitteet on lueteltu Kirkkonummen kunnan yksityistieavustusten myöntämisehdoissa ja yksityistieavustustenhakulomakkeella. Määräpäivä liitteiden toimittamiselle 1.7.2025 on kerrottu kunnan nettisivuilla 20.2.-2.5.2025 julkaistussa kuulutuksessa, Kirkkonummen sanomissa 26.2.2025 julkaistussa kuulutuksessa sekä avustuksenhakulomakkeella. Axboda-Tolls tiekunta on aiemmin toimittanut KTJ-otteen. Vuoden 2025 kunnossapitoavustushakemukseen liittyen on puuttunut tilityksentarkastuskertomus tai tiekunnan kokouksen pöytäkirja, jossa hoitokunnalle tai puheenjohtajalle on myönnetty tili- ja vastuuvapaus. Axboda-Tolls yksityistien tiekunta on toimittanut 5.6.2025 Kirkkonummen kirjaamoon tiekunnan kokouksen pöytäkirjan, josta puuttuvat allekirjoitukset. Kyseistä liitettä ei ole allekirjoitettu omakätisesti eikä sähköisesti. Liitteen ei voida katsoa täyttävän yksityistieavustusehtojen § 6 vaatimuksia"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252172-12",
+      "ordinal": "12",
+      "title": "Ilmoitusasioita tiedoksi",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252172-12",
+      "decision": "Kuntakehityksen lautakunta päätti merkitä oheiset asiat tiedokseen",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kuntakehityksen lautakunta merkitsee ilmoitusasiat tiedokseen. - Suunnitteilla lautakunnan perehdytysiltakoulu 2.12.2025",
+        "paatos": "Kuntakehityksen lautakunta päätti merkitä oheiset asiat tiedokseen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    }
+  ],
+  "id": "20252172",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20252172"
+}

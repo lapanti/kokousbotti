@@ -1,0 +1,239 @@
+{
+  "title": "Toimitilapalvelujen lautakunta Pöytäkirja 16.05.2024 klo 17:00 - 21:01 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Toimitilapalvelujen lautakunta",
+  "doctype": "Pöytäkirja",
+  "date": "2024-05-16",
+  "items": [
+    {
+      "id": "20241746-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241746-1",
+      "decision": null,
+      "votes": [],
+      "sections": {},
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241746-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastaminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241746-2",
+      "decision": "Toimitilapalvelujen lautakunta valitsi tämän kokouksen pöytäkirjantarkastajiksi ja Marko Karin ja Anneli Granströmin",
+      "votes": [],
+      "sections": {
+        "esittelija": "Yhdyskuntatekniikan johtaja, Anna-Kaisa Kauppinen",
+        "paatosehdotus": "Toimitilapalveluiden lautakunta valitsee kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan sähköisesti. Pöytäkirja tarkastetaan tiistaina 21.5.2024. Jos hyväksymisviestiä ei tule sihteerille em. ajankohtaan mennessä, pöytäkirja katsotaan hyväksytyksi. Tarkastettu pöytäkirja asetetaan yleisesti nähtäville kunnan julkiseen tietoverkkoon keskiviikkona 22.5.2024",
+        "paatos": "Toimitilapalvelujen lautakunta valitsi tämän kokouksen pöytäkirjantarkastajiksi ja Marko Karin ja Anneli Granströmin"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241746-3",
+      "ordinal": "3",
+      "title": "Nissnikun yläkoulun vuosiluokkien rakennushankkeen aikaiset väistötilaratkaisut",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241746-3",
+      "decision": "Toimitilapalvelujen lautakunta päätti päätösehdotuksen mukaisesti. Jani Ekman ja Noora Piili jättivät päätöksestä eriävän mielipiteen",
+      "votes": [
+        {
+          "jaa": [
+            "Lavanti Lauri",
+            "Jeremejew Miisa",
+            "Björkqvist Matilda",
+            "Granström Anneli",
+            "Hedberg Hans",
+            "Salomaa Leena"
+          ],
+          "ei": [
+            "Piili Noora",
+            "Oksanen Pekka",
+            "Kari Marko",
+            "Ekman Jani"
+          ],
+          "tyhja": [
+            "Utriainen Elina"
+          ],
+          "named_by": "surname",
+          "totals": {
+            "jaa": 6,
+            "ei": 4,
+            "tyhja": 1
+          },
+          "as_written": {
+            "jaa": [
+              "Lavanti",
+              "Jeremejew",
+              "Björkqvist",
+              "Granström",
+              "Hedberg",
+              "Salomaa"
+            ],
+            "ei": [
+              "Piili",
+              "Oksanen",
+              "Kari",
+              "Ekman"
+            ],
+            "tyhja": [
+              "Utriainen"
+            ]
+          },
+          "names_from": "osallistujat",
+          "unresolved": [],
+          "parties": {
+            "jaa": {
+              "vihr": 2,
+              "rkp": 2,
+              "ps": 2
+            },
+            "ei": {
+              "pro yl": 1,
+              "sdp": 1,
+              "kok": 2
+            },
+            "tyhja": {
+              "pro yl": 1
+            }
+          },
+          "direction": {
+            "jaa_label": "esittelijän päätösehdotusta",
+            "ei_label": "Noora Piilin muutosehdotusta kohtaan 2",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": "jaa",
+            "source": "parsed",
+            "evidence": "Ne, jotka kannattavat esittelijän päätösehdotusta, äänestävät Jaa, ja ne, jotka kannattavat Noora Piilin muutosehdotusta kohtaan 2, äänestävät Ei — Puheenjohtaja päätti äänestyksen ja totesi, että äänet jakautuivat seuraavasti: 6 Jaa-ääntä (Lavanti, Jeremejew, Björkqvist, Granström, Hedberg ja Salomaa ) ja 4 Ei-ääntä (Piili, Oksanen, Kari ja Ekman) ja 1 Tyhjä-ääni (Utriainen)"
+          }
+        }
+      ],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko\n_Nissnikun koulun väistötilat, vaihtoehtojen vertailu 20.3.2024 Eriävä mielipde, Noora Piili Eriävä mielipide, Jani Ekman",
+        "oheismateriaali": "Kuvake Otsikko SKK 15.5.2024 Selvitys Masalan alueen varhaiskasvatuksen tilatarpeista Nissnikun yläkoulun vuosiluokkien rakennushankkeen aikaiset väistötilaratkaisut Toimitilapalvelujen lautakunta 16.05.2024 § 30 410/10.03.02.04/2021",
+        "valmistelija": "Rakennuttajapäällikkö Hanne Nylund etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa Kokoukseen toimitettu päätösehdotus: Toimitilapalvelujen lautakunta päättää: 1. merkitä tiedoksi Suomenkielisen kasvatus- ja koulutuslautakunnan päätöksen 15.5.2024 § 28 esittää toimitilapalvelujen lautakunnalle, että Nissnikun yläkoulun väistötilat toteutetaan Masalan alueella niin, että Köpaksen tontti varataan varhaiskasvatuksen käyttöön. 2. käynnistää Nissnikun -talon yläkoulun väistötilaratkaisun suunnittelun ja hankinnan siten, että yläkoulun erikoisvarustelutilojen ja ruokalan väistötilat toteutetaan korttelille 2031 tontille 9 (Masalan kirjaston ja terveysaseman kortteli) sijoitettavassa siirtokelpoisessa väistötilassa",
+        "kasittely": "Varhaiskasvatusjohtaja Anu Vesiluoma, suunnittelupäällikkö Reetta Hyvärinen ja opetusjohtaja Astrid Kauber saapuivat kokoukseen tämän kokousasian käsittelyn alussa klo 17.23 ja poistuivat kokouksesta keskustelun jälkeen klo 20.02. Lautakunta piti tauon klo 20.02 - 20.09 Keskustelun jälkeen puheenjohtaja teki seuraavan vastaesityksen päätöskohtaan 2: Nissnikun yläkoulun väistötilat tulee suunnitella ja rakentaa ns. Köpaksen tontille Masalaan tai mikäli löydämme urheilupuiston alueelta väistötiloille tonttiratkaisun. Aikataulu tulee kuitenkin pysyä nykyisessä niin ettei Nissnikun kouluhanke viivästy. Perustelut: Toimitilapalvelujen lautakunta on tehnyt päätöksen 16.9.2022, että Nissnikun yläkoulun väistötilat toteutetaan ns.Köpaksen tontille. Päätöksen jälkeen on saatu tiedoksi, että tontti tulisi varata päiväkotirakennukselle ja varhaiskasvatuksen tarve on selkeä Masalan alueella. Köpaksen tontti on tärkeä myös Nissnikun yläkoululle, erityisesti kulkuyhteyksien sekä turvallisuuden kulkemisen vuoksi. Kunnassa on merkittäviä, kiireellisiä investointeja menossa mm. Nissnikun kouluhanke, lukiokampus, sekä Kantvikin koulu. Mikäli uuteen päiväkotihankkeeseen lähdetään yllä olevien muiden hankkeiden rinnalla, tarvitaan yhdyskuntatekniikan toimialalle myös lisäresurssia toteuttamaan hankkeita. Päiväkotihanke ei ole vielä kunnan investointiohjelmassa, eikä päätöksenteossa. Lisäksi lisätilalle päivähoidolle on tarve jo hyvin nopealla aikataululla. Tähän tulee hakea tilahallinnollisesti pikaisesti ratkaisu. Marko Kari, Jani Ekman ja Pekka Oksanen kannattivat Noora Piilin muutosehdotusta. Puheenjohtaja totesi, että muutosehdotusta ei kannatettu yksimielisesti, jolloin asiasta tulee äänestää. Puheenjohtaja käynnisti äänestyksen: Ne, jotka kannattavat esittelijän päätösehdotusta, äänestävät Jaa, ja ne, jotka kannattavat Noora Piilin muutosehdotusta kohtaan 2, äänestävät Ei. Puheenjohtaja päätti äänestyksen ja totesi, että äänet jakautuivat seuraavasti: 6 Jaa-ääntä (Lavanti, Jeremejew, Björkqvist, Granström, Hedberg ja Salomaa ) ja 4 Ei-ääntä (Piili, Oksanen, Kari ja Ekman) ja 1 Tyhjä-ääni (Utriainen), jolloin päätösehdotus voitti",
+        "paatos": "Toimitilapalvelujen lautakunta päätti päätösehdotuksen mukaisesti. Jani Ekman ja Noora Piili jättivät päätöksestä eriävän mielipiteen",
+        "selostus": "Nissniku -talon hankintaan kuuluva kilpailullinen neuvottelumenettely on parhaillaan käynnissä. Varsinaisen rakentamisen on arvioitu voivan alkaa syyskaudella 2025. Rakennushanke edellyttää väistötilaratkaisuja hankkeen toteutuksen ajaksi. Nissnikun yhtenäiskoulun alaluokat käyttävät rakennushankkeen aikana Masalan koulua ja sen pihalle vuonna 2023 rakennettua tilapäistä väistötilaa. Nyt käsiteltävät väistötilaratkaisuvaihtoehdot koskevat yläkoulun vuosiluokkia 7.-9. eli noin 380 oppilasta. Asian aikaisempi käsittely Nissnikun väistötilaratkaisuja on käsitelty muun muassa Kirkkonummen sivistyksen ja vapaa-ajanpalveluverkkosuunnitelman 2020 käsittelyn yhteydessä vuonna 2020. Palveluverkkosuunnitelmassa (s. 42) todetaan, että GWPD-hankkeen valmistuessa voidaan Nissnikun koulun peruskorjaus aloittaa ja siirtää oppilaat väistöön Gesterbyn koulukeskukseen niin, että yleisopetustiloina toimivat jo vuokratut väistötilat. Palveluverkkosuunnitelman hyväksymisen jälkeen Nissnikun väistötilaratkaisuja on käsitelty 16.2.2022 § 11 toimitilapalvelujen lautakunnassa. Tällöin toimitilapalvelujen lautakunta päätti seuraavasti: \"Toimitilapalvelujen lautakunta päättää käynnistää Nissnikun koulun väistötilaratkaisun tarkemman suunnittelun ja väistötilojen hankinnan liitteenä olevassa väistötilatarkastelussa esitetyn vaihtoehdon 3 pohjalta. Erillistä lisätilojen hankintaa ei toteuteta.\" Toimitilapalvelujen lautakunnan 16.2.2022 käsittelemä selvitys vaihtoehdoista on oheismateriaalina. Esitetyssä vaihtoehdossa 3 Nissnikun alakoulun väistötilat toteutetaan Masalan koulun tontille ja Nissnikun yläkoulun väistötilat toteutetaan Masalan alueella. Ratkaisussa yläkoulun erikoisvarustellut tilat ja ruokala toteutetaan väistötiloina Köpaksen tontille ja muut opetustilat järjestetään pääosin Nissnikun koulun pihalla olevassa siirtokelpoisessa väistötilassa. Nykyinen tilanne Toimitilapalveluiden lautakunnan 16.2.2022 kokouksen jälkeen tilanteeseen on tullut rakennushankkeeseen liittyvää lisätietoa ja muuttuneita tarpeita. Masalan alueen varhaiskasvatuksen tilatarpeet ovat kasvaneet. Tarvetta on kuvattu tämän asian oheismateriaalina olevassa selvityksessä varhaiskasvatuksen tilatarpeista Masalan alueella. Valmisteltaessa talousarviossa vuonna 2024 tehtäväksi päätettyjä varhaiskasvatuksen tarveselvityksiä on kartoitettu mahdollisia päiväkodeille sopivia tontteja Masalan alueella yhteistyössä sivistyspalvelujen ja yhdyskuntatekniikan palvelualueen kanssa. Kunnan päiväkodeille soveltuva tonttivaranto on Masalan alueella vähäinen. Kartoituksen tuloksena sopivimmaksi rakennuspaikaksi uudelle päiväkodille osoittautui Köpaksen tontti, jossa on aikaisemmin sijainnut Köpaksen päiväkoti. Vaihtoehtoisia toteutustapoja väistölle Muuttuneen tilanteen vuoksi yhdyskuntatekniikka ja sivistyspalvelut ovat selvittäneet myös mahdollisia muita vaihtoehtoja Nissnikun yläkoulun väistötilaratkaisusta. Väistötilaratkaisuja ovat kartoittaneet toimitilapalvelut yhdessä Tilakonsultit T2M Oy:n kanssa. Vaihtoehtoja on esitelty liitteessä 1. Vaihtoehto 1: Väistö Masalan alueella Vaihtoehdossa 1 yläkoulun väistö toteutettaisiin Masalan alueelle niin, että yläkoulun opetus järjestettäisiin osin Nissnikun koulun piha-alueella sijaitsevassa siirtokelpoisessa rakennuksessa ja erikoisvarusteltujen opetustilojen sekä ruokailun osalta Masalan kirjaston tontille rakennettavissa siirtokelpoisissa väistötiloissa. Liikunnan osalta opetus toteutettaisiin Masalan alueelta yksityisiltä toimijoilta vuokrattavissa liikuntatiloissa sekä alueen ulkoliikuntapaikoilla. Vaihtoehdon hyvänä puolena voidaan nähdä se, että opetus sijoittuisi Masalan alueelle ja mikäli väistöjen rakentaminen sujuu suunnitellussa aikataulussa, voitaisiin väistössä aloittaa elokuussa 2025. Vaihtoehto edellyttää uusien rakennettavien väistötilojen kalustamista ja varustamista nykyisen Nissnikun koulun kalusteilla. Muutto tulisi toteuttaa kesäkuukausina ennen lukukauden alkua ja edellyttäisi myös koululta järjestelyjä. Muuton kustannukset on otettava huomioon vuoden 2025 talousarviossa. Vaihtoehdon keskeisenä haittapuolena voidaan nähdä se, että perusopetus jakaantuu kolmeen eri toimipisteeseen alueella. Siirtymät eri tilojen välillä edellyttävät koulupäivän aikana teiden ylityksiä ja alituksia työmaa-alueen läheisyydessä. Nissnikun koulun pihalla sijaitseva siirtokelpoinen väistötila sijoittuu Nissniku-talon rakennustyömaan välittömään läheisyyteen. Vanhan rakennuksen purkutyöt, maanrakennus ja paalutustyöt sekä rungon asennus aiheuttaa meluhaittoja koulutyölle. Työmaaliikenteestä ja työmaasta johtuvista liikennejärjestelyistä aiheutuu haittaa saattoliikenteelle ja pysäköinnille. Jalankululle on tehtävä erityisjärjestelyitä oppilasturvallisuuden varmistamiseksi. Turvallisen oppimisympäristön varmistaminen vaatii opetuksen järjestäjältä sitä, että kaikki siirtymät oppitunnilta toiselle tai ruokailuun toteutetaan valvotusti. Koska esimerkiksi liikuntatilat sijoittuisivat vajaan kilometrin etäisyydelle muista opetustiloista, vaatii opetuksen järjestäminen riittäviä siirtymäaikoja oppitunnilta toiselle. Ratkaisu edellyttää koululta erikoisjärjestelyjä. Haittapuolena on myös se, että Nissniku-talon pihan rakennustöitä ei voida saattaa loppuun yhden väistötilan sijaitessa koulun pihalla. Näin ollen rakennushanke jouduttaisiin vaiheistamaan ja toteuttamaan piharakentamisen osalta loppuun myöhemmässä vaiheessa, jolloin Nissniku-talo olisi jo käytössä. Nissniku-talon valmistuttua myös alakouluikäiset käyttävät rakennusta ja rakennustyöt jatkuvat vielä uuden koulun käyttöönoton jälkeen. Vaihtoehto 2: Väistö keskustassa Vaihtoehdossa 2 Nissnikun yläkoulun opetus järjestettäisiin kokonaisuudessaan keskustassa Winellska skolanilta vapautuvissa tiloissa. Tällöin kaikki perusvarustellut opetustilat sijaitsivat ns. Aseman Ostarin tiloissa ja ruokailu ja erikoisvarustellut tilat Kirkkoharjun koulun entisissä tiloissa, jotka ovat tällä hetkellä Winellska skolanin ja Kyrkslätts gymnasiumin käytössä. Lukioiden muuttaessa yhteiskampukseen vuoden 2027 alussa, vapautuisivat myös Gymnasiumin tilat ja Porkkalan lukion erikoisvarustellut tilat Nissnikun käyttöön. Vaihtoehdon hyvänä puolena voidaan pitää sitä, että opetus tapahtuisi lähellä toisiaan sijaitsevissa rakennuksissa eikä oppilaiden siirtymissä opetustilojen välillä olisi liikenteestä johtuvia turvallisuusriskejä. Hyvänä puolena voidaan pitää myös sitä, että tilat ovat valmiiksi kalustetut ja varustetut yläkoulun opetukseen soveltuviksi. Ratkaisussa saataisiin jatkohyödynnettyä Aseman Ostarille vuonna 2022 Winellska skolanin käyttöön rakennetut tilat. Vaihtoehdon 2 haittapuolena on aikaisemmin koetut sisäilmaongelmat. Toimitilapalvelut on toteuttanut merkittäviä korjaustöitä Kirkkoharjussa oleviin erikoisvarusteltuihin tiloihin vuosina 2022-2024. Tutkimusten perusteella rakennuksessa on tehty korjauksia, jotka ovat laajasti vastaavissa kohteissa käytettyjä ja yleisesti hyväksyttyjä korjausmenetelmiä. Näitä toimenpiteitä olivat mm. rakenteiden tiivistäminen, paine-erojen säätäminen sekä ilmanvaihdon tehostaminen. Vuosina 2022 ja 2024 suoritettujen korjaustöiden jälkeen rakennusterveysasiantuntijan laatima altistumisolosuhteiden arviointi. Rakennusten korjaustöiden onnistumista ja olosuhteiden seurantaa tehdään jatkuvasti. Tällä hetkellä ongelmat liittyvät enää lähinnä ikkunakarmien vuotokohtiin, joiden korjaus on aloitettu 22.4.2024. Kirkkoharjun rakennusten iästä johtuen niille voi kuitenkin aiheutua ennakoimattomia korjaustarpeita myös jatkossa huolimatta jo tehdyistä korjauksista. Rakennusten sisäilman tilannetta seurataan jatkuvasti tiloissa olevan rakennusautomaation ja olosuhdeseurannan lisäksi kunnan moniammatillisessa sisäilmatyöryhmässä ja kohdekohtaisessa sisäilmatyöryhmässä. Ratkaisun epävarmuustekijänä on väistön tarkka ajankohta. Tällä hetkellä vaikuttaa mahdolliselta, että GWP valmistuisi arvioitua aikaisemmin ja olisi käyttöönotettavissa syyslomaviikolla 42 lokakuussa vuonna 2025, jolloin Nissniku saisi tilat käyttöönsä. Vaihtoehtojen kustannukset Vaihtoehtojen kustannukset muodostuvat eri tekijöistä. Liitteenä olevan arvion mukaan kustannusero vaihtoehtojen välillä on noin 300 000 euroa niin, että vaihtoehto 2 on edullisempi. Merkittävä osa kustannuksista muodostuu Nissnikun olemassa olevan väistötilan vuokrakustannuksista, jotka toteutuvat vaihtoehdosta riippumatta. Nissnikun koulun henkilökunnan kuuleminen asiasta Nissnikun yläkoulun henkilökunnalle on esitelty vaihtoehtoja 13.3.2024 ja järjestetty 18.3.2024 mahdollisuus tutustua keskustassa sijaitseviin tiloihin. Koulu on järjestänyt henkilöstölleen asiasta kyselyn. Kyselyn tuloksien mukaan henkilöstö katsoo paremmaksi vaihtoehdoksi väistön Masalan alueella. Syinä mainitaan epäilys Kirkkoharjun tilojen sisäilman laadusta ja pitkät siirtymät kesken koulupäivän niiden opettajien osalta, joilla on opetusta sekä ala- että yläkoulussa. Alueen koulujen oppilaiden huoltajien tiedottaminen Masalan alueen koulujen huoltajille järjestettiin 27.3.2024 infotilaisuus Nissniku -talon rakennushankkeen edistymisestä ja mahdollisista muutoksista väistöratkaisuissa. Infotilaisuuteen osallistuneet huoltajat pitivät parempana ratkaisuna väistön järjestämistä Masalan alueella, perusteena epäilys Kirkkoharjun tilojen sisäilman laadusta. Suomenkielinen kasvatus- ja koulutuslautakunta päättänee kokouksessaan 15.5.2024 esittää toimitilapalvelujen lautakunnalle ehdotuksensa Nissnikun yläkoulun väistötilojen toteutuksesta"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite_Nissnikun koulun väistötilat, vaihtoehtojen vertailu 20.3.2024",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241746-3-108138.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Eriävä mielipde, Noora Piili",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241746-3-108938.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Eriävä mielipide, Jani Ekman",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241746-3-108939.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "SKK 15.5.2024 Selvitys Masalan alueen varhaiskasvatuksen tilatarpeista",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241746-3-108213.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Noora Piili",
+          "kind": "vastaehdotus",
+          "text": null,
+          "source": "order",
+          "party": "pro yl"
+        }
+      ]
+    },
+    {
+      "id": "20241746-4",
+      "ordinal": "4",
+      "title": "Nissniku-talon rakennushanke, toimitilapalvelujen lautakunnan lisämäärärahaesitys teleskooppikatsomoa varten",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241746-4",
+      "decision": "Toimitilapalvelujen lautakunta päätti päätösehdotuksen mukaisesti. Lisäksi lautakunta päätti evästää seuraavasti: Katsomo on suunniteltava siten että se avattuna voidaan pelata / harrastaa mahdollisimman monia eri lajeja, mm. tanssia, koripalloa ja lentopalloa",
+      "votes": [],
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Yhteenveto järjestöjen kuulemisesta, oheismat. Topa 16.5.2024 Nissniku-talon rakennushanke, toimitilapalvelujen lautakunnan lisämäärärahaesitys teleskooppikatsomoa varten Toimitilapalvelujen lautakunta 16.05.2024 § 31 554/10.03.02.02/2019",
+        "valmistelija": "rakennuttajapäällikkö Hanne Nylund etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa Toimitilapalvelujen lautakunta päättää esittää kunnanhallitukselle ja edelleen kunnanvaltuustolle, että kunnan talousarviossa hyväksyttyä Nissniku -talon rakennushankkeen kokonaiskustannusta korotetaan 220 000 eurolla, jolloin hankkeen kokonaiskustannus on 37 070 000 euroa",
+        "kasittely": "Keskustelun aikana varapuheenjohtaja Jani Ekman esitti seuraavan evästyksen: Katsomo on suunniteltava siten että se avattuna voidaan pelata / harrastaa mahdollisimman monia eri lajeja, mm. tanssia, koripalloa ja lentopalloa. Marko Kari, Elina Utriainen, Miisa Jeremejew, Lauri Lavanti kannattivat Jani Ekmanin evästystä. Puheenjohtaja totesi, että evästystä kannatettiin yksimielisesti",
+        "paatos": "Toimitilapalvelujen lautakunta päätti päätösehdotuksen mukaisesti. Lisäksi lautakunta päätti evästää seuraavasti: Katsomo on suunniteltava siten että se avattuna voidaan pelata / harrastaa mahdollisimman monia eri lajeja, mm. tanssia, koripalloa ja lentopalloa",
+        "selostus": "Sivistys- ja vapaa-aikalautakunta 28.09.2023 § 56 evästi Nissniku-talon hankesuunnitelman käsittelyn yhteydessä: \"Kirkkonummelle on lähitulevaisuudessa vielä tulossa kouluinvestointeja, kuten lukiohanke ja Kantvik. Strategiamme painopisteen 3. mukaan \"Tarjoamme tiloja ja paikkoja yhdistysten ja kuntalaisten käyttöön ja parannamme kunnan tilojen monikäyttöisyyttä\". Nämä kuntamme seurojen ja yhdistysten osallistamisen tulokset on hyvä esittää kirjallisesti myös lautakunnan jäsenille päätöksien tueksi. Näihin tulevaisuuden investointeihin osallistamalla kuntamme seurat ja yhdistykset, voimme varmistaa yhdessä mahdollisimman hyvän tilasuunnittelun strategiammekin mukaan.\" Sivistyspalvelut yhdessä toimitilapalveluiden kanssa järjesti 1.12 - 17.12.2023 avoimen kyselyn järjestöille Nissniku-talo -hankkeesta sivistys- ja vapaa-aikalautakunnan 28.09.2023 § 56 evästyksen mukaisesti. Kyselystä tiedotettiin kunnan sähköisissä viestintäkanavissa. Määräaikaan mennessä kyselyyn vastasi neljä järjestöä. Kyselyiden perusteella Nissniku-talossa oltiin kiinnostuneitta järjestämään mm. - Yhdistysten tapaamisia / kerhojen toimintaa - Urheiluseurojen harrastustoimintaa - Urheilukilpailuja - Leirejä - Seurojen näytöksiä - Kansainvälisen tason valmentajakoulutuksia Yleisesti yhdistysten toiveet olivat linjassa kunnan tavoitteiden kanssa, eivätkä edellytä muutoksia hankkeeseen. Yksi vastanneista järjestöistä oli kuitenkin ilmaissut tarpeen liikuntasalin yhteyteen toteutettavalle katsomolle, mitä ei ole hankesuunnitelmassa. Toimitilapalvelut on tiedustellut myös Nissnikun koululta näkemystä mahdollisesta teleskooppikatsomosta. Koululta saadun vastauksen mukaan Nissniku-talon mahdollinen salikatsomo hyödyttää koulun toimintaa seuraavista syistä: - Juhlien aikana saliin ei tarvitse isoa määrää tuoleja - Salissa voi järjestää koulun ja koulujen välisiä liikunta- ym. tapahtumia joihin yleisö pääsee mukaan katsomoon - Katsomoa voi hyödyntää muidenkin oppiaineiden opetuksessa, mm. näytelmät - Salissa voi näyttämöä hyödyntäen järjestää pienillä järjestelyillä kuntalaistilaisuuksia, esitelmiä, konsertteja ym. - Koulu puoltaa katsomon hankintaa edellytyksellä, että sen toteutus ei vähennä budjetti- ja tilaresurssia alkuperäiseen suunnitelmaan nähden Teleskooppikatsomo tarvitsee noin 30 neliötä lisätilaa ollessaan pakattuna kiinni -asentoon. Katsomon toteutuksen kustannukset olisivat noin 220 000 euroa, tarvittava lisätila huomioiden. Katsomon toteuttaminen parantaisi oleellisesti liikuntasalin käytettävyyttä ja monipuolisuutta koulun sekä laajemman kuntalaiskäytön näkökulmasta. Mikäli katsomo halutaan toteuttaa, se on huomioitava hankkeen kilpailutusvaiheessa. Koska teleskooppikatsomon kustannukset eivät sisälly Nissniku -talon hankesuunnitelmaan, tuodaan katsomon mahdollinen lisääminen nyt käsiteltäväksi tarvittaviin päätäntäelimiin"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Yhteenveto järjestöjen kuulemisesta, oheismat. Topa 16.5.2024",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241746-4-108098.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Jani Ekman",
+          "kind": "evastysehdotus",
+          "text": null,
+          "source": "order",
+          "party": "kok"
+        }
+      ]
+    },
+    {
+      "id": "20241746-5",
+      "ordinal": "5",
+      "title": "Toimitilapalvelujen lautakunnan vuoden 2024 osavuosikatsaus, tilanne 30.4",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241746-5",
+      "decision": null,
+      "votes": [],
+      "sections": {
+        "esittelija": "poisti asian listalta"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241746-6",
+      "ordinal": "6",
+      "title": "Ilmoitusasioita tiedoksi",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241746-6",
+      "decision": "Toimitilapalvelujen lautakunta päätti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "hallintopäällikkö Kia Forsell, etunimi.sukunimi@kirkkonummi.fi 1. Kunnanvaltuuston 29.4.2024 § 42 päätös: Tilapäisen valiokunnan esitys, toimitilapalvelujen lautakunta",
+        "paatosehdotus": "Toimitilapalvelujen lautakunta merkitsee ilmoitusasiat tiedokseen",
+        "paatos": "Toimitilapalvelujen lautakunta päätti päätösehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    }
+  ],
+  "id": "20241746",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20241746"
+}

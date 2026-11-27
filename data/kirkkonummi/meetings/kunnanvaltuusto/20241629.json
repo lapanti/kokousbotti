@@ -1,0 +1,315 @@
+{
+  "title": "Kunnanvaltuusto Pöytäkirja 05.02.2024 klo 18:00 - 20:14 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Kunnanvaltuusto",
+  "doctype": "Pöytäkirja",
+  "date": "2024-02-05",
+  "items": [
+    {
+      "id": "20241629-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241629-1",
+      "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Kokous todettiin lailliseksi ja päätösvaltaiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241629-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241629-2",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti. Pöytäkirjantarkastajiksi valittiin Johanna Fleming ja Marjut Frantsi-Lankia",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanvaltuusto päättää valita kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti. Pöytäkirjantarkastajiksi valittiin Johanna Fleming ja Marjut Frantsi-Lankia"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241629-3",
+      "ordinal": "3",
+      "title": "Omavelkaisen takauksen antaminen Kyrkslätt FBK rf. - Kirkkonummen VPK ry:lle paloaseman uudisrakennuksen rakentamiseen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241629-3",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Uusi paloasema_kunta_päätöksentekoon_01_2024",
+        "liitteet": "3.2 Rakennushankkeiden-arviointikehikko-1_Kirkkonummen VPK\n2. Talousarvio_Uusi paloasema 2022 Tilinpäätös\n3.1 Hyvinvointialueen-lausunto-sopimuspalokunnan-hankkeesta-2024_Kirkkonummen VPK19.1.2024 LUP puolto hankkeelle 11_2023 Omavelkaisen takauksen antaminen Kyrkslätt FBK rf. - Kirkkonummen VPK ry:lle paloaseman uudisrakennuksen rakentamiseen Kunnanvaltuusto 05.02.2024 § 3 79/02.06.00/2024",
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto 1 myöntää omavelkaisen takauksen Kyrkslätt FBK rf. - Kirkkonummen VPK ry:n lukuun otettavalle enintään 400 000 €:n suuruiselle lainalle ehdoilla, että Kirkkonummen kunta saa parhaalla etusijalla olevan kiinnityksen yhdistyksen rakentamaan kiinteistöön yllä mainitun takauksen vakuudeksi. Uuden paloaseman rakentamislainan takaaminen edellyttää, että palosuojelurahasto myöntää enintään 350 000 euron avustuksen hankkeelle ja yhdistyksen omarahoitusosuus kattaa loput rakentamiskustannuksista. 2 oikeuttaa kunnanhallituksen päättämään kaikki muut tarpeelliseksi katsomansa takausehdot",
+        "kasittely": "Talousjohtaja Esa Lindell esitteli asiaa kokouksessa",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Uusi paloasema_kunta_päätöksentekoon_01_2024",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241629-3-103053.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Liite 3.2 Rakennushankkeiden-arviointikehikko-1_Kirkkonummen VPK",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241629-3-103049.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Liite 2. Talousarvio_Uusi paloasema",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241629-3-103047.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "2022 Tilinpäätös",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241629-3-103046.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Liite 3.1 Hyvinvointialueen-lausunto-sopimuspalokunnan-hankkeesta-2024_Kirkkonummen VPK19.1.2024",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241629-3-103050.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "LUP puolto hankkeelle 11_2023",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241629-3-103051.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20241629-4",
+      "ordinal": "4",
+      "title": "Tahtotila Länsirata Oy:n rakentamisvaiheen rahoittamisesta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241629-4",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti seuraavalla evästyksellä: Kunnanvaltuusto, kunnanhallituksen päätöksen lisäksi evästää neuvottelijamme siitä, että kunta maksaa erikseen päätettävän kuntaosuutensa ratahankkeesta aikaisintaan siinä vaiheessa, kun rata rakennetaan Veikkolan asemalle saakka",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 1 Tahtotila Länsirata Oy Tahtotila Länsirata Oy:n rakentamisvaiheen rahoittamisesta Kunnanvaltuusto 05.02.2024 § 4 74/08.01.00/2024",
+        "paatosehdotus": "Kunnanhallitus esittää kunnanvaltuustolle, että valtuusto päättää merkitä kunnanhallituksen tekemän päätöksen tiedoksi",
+        "kasittely": "Yhdyskuntatekniikan johtaja Anna-Kaisa Kauppinen esitteli asiaa kokouksessa. Puheenjohtaja julisti keskustelun päättyneeksi ja totesi, että keskustelun aikana Ulf Kjerin on jättänyt seuraavan evästysehdotuksen: Tänään käsiteltävänä olevan länsiradan osuudet Salo-Hajalan ja Espoo-Histan ensimmäiset osat toteutuessaan eivät saavuta Kirkkonummen Veikkolaa. Kunnanvaltuusto, kunnanhallituksen päätöksen lisäksi evästää neuvottelijamme siitä, että kunta maksaa erikseen päätettävän kuntaosuutensa ratahankkeesta aikaisintaan siinä vaiheessa, kun rata rakennetaan Veikkolan asemalle saakka. Evästysehdotusta kannattivat Ville Salminen, Kim Åström, Timo Haapaniemi, Kari Virtanen, Aleksander Polkko, Hans Hedberg, Kim Liljequist, Jerri Kämpe-Hellenius, Anna Aintila, Marko Kari, Johanna Järvinen, Martin Valtonen, Matti Kaurila, Pekka Sinisalo, Liisa Kosonen, Kim Männikkö, Jussi Määttä, Ulla Seppälä, Anneli Granström, Anna Sahiluoma, Patrik Lundell, Urho Blom, Marjut Frantsi-Lankia, Jani Ekman, Ronja Karkinen, Reetta Hyvärinen, Miisa Jeremejew, Elina Kärkimaa, Sini Felipe, Maarit Orko, Katja Ylisiurua, Antti Kilappa ja Tero Suominen. Puheenjohtajan tiedustellessa evästysehdotus hyväksyttiin yksimielisesti",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti seuraavalla evästyksellä: Kunnanvaltuusto, kunnanhallituksen päätöksen lisäksi evästää neuvottelijamme siitä, että kunta maksaa erikseen päätettävän kuntaosuutensa ratahankkeesta aikaisintaan siinä vaiheessa, kun rata rakennetaan Veikkolan asemalle saakka"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Tahtotila Länsirata Oy",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241629-4-102837.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20241629-5",
+      "ordinal": "5",
+      "title": "Vastaus valtuustoaloitteeseen 3/2016 - Asuntomessut Kirkkonummelle",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241629-5",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "initiative": {
+        "ref": "3/2016",
+        "proposer": "sesti ehdotuksen mukaisesti.     Selostus     Antti Kilappa ensimmäisenä allekirjoittajana",
+        "party": null,
+        "name": null
+      },
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus antaa selostusosan mukaisen vastauksen valtuustoaloitteeseen 3/2016: Asuntomessut Kirkkonummelle, ja esittää kunnanvaltuustolle, että valtuusto pitää vastausta riittävänä ja aloitetta loppuun käsiteltynä",
+        "kasittely": "Maankäyttöinsinööri Aija Aunio esitteli asiaa kokouksessa. Varavaltuutettu Miisa Jeremejew poistui kokouksesta tämän pykälän käsitettelyn aikana klo 19.18",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241629-6",
+      "ordinal": "6",
+      "title": "Vastaus valtuustoaloitteeseen 12/2021, kunnan maanhankinnan tehostaminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241629-6",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "initiative": {
+        "ref": "12/2021",
+        "proposer": "anhallitus päätti yksimielisesti ehdotuksen mukaisesti.   Selostus   Vihreä valtuustoryhmä",
+        "party": "vihr",
+        "name": null
+      },
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Valtuustoaloite 12/2021: Kunnan maanhankinnan tehostaminen Vastaus valtuustoaloitteeseen 12/2021, kunnan maanhankinnan tehostaminen Kunnanvaltuusto 05.02.2024 § 6 503/10.00.01/2021",
+        "paatosehdotus": "Kunnanhallitus antaa selostusosan mukaisen vastauksen valtuustoaloitteeseen 12/2021: Kunnan maanhankinnan tehostaminen, ja esittää kunnanvaltuustolle, että valtuusto pitää vastausta riittävänä ja aloitetta loppuun käsiteltynä",
+        "kasittely": "Maankäyttöinsinööri Aija Aunio poistui kokouksesta tämän pykälän jälkeen klo 19.25",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtuustoaloite 12/2021: Kunnan maanhankinnan tehostaminen",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241629-6-50778.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20241629-7",
+      "ordinal": "7",
+      "title": "Vastaus valtuustoaloitteeseen 9/2022: Kirkkonummen kunnan pitää sitoutua aktiiviseen rasisimin vastaiseen toimintaan mm. liittymällä oikeusministeriön #olenantirasisti, #jagärantirasist-kampanjaan",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241629-7",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "initiative": {
+        "ref": "9/2022",
+        "proposer": "RKP:n valtuustoryhmä",
+        "party": "rkp",
+        "name": null
+      },
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Valtuustoaloite 9/2022: Kirkkonummen kunnan pitää sitoutua aktiiviseen rasismin vastaiseen toimintaan mm. liittymällä oikeusministeriön #olenantirasisti, #jagärantirasist-kampanjaan Vastaus valtuustoaloitteeseen 9/2022: Kirkkonummen kunnan pitää sitoutua aktiiviseen rasisimin vastaiseen toimintaan mm. liittymällä oikeusministeriön #olenantirasisti, #jagärantirasist-kampanjaan Kunnanvaltuusto 05.02.2024 § 7 547/00.04.00/2022",
+        "paatosehdotus": "Kunnanhallitus 1 antaa selostusosassa olevan selvityksen vastauksena valtuustoaloitteeseen ja esittää kunnanvaltuustolle, että se merkitsee annetun vastauksen tiedoksi ja pitää annetun vastauksen riittävänä ja valtuustoaloitetta loppuun käsiteltynä sekä 2 ehdottaa, että Kirkkonummen kunta sitoutuu aktiiviseen yhdenvertaisuuden edistämiseen kunnan eri palveluissa, toiminnoissa, ohjeistuksissa, strategioissa ja ohjelmissa, ja että kunnassa jatketaan systemaattisesti yhteistyössä eri toimijoiden kanssa eriarvoisuutta vähentävien konkreettisten toimenpiteiden toteuttamista tasa-arvon ja yhdenvertaisuuden edistämiseksi",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtuustoaloite 9/2022: Kirkkonummen kunnan pitää sitoutua aktiiviseen rasismin vastaiseen toimintaan mm. liittymällä oikeusministeriön #olenantirasisti, #jagärantirasist-kampanjaan",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241629-7-72887.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20241629-8",
+      "ordinal": "8",
+      "title": "Vastaus valtuustoaloitteeseen 6/2023: Kasvisruoan edistäminen koulu- ja päiväkotiruokailussa",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241629-8",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "initiative": {
+        "ref": "6/2023",
+        "proposer": "utakunta päätti päätösehdotuksen mukaisesti.   Selostus   Kunnanvaltuutettu Ronja Karkinen",
+        "party": null,
+        "name": "Ronja Karkinen"
+      },
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Valtuustoaloite nro 6/2023: Kasvisruoan edistäminen koulu- ja päiväkotiruokailussa Vastaus valtuustoaloitteeseen 6/2023: Kasvisruoan edistäminen koulu- ja päiväkotiruokailussa Kunnanvaltuusto 05.02.2024 § 8 668/10.03.02.06/2023",
+        "paatosehdotus": "Kunnanhallitus antaa selostusosan mukaisen vastauksen valtuustoaloitteeseen 6/2023 Kasvisruoan edistäminen koulu- ja päiväkotiruokailussa ja esittää kunnanvaltuustolle, että valtuusto pitää vastausta riittävänä ja aloitetta loppuun käsiteltynä",
+        "kasittely": "Yhdyskuntatekniikan johtaja Anna-Kaisa Kauppinen esitteli asiaa kokouksessa. Valtuutettu Jussi Määttä poistui kokouksesta tämän pykälän käsittelyn aikana klo 20.00",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtuustoaloite nro 6/2023: Kasvisruoan edistäminen koulu- ja päiväkotiruokailussa",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241629-8-103374.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20241629-9",
+      "ordinal": "9",
+      "title": "Eron myöntäminen rakennus- ja ympäristölautakunnan varajäsenyydestä ja uuden varajäsenen valinta (A.L.)",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241629-9",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Ari Liuhdalle rakennus- ja ympäristölautakunnan varajäsenyydestä 2 valita Jan Nordström uudeksi varajäseneksi rakennus- ja ympäristölautakuntaan Ari Liuhdan tilalle toimikauden 2025 loppuun",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto päättää 1 myöntää eron Ari Liuhdalle rakennus- ja ympäristölautakunnan varajäsenyydestä 2 valita uuden varajäsenen rakennus- ja ympäristölautakuntaan Ari Liuhdan tilalle toimikauden 2025 loppuun",
+        "kasittely": "Antti Salosen ehdotus: uudeksi varajäseneksi Jan Nordström",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Ari Liuhdalle rakennus- ja ympäristölautakunnan varajäsenyydestä 2 valita Jan Nordström uudeksi varajäseneksi rakennus- ja ympäristölautakuntaan Ari Liuhdan tilalle toimikauden 2025 loppuun",
+        "tiedoksi": "asianosaisille, rakennus- ja ympäristölautakunnan puheenjohtajalle ja sihteerille, palkka-tiimille"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241629-10",
+      "ordinal": "10",
+      "title": "Eron myöntäminen toimitilapalvelujen lautakunnan varajäsenyydestä ja uuden varajäsenen valinta (A.L.)",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241629-10",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Ari Liuhdalle toimitilapalvelujen lautakunnan varajäsenyydestä 2 valita Mikko Tahko uudeksi varajäseneksi Ari Liuhdan tilalle toimitilapalvelujen lautakuntaan toimikauden loppuun",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto 1 myöntää eron Ari Liuhdalle toimitilapalvelujen lautakunnan varajäsenyydestä 2 valitsee uuden varajäsenen Ari Liuhdan tilalle toimitilapalvelujen lautakuntaan toimikauden loppuun",
+        "kasittely": "Antti Salosen ehdotus: uudeksi varajäseneksi Mikko Tahko",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Ari Liuhdalle toimitilapalvelujen lautakunnan varajäsenyydestä 2 valita Mikko Tahko uudeksi varajäseneksi Ari Liuhdan tilalle toimitilapalvelujen lautakuntaan toimikauden loppuun",
+        "tiedoksi": "asianosaisille, toimitilapalvelujan lautakunnan puheenjohtajalle ja sihteerille, palkka-tiimille"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241629-11",
+      "ordinal": "11",
+      "title": "Valtuustoaloite 1/2024: Monikulttuurisuusneuvoston perustaminen Kirkkonummelle",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241629-11",
+      "decision": "Kunnanvaltuusto lähettää aloitteen kunnanhallitukselle valmisteltavaksi",
+      "votes": [],
+      "initiative": {
+        "ref": "1/2024",
+        "proposer": "tus   Kunnanvaltuuston kokouksessa 5.2.2024 valtuutetut Katja Ylisiurua ja Johanna Fleming",
+        "party": null,
+        "name": "Johanna Fleming"
+      },
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 2 Valtuustoaloite monikulttuurisuusneuvoston perustamisesta Kirkkonummelle Valtuustoaloite 1/2024: Monikulttuurisuusneuvoston perustaminen Kirkkonummelle Kunnanvaltuusto 05.02.2024 § 11 120/12.03.00/2024",
+        "paatos": "Kunnanvaltuusto lähettää aloitteen kunnanhallitukselle valmisteltavaksi",
+        "selostus": "Kunnanvaltuuston kokouksessa 5.2.2024 valtuutetut Katja Ylisiurua ja Johanna Fleming jättivät seuraavan aloitteen: Kirkkonummi on kasvava ja moninainen kunta, jossa muuta kuin suomea tai ruotsia äidinkielenään puhuvia asukkaiden määrä on lisääntynyt voimakkaasti. Se on tällä hetkellä 12,2 % asukkaista. Kirkkonummelle tulee perustaa monikulttuurisuusneuvosto, joka toimii foorumina kunnan ja asukkaiden välillä, edistää monikulttuurisuutta, yhdenvertaisuutta ja kulttuurista vuoropuhelua sekä tukee kotoutumista Kirkkonummella. Vastaavanlaisia maahanmuuttajien vaikuttajaelimiä on olemassa esimerkiksi Keravalla, Espoossa,Vantaalla, Laitilassa, Turussa ja Vaasassa. Monikulttuurisuusneuvosto tarjoaisi kuntalaisille mahdollisuuden tuoda esiin monikulttuurisuuteen liittyviä näkökulmia. Tämä vahvistaisi kunnan demokraattista toimintaa ja päätöksenteon avoimuutta. Neuvosto voisi toimia myös siltojen rakentajana eri yhteisöjen välillä ja auttaa ehkäisemään syrjintää ja ennakkoluuloja. Monikulttuurisuusneuvosto käsittelisi yhdenvertaisuuteen liittyviä kysymyksiä ja edistäisi osaltaan kaikkien kuntalaisten tasavertaista osallisuutta päätöksentekoon. Tärkeässä roolissa olisivat myös kotoutumisen edistämistä ja konflikteja ennaltaehkäisevät asiat. Kunnan päättäjien ja viranhaltijoiden lisäksi neuvostossa olisi edustajia esimerkiksi paikallisista kieli- ja kulttuuriyhdistyksistä. Me allekirjoittaneet ehdotamme, että Kirkkonummen kunta aloittaa monikulttuurisuusneuvoston perustamisen valmistelun ja selvittää neuvoston toimintamallin, kokoonpanon sekä tehtävät. Toivomme, että tämä aloite herättää kiinnostusta ja saa tukea kunnanvaltuustossa. Ystävällisin terveisin, Katja Ylisiurua ja Johanna Fleming\" Aloitteen allekirjoittivat Katja Ylisiuruan ja Johanna Fleming lisäksi seuraavat valtuutetut ja varavaltuutetut: Reetta Hyvärinen, Saara Huhmarniemi, Ronja Karkinen, Elina Kärkimaa, Kim Liljequist, Markus Myllyniemi, Maarit Orko, Krista Petäjäjärvi, Kari Virtanen ja Miisa Jeremejew"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Valtuustoaloite monikulttuurisuusneuvoston perustamisesta Kirkkonummelle",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241629-11-103569.PDF"
+        }
+      ],
+      "proposals": []
+    }
+  ],
+  "id": "20241629",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20241629"
+}

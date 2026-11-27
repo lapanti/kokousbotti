@@ -1,0 +1,330 @@
+{
+  "title": "Kunnanvaltuusto Pöytäkirja 01.09.2025 klo 18:00 - 19:21 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Kunnanvaltuusto",
+  "doctype": "Pöytäkirja",
+  "date": "2025-09-01",
+  "items": [
+    {
+      "id": "20252113-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252113-1",
+      "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Kokous todettiin lailliseksi ja päätösvaltaiseksi",
+        "selostus": "Kunnanvaltuuston kokouskutsu on julkaistu kunnan verkkosivulla 27.8.2025. Samana päivänä kutsu on toimitettu valtuutetuille ja varavaltuutetuille"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252113-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252113-2",
+      "decision": "Pöytäkirjantarkastajiksi valittiin Anna Aintila ja Sofia Björkroth",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanvaltuusto päättää valita kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan",
+        "paatos": "Pöytäkirjantarkastajiksi valittiin Anna Aintila ja Sofia Björkroth"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252113-3",
+      "ordinal": "3",
+      "title": "Rakennusjärjestyksen hyväksyminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252113-3",
+      "decision": "Kunnanvaltuusto päätti 1 hyväksyä liitteenä olevan rakennusjärjestyksen seuraavalla lisäyksellä sivun 10 ensimmäisen kappaleen loppuun: Harkinnan mukaan maanalaisia viivytysrakenteita ei tarvitse toteuttaa, mikäli viivytys edellyttäisi hulevesipumppaamon rakentamista, sen toteutus edellyttäisi huomattavaa louhintaa, viivytysrakenteen toteuttaminen aiheuttaisi rakennukselle kosteusvaurioriskin tai rakennus sijaitsee lähellä merta. 2 määrätä uuden rakennusjärjestyksen tulemaan voimaan jo ennen sen lainvoimaiseksi tuloa. Rakennusjärjestys astuu voimaan 1.10.2025",
+      "votes": [
+        {
+          "jaa": [
+            "Hedberg Hans",
+            "Lahti Jukka",
+            "Enqvist Minna",
+            "Aintila Anna",
+            "Karkinen Ronja",
+            "Jäppinen Sanni",
+            "Väisänen Veera",
+            "Basilier Linda",
+            "Orko Maarit",
+            "Kiukas Maiju",
+            "Kettunen Noora",
+            "Ronkainen Tuovi",
+            "Huhmarniemi Saara",
+            "Björk Tony",
+            "Felipe Sini",
+            "Piili Noora",
+            "Niemi Edla",
+            "Valtonen Martin",
+            "Jeremejew Miisa",
+            "Korkman Nadia",
+            "Suominen Tero",
+            "Frimodig Josephine",
+            "Fleming Johanna",
+            "Viveca Lahti"
+          ],
+          "ei": [
+            "Aallonharja Piia",
+            "Kock Fredrik",
+            "Haapaniemi Timo",
+            "Kähkönen Jani",
+            "Valli Lauri",
+            "Kaurila Matti",
+            "Ekman Jani",
+            "Kari Marko",
+            "Blom Urho",
+            "Vasenius Thomas",
+            "Tapio Suvi",
+            "Taussi Henri",
+            "Sahiluoma Anna",
+            "Lindgren Viveca",
+            "Castrén Heidi",
+            "Björkroth Sofia",
+            "Kaaresvirta-Huhta Pauliina",
+            "Kilappa Antti",
+            "Engström Miika",
+            "Liljequist Kim",
+            "Hakapää Minna",
+            "Granström Anneli",
+            "Lankinen Arttu",
+            "Ragnell Sami",
+            "Eero Lankia",
+            "Ulf Kjerin"
+          ],
+          "tyhja": [
+            "Frantsi-Lankia Marjut"
+          ],
+          "totals": {
+            "jaa": 24,
+            "ei": 26,
+            "tyhja": 1
+          },
+          "parties": {
+            "jaa": {
+              "rkp": 7,
+              "sdp": 6,
+              "vas": 2,
+              "vihr": 7,
+              "kd": 1,
+              "prok": 1
+            },
+            "ei": {
+              "ps": 4,
+              "rkp": 4,
+              "kok": 14,
+              "prok": 3,
+              "kesk": 1
+            },
+            "tyhja": {
+              "kesk": 1
+            }
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta",
+            "ei_label": "Matti Kaurilan vastaehdotusta",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": "ei",
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Matti Kaurilan vastaehdotusta äänestävät EI — annettiin 24 JAA ja 26 EI ääntä."
+          }
+        }
+      ],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 1 Rakennusjärjestys 2025 lopullinen, kunnanvaltuuston hyväksymä 1.9.2025 2 Muutokset lausuntojen perusteella ehdotusvaihe",
+        "oheismateriaali": "Kuvake Otsikko Kooste vastineista Rakennusjärjestyksen hyväksyminen Kunnanvaltuusto 01.09.2025 § 85 694/00.01.03/2024",
+        "paatosehdotus": "Kunnanhallitus esittää kunnanvaltuustolle, että valtuusto päättää 1 hyväksyä liitteenä olevan rakennusjärjestyksen. 2 määrätä uuden rakennusjärjestyksen tulemaan voimaan jo ennen sen lainvoimaiseksi tuloa. Rakennusjärjestys astuu voimaan 1.10.2025",
+        "kasittely": "Kuntakehitysjohtaja Anna-Kaisa Kauppinen esitteli asiaa kokouksessa. Puheenjohtaja julisti keskustelun päättyneeksi ja totesi, että keskustelun aikana Matti Kaurila on jättänyt seuraavan vastaehdotuksen: Sivun 10 ensimmäisen kappaleen loppuun lisäys; (Kaurila Matti): Harkinnan mukaan maanalaisia viivytysrakenteita ei tarvitse toteuttaa, mikäli viivytys edellyttäisi hulevesipumppaamon rakentamista, sen toteutus edellyttäisi huomattavaa louhintaa, viivytysrakenteen toteuttaminen aiheuttaisi rakennukselle kosteusvaurioriskin tai rakennus sijaitsee lähellä merta. Vastaehdotusta kannattivat Marko Kari, Lauri Valli, Piia Aallonharja, Jani Kähkönen, Miika Engström, Kim Liljequist, Ulf Kjerin, Fredrik Kock, Thomas Vasenius, Timo Haapaniemi, Anneli Granström, Heidi Castrén, Sofia Björkroth, Viveca Lindgren, Jani Ekman ja Sami Ragnell. Vastaehdotusta ei hyväksytty yksimielisesti, joten puheenjohtaja ilmoitti että asiata on äänestettävä. Puheenjohtaja ehdotti, että asiasta äänestetään niin, että ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Matti Kaurilan vastaehdotusta äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 24 JAA ääntä, 26 EI ääntä ja 1 tyhjä ääni. Matti Kaurilan vastaehdotus sai enemmän ääniä ja voitti. JAA äänestivät Hedberg Hans, Lahti Jukka, Enqvist Minna, Aintila Anna, Karkinen Ronja, Jäppinen Sanni, Väisänen Veera, Basilier Linda, Orko Maarit, Kiukas Maiju, Kettunen Noora, Ronkainen Tuovi, Huhmarniemi Saara, Björk Tony, Felipe Sini, Piili Noora, Niemi Edla, Valtonen Martin, Jeremejew Miisa, Korkman Nadia, Suominen Tero, Frimodig Josephine, Fleming Johanna ja Viveca Lahti. EI äänestivät Aallonharja Piia, Kock Fredrik, Haapaniemi Timo, Kähkönen Jani, Valli Lauri, Kaurila Matti, Ekman Jani, Kari Marko, Blom Urho, Vasenius Thomas, Tapio Suvi, Taussi Henri, Sahiluoma Anna, Lindgren Viveca, Castrén Heidi, Björkroth Sofia, Kaaresvirta-Huhta Pauliina, Kilappa Antti, Engström Miika, Liljequist Kim, Hakapää Minna, Granström Anneli, Lankinen Arttu, Ragnell Sami, Eero Lankia ja Ulf Kjerin. Tyhjää äänesti Frantsi-Lankia Marjut",
+        "paatos": "Kunnanvaltuusto päätti 1 hyväksyä liitteenä olevan rakennusjärjestyksen seuraavalla lisäyksellä sivun 10 ensimmäisen kappaleen loppuun: Harkinnan mukaan maanalaisia viivytysrakenteita ei tarvitse toteuttaa, mikäli viivytys edellyttäisi hulevesipumppaamon rakentamista, sen toteutus edellyttäisi huomattavaa louhintaa, viivytysrakenteen toteuttaminen aiheuttaisi rakennukselle kosteusvaurioriskin tai rakennus sijaitsee lähellä merta. 2 määrätä uuden rakennusjärjestyksen tulemaan voimaan jo ennen sen lainvoimaiseksi tuloa. Rakennusjärjestys astuu voimaan 1.10.2025"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Rakennusjärjestys 2025 lopullinen, kunnanvaltuuston hyväksymä 1.9.2025",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252113-3-129837.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Muutokset lausuntojen perusteella ehdotusvaihe",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252113-3-125499.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Kooste vastineista",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252113-3-127889.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Matti Kaurila",
+          "kind": "vastaehdotus",
+          "text": "Sivun 10 ensimmäisen kappaleen loppuun lisäys; (Kaurila Matti): Harkinnan mukaan maanalaisia viivytysrakenteita ei tarvitse toteuttaa, mikäli viivytys edellyttäisi hulevesipumppaamon rakentamista, sen toteutus edellyttäisi huomattavaa louhintaa, viivytysrakenteen toteuttaminen aiheuttaisi rakennukselle kosteusvaurioriskin tai rakennus sijaitsee lähellä merta. Vastaehdotusta kannattivat Marko Kari, Lauri Valli, Piia Aallonharja, Jani Kähkönen, Miika Engström, Kim Liljequist, Ulf Kjerin, Fredrik Kock, Thomas Vasenius, Timo Haapaniemi, Anneli Granström, Heidi Castrén, Sofia Björkroth, Viveca Lindgren, Jani Ekman ja Sami Ragnell. Vastaehdotusta ei hyväksytty yksimielisesti, joten puheenjohtaja ilmoitti että asiata on äänestettävä",
+          "source": "introduction",
+          "party": "kok"
+        }
+      ]
+    },
+    {
+      "id": "20252113-4",
+      "ordinal": "4",
+      "title": "Ruotsinkielisen kasvatus- ja koulutuslautakunnan erottaminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252113-4",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto päättää erottaa ruotsinkielisen kasvatus- ja koulutuslautakunnan",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti päätösehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252113-5",
+      "ordinal": "5",
+      "title": "Ruotsinkielisen kasvatus- ja koulutuslautakunnan jäsenten ja varajäsenten valinta kaudelle 2025-2027",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252113-5",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto 1 päättää valita ruotsinkielisen kasvatus- ja koulutuslautakuntaan 9 jäsentä ja heille henkilökohtaiset varajäsenet kaudeksi 2025-2027 seuraavan mukaisesti: pj. Linda Basilier (RKP) / Merja Tarkiainen (RKP) vpj. Nina Halme (SDP) / Teppo Lampovaara (SDP) Petra Ekberg-Kontula (RKP) / Jenny Snellman (RKP) Stefan Gustafsson (RKP) / Oliver Lundqvist (RKP) Markku Alanne (KOK) / Kjell Wallenius (KOK) Irja Bergholm (Vas) / Kati Kaihlaranta (Vas) Rita Holopainen (KD) / Eerika Selin (KOK) Patrik Lundell (RKP.) / Joel Främling (RKP) Henry Scheinin (Vihreät) / Paula Oittinen (Vihreät). 2 päättää valita jäsenten keskuudesta ruotsinkieliselle kasvatus- ja opetuslautakunnalle puheenjohtajan ja varapuheenjohtajan kaudeksi 2025-2027",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti päätösehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252113-6",
+      "ordinal": "6",
+      "title": "Kunnanvaltuuston sihteerin määrääminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252113-6",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto määrää valtuuston sihteeriksi hallintojohtajan ja varasihteeriksi kunnanlakimiehen",
+        "kasittely": "Hallintojohtaja Jaana Suihkonen esitteli asiaa kokouksessa",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti päätösehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252113-7",
+      "ordinal": "7",
+      "title": "Valtuustoaloite 11/2025: Kirkkonummi ei hanki tuotteita, palveluita tai raaka-aineita, jotka ovat lähtöisin Israelin laittomista siirtokunnista",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252113-7",
+      "decision": "Kunnanvaltuusto toimittaa valtuustoaloitteen kunnanhallitukselle valmisteltavaksi",
+      "votes": [],
+      "initiative": {
+        "ref": "11/2025",
+        "proposer": "tteen kunnanhallitukselle valmisteltavaksi.     Selostus   Valtuutettu Minna Enqvist (VAS)",
+        "party": null,
+        "name": "Minna Enqvist"
+      },
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Valtuustoaloite: Kirkkonummi ei hanki tuotteita, palveluita tai raaka-aineita, jotka ovat lähtöisin Israelin laittomista siirtokunnista Valtuustoaloite 11/2025: Kirkkonummi ei hanki tuotteita, palveluita tai raaka-aineita, jotka ovat lähtöisin Israelin laittomista siirtokunnista Kunnanvaltuusto 01.09.2025 § 89 735/02.08.00.00/2025",
+        "paatos": "Kunnanvaltuusto toimittaa valtuustoaloitteen kunnanhallitukselle valmisteltavaksi",
+        "selostus": "Valtuutettu Minna Enqvist (VAS) jätti kunnanvaltuuston kokouksessa 1.9.2025 seuraavan aloitteen: ” Julkisia hankintoja tehdään Suomessa vuosittain kymmenien miljardien eurojen arvosta, ja suuri osa niistä tapahtuu kunnissa ja hyvinvointialueilla. Kirkkonummen strategiassa todetaan, että kunta toimii kestävyyden, luottamuksen, avoimuuden ja rohkeuden periaatteiden mukaisesti. Näiden arvojen on myös ohjattava käytännön toimintaa. Israel on miehittänyt palestiinalaisalueita kansainvälisen oikeuden vastaisesti yli 50 vuoden ajan ja rakentanut niille laittomia siirtokuntia. Yritykset, jotka toimivat siirtokunnissa, osallistuvat niiden ylläpitämiseen ja mahdollistavat niiden laajentamisen. Kansainvälinen tuomioistuin tutkii Israelin syyllistymistä palestiinalaisten kansanmurhaan, ja pääministeri Benjamin Netanyahusta on annettu kansainvälinen pidätysmääräys rikoksista ihmisyyttä vastaan. YK:n yleiskokous hyväksyi syksyllä 2024 päätöslauselman, jossa vaaditaan kieltämään tuonti Israelin laittomista siirtokunnista ja lopettamaan niiden ylläpitämistä tukeva yritystoiminta. Suomi äänesti päätöksen puolesta. Helmikuussa 2025 myös Australian Sydney päätti, ettei kaupunki toimi sellaisten yritysten kanssa, jotka hyötyvät laittomista siirtokunnista. Kirkkonummi ei voi tukea ihmisoikeusloukkauksia. Kunnan on valittava kumppaneikseen yrityksiä, jotka kunnioittavat YK:n ihmisoikeusperiaatteita ja kykenevät todentamaan tuotantoketjujensa vastuullisuuden. Tämä voi koskea esimerkiksi teknologiahankintoja. Lisätietoa kohdennetuista boikoteista löytyy Sumudin nettisivuilta osoitteesta www.sumud.fi/bds . BDS on vuonna 2005 palestiinalaisten käynnistämä maailmanlaajuinen liike, jonka tavoitteena on rauhanomaisin keinoin katkaista taloudellinen, poliittinen ja kulttuurinen tuki Israelin toteuttamilta ihmisoikeusloukkauksilta. Lyhenne BDS tulee englannin sanoista boycott, divestment, sanctions , jotka tarkoittavat boikottia, sijoitusten poisvetämistä ja pakotteita. Liikkeen toiminta pohjaa periaatteeseen, että palestiinalaisille kuuluvat samat ihmisoikeudet kuin muillekin. Me allekirjoittaneet valtuutetut esitämme, että Kirkkonummi ei hanki tuotteita, palveluita tai raaka-aineita, jotka ovat lähtöisin Israelin laittomista siirtokunnista eikä tee hankintoja yrityksiltä, jotka ovat osallisina siirtokuntien toimintaan tai muihin ihmisoikeusloukkauksiin. Minna Enqvistin lisäksi seuraavat allekirjoittivat valtuustoaloitteen: Edla Niemi, Jukka Lahti, Johanna Fleming, Tuovi Ronkainen, Nadia Korkman, Miisa Jeremejew, Noora Kettunen ja Ronja Karkinen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtuustoaloite: Kirkkonummi ei hanki tuotteita, palveluita tai raaka-aineita, jotka ovat lähtöisin Israelin laittomista siirtokunnista",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252113-7-129534.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20252113-8",
+      "ordinal": "8",
+      "title": "Valtuustoaloite 12/2025: vesijumpat uimahallissa",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252113-8",
+      "decision": "Kunnanvaltuusto toimittaa valtuustoaloitteen kunnanhallitukselle valmisteltavaksi",
+      "votes": [],
+      "initiative": {
+        "ref": "12/2025",
+        "proposer": "valtuustoaloitteen kunnanhallitukselle valmisteltavaksi.     Selostus   Viveca Lahti (SDP)",
+        "party": "sdp",
+        "name": null
+      },
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Valtuustoaloite: vesijumpat uimahallissa Valtuustoaloite 12/2025: vesijumpat uimahallissa Kunnanvaltuusto 01.09.2025 § 90 741/12.04.01/2025",
+        "paatos": "Kunnanvaltuusto toimittaa valtuustoaloitteen kunnanhallitukselle valmisteltavaksi",
+        "selostus": "Viveca Lahti (SDP) jätti kunnanvaltuuston kokouksessa 1.9.2025 seuraavan aloitteen: ” Monet kirkkonummelaiset osallistuvat vesijumppaan uimahallissa. Se on hyvä tapa ylläpitää kuntoa ja voida hyvin. Haluamme, että tämä toiminta jatkuu. Sekä Kirkkonummen nuoriso- ja liikuntapalvelut että Kirkkonummen kansalaisopisto järjestävät vesijumppaa uimahallissa. Lukukaudet ja hinnat eroavat toisistaan: Kansalaisopisto: Syyslukukausi 2025 on jaettu kahteen osaan. • Ensimmäinen osa: 1.9.–6.10. (6 kertaa) • Toinen osa: 20.10.–24.11. (6 kertaa) • Yhteensä 12 kertaa. Hinta: 31 € + 31 € = 62 € koko syyslukukaudelta. Nuoriso- ja liikuntapalvelut: Syyslukukausi 2025 on 1.9.–21.12. • Yhteensä 15 kertaa. Hinta: 42 € koko syyslukukaudelta. Kuntalaisten tasa-arvon vuoksi tulee vesijumppien syyslukukausien pituus olla 1.9.-21.12 sisältäen vähintään 15 vesijumppakertaa ja hinta enintään 42 €. Kansalaisopiston koko toiminnan osalta tulee myös tarkistaa lukukausien pituudet siten että kokoaikaiset palkatut opettajat opettavat aineitaan koko lukukauden aikana eikä niin kuin nykyään on. Viveca Lahti, SDP” Valtuustoaloitteen allekirjoittivat Viveca Lahden lisäksi seuraavat: Tuovi Ronkainen, Noora Kettunen, Tero Suominen, Minna Enqvist ja Sini Felipe"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtuustoaloite: vesijumpat uimahallissa",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252113-8-129718.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20252113-9",
+      "ordinal": "9",
+      "title": "Valtuustoaloite 13/2025: koulujen pihojen avaaminen lasten iltapäiväkäyttöön",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252113-9",
+      "decision": "Kunnanvaltuusto toimittaa valtuustoaloitteen kunnanhallitukselle valmisteltavaksi",
+      "votes": [],
+      "initiative": {
+        "ref": "13/2025",
+        "proposer": "onja Karkinen, Johanna Fleming, Maarit Orko, Sanni Jäppinen, Lauri Lavanti, Veera Väisänen",
+        "party": null,
+        "name": "Veera Väisänen"
+      },
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko valtuustoaloite: koulujen pihojen avaaminen lasten iltapäiväkäyttöön Valtuustoaloite 13/2025: koulujen pihojen avaaminen lasten iltapäiväkäyttöön Kunnanvaltuusto 01.09.2025 § 91 742/12.00.01/2025",
+        "paatos": "Kunnanvaltuusto toimittaa valtuustoaloitteen kunnanhallitukselle valmisteltavaksi",
+        "selostus": "Vihreä valtuustoryhmä / Miisa Jeremejew, Saara Huhmarniemi, Ronja Karkinen, Johanna Fleming, Maarit Orko, Sanni Jäppinen, Lauri Lavanti, Veera Väisänen jätti kunnanvaltuuston kokouksessa seuraavan aloitteen: ” Kirkkonummella on olemassa sekä rakenteilla useita kouluja monipuolisine piha-alueineen. Nämä piha-alueet tarjoavat erinomaiset mahdollisuudet lasten omaehtoiseen liikkumiseen, ulkoiluun ja leikkiin myös koulupäivän jälkeen. Valitettavasti monella koululla on voimassa ohjeistus, jonka mukaan oppilaiden tulee poistua koulun alueelta heti koulupäivän päätyttyä. Meidän tulisi kunnassa aktiivisesti edistää lasten ja nuorten hyvinvointia ja liikkumista. Yksi konkreettinen ja kustannustehokas keino, on mahdollistaa koulujen pihojen turvallinen ja salliva käyttö myös iltapäivisin. Hyvin suunnitellut piha-alueet voivat toimia tärkeänä arjen lähiliikuntapaikkana, joka vähentää ruutuaikaa ja tukee lasten fyysistä, sosiaalista ja psyykkistä hyvinvointia. Me allekirjoittaneet valtuutetut esitämme, että Kirkkonummen kunta laatii kaikkia kunnan kouluja koskevan linjauksen, jossa: • Määritellään koulujen pihoista alueet, joita voidaan käyttää myös koulupäivän jälkeen. • Selkeytetään vastuut ja vakuutusasiat siten, että koulujen pihojen käyttö on mahdollista ilman kohtuutonta hallinnollista tai taloudellista taakkaa. • Viestitään avoimesti ja kannustavasti perheille mahdollisuudesta käyttää koulujen pihoja myös iltapäivisin. Tämä on investointi lasten ja nuorten hyvinvointiin – ja samalla järkevä tapa hyödyntää kunnallista infraa täysipainoisesti. Miisa Jeremejew Vihreä valtuustoryhmä” Valtuustoaloitteen allekirjoittivat Vihreä valtuustoryhmän (Miisa Jeremejew, Saara Huhmarniemi, Ronja Karkinen, Johanna Fleming, Maarit Orko, Sanni Jäppinen, Lauri Lavanti, Veera Väisänen) lisäksi seuraavat: Piia Aallonharja, Noora Kettunen, Marjut Frantsi-Lankia, Matti Kaurila ja Minna Enqvist"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "valtuustoaloite: koulujen pihojen avaaminen lasten iltapäiväkäyttöön",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252113-9-129721.PDF"
+        }
+      ],
+      "proposals": []
+    }
+  ],
+  "id": "20252113",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20252113"
+}

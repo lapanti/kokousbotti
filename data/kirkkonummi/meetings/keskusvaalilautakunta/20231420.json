@@ -1,0 +1,74 @@
+{
+  "title": "Keskusvaalilautakunta Pöytäkirja 18.04.2023 klo 16:30 - 18:03 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Keskusvaalilautakunta",
+  "doctype": "Pöytäkirja",
+  "date": "2023-04-18",
+  "items": [
+    {
+      "id": "20231420-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231420-1",
+      "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi",
+      "sections": {
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Kokous todettiin lailliseksi ja päätösvaltaiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20231420-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231420-2",
+      "decision": "Keskusvaalilautakunta päätti yksimielisesti ehdotuksen mukaisesti. Pöytäkirjantarkastajiksi valittiin Kristiina Ahonen ja Mikko Tahko",
+      "sections": {
+        "valmistelija": "johdon assistentti Gunnel Ekström, etunimi.sukunimi@kirkkonummi.fi",
+        "paatosehdotus": "Keskusvaalilautakunta päättää 1 valita kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan 2 tarkastaa tämän pöytäkirjan sähköisesti seuraavan aikataulun mukaan: Torstaina 20.4.2023 lähetetään pöytäkirja sähköpostitse pöytäkirjantarkastajille, jotka ilmoittavat hyväksymisestään viimeistään maanantaina 24.4.2023. Jos hyväksymisviestiä ei tule sihteerille em. ajankohtaan mennessä, pöytäkirja katsotaan hyväksytyksi. Pöytäkirja allekirjoitetaan sähköisesti. Pöytäkirja on nähtävänä tiistaina 25.4. 2023 kunnan verkkosivulla",
+        "paatos": "Keskusvaalilautakunta päätti yksimielisesti ehdotuksen mukaisesti. Pöytäkirjantarkastajiksi valittiin Kristiina Ahonen ja Mikko Tahko"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20231420-3",
+      "ordinal": "3",
+      "title": "Eduskuntavaalien palaute",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231420-3",
+      "decision": "Keskusvaalilautakunta päätti yksimielisesti ehdotuksen mukaisesti",
+      "sections": {
+        "valmistelija": "keskusvaalilautakunnan sihteeri Rasmus Beck etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Hallintojohtaja Suihkonen Jaana Keskusvaalilautakunta päättää 1 merkitä tiedoksi eduskuntavaaleista saatu palaute ja parannusehdotukset. Saadut huomiot sekä vaaleja varten suoritettavien tehtävien kuvaukset merkitään vaalityön käsikirjaan. 2 päivittää vaalimainostelineiden määrän ja telineiden sijainnit kokouksessa esitettyjen ehdotusten mukaisesti",
+        "paatos": "Keskusvaalilautakunta päätti yksimielisesti ehdotuksen mukaisesti",
+        "selostus": "Vaalilautakunnilta, vaalilautakuntien IT-tukihenkilöiltä, ennakkoäänestyksen vaalitoimitsijoilta sekä ennakkoäänten tarkastustehtävissä työskenneiltä on kysytty palautetta eduskuntavaaleista ja vaalien järjestelyistä. Esitetään eduskuntavaaleista saatu palaute sekä parannusehdotukset. Esitetään myös keskusvaalilautakunnan huomiot vaalimainostelineistä sekä vaalimainostelineiden sijaintien muutosehdotukset"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20231420-4",
+      "ordinal": "4",
+      "title": "Muut asiat",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231420-4",
+      "decision": null,
+      "sections": {},
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    }
+  ],
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20231420",
+  "id": "20231420"
+}

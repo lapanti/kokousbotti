@@ -1,0 +1,250 @@
+{
+  "title": "Kuntakehityksen lautakunta Pöytäkirja 16.04.2026 klo 17:00 - 19:55 ⁄ Tarkastettu Elektroninen teams-kokous | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Kuntakehityksen lautakunta",
+  "doctype": "Pöytäkirja",
+  "date": "2026-04-16",
+  "items": [
+    {
+      "id": "20262339-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262339-1",
+      "decision": "Puheenjohtaja totesi kokouksen laillisesti koolle kutsutuksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Puheenjohtaja totesi kokouksen laillisesti koolle kutsutuksi ja päätösvaltaiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20262339-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajan valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262339-2",
+      "decision": "Kuntakehityksen lautakunta päätti päätösehdotuksen mukaisesti. Pöytäkirjantarkistajaksi valittiin Lauri Lavanti",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kuntakehityksen lautakunta päättää 1 valita yhden pöytäkirjantarkastajan tarkastamaan tämän kokouksen pöytäkirjan 2 tarkastaa tämän pöytäkirjan sähköisesti seuraavan aikataulun mukaan: Pöytäkirja tarkastetaan tiistaina 21.4.2026. Jos hyväksymisviestiä ei tule sihteerille em. ajankohtaan mennessä, pöytäkirja katsotaan hyväksytyksi. Tarkastettu pöytäkirja asetetaan yleisesti nähtäville kunnan julkiseen tietoverkkoon keskiviikkona 22.4.2026",
+        "paatos": "Kuntakehityksen lautakunta päätti päätösehdotuksen mukaisesti. Pöytäkirjantarkistajaksi valittiin Lauri Lavanti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20262339-3",
+      "ordinal": "3",
+      "title": "Kirkkonummen kävelyn ja pyöräilyn edistämisohjelma",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262339-3",
+      "decision": "Kuntakehityksen lautakunta päätti palauttaa asian valmisteluun siten, että palautuksen aikana tehdään edistämisohjelmasta maksimissaan 20 sivuinen tiivistelmä, joka toimii varsinaisena edistämisohjelmana ja muu materiaali oheismateriaalina. Tiivistelmään tehdään uusi teemakartta, jossa esitetään olemassa olevat koulut ja ne kävelyn ja pyöräilyn toimenpiteet, joilla saadaan säästöjä koulukuljetuskustannuksiin ja parannetaan koulumatkojen turvallisuutta. Nämä toimenpiteet pisteytetään tiivisteraportin vertailussa vahvalla prioriteetilla. sekä evästää seuraavasti: palautuksen aikana esitetään kävelyteiden varsiin rakennettavien penkkien toteutusperiaatteet",
+      "votes": [
+        {
+          "jaa": [
+            "Pekkarniemi Pinja",
+            "Ronkainen Tuovi",
+            "Lavanti Lauri",
+            "Lahti Jukka"
+          ],
+          "ei": [
+            "Granström Anneli",
+            "Dannbäck Jessica",
+            "Castrén Heidi",
+            "Kaurila Matti",
+            "Vasenius Thomas",
+            "Ragnell Sami"
+          ],
+          "tyhja": [],
+          "named_by": "surname",
+          "totals": {
+            "jaa": 4,
+            "ei": 6,
+            "tyhja": 0
+          },
+          "as_written": {
+            "jaa": [
+              "Pekkarniemi",
+              "Ronkainen",
+              "Lavanti",
+              "Lahti"
+            ],
+            "ei": [
+              "Granström",
+              "Dannbäck",
+              "Castrén",
+              "Kaurila",
+              "Vasenius",
+              "Ragnell"
+            ],
+            "tyhja": []
+          },
+          "names_from": "osallistujat",
+          "unresolved": [],
+          "parties": {
+            "jaa": {
+              "vihr": 2,
+              "sdp": 2
+            },
+            "ei": {
+              "ps": 1,
+              "rkp": 2,
+              "kok": 3
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "asian käsittelyn jatkamista",
+            "ei_label": "palautusehdotusta",
+            "jaa_kind": "other",
+            "ei_kind": "jatkokasittely",
+            "kind": "procedural_substantive",
+            "rationale": "Käsittelyn aikana Matti Kaurila teki seuraavan palautusehdotuksen: ”Asia palautetaan uuteen valmisteluun.",
+            "winner": "ei",
+            "source": "parsed",
+            "evidence": "Ne, jotka kannattavat asian käsittelyn jatkamista, äänestävät JAA ja ne, jotka kannattavat palautusehdotusta, äänestävät EI — Äänet jakautuivat seuraavasti: 4 JAA-ääntä (Pekkarniemi, Ronkainen, Lavanti, Lahti) 6 EI- ääntä (Granström, Dannbäck, Castrén, Kaurila, Vasenius, Ragnell)"
+          }
+        }
+      ],
+      "sections": {
+        "liitteet": "Numero Otsikko 1\n1 Kirkkonummen kävelyn ja pyöräilyn edistämisohjelma raportti_9.4.2026_ehdotus_KuKe (pdf 16.94 mb) 2\n2 Kirkkonummen kävelyn ja pyöräilyn edistämisohjelma LIITTEET 1-4_9.4.2026_ehdotus_KuKe (pdf 18.53 mb) Kokousasian teksti Kirkkonummen kävelyn ja pyöräilyn edistämisohjelma Kuntakehityksen lautakunta 16.04.2026 § 39 403/02.08.00.01/2025\nKirkkonummen kävelyn ja pyöräilyn edistämisohjelma ja liitteet",
+        "valmistelija": "Liikennesuunnittelija Marko Suni etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kuntakehitysjohtaja Kauppinen Anna-Kaisa Kuntakehityksen lautakunta päättää esittää kunnanhallitukselle ja edelleen valtuustolle Kirkkonummen kävelyn ja pyöräilyn edistämisohjelman hyväksymistä",
+        "kasittely": "Käsittelyn aikana Matti Kaurila teki seuraavan palautusehdotuksen: ”Asia palautetaan uuteen valmisteluun. Palautuksen aikana tehdään edistämisohjelmasta maksimissaan 20 sivuinen tiivistelmä, joka toimii varsinaisena edistämisohjelmana ja muu materiaali oheismateriaalina. Tiivistelmään tehdään uusi teemakartta, jossa esitetään olemassa olevat koulut ja ne kävelyn ja pyöräilyn toimenpiteet, joilla saadaan säästöjä koulukuljetuskustannuksiin ja parannetaan koulumatkojen turvallisuutta. Nämä toimenpiteet pisteytetään tiivisteraportin vertailussa vahvalla prioriteetillä.” Sami Ragnell, Heidi Castrén, Thomas Vasenius ja Anneli Granström kannattivat ehdotusta. Puheenjohtaja totesi, että palautusehdotusta ei kannateta yksimielisesti, joten asiasta tulee äänestää. Puheenjohtaja käynnisti äänestyksen. Ne, jotka kannattavat asian käsittelyn jatkamista, äänestävät JAA ja ne, jotka kannattavat palautusehdotusta, äänestävät EI. Puheenjohtaja päätti äänestyksen. Äänet jakautuivat seuraavasti: 4 JAA-ääntä (Pekkarniemi, Ronkainen, Lavanti, Lahti) 6 EI- ääntä (Granström, Dannbäck, Castrén, Kaurila, Vasenius, Ragnell), jolloin puheenjohtajan palautusehdotus voitti. Matti Kaurila teki seuraavan palautusevästyksen: ” Palautuksen aikana esitetään kävelyteiden varsiin rakennettavien penkkien toteutusperiaatteet.” Sami Ragnell, Anneli Granström, Heidi Castrén, Thomas Vasenius ja Jessica Dannbäck kannattivat evästystä",
+        "paatos": "Kuntakehityksen lautakunta päätti palauttaa asian valmisteluun siten, että palautuksen aikana tehdään edistämisohjelmasta maksimissaan 20 sivuinen tiivistelmä, joka toimii varsinaisena edistämisohjelmana ja muu materiaali oheismateriaalina. Tiivistelmään tehdään uusi teemakartta, jossa esitetään olemassa olevat koulut ja ne kävelyn ja pyöräilyn toimenpiteet, joilla saadaan säästöjä koulukuljetuskustannuksiin ja parannetaan koulumatkojen turvallisuutta. Nämä toimenpiteet pisteytetään tiivisteraportin vertailussa vahvalla prioriteetilla. sekä evästää seuraavasti: palautuksen aikana esitetään kävelyteiden varsiin rakennettavien penkkien toteutusperiaatteet",
+        "selostus": "Kirkkonummen kunta on laatinut vuoden 2025 ja alkuvuoden 2026 aikana ehdotuksen Kirkkonummen kävelyn ja pyöräilyn uudeksi edistämisohjelmaksi. Ensimmäinen kävelyn ja pyöräilyn kehittämisohjelma on vuodelta 2017. Se on osin vanhentunut ja varsin suppea keskittyen vain infrastruktuuriin sekä sen toimenpideohjelma on pitkälti toteutettu. Myös uudet valtakunnalliset kävelyn ja pyöräilyn suunnitteluohjeet ovat päivittyneet 2020-luvun alkupuolella. Lisäksi pyöräilyn kulkumuoto-osuus ei ole kehittynyt Kirkkonummella tavoitteen mukaisesti. Erityisesti pyöräilyn kulkumuoto-osuuden kasvattaminen ja pyöräilyn kehittäminen vaatii Kirkkonummella panostuksia unohtamatta kävelyä ja sen huomioimista. Kävelyn ja pyöräilyn edistäminen vahvistaa kuntalaisten arjen sujuvuutta, terveyttä ja turvallisuutta. Kestävään liikkumiseen perustuvat alueet koetaan viihtyisiksi ja turvallisiksi, ja alueiden tai kohteiden hyvä saavutettavuus kävellen tai pyörällä lisää liikkumisen tasa-arvoisuutta ja ennen kaikkea ihmisten hyvinvointia. Kävelyyn ja pyöräilyyn perustuvat alueet ovat myös yhdyskuntataloudellisesti tehokkaita ratkaisuja maankäytön suunnittelussa. Kävelyn ja pyöräilyn edistämiseen liittyy myös kansallisiin ja EU:n ilmastotavoitteisiin, jotka pyrkivät vähentämään kasvihuonekaasupäästöjä merkittävästi. Kirkkonummi on Kohti hiilineutraalia kuntaa (HINKU) -verkoston jäsen ja sitoutunut vähentämään päästöjä 80 prosenttia vuoteen 2030 mennessä vuoden 2007 päästötasoon verrattuna. Kirkkonummen kunta on hakenut ja saanut valtionavustuspäätöksen työhön Liikenne- ja viestintävirasto Traficomilta. Valtionavustus on 75 % tai enintään 30 000 € (alv 0 %) työn kustannuksista. Työ toteutettiin konsulttityönä. Konsulttina toimi Ramboll Finland Oy. Kunta ohjasi ja osallistui tiiviisti työn ohjaamiseen. Hanketta varten perustettiin ohjaus- ja projektiryhmät. Työhön osallistuttiin kunnan eri toimialoilta ja mukana oli myös keskeisimmät viranomaissidosryhmät. Kirkkonummen kävelyn ja pyöräilyn edistämisohjelman tavoitteeksi asetetiin seuraavat: edistää kestävää liikkumista, lisätä kävelyn ja erityisesti pyöräilyn osuutta kirkkonummelaisten liikkumisessa, parantaa kävely- ja pyöräilyolosuhteita sekä luoda kävelyyn ja pyöräilyyn kannustavaa kulttuuria. Tavoitteena oli laatia kattava edistämisohjelma, jossa määritellään selkeät tavoitteet ja toimenpiteet kävelyn ja pyöräilyn edistämiseksi Kirkkonummella. Edistämisohjelmassa laadittiin Kirkkonummen kävelyn ja pyöräliikenteen visio vuodelle 2040 ja viisi tavoitetta kävelylle ja pyöräilylle. Ohjelmassa laadittiin pyöräilyn tavoiteverkko ja määriteltiin tärkeimmät kävelyalueet. Tavoiteverkko muodostuu pyöräilyn pää- ja aluereiteistä. Kävelyn ja pyöräilyn lisäämiseksi ja turvallisuuden parantamiseksi keskeistä on yhteyspuutteiden toteutus, kävelyn ja pyöräilyn erottelu keskeisillä osuuksilla ja infrastruktuurin laatutason nosto valtakunnallisten ohjeiden ja tavoitteiden mukaisesti. Paikallisreittejä ei käsitelty työn rajauksen vuoksi, koska ne toteutetaan pääasiassa aina asemakaavojen yhteydessä. Työn tärkein vaihe oli luoda toimenpideohjelma tavoitteiden saavuttamiseksi. Edistämisohjelman tavoitteiden toteutuminen perustuu kolmeen keskeiseen toimenpidekokonaisuuteen: Resurssit ja yhteistyö (koordinaatio, rahoitus, poikkihallinnollisuus) Olosuhteet ja ympäristö (infra ja maankäyttö) Liikkumistottumukset ja -kulttuuri (viestintä, liikennekasvatus, pyöräily- ja kävelykulttuuri) Toimenpidekokonaisuudet on jaettu varsinaisiin toimenpiteisiin, jotka on valittu niiden arvioidun vaikuttavuuden, toteutettavuuden ja kustannustehokkuuden perusteella. Lisäksi ohjelmassa muodostettiin alustavat infratoimenpiteiden listaukset, joita tarkennetaan työn toimeenpanon edetessä. Infratoimenpiteet kattavat keskeisen pyöräilyn tavoiteverkon ja kävelyalueiden alustavat toimenpide-ehdotukset. Pyöräverkon toimenpiteille tehtiin alustava priorisointijärjestys (toteutusluokka 1-3) perustuen kunnallistekniikan investointiohjelmaan 2026-2030, maankäytön suunnitteluhankkeiden mahdolliseen ajoittumiseen ja pyöräverkon hankkeiden ajoittamiseen tasaisesti vuoteen 2040 mennessä. Hankkeiden järjestys voi muuttua tilanteiden muuttuessa. Lisäksi työ kattaa pyöräpysäköinnin tarkasteltavat pyöräpysäköintikohteet, joista mahdolliset parantamistarpeet pitää tarkentaa erikseen myöhemmin. Hankkeen aikana toteutettiin asukaskysely, josta viestittiin laajasti kuntalaisille. Asukaskysely oli työssä keskeinen toimenpide, joka tuotti tärkeää lähtöaineistoa työn pohjaksi. Siihen saatiin hyvin vastauksia, sillä vastaajia oli noin 1100, mikä ylitti odotuksen. Kyselyn aineistoa hyödynnettiin toimenpideohjelman muodostuksessa ja infratoimenpiteiden määrittelyssä. Kirkkonummen kunnan päätöksentekijöillä oli mahdollisuus osallistua työpajoihin asukaskyselyn lisäksi. Hankkeessa toteutettiin kaksi työpajaa sidosryhmille ja päätöksentekijöille: tavoitetyöpaja oli syyskuun 2025 lopussa ja toimenpidetyöpaja joulukuun alussa. Työpajoihin oli kutsuttu kaikki kunnanvaltuutetut ja kunnanhallituksen, kuntakehityksen ja sivistys- ja hyvinvointilautakuntien varsinaiset jäsenet sekä vaikuttamiselimistä ja sidosryhmistä edustajat. Työpajoissa jaettiin informaatiota ja osallistettiin kävelyn ja pyöräilyn ohjelman valmisteluun. Niissä tuotettiin lähtöaineistoa tavoitteiden ja toimenpideohjelman muodostamiseksi. Työssä laadittiin myös alustavat ehdotukset seurantamittareiksi, joita voidaan tarkentaa tai muuttaa tarvittaessa vielä. Edistämisohjelmassa on esitetty taloudellisia- ja henkilöstöresurssien varauksia ohjelman toteuttamiseksi. Edistämisohjelman toteutus on ennen kaikkea riippuvainen työhön varattavista talous- ja henkilöresursseista, sillä ilman lisäresurssointia ei ohjelmaa ole toteutettavissa tavoitteiden mukaisesti. Päätökset työn toteutukseen myönnettävistä taloudellisista resursseista tehdään vuosittain kunnan talousarvion yhteydessä. Ohjelma on strateginen ohjelma, jonka tarkoitus on ohjata kunnan toimintaa ja päätöksentekoa strategisella tasolla"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": "Liite 1",
+          "title": "Kirkkonummen kävelyn ja pyöräilyn edistämisohjelma raportti_9.4.2026_ehdotus_KuKe",
+          "size": "pdf 16.94 mb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20262339-3-141683.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": "Liite 2",
+          "title": "Kirkkonummen kävelyn ja pyöräilyn edistämisohjelma LIITTEET 1-4_9.4.2026_ehdotus_KuKe",
+          "size": "pdf 18.53 mb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20262339-3-141684.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Matti Kaurila",
+          "kind": "palautusehdotus",
+          "text": "”Asia palautetaan uuteen valmisteluun. Palautuksen aikana tehdään edistämisohjelmasta maksimissaan 20 sivuinen tiivistelmä, joka toimii varsinaisena edistämisohjelmana ja muu materiaali oheismateriaalina. Tiivistelmään tehdään uusi teemakartta, jossa esitetään olemassa olevat koulut ja ne kävelyn ja pyöräilyn toimenpiteet, joilla saadaan säästöjä koulukuljetuskustannuksiin ja parannetaan koulumatkojen turvallisuutta. Nämä toimenpiteet pisteytetään tiivisteraportin vertailussa vahvalla prioriteetillä.” Sami Ragnell, Heidi Castrén, Thomas Vasenius ja Anneli Granström kannattivat ehdotusta",
+          "source": "introduction",
+          "party": "kok"
+        }
+      ]
+    },
+    {
+      "id": "20262339-4",
+      "ordinal": "4",
+      "title": "Vastaus valtuustoaloitteeseen 8⁄2018: Kirkkonummen tiet kuntoon!",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262339-4",
+      "decision": "Kuntakehityksen lautakunta päätti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "initiative": {
+        "ref": "8/2018",
+        "proposer": "t 9.4.2018 seuraavan valtuustoaloitteen:   Kirkkonummella valtion kunnossapidossa olevat t",
+        "party": "kok",
+        "name": null
+      },
+      "sections": {
+        "valmistelija": "Kunnossapitopäällikkö Annika Selart etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kuntakehitysjohtaja Kauppinen Anna-Kaisa Kuntakehityksen lautakunta päättää antaa selostuksen mukaisen vastauksen valtuustoaloitteeseen 8/2018 ”Kirkkonummen tiet kuntoon!” ja esittää kunnanhallitukselle ja edelleen kunnanvaltuustolle, että valtuusto pitää vastausta riittävänä ja aloitetta loppuun käsiteltynä",
+        "paatos": "Kuntakehityksen lautakunta päätti päätösehdotuksen mukaisesti",
+        "selostus": "Kokoomuksen valtuustoryhmä on jättänyt 9.4.2018 seuraavan valtuustoaloitteen: Kirkkonummella valtion kunnossapidossa olevat tiet ovat monin paikoin luokattomassa kunnossa. Puutteellisen kunnossapidon johdosta teissä on laajalti halkeamia, patteja, kuoppia ja isoja reikiä. Teiden rappioitunut kunto aiheuttaa merkittävän turvallisuusriskin. Huomion keskittyessä kuoppien väistelyyn, muun liikenteen ja esim. riistaeläinten havainnointi heikkenee olennaisesti. Mopoille, moottoripyörille ja pyöräilijöille syvät kuopat ja epätasaisuudet ovat itsessäänkin hengenvaarallisia. Erityisen huonossa kunnossa ovat ainakin Kabanovintie, Lamminpääntie, Masalantie, Överbyntie ja Porkkalantie, joista viimeksi mainittu on muutenkin vaaralliseksi luokiteltu. Aiemmat paikkakorjaukset ovat olleet laaduttomia tai riittämättömiä, sillä kuopat uusiutuvat nopeasti. Me valtuustoaloitteen allekirjoittaneet edellytämme kunnalta aktiivisempaa otetta valtion tieviranomaisen kanssa käytyihin neuvotteluihin ja vastaavien virkamiesten välitöntä yhteydenottoa ELY-keskukseen, jotta tilanne saataisiin Kirkkonummella edes tyydyttävälle tasolle . Edellytämme, että vastauksena valtuustoaloitteeseen on esitetty ne toimenpiteet, joilla Kirkkonummella on edesautettu sitä, että tiet, joilla liikumme, olisivat paremmassa kunnossa ja niiden kunnossapito hyvällä tasolla. Edellytämme myös, että kunta julkaisee kartan tai listan siitä mille taholle eri teiden ylläpito kuuluu , sekä ohjeet kuntalasille miten teiden huonosta kunnosta tai aiheutuneista vahingoista voi reklamoida. Vastaus valtuustoaloitteeseen Valtuustoaloitteessa kiinnitetään huomiota Kirkkonummen alueella sijaitsevien valtion ylläpitämien maanteiden heikkoon kuntoon sekä edellytetään kunnalta aktiivisempaa vaikuttamista valtion tieviranomaisiin. Lisäksi aloitteessa edellytetään selvitystä tehdyistä toimenpiteistä, tietoa eri teiden kunnossapitovastuista sekä kartan tai listan julkaisemista tienpitäjistä ja ohjeista reklamaatioiden tekemiseen. Kunnanvaltuusto palautti asian 3.9.2018 uudelleen valmisteltavaksi evästyksin, että laaditaan listaus ja/tai tilasto ongelmallisten teiden ja siltojenkuntoluokista, käyttäjämääristä ja onnettomuuksista ylemmän päätöksenteon vaikuttamisen tueksi sekä laaditaan erikseen tai yhdessä muiden lähikuntien kanssa virallinen lausunto teiden korjausmäärärahojen akuutista lisäystarpeesta. Vastuut maanteiden kunnossapidossa Kirkkonummen kunnan alueella maanteiden (valtion tiet) omistuksesta, ylläpidosta ja peruskorjauksesta vastaa valtio. Tilaajaviranomaisena toimii Väylävirasto ja alueellisesta yhteistyöstä vastaa Uudenmaan elinkeino, liikenne- ja ympäristökeskus, vuoden 2026 alusta Elinvoimakeskus. Kunnalla ei ole toimivaltaa päättää valtion maanteiden kunnossapidon tasosta tai rahoituksesta. Kunta vastaa: • asemakaava-alueiden katujen kunnossapidosta • erikseen määritellyistä yksityisteiden avustuksista Yksityisteiden kunnossapidosta vastaavat tiekunnat ja tieosakkaat. Tiedottaminen ja palautejärjestelmät Kunta ylläpitää katu-, yksityistie- ja viherrekistereitä, joiden pohjalta on laadittu karttapalvelu, josta ilmenee tienpitäjä katukohtaisesti. Kartta on julkaistu kunnan verkkosivuilla. Palautekanavat: • Valtion maantiet: Liikenteen asiakaspalvelu / Tienkäyttäjän linja (puh. 0200 2100) liikenneturvallisuutta vaarantavista tai liikennettä selvästi haittaavista vaurioista. • Kunnan kadut: Kunnan sähköinen palautejärjestelmä. • Yksityistiet: Tiekunnat tai tieosakkaat. Kunta on kehittänyt sisäistä palauteprosessiaan siten, että valtion teitä koskevat ilmoitukset ohjataan suoraan oikealle viranomaiselle. Valtuuston edellyttämä listaus ja tilastot Valtuuston palautusehdotuksen mukaisesti kunta on koonnut ja välittänyt valtion viranomaisille tietoa: • Kirkkonummen alueen maanteiden kuntoluokituksista (perustuen valtion julkisiin tietoihin) • Liikennemääristä (KVL) vilkkaimmilla tieosuuksilla • Onnettomuustilastoista (Traficomin ja ELY-keskuksen aineistot) • Kunnan tietoon tulleista palautteista ja havainnoista erityisen ongelmallisista kohteista Koosteita on hyödynnetty viranhaltijatapaamisissa sekä lausunnoissa, jotka koskevat Uudenmaan tieverkon suunnittelua ja rahoitusta. Lausunto määrärahojen riittävyydestä Kunta on lausunnoissaan Uudenmaan tieverkon suunnitelmista tuonut esille perustienpidon määrärahojen riittämättömyyden sekä alemman tieverkon kasvavan korjausvelan. Lisäksi asiaa on käsitelty seudullisissa liikennejärjestelmäsuunnittelun hankkeissa ja viranomaisneuvotteluissa. Mahdollisuuksia yhteisiin lausuntoihin naapurikuntien kanssa on tarkasteltu osana seudullista yhteistyötä. Kunnalla ei ole taloudellisia tai hallinnollisia keinoja velvoittaa valtiota lisäämään rahoitusta, mutta kunta on käyttänyt käytettävissään olevia virallisia ja epävirallisia vaikuttamiskanavia. Tilanne aloitteessa mainittujen teiden osalta Aloitteessa (9.4.2018) mainituista tieosuuksista valtaosa on sittemmin peruskorjattu tai uudelleenpäällystetty valtion toimesta. Osa yksittäisistä kohteista on edelleen noussut esiin palautteissa, ja kunta on välittänyt tiedot edelleen ELY-keskukselle. Koska aloite on vuodelta 2018, alkuperäinen tilanne on useimpien tieosuuksien osalta olennaisesti muuttunut. Yhteistyön jatkokehittäminen Kunta jatkaa aktiivista vuorovaikutusta valtion viranomaisten kanssa seuraavin keinoin: • Säännölliset koordinaatiotapaamiset Väyläviraston ja Uudenmaan elinkeino-, liikenne- ja ympäristökeskuksen kanssa. • Kirkkonummen kannalta kriittisten maantieosuuksien priorisointilista • Liikenneturvallisuustyöryhmän kautta vaikuttaminen • Selkeä ja ajantasainen tiedottaminen kuntalaisille kunnossapitovastuista ja reklamaatiokanavista"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20262339-5",
+      "ordinal": "5",
+      "title": "Vastaus valtuustoaloitteeseen 4⁄2024: Kirkkonummen kunnan tulee viipymättä parantaa Upinniementien ja Naissaarentien risteysalueen turvallisuutta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262339-5",
+      "decision": "Kuntakehityksen lautakunta päätti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "initiative": {
+        "ref": "4/2024",
+        "proposer": "mukaisesti.   Tiedoksi   Selostus     Kim Liljequist (RKP) ja Jerri Kämpe-Hellenius (RKP)",
+        "party": "rkp",
+        "name": null
+      },
+      "sections": {
+        "valmistelija": "Kunnossapitopäällikkö Annika Selart etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kuntakehitysjohtaja Kauppinen Anna-Kaisa Kuntakehityksen lautakunta päättää antaa selostuksen mukaisen vastauksen valtuustoaloitteeseen 4/2024: \"Kirkkonummen kunnan tulee viipymättä parantaa Upinniementien ja Naissaarentien risteysalueen turvallisuutta” ja esittää kunnanhallitukselle ja edelleen kunnanvaltuustolle, että valtuusto pitää vastausta riittävänä ja aloitetta loppuun käsiteltynä",
+        "paatos": "Kuntakehityksen lautakunta päätti päätösehdotuksen mukaisesti",
+        "selostus": "Kim Liljequist (RKP) ja Jerri Kämpe-Hellenius (RKP) jättivät kunnanvaltuuston kokouksessa 5.4.2024 seuraavan valtuustoaloitteen: ”Upinniementie on Kirkkonummen vilkasliikenteisimpiä teitä, varsinkin aamu- ja iltapäiväruuhkan aikana. Ajoneuvojen lukumäärä voi suurimmillaan olla 1 500 ajoneuvoa tunnissa ruuhkahuippuna, sisältäen henkilö- ja pakettiautoja, työkoneita, linja-autoja ja raskaita ajoneuvoja. Tilannenopeudet ylittävät usein sallitun nopeusrajoituksen, ja yksittäiset ajoneuvot ajavat reipasta ylinopeuttakin. Ruuhka-aikaan pienet lapset ja oppilaat ylittävät erittäin vaaralliseksi osoittautuneen Upinniementien ja Naissaarentien risteysalueen matkalla kouluihin tai risteyksestä katsottuna kahteen 100 metrin päässä olevaan päiväkotiin. Aamuin ja illoin, oli kyseessä sitten hyvä näkyvyys kesäisenä aurinkoisena iltapäivänä, tai olematon näkyvyys syksyisenä, sateisena aamuna. Puhumattakaan ylityspaikan muista käyttäjistä, heillekin ylityspaikka on yhtä vaarallinen. Henkilövahinkoja sisältäviä onnettomuuksia on jo sattunut, ja lähellä piti-tilanteita sekä perään- ja ojaanajoja on ollut useita. Huolestuneet vanhemmat, asukasaktiivit ja alueen asukkaat ovat runsaslukuisina ottanut yhteyttä Kirkkonummen kunnan viranhaltijoihin ja luottamushenkilöihin, ELY-keskukseen sekä Poliisiin. Emme voi odottaa siihen asti, kunnes risteysalueella sattuu kuolonkolari. Upinniementien ja Naissaarentien risteysalueen turvallisuutta on syytä parantaa viipymättä. Lyhytaikainen turvallisuusparannus olisi tehtävissä järkevin kustannuksin esimerkiksi Välkky-turvallisuusratkaisulla, jonka kustannusarvio kahdesta laitteistosta on n. 3 750 € (sis. alv) + vaihdettavien vaihtoakkujen hinta n. 600 €/pari. Ehdotamme että tämä investointikustannus otetaan liikenneturvallisuutta parantavien toimenpiteiden budjetista, joille vuoden 2024 talousarvioneuvotteluissa osoitettiin 10 000 euron lisämääräraha. Lisätietoja Välkkyjen positiivisesta vaikutuksesta onnettomuuksien määrään löytyy täältä https://www.hs.ﬁ/autot/art-2000006298773.html. Välkyn kotisivut löytyvät osoitteesta https://www.innotraﬁk.com/liikenne/yleiskuvaus/) (joista alla näkyvä kuva on lainattu). Kuva Tosin Välkky on vain lyhytaikainen ratkaisu. Pitkäaikaisissa turvallisuusratkaisuissa (joihin myös Pranglintien risteys otettava mukaan) on punnittava, olisivatko liikennevalot, liikenneympyrä vai alikulku järkevin ratkaisu. Me allekirjoittaneet esitämme, että Upinniementien ja Naissaarentien risteysalueen turvallisuuden parantamisen suunnitteluun pitää tarttua viipymättä, ja että ensimmäiset turvallisuutta parantavat toimenpiteet olisivat valmiina, kun kouluvuoden 2024–2025 syyslukukausi alkaa elokuussa 2024.” Vastaus valtuustoaloitteeseen Upinniementien ylitykseen Naissaarentien kohdalle on syksyllä 2024 asennettu Välkky-suojatievaroittimet. Asennus toteutettiin osana liikenneturvallisuuskampanjaa, jossa LähiTapiola lahjoitti Välkky-suojatievaroittimia kolmelle paikkakunnalle, joista yksi oli Kirkkonummi. Välkky on kotimainen liikenneturvallisuusinnovaatio, joka tunnistaa suojatietä lähestyvät jalankulkijat ja varoittaa ajoneuvoliikennettä vilkkuvin valoin. Laitteen valmistaa suomalainen InnoTrafik Oy. Ratkaisun tavoitteena on parantaa suojateiden havaittavuutta ja lisätä autoilijoiden reagointiaikaa erityisesti kohteissa, joissa liikennemäärät ovat suuria ja jalankulkijoina on paljon lapsia. Upinniementien ja Naissaarentien risteysalueella Välkkyjen käyttöönoton jälkeen on havaittu ajonopeuksien rauhoittumista suojatien kohdalla sekä ajoneuvojen pysähtymisherkkyyden parantumista jalankulkijoiden ylittäessä tietä. Toimenpiteellä on siten vastattu aloitteessa esitettyyn välittömään turvallisuushuoleen. Kunta seuraa kohteen liikenneturvallisuuden kehittymistä ja arvioi tarvittaessa lisätoimenpiteitä osana liikenneturvallisuustyötä ja investointiohjelman valmistelua. Mahdolliset pysyvämmät ratkaisut, kuten liikennevalot tai muut rakenteelliset muutokset, edellyttävät erillistä suunnittelua, vaikutusten arviointia sekä määrärahojen varaamista talousarviossa"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20262339-6",
+      "ordinal": "6",
+      "title": "Talouden ja toiminnallisten tavoitteiden toteutuminen, kuntakehityksen lautakunta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262339-6",
+      "decision": "Kuntakehityksen lautakunta päätti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kuntakehitysjohtaja Kauppinen Anna-Kaisa Kuntakehityksen lautakunta päättää merkitä taloustilanteen sekä toiminnallisten tavoitteiden tilanteen tiedoksi",
+        "paatos": "Kuntakehityksen lautakunta päätti päätösehdotuksen mukaisesti",
+        "selostus": "Lautakunnalle esitetään kokouksessa v. 2026 taloustilanne"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20262339-7",
+      "ordinal": "7",
+      "title": "Ilmoitusasioita tiedoksi",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262339-7",
+      "decision": "Kuntakehityksen lautakunta päätti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kuntakehityksen lautakunta merkitsee ilmoitusasiat tiedokseen. - hallituksen esitykset Yhdyskuntakehittämislaiksi ja yhdyskuntarakentamislaiksi ovat lausuttavina 4.5.2026 asti. Lautakunnalle esitellään lakien keskeinen sisältö. Kunnan lausunnon antaa kunnanhallitus. Uudessa yhdyskuntakehittämislaissa säädettäisiin yhdyskuntarakentamisen kustannusten korvaamisesta, kuntien maapolitiikasta, kehittämisalueista, tonttijaosta sekä maan luovuttamisesta, lunastamisesta ja kaavan toteuttamisen korvauksista. Uudessa yhdyskuntarakentamislaissa säädettäisiin katujen, puistojen ja muiden yleisten alueiden suunnittelusta, rakentamisesta ja kunnossapidosta. Laissa säädettäisiin myös periaatteista, joilla teknisiä verkkoja voidaan sijoittaa kuntien yleisille alueille sekä kuntien mahdollisuuksista ohjata yleisillä alueilla tehtäviä töitä. Lisäksi laissa linjattaisiin hulevesien käsittelystä rakennetussa ympäristössä. - Kaavoitusohjelman toteutumisen tilannekatsaus Lautakunta päätti pitää tauon pykälän käsittelyn aikana klo 19.35 – 19.40. Liikennesuunnittelija Marko Suni poistui kokouksesta klo 19.35",
+        "paatos": "Kuntakehityksen lautakunta päätti päätösehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20262339-8",
+      "ordinal": "8",
+      "title": "Kirkkonummen aluehoitourakka 1 1.11.2023-31.10.2026 (optio 1.11.2026-31.10.2027 ja 1.11.2027-31.10.2028), option käyttö",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262339-8",
+      "decision": "Kuntakehityksen lautakunta päätti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "Kunnossapitopäällikkö Annika Selart etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kuntakehitysjohtaja Kauppinen Anna-Kaisa Kuntakehityksen lautakunta päättää 1. ottaa asian käsiteltäväkseen erillisesti jaetulta lisälistalta 2. käyttää 1. vuoden optiota (1.11.2026-31.10.2027) aluehoitourakassa 1",
+        "paatos": "Kuntakehityksen lautakunta päätti päätösehdotuksen mukaisesti",
+        "selostus": "Yhdyskuntatekniikan lautakunta on kokouksessaan 31.08.2023 § 95 päättänyt valita Kirkkonummi alueuhoitourakka 1 1.11.2023-31.10.2026 urakoitsijaksi Alltime Infrapalvelut Oy:n. Urakkasopimuksessa ja -ohjelmassa todetaan, että jos tilaaja katsoo urakoitsijan toimineen sopimuskaudella urakka-asiakirjojen toimintatapojen edellyttämällä tavalla, voi sopimusaikaa tilaajan päätöksellä jatkaa kahdella (1+1) vuodella 31.10.2028 saakka. Sopimus urakka-ajan mahdollisesta jatkamisesta tehdään viimeistään 1.4.2026 ensimmäisen optiovuoden osalta ja 1.4.2027 toisen optio vuoden osalta. Alltime Oy on työmaakokouksessa 24.2.2026 ilmoittanut, että ovat valmiita option käyttämiseen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    }
+  ],
+  "id": "20262339",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20262339"
+}

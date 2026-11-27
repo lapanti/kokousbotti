@@ -1,0 +1,161 @@
+{
+  "title": "Kunnanvaltuusto Pöytäkirja 27.05.2024 klo 18:00 - 19:27 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Kunnanvaltuusto",
+  "doctype": "Pöytäkirja",
+  "date": "2024-05-27",
+  "items": [
+    {
+      "id": "20241763-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241763-1",
+      "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Kokous todettiin lailliseksi ja päätösvaltaiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241763-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241763-2",
+      "decision": "Pöytäkirjantarkastajiksi valittiin Kim Männikkö ja Aku Leijala",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanvaltuusto päättää valita kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan",
+        "paatos": "Pöytäkirjantarkastajiksi valittiin Kim Männikkö ja Aku Leijala"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241763-3",
+      "ordinal": "3",
+      "title": "Vuoden 2023 tilinpäätös",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241763-3",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 1 Tilinpäätös 2023_27052024 KV 2 Kirkkonummen kunta Tilintarkastuskertomus 2023 Vuoden 2023 tilinpäätös Kunnanvaltuusto 27.05.2024 § 50 263/02.02.02/2024",
+        "paatosehdotus": "Tarkastuslautakunta esittää kunnanvaltuustolle, että valtuusto päättää 1 merkitä tilintarkastuskertomuksen tilikaudelta 2023 tiedoksi 2 hyväksyä vuoden 2023 tilinpäätöksen 3 myöntää vastuuvapaus kunnan hallintoa ja taloutta hoitaneille toimielinten jäsenille ja tehtäväalueiden johtaville viranhaltijoille tilikaudelta 1.1. - 31.12.2023",
+        "kasittely": "Kunnanjohtaja Virpi Sailas ja vs. talousjohtaja Sirpa Roos esittelivät asiaa kokouksessa",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Tilinpäätös 2023_27052024 KV",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241763-3-108940.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kirkkonummen kunta Tilintarkastuskertomus 2023",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241763-3-108617.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20241763-4",
+      "ordinal": "4",
+      "title": "Henkilöstökertomus 2023",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241763-4",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 3 Henkilöstökertomus 2023 Henkilöstökertomus 2023 Kunnanvaltuusto 27.05.2024 § 51 379/01.00.02/2024",
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto merkitsee Kirkkonummen kunnan vuoden 2023 henkilöstökertomuksen tiedokseen",
+        "kasittely": "Vt. henkilöstöjohtaja Teija Parkkonen esitteli asiaa kokouksessa",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Henkilöstökertomus 2023",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241763-4-108931.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20241763-5",
+      "ordinal": "5",
+      "title": "Arviointikertomus 2023",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241763-5",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 4 Arviointikertomus 2023_Kirkkonummen kunta_08052024 FINAL Arviointikertomus 2023 Kunnanvaltuusto 27.05.2024 § 52 81/02.02.02/2024",
+        "paatosehdotus": "Tarkastuslautakunta ehdottaa kunnanvaltuustolle, että valtuusto päättää 1 merkitä vuoden 2023 arviointikertomuksen tiedokseen 2 pyytää kunnanhallitukselta kuntalain mukaisen selvityksen arviointikertomuksesta aiheutuvista toimenpiteistä 3 että vastineiden tulee olla valtuuston käsiteltävänä syyskuun 2024 loppuun mennessä, ennen tulevan vuoden talousarviokäsittelyä",
+        "kasittely": "Tarkastuslautakunnan puheenjohtaja Ulla Seppälä esitteli asiaa kokouksessa",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Arviointikertomus 2023_Kirkkonummen kunta_08052024 FINAL",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241763-5-109212.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20241763-6",
+      "ordinal": "6",
+      "title": "Eron myöntäminen varavaltuutetun tehtävästä (U.J)",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241763-6",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto 1 myöntää eron Ulvija Jabbarovalle varavaltuutetun tehtävästä 2 merkitsee tiedokseen, että keskusvaalilautakunta arvioi tarpeen määrätä uuden varavaltuutetun",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+        "tiedoksi": "asianosaiset"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241763-7",
+      "ordinal": "7",
+      "title": "Eron myöntäminen suomenkielisen kasvatus- ja koulutuslautakunnan varajäsenen tehtävästä (U.J) ja uuden varajäsenen valitseminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241763-7",
+      "decision": "Kunnanvaltuusto päätti 1 myöntää eron Ulvija Jabbarovalle suomenkielisen kasvatus- ja koulutuslautakunnan varajäsenyydestä 2 valita Tarja Glansin uudeksi varajäseneksi Ulvija Jabbarovan tilalle toimikauden loppuun",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto päättää 1 myöntää eron Ulvija Jabbarovalle suomenkielisen kasvatus- ja koulutuslautakunnan varajäsenyydestä 2 valita uuden varajäsenen Ulvija Jabbarovan tilalle toimikauden loppuun",
+        "paatos": "Kunnanvaltuusto päätti 1 myöntää eron Ulvija Jabbarovalle suomenkielisen kasvatus- ja koulutuslautakunnan varajäsenyydestä 2 valita Tarja Glansin uudeksi varajäseneksi Ulvija Jabbarovan tilalle toimikauden loppuun",
+        "tiedoksi": "asianosaiset"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    }
+  ],
+  "id": "20241763",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20241763"
+}

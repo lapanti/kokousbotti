@@ -1,0 +1,306 @@
+{
+  "title": "Kunnanvaltuusto Pöytäkirja 02.09.2024 klo 18:00 - 19:10 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Kunnanvaltuusto",
+  "doctype": "Pöytäkirja",
+  "date": "2024-09-02",
+  "items": [
+    {
+      "id": "20241791-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241791-1",
+      "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Kokous todettiin lailliseksi ja päätösvaltaiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241791-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241791-2",
+      "decision": "Pöytäkirjantarkastajiksi valittiin Tuovi Ronkainen ja Martin Valtonen",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanvaltuusto päättää valita kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan",
+        "paatos": "Pöytäkirjantarkastajiksi valittiin Tuovi Ronkainen ja Martin Valtonen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241791-3",
+      "ordinal": "3",
+      "title": "Omavelkaisen lisätakauksen antaminen Kyrkslätt FBK rf. - Kirkkonummen VPK ry:lle paloaseman uudisrakennuksen rakentamiseen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241791-3",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Kirkkonummen VPK lausunto VN_7193_2024-SM-2",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto 1 myöntää omavelkaisen takauksen Kyrkslätt FBK rf. - Kirkkonummen VPK ry:n lukuun otettavalle enintään 350 000 €:n suuruiselle rakennusaikaiselle lisälainalle ehdoilla, että Kirkkonummen kunta saa parhaalla etusijalla olevan kiinnityksen yhdistyksen rakentamaan kiinteistöön yllä mainitun takauksen vakuudeksi. Yhdistyksen omarahoitusosuus kattaa loput rakentamiskustannuksista. 2 oikeuttaa kunnanhallituksen päättämään kaikki muut tarpeelliseksi katsomansa takausehdot",
+        "kasittely": "Kunnanjohtaja Virpi Sailas esitteli asiaa kokouksessa"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "paatos_labels": 2,
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Kirkkonummen VPK lausunto",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241791-3-112096.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "VN_7193_2024-SM-2Päätös_ Kirkkonummen VPK r.y._ Paloaseman uudisrakennus",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241791-3-112411.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20241791-4",
+      "ordinal": "4",
+      "title": "Vastine vuoden 2023 arviointikertomukseen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241791-4",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti seuraavalla evästyksellä: Tasapainotusohjelma käynnistetään välittömästi vuoden 2025 talousarviossa, mikä laaditaan realistisia lukuja käyttäen, parhaaseen saatavana olevaan tietoon perustuen",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 1 Arviointikertomus 2023_Kirkkonummen kunta_08052024 FINAL 2 Arviontikertomus_2023, vastine tarkastuslautakunnan huomioihin Vastine vuoden 2023 arviointikertomukseen Kunnanvaltuusto 02.09.2024 § 66 81/02.02.02/2024",
+        "paatosehdotus": "Kunnanhallitus antaa kuntalain mukaisena selvityksenä kunnanvaltuustolle liitteen mukaiset toteutetut ja toimielimille evästykseksi annettavat toimenpiteet",
+        "kasittely": "Puheenjohtaja julisti keskustelun päättyneeksi ja totesi, että keskustelun aikana jäsen Kim Liljequist on jättänyt seuraavan evästysehdotuksen: Kohtaan Talouden tasapainotusohjelma-tekstiin \"Toimenpide: Kunnassa laaditaan pitkäntähtäimen talouden tasapainotussuunnitelma\" lisätään tarkennus, että Tasapainotusohjelma käynnistetään välittömästi vuoden 2025 TA:ssa, mikä laaditaan realistisia lukuja käyttäen, parhaaseen saatavana olevaan tietoon perustuen. Evästysehdotusta kannattivat Ville Salminen, Piia Aallonharja, Josephine Frimodig, Linda Basilier, Patrik Lundell, Urho Blom, Jani Kähkönen, Antti Kilappa, Ulf Kjerin, Hans Hedberg, Arttu Lankinen, Jani Ekman, Aku Leijala, Kari Virtanen, Aleksander Polkko, Kim Männikkö, Antti Salonen, Timo Haapaniemi ja Sari Haapasaari. Puheenjohtajan tiedustellessa evästysehdotus hyväksyttiin yksimielisesti",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti seuraavalla evästyksellä: Tasapainotusohjelma käynnistetään välittömästi vuoden 2025 talousarviossa, mikä laaditaan realistisia lukuja käyttäen, parhaaseen saatavana olevaan tietoon perustuen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Arviointikertomus 2023_Kirkkonummen kunta_08052024 FINAL",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241791-4-109212.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Arviontikertomus_2023, vastine tarkastuslautakunnan huomioihin",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241791-4-112067.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Kim Liljequist",
+          "kind": "evastysehdotus",
+          "text": "Kohtaan Talouden tasapainotusohjelma-tekstiin \"Toimenpide: Kunnassa laaditaan pitkäntähtäimen talouden tasapainotussuunnitelma\" lisätään tarkennus, että Tasapainotusohjelma käynnistetään välittömästi vuoden 2025 TA:ssa, mikä laaditaan realistisia lukuja käyttäen, parhaaseen saatavana olevaan tietoon perustuen. Evästysehdotusta kannattivat Ville Salminen, Piia Aallonharja, Josephine Frimodig, Linda Basilier, Patrik Lundell, Urho Blom, Jani Kähkönen, Antti Kilappa, Ulf Kjerin, Hans Hedberg, Arttu Lankinen, Jani Ekman, Aku Leijala, Kari Virtanen, Aleksander Polkko, Kim Männikkö, Antti Salonen, Timo Haapaniemi ja Sari Haapasaari",
+          "source": "introduction",
+          "party": "rkp"
+        }
+      ]
+    },
+    {
+      "id": "20241791-5",
+      "ordinal": "5",
+      "title": "Kirkkonummen kunnan vuoden 2024 I osavuosikatsaus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241791-5",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 3 Yleisosa OVK I 2024 4 YP OVK I 2024 5 Rakennus- ja ympäristölautakunta osavuosikatsaus tilanteesta 30.4.2024 6 S-VL 11.6.2024 liite_Osavuosikatsaus I 2024 sivistys- ja vapaa-aikalautakunta 7 SKK 12.6.2024\n1. Osavuosikatsaus l, sivistyksen palvelualue 8 SFU 13.6.2024 Bilaga 1. Delåröversikt l, serviceområdet för bildning 9 Osavuosikatsaus tilanteesta 30.4.2024, toimitilapalvelujen lautakunta 10 Osavuosikatsaus tilanteesta 30.4.2024, yhdyskuntatekniikan lautakunta",
+        "oheismateriaali": "Kuvake Otsikko Talouden ja toiminnan kuukausiraportti 7 2024 Kirkkonummen kunnan vuoden 2024 I osavuosikatsaus Kunnanvaltuusto 02.09.2024 § 67 158/02.02.02/2024",
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että kunnanvaltuusto merkitsee vuoden 2024 I osavuosikatsauksen tiedoksi",
+        "kasittely": "Kunnanjohtaja Virpi Sailas ja talousjohtaja Esa Lindell selostivat asiaa kokouksessa",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+        "selostus": "Oheismateriaaliksi on lisätty juuri valmistunut heinäkuun kuukausiraportti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Yleisosa OVK I 2024",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241791-5-110299.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "YP OVK I 2024",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241791-5-110300.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Rakennus- ja ympäristölautakunta osavuosikatsaus tilanteesta 30.4.2024",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241791-5-110306.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "S-VL 11.6.2024 liite_Osavuosikatsaus I 2024 sivistys- ja vapaa-aikalautakunta",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241791-5-110307.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "SKK 12.6.2024 Liite 1. Osavuosikatsaus l, sivistyksen palvelualue",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241791-5-110308.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "SFU 13.6.2024 Bilaga 1. Delåröversikt l, serviceområdet för bildning",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241791-5-110309.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Osavuosikatsaus tilanteesta 30.4.2024, toimitilapalvelujen lautakunta",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241791-5-110310.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Osavuosikatsaus tilanteesta 30.4.2024, yhdyskuntatekniikan lautakunta",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241791-5-110311.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Talouden ja toiminnan kuukausiraportti 7 2024",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241791-5-112370.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20241791-6",
+      "ordinal": "6",
+      "title": "Eron myöntäminen valtuutetulle ja varavaltuutetun kutsuminen (KP)",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241791-6",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto 1 myöntää eron Krista Petäjäjärvelle valtuutetun tehtävästä 2 päättää todeta, että valtuuston puheenjohtaja kutsuu Krista Petäjäjärven sijaan jäljellä olevaksi toimikaudeksi asianomaisen puolueen järjestyksessä ensimmäisen varavaltuutetun 3 päättää merkitä tiedokseen, että keskusvaalilautakunta arvioi tarpeen määrätä uuden varavaltuutetun",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241791-7",
+      "ordinal": "7",
+      "title": "Eron myöntäminen sivistys- ja vapaa-aikalautakunnan jäsenyydestä ja varapuheenjohtajuudesta sekä uuden jäsenen ja varapuheenjohtajan valitseminen, (K.P.)",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241791-7",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti jättää asian pöydälle",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto 1 myöntää eron Krista Petäjäjärvelle sivistys- ja vapaa-aikalautakunnan jäsenyydestä ja varapuheenjohtajan tehtävästä 2 valitsee uuden jäsenen Krista Petäjäjärven tilalle sivistys- ja vapaa-aikalautakuntaan toimikauden loppuun 3 valitsee uuden varapuheenjohtajan Krista Petäjäjärven tilalle sivistys- ja vapaa-aikalautakuntaan toimikauden loppuun",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti jättää asian pöydälle"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241791-8",
+      "ordinal": "8",
+      "title": "Eron myöntäminen elinvoimajaoston jäsenyydestä ja uuden jäsenen valinta (U.B.)",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241791-8",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Urho Blomille elinvoimajaoston jäsenyydestä 2 valita Jani Ekmanin uudeksi jäseneksi Urho Blomin tilalle elinvoimajaostoon toimikauden loppuun 3 valita Rafik Neumanin varajäseneksi elinvoimajaostoon Lisäksi kunnanvaltuusto päätti tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto 1 myöntää eron Urho Blomille elinvoimajaoston jäsenyydestä 2 valitsee uuden jäsenen Urho Blomin tilalle elinvoimajaostoon toimikauden loppuun 3 valitsee mahdollisen varajäsenen elinvoimajaostoon",
+        "kasittely": "Kokoomus esittää elinvoimajaoston: - varsinaiseksi jäseneksi valtuutettu Jani Ekmania ja - varajäseneksi Rafik Neumania",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Urho Blomille elinvoimajaoston jäsenyydestä 2 valita Jani Ekmanin uudeksi jäseneksi Urho Blomin tilalle elinvoimajaostoon toimikauden loppuun 3 valita Rafik Neumanin varajäseneksi elinvoimajaostoon Lisäksi kunnanvaltuusto päätti tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241791-9",
+      "ordinal": "9",
+      "title": "Valtuustoaloite 7/2024: Kirkkonummen kunnan tulee parantaa tulevien oppilaskuljetuksien tilausliikenteen hankintojen ehdottomia laatuvaatimuksia",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241791-9",
+      "decision": "Kunnanvaltuusto toimittaa aloitteen kunnanhallitukselle valmisteltavaksi",
+      "votes": [],
+      "initiative": {
+        "ref": "7/2024",
+        "proposer": "Selostus   RKP / Josephine Frimodig, Linda Basilier, Jenny Snellman ja Kim Liljequist",
+        "party": "rkp",
+        "name": "Josephine Frimodig"
+      },
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Valtuustoaloite: Kirkkonummen kunnan tulee parantaa tulevien oppilaskuljetuksien tilausliikenteen hankintojen ehdottomia laatuvaatimuksia Valtuustoaloite 7/2024: Kirkkonummen kunnan tulee parantaa tulevien oppilaskuljetuksien tilausliikenteen hankintojen ehdottomia laatuvaatimuksia Kunnanvaltuusto 02.09.2024 § 71 656/08.01.01/2024",
+        "paatos": "Kunnanvaltuusto toimittaa aloitteen kunnanhallitukselle valmisteltavaksi",
+        "selostus": "RKP / Josephine Frimodig, Linda Basilier, Jenny Snellman ja Kim Liljequist jättivät kunnanvaltuuston kokouksessa 2.9.2024 seuraavan valtuustoaloitteen: ”Kirkkonummen kunnan tulee parantaa tulevien oppilaskuljetuksien tilausliikenteen hankintojen ehdottomia laatuvaatimuksia Kirkkonummen kunnan perusopetuksen oppilailla on oikeus kunnan järjestämään maksuttomaan koulukuljetukseen tietyin ehdoin. Ote kunnan sivuilta: Maksutonta koulukuljetusta voi hakea seuraavilla perusteilla, kun oppilas käy kunnan osoittamaa lähikoulua: Koulumatka on pidempi kuin viisi kilometriä (5 km). Peruskoulun 1.-9. -vuosiluokkien oppilaan yhdensuuntainen koulumatka. Koulumatka tai osa siitä on liian vaarallinen. Koulumatkan vaarallisuutta arvioidaan Koululiitu-järjestelmällä. Koulumatka on liian vaikea tai rasittava. Koulukuljetukset järjestetään ensisijaisesti myöntämällä oppilaalle julkisen liikenteen matkakortti. Tilausliikennettä, eli koulutaksia tai tilausbussia käytetään aina toissijaisesti. Olemme saaneet tietoomme, että vuoden 2024 tilausliikenteen palvelutasossa on ollut merkittä-viä haasteita ja vaaratilanteita. Tämä koskee erityisesti pohjoisen Kirkkonummen aluetta, jossa tilauskuljetuksien toimittaja on vastikään muuttunut. Alla esimerkkejä tapahtu¬neesta: koulutaksi ajanut ojaan, koulutaksin lisäistuin irronnut aiheuttaen ruumiin¬vamman oppilaalle, koulutaksi merkittävästi myöhässä tai etuajassa, koulutaksi jättänyt oppilaat väärään paikkaan, koulutaksin kuljettaja melkein kielitaidoton, koulutaksi on saanut hylätyn katsastustodistuksen. Tilanne on hälyttävä, ja vaatii välittömiä korjaustoimenpiteitä. Mutta samalla tästä on opittava, ja tehtävät tulevaisuuden hankinnat eri tavalla. Me allekirjoittaneet esitämme, että Kirkko¬nummen kunnan tulee parantaa tulevien oppilaskuljetuksien tilausliikenteen hankintojen ehdottomia laatuvaatimuksia. Alla ehdotuksiamme tulevien kilpailutuksien ehdottomiksi laatuvaatimuksiksi: Tilausliikenteen palvelutoimittajalla on riittävä määrä oppilaskuljetuksiin soveltuvia, katsastettuja taksiajoneuvoja olemassa tilaajan palvelujen hoitamiseksi (ehdoton Kyllä-vastaus vaaditaan kilpailutuksessa). Katsastamattomalla ajoneuvolla, tai ajoneuvolla, jonka katsastus on hylätty, ei suoriteta henkilökuljetuksia (ehdoton Kyllä-vastaus vaaditaan kilpailutuksessa). Taksiajoneuvoissa on käytettävä talvirenkaita aina, kun keliolosuhteet tämän vaatii. Tämän lisäksi kuljettajilla pitää olla riittävästi kokemusta ajamisesta liukkaissa olosuhteissa (ehdoton Kyllä-vastaus vaaditaan kilpailutuksessa). Taksiajoneuvoissa pitää olla ulkoinen taksimerkintä sekä oppilaskuljetus¬kilpi näkyvällä paikalla (ehdoton Kyllä-vastaus vaaditaan kilpailutuksessa). Taksiajoneuvoissa ei saa olla sellaisia mainosteippauksia, että ajoneuvo voidaan sekoittaa jonkun muun yrityksen tai yksityishenkilön ajoneuvoksi (ehdoton Kyllä-vastaus vaaditaan kilpailutuksessa). Tilausliikenteen palvelutoimittajan käyttämillä kuljettajilla pitää olla riittävä suomen- tai ruotsin¬kielen taito kuljetuspalvelujen jokapäiväisten huoltaja- ja lapsikeskustelujen ja kysymysten sujuvaksi hoitamiseksi. Kielitaidottomia kuljettajia ei saa käyttää palvelun tuottamisessa (ehdoton Kyllä-vastaus vaaditaan kilpailutuksessa). Tilausliikenteen kuljettajilla pitää jatkuvasti olla henkilöllisyystodistus / taksikortti näkyvillä ajoneuvossa siten, että oppilaat / oppilaiden vanhemmat voivat helposti havaita, että kyseessä tilausliikenteen kuljettaja (ehdoton Kyllä-vastaus vaaditaan kilpailutuksessa). Tilausliikenteen palvelutoimittaja sitoutuu siihen, että edellä mainitut vähimmäisvaatimukset täyttyvät jatkuvasti koko palvelusopimuksen ajan. Palvelun tilaajalla on milloin tahansa oikeus tarkistaa ehdottomien vaatimuksien täyttyminen, jolloin palvelun tarjoaja on toimitettava tilaajalle pyydetyt tiedot viikon sisällä (ehdoton Kyllä-vastaus vaaditaan kilpailutuksessa). Tilausliikenteen palvelutoimittaja ymmärtää ja sitoutuu siihen, että kaikki yllä mainitut ehdottomat vähimmäisvaatimukset koskevat myös heidän käyttämiään aliurakoitsijoita (ehdoton Kyllä-vastaus vaaditaan kilpailutuksessa). Palvelun tilaaja pidättää itsellään oikeuden vaihtaa palveluntarjoajaa 3 kuukauden irtisanomisajalla, mikäli havaittuja puutteita ei korjata määräajassa tai laiminlyönnit ovat jatkuvasti toistuvia. Allekirjoittajat Josephine Frimodig (RKP), Linda Basilier (RKP), Jenny Snellman (RKP), Kim Liljequist (RKP). Lisäksi seuraavat valtuutetut ja varavaltuutetut allekirjoittivat aloitteen: Minna Hakapää, Piia Aallonharja, Jani Ekman, Anneli Granström, Ari Harinen, Hans Hedberg, Sanni Jäppinen, Matti Kaurila, Ulf Kjerin, Liisa Kosonen, Jerri Kämpe-Hellenius, Elina Kärkimaa, Aku Leijala, Kim Liljequist, Markus Myllyniemi, Kim Männikkö, Maarit Orko, Noora Piili, Antti Salonen, Ville Salminen, Tero Suominen, Martin Valtonen, Jukka Ylikoski, Kim Åström, Arttu Lankinen, Jani Kähkönen, Aleksander Polkko, Patrik Lundell, Miisa Jeremejew, Carl-Johan Kajanti, Matilda Björkqvist, Sari Haapasaari, Katja Ylisiurua, Johanna Fleming ja Nina Bogatenko"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtuustoaloite: Kirkkonummen kunnan tulee parantaa tulevien oppilaskuljetuksien tilausliikenteen hankintojen ehdottomia laatuvaatimuksia",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241791-9-112259.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20241791-10",
+      "ordinal": "10",
+      "title": "Pro Kirkkonummi valtuustoryhmän ilmoitus muutoksesta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241791-10",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti merkitä ilmoituksen tiedoksi",
+      "votes": [],
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Pro Kirkkonummi -valtuustoryhmä, Kv 02092024 Pro Kirkkonummi valtuustoryhmän ilmoitus muutoksesta Kunnanvaltuusto 02.09.2024 § 72 689/00.00.01/2021",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti merkitä ilmoituksen tiedoksi",
+        "selostus": "Kunnanvaltuuston kokouksessa 2.9.2024 Pro Kirkkonummi jätti seuraavan ilmoituksen valtuustoryhmän muutoksesta jonka mukaan, Aleksander Polkko on siirtynyt Kirnu Ry:n valtuustoryhmästä Pro Kirkkonummi -valtuustoryhmään: ”Kirkkonummen kunnan hallintosäännön pykälän 109 mukaisesti valtuutetut voivat muodostaa valtuustoryhmiä valtuustotyöskentelyä varten. Valtuustoryhmän muodostamisesta, nimestä ja puheenjohtajasta on annettava valtuuston puheenjohtajalle kirjallinen ilmoitus. Tällä ilmoituksella me valtuutetut ja varavaltuutetut ilmoitamme kuuluvamme Pro Kirkkonummi -valtuustoryhmään. Ryhmän puheenjohtajana toimii Antti Salonen ja varapuheenjohtajana Outi Saloranta-Eriksson. Kirkkonummella 2.9.2024 Antti Kilappa (valtuutettu) Minna Hakapää (valtuutettu) Noora Piili (valtuutettu) Antti Salonen (valtuutettu) Pekka Sinisalo (varavaltuutettu) Anni-Mari Syväniemi (varavaltuutettu) Pertti Panula (varavaltuutettu) Elina Utriainen (varavaltuutettu) Outi Saloranta-Eriksson (varavaltuutettu) Katja Juuti (varavaltuutettu) Aleksander Polkko (varavaltuutettu)”"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Pro Kirkkonummi -valtuustoryhmä, Kv 02092024",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241791-10-112791.PDF"
+        }
+      ],
+      "proposals": []
+    }
+  ],
+  "id": "20241791",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20241791"
+}

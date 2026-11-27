@@ -1,0 +1,463 @@
+{
+  "title": "Kunnanhallitus Pöytäkirja 25.09.2023 klo 16:30 - 18:06 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Kunnanhallitus",
+  "doctype": "Pöytäkirja",
+  "date": "2023-09-25",
+  "items": [
+    {
+      "id": "20231533-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231533-1",
+      "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Kokous todettiin lailliseksi ja päätösvaltaiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231533-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231533-2",
+      "decision": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti. Pöytäkirjantarkastajiksi valittiin Ari Harinen ja Saara Huhmarniemi",
+      "votes": [],
+      "sections": {
+        "valmistelija": "johdon assistentti Gunnel Ekström, etunimi.sukunimi@kirkkonummi.fi",
+        "paatosehdotus": "Kunnanhallitus päättää 1 valita kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan 2 tarkastaa tämän pöytäkirjan sähköisesti seuraavan aikataulun mukaan: Torstaina 28.9.2023 lähetetään pöytäkirja sähköpostitse pöytäkirjantarkastajille, jotka ilmoittavat hyväksymisestään viimeistään maanantaina 2.10.2023. Jos hyväksymisviestiä ei tule sihteerille em. ajankohtaan mennessä, pöytäkirja katsotaan hyväksytyksi. Pöytäkirja allekirjoitetaan sähköisesti. Pöytäkirja on nähtävänä tiistaina 3.10.2023 kunnan verkkosivulla. Yleinen oikaisuvaatimusaika alkaa keskiviikkona 11.10.2023",
+        "paatos": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti. Pöytäkirjantarkastajiksi valittiin Ari Harinen ja Saara Huhmarniemi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231533-3",
+      "ordinal": "3",
+      "title": "Kirkkonummen kunnan metsästrategian päivittäminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231533-3",
+      "decision": "Kunnanhallitus päätti valtuuttaa kunnallistekniikkapalveluiden kunnossapitoyksikön asettamaan liitteenä olevan metsästrategialuonnoksen nähtäville sekä pyytämään strategiasta lausunnot. Lisäksi kunnanhallitus päätti että metsästrategian liitteet asetetaan nähtäville metsästrategian yhteydessä",
+      "votes": [
+        {
+          "jaa": [
+            "Ulf Kjerin",
+            "Anneli Granström",
+            "Saara Huhmarniemi",
+            "Timo Haapaniemi",
+            "Piia Aallonharja",
+            "Markus Myllyniemi",
+            "Kati Kaihlaranta",
+            "Kim Liljequist",
+            "Antti Kilappa"
+          ],
+          "ei": [
+            "Matti Kaurila",
+            "Anna Sahiluoma",
+            "Kim Männikkö",
+            "Ari Harinen"
+          ],
+          "tyhja": [],
+          "totals": {
+            "jaa": 9,
+            "ei": 4,
+            "tyhja": 0
+          },
+          "parties": {
+            "jaa": {
+              "rkp": 2,
+              "ps": 2,
+              "vihr": 2,
+              "kok": 1,
+              "vas": 1,
+              "pro yl": 1
+            },
+            "ei": {
+              "kok": 2,
+              "rkp": 1,
+              "sdp": 1
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "päätösehdotuksen hyväksymistä",
+            "ei_label": "Matti Kaurilan vastaehdotuksen hyväksymistä",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": "jaa",
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat päätösehdotuksen hyväksymistä äänestävät JAA, ja ne jotka kannattavat Matti Kaurilan vastaehdotuksen hyväksymistä äänestävät EI — annettiin 9 JAA ja 4 EI ääntä."
+          }
+        },
+        {
+          "jaa": [
+            "Ari Harinen",
+            "Kim Liljequist",
+            "Timo Haapaniemi",
+            "Matti Kaurila",
+            "Antti Kilappa",
+            "Kim Männikkö"
+          ],
+          "ei": [
+            "Markus Myllyniemi",
+            "Ulf Kjerin",
+            "Piia Aallonharja",
+            "Saara Huhmarniemi",
+            "Anna Sahiluoma",
+            "Anneli Granström",
+            "Kati Kaihlaranta"
+          ],
+          "tyhja": [],
+          "totals": {
+            "jaa": 6,
+            "ei": 7,
+            "tyhja": 0
+          },
+          "parties": {
+            "jaa": {
+              "sdp": 1,
+              "rkp": 2,
+              "kok": 2,
+              "pro yl": 1
+            },
+            "ei": {
+              "vihr": 2,
+              "rkp": 1,
+              "ps": 2,
+              "kok": 1,
+              "vas": 1
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotuksen",
+            "ei_label": "Saara Huhmarniemen lisäysehdotuksen",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": "ei",
+            "source": "parsed",
+            "evidence": "ne jotka hyväksyvät pohjaehdotuksen äänestävät JAA, ja ne jotka hyväksyvät Saara Huhmarniemen lisäysehdotuksen äänestävät EI — annettiin 6 JAA ja 7 EI ääntä."
+          }
+        }
+      ],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 1 metsästrategia_ytl_päätös_31.8.23 Kirkkonummen kunnan metsästrategian päivittäminen Kunnanhallitus 25.09.2023 § 302 1023/10.03.01.06/2020",
+        "valmistelija": "Kuntatekniikkapäällikkö Keski-Lusa Toni etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "sai enemmän ääniä ja voitti. JAA äänestivät: Ulf Kjerin, Anneli Granström, Saara Huhmarniemi, Timo Haapaniemi, Piia Aallonharja, Markus Myllyniemi, Kati Kaihlaranta, Kim Liljequist ja Antti Kilappa EI äänestivät: Matti Kaurila, Anna Sahiluoma, Kim Männikkö ja Ari Harinen. Jäsen Saara Huhmarniemen lisäysehdotus: Metsästrategian liitteet asetetaan nähtäville metsästrategian yhteydessä. Kuntalaisten osallisuuden ja päätöksenteon avoimuuden kannalta on tärkeää, että strategia asetetaan nähtäville kokonaisuudessaan. Kuntalaisilla on oltava mahdollisuus nähdä, esimerkiksi mitä metsäalueita nähtävillä oleva metsästrategia käsittelee. Lisäysehdotusta kannattivat Markus Myllyniemi ja Kati Kaihlaranta. Lisäysehdotusta ei hyväksytty yksimielisesti joten puheenjohtaja totesi, että asiasta on äänestettävä. Puheenjohtaja ehdotti että asiasta äänestetään niin, että ne jotka hyväksyvät pohjaehdotuksen äänestävät JAA, ja ne jotka hyväksyvät Saara Huhmarniemen lisäysehdotuksen äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 6 JAA ääntä ja 7 EI ääntä. EI sai enemmän ääniä, joten Saara Huhmarniemen lisäysehdotus liitteiden lisäämiseksi sai enemmän ääniä ja voitti. JAA äänestivät Ari Harinen, Kim Liljequist, Timo Haapaniemi, Matti Kaurila, Antti Kilappa ja Kim Männikkö EI äänestivät Markus Myllyniemi, Ulf Kjerin, Piia Aallonharja, Saara Huhmarniemi, Anna Sahiluoma, Anneli Granström ja Kati Kaihlaranta",
+        "kasittely": "Yhdyskuntatekniikan johtaja Anna-Kaisa Kauppinen ja kuntatekniikkapäällikkö Toni Keski-Lusa esittelivät asiaa kokouksessa. Kuntatekniikkapäällikkö Toni Keski-Lusa poistui kokouksesta tämän pykälän jälkeen klo 17.33. Puheenjohtaja julisti keskustelun päättyneeksi ja totesi että keskustelun aikana on jätetty vastaehdotuksia seuraavasti: Jäsen Matti Kaurilan vastaehdotus: Kunnanhallitus päättää hyväksyä omalta osaltaan liitteenä olevan metsästrategian (luonnoksen) ja esittää kunnanvaltuustolle metsästrategian hyväksymistä ja sen julkaisemista tämän jälkeen viipymättä kunnan verkkosivuilla. Vastaehdotusta kannattivat Kim Männikkö ja Ari Harinen. Vastaehdotusta ei hyväksytty yksimielisesti joten puheenjohtaja totesi, että asiasta on äänestettävä. Puheenjohtaja ehdotti, että asiasta äänestetään niin, että ne jotka kannattavat päätösehdotuksen hyväksymistä äänestävät JAA, ja ne jotka kannattavat Matti Kaurilan vastaehdotuksen hyväksymistä äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 9 JAA ääntä ja 4 EI ääntä",
+        "paatos": "Kunnanhallitus päätti valtuuttaa kunnallistekniikkapalveluiden kunnossapitoyksikön asettamaan liitteenä olevan metsästrategialuonnoksen nähtäville sekä pyytämään strategiasta lausunnot. Lisäksi kunnanhallitus päätti että metsästrategian liitteet asetetaan nähtäville metsästrategian yhteydessä",
+        "selostus": "Metsästrategian päivitystä on valmisteltu kunnanhallituksen päätöksen 9.11.2020 § 394 mukaisesti. Yhdyskuntateknikan lautakunta on käsitellyt metsästrategiaa kokouksissaan 19.1. ja 22.5. Kokouksessaan 31.08.2023 § 92 lautakunta päätti esittää kunnanhallitukselle metsästategian nähtäville asettamista ja päätti samalla useista muutoksista strategian tekstiin ja poistaa strategian liiteaineistot. Kunnanhallitukselle tuodaan tiedoksi oheismateriaalina myös lautakunnalle esitetty viranhaltijoiden valmistelema metsästrategialuonnos"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "metsästrategia_ytl_päätös_31.8.23",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231533-3-97371.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Matti Kaurila",
+          "kind": "vastaehdotus",
+          "text": null,
+          "source": "order",
+          "party": "kok"
+        }
+      ]
+    },
+    {
+      "id": "20231533-4",
+      "ordinal": "4",
+      "title": "Oitbackan koulukiinteistön myyntiä koskeva esisopimus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231533-4",
+      "decision": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 2 Esisopimus_Oitbacka_luonnos_kh_250523",
+        "oheismateriaali": "Kuvake Otsikko Oheisaineisto_Kaupan kohde kartalla Oitbackan koulukiinteistön myyntiä koskeva esisopimus Kunnanhallitus 25.09.2023 § 303 454/10.00.02/2022",
+        "valmistelija": "Maankäyttöinsinööri Aija Aunio ja kunnangeodeetti Otso Kärkkäinen, etunimi.sukunimi@kirkkonummi.fi, puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää 1 hyväksyä liitteenä olevan kiinteistökaupan esisopimuksen, joka koskee Oitbackan koulukiinteistöä 257-455-1-1 (OITBACKA SKOLTOMT) ja opettajien asuinrakennuksen kiinteistöä 257-455-2-12 (OITBACKA SKOLTOMT II) rakennuksineen. Esisopimus on allekirjoitettava kahden kuukauden kuluessa sen lainvoimaisesta hyväksymispäätöksestä. 2 oikeuttaa kunnanjohtajan tekemään esisopimuksen ehtoihin vähäisiä tarkistuksia ja valtuuttaa kunnanjohtajan allekirjoittamaan esisopimuksen ja sitä koskevan kauppakirjan. 3 päättää, että päätös voidaan panna täytäntöön odottamatta sen lainvoimaisuutta (kuntalaki 143 §)",
+        "kasittely": "Yhdyskuntatekniikan johtaja Anna-Kaisa Kauppinen oli paikalla tämän pykälän käsittelyn aikana ja poistui pykälän jälkeen klo 17:34",
+        "paatos": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+        "selostus": "Kunnanhallitus on päättänyt 21.6.2021 (§ 272) hyväksyä kunnan rakennuskannan salkutuksen päivityksen. Päätöksen mukaan C-luokkaan luokitelluista kohteista luovutaan. Oitbackan kouluna toiminut rakennus ja sen yhteydessä oleva opettajien asuinrakennus on luokiteltu C-luokkaan kuuluviksi. Kunnanhallitus päätti 26.6.2023 § 212, että koulukiinteistö 257-455-1-1 ja asuinrakennuksen kiinteistö 257-455-2-12 rakennuksineen voidaan myydä kiinteistöarviossa määritetyn arvon mukaan ilman tarjouskilpailua 230 000 euron kauppahinnalla. Valmistelun tavoitteena on ollut, että osa koulukiinteistöstä muutetaan yritystilaksi, mikä mahdollistaa palvelutarjonnan kehittämisen alueella. Kiinteistö 257-455-1-1 on kooltaan 5 774 m2 ja sillä sijaitsee arviolta vuonna 1850 valmistunut noin 525 k-m2:n suuruinen koulurakennus sekä kaksi talousrakennusta. Koulurakennus on yleiskaavassa osoitettu suojeltavaksi (r-346). Vuonna 2021 laaditun kuntoarvion RS-15, Raksystems Insinööritoimisto Oy, mukaan koulurakennuksen kuntoluokka on välttävä. Kiinteistö 257-455-2-12 on kooltaan 7 035 m2 ja sillä sijaitsee noin 200 k-m2 suuruinen asuinrakennus, jossa tällä hetkellä sijaitsee kaksi asuntoa erillisillä sisäänkäynneillä, sekä kaksi talousrakennusta. Kuntoarvion, RS-15, Raksystems Insinööritoimisto Oy, mukaan asuinrakennuksen kuntoluokka on tyydyttävä. Esisopimuksen ehtojen mukaan koulurakennukseen tulee sijoittaa yritystiloja vähintään 10% rakennuksen pinta-alasta. Kaupan syntymisen edellytyksenä on, että myönteinen ja lainvoimainen suunnittelutarveratkaisu- ja/tai poikkeamispäätös koulurakennuksen käyttötarkoituksen muuttamiseksi asunnoksi ja yritystilaksi. Mikäli myönteistä päätöstä ei saada 4 kuukauden kuluessa käsittelykelpoisen hakemuksen jättämisestä, ostajalla ei ole ostovelvollisuutta kohteeseen. Päätöksen liitteet: esisopimusluonnos ostajien yhteystiedot (ei julkaistava) Päätöksen oheismateriaali: kaupan kohteen sijainti kartalla"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Esisopimus_Oitbacka_luonnos_kh_250523",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231533-4-97160.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Oheisaineisto_Kaupan kohde kartalla",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231533-4-97157.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20231533-5",
+      "ordinal": "5",
+      "title": "Talouden seurantaraportti 8/2023",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231533-5",
+      "decision": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 3 Tulo ja menolajit elokuu 2023 4 TA toimintakateseuranta elokuu 2023 5 Verotulot 2023 syyskuu",
+        "oheismateriaali": "Kuvake Otsikko KirkkonummiNyt_2023-08 Talouden seurantaraportti 8/2023 Kunnanhallitus 25.09.2023 § 304 37/02.02.02/2023",
+        "valmistelija": "Talousjohtaja Esa Lindell, etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus merkitsee talouden seurantaraportin 8/2023 tiedokseen",
+        "kasittely": "Talousjohtaja Esa Lindell esitteli asiaa kokouksessa",
+        "paatos": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+        "selostus": "Toimielintasoiset sekä tulo- ja menolajikohtaiset ulkoiset toteumat ovat liitteenä. Toimintakate kasvoi elokuussa 2,8 % edelliseen vuoteen nähden, mutta käytettävissä on 0,7 % vähemmän määrärahaa kuin tilinpäätöksessä 2022. Vertailuvuodelta 2022 on liitteestä poistettu toimielintasoisen vertailun toimintakatteesta hyvinvointialueelle siirtyneet kustannukset muutosvertailun mahdollistamiseksi. Siirtyneet erät ovat otettu toimintakatteen jälkeen mukaan vuoden 2022 tuloslaskelmaan. Kevään palkkaratkaisu kasvatti menoja erityisesti kesäkuun kertaerien ja prosentuaalisten lisäkorotusten takia, johon ei ole varauduttu talousarviossa. Elokuun tietojen pohjalta voidaan arvioida, että henkilöstömäärärahan korotustarvetta on erityisesti yhteisissä palveluissa sekä sivistys- ja vapaa-aikapalveluissa. Ostopalvelujen määrärahavaraus ei selvästi riitä suomenkielisen kasvatus ja koulutuslautakunnan, yhdyskuntatekniikan eikä toimitilapalvelujen lautakunnan osalta. Ostopalvelujen toteumaprosentti on 68 kun edellisenä vuonna se oli 63 %. Kokonaisuutena palvelujen ostoihin käytetty euromäärä pysyi ennallaan edelliseen vuoden elokuuhun nähden, mutta määrärahaa on käytettävissä 3 milj. euroa vähemmän.. Tuloja ovat kertyneet edelliseen vuoden elokuuhun verrattuna 11 % enemmän ja toteumaprosentti on elokuussa 64,5 %. Menojen toteutuma oli 67,7 %, kun edellisen vuoden elokuussa se oli 65,1 %. Kaikkiaan eri toimielimet tulevat tarvitsemaan lisämäärärahaa 5-6 milj. euroa, mutta kokonaisuutena toimintakatteen kasvu on tätä pienempi. Toimielimet tekevät esitykset lisämäärätarpeestaan lokakuun kokouksissaan. Tulos on elokuun lopun tilanteessa ylijäämäinen 17,1 milj. euroa. Oheismateriaalina on edellisen kokouksen ajankohtaiskatsaus Kirkkonummen elokuun väestö- ja rakentamistilastoihin"
+      },
+      "lang": "fi",
+      "text_encoding": "repaired",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Tulo ja menolajit elokuu 2023",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231533-5-97176.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "TA toimintakateseuranta elokuu 2023",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231533-5-97241.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Verotulot 2023 syyskuu",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231533-5-97531.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "KirkkonummiNyt_2023-08",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231533-5-97175.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20231533-6",
+      "ordinal": "6",
+      "title": "Valtioneuvos C.F. ja Maria von Wahlbergin rahaston sääntöjen muuttaminen, Kv",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231533-6",
+      "decision": null,
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 6 Valtioneuvos_C.F._ja_Maria_von_Wahlbergin_rahaston_saannot muutosesitys kh 250923 ok",
+        "oheismateriaali": "Kuvake Otsikko Kv 9.10.2017 Valtioneuvos_C.F._ja_Maria_von_Wahlbergin_rahaston_saannot Valtioneuvos C.F. ja Maria von Wahlbergin rahaston sääntöjen muuttaminen, Kv Kunnanhallitus 25.09.2023 § 305 542/02.07.02/2023",
+        "valmistelija": "Talousjohtaja Esa Lindell, yhdyskuntatekniikan johtaja Anna-Kaisa Kauppinen, kunnanlakimies Hannu Sorvari, toimitilajohtaja Kari Toikka ja kunnangeodeetti Otso Kärkkäinen etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää esittää kunnanvaltuustolle, että valtuusto päättää hyväksyä Valtioneuvos C.F. ja Maria von Wahlbergin rahastojen säännöt liitteen mukaisesti. Muutos tulee voimaan, kun päätös on saanut lainvoiman",
+        "esittelija": "veti asian pois esityslistalta",
+        "selostus": "Kunnanhallitus päätti 26.6.2023, että C.F. ja Maria von Wahlbergin rahaston sääntömuutos valmistellaan kesän jälkeen muutettavaksi siten, ettei nykyisten sääntöjen mukaisia avustuksia opiskelijoille eikä taiteilijoille enää jaeta. Perusteena on nykyisten sääntöjen perusteista johtunut hyvin vaihteleva tai olematon käytettävissä oleva avustusmäärä, joka kesäkuun kunnanhallituksen päätöksessä esitettiin myönnettäviksi kunnan saamin perintövaroin sivistys- ja vapaa-aikatoimen valmistelemin periaattein. Nykyisissä säännöissä lukee, että tarkoituksena on turvata kiinteistöllä sijaitsevien kulttuurihistoriallisten rakennusten kunnossapito siten, että rahaston pääoma riittää toteuttamaan tämän tarkoituksen. Metsän hoidon kustannukset ja kiinteistön korjaukset vähennettynä metsän myynnistä saaduilla tuotoilla ovat vähentäneet pääomaa keskimäärin 10 595 eurolla vuodessa 20 viimeisen vuoden aikana Alkuperäinen pääoma testamentilla 31.12.1970 on ollut 20.690,28 euroa. Vuonna 1985 rahaston pääoma oli 1.015.494,39 euroa, johon tällöin yhdistettiin ammattiopistorahaston varat 53.526,44 euroa. Rahaston pääomaa on kartutettu tukkuhintaindeksin ja sittemmin elinkustannusindeksin muutoksilla ja pääoma on 31.12.2022 tilanteessa kasvanut 2 845 157,72 euroon. Koska Navalan kartano on käyttökiellossa kosteusvaurioiden takia ja se on kunnan myytävien kiinteistöjen luettelossa, esitetään että sen kunnossapitoon ei käytetä testamenttivaroja vaan ostaja velvoitetaan huolehtimaan kiinteiston kunnossapidosta. Kunnanvaltuusto hyväksyi kokouksessaan 09.10.2017 § 52, että testamenttivaroja voidaan sijoittaa turvallisesti pääoma turvaten. Tämän jälkeen noin kaksi kolmasosaa varoista eli 1,946 milj. euroa sijoitettiin korkorahastoon. Rahaston tuotto on vuosittain lisätty testamentin pääomiin. Tuotto on ollut keskimäärin 41 330 euroa vuodessa. Sääntöjen muutosesityksessä ehdotetaan, että rahaston peruspääoman muodostaa yhdistelmärahastoon sijoitettu 1,946 milj. euroa. Muut rahastoon kertyneet varat voidaan käyttää testamentilla saadun kulttuurihistoriallista arvoa omaavan kiinteistön peruskorjaamiseen. Näin rajaten turvataan rahaston pääoman säilyminen. Sääntöjä esitetään yksinkertaistettaviksi siten, että rahaston pääomat turvataan korkorahastosijoituksen tuotoilla, metsänmyynnin tuotoilla, peltojen ja kiinteistöjen vuokratuotoilla vähennettynä metsän ja kiinteistön hoidon kustannuksilla. Lisäksi testamentin käsittämältä kiinteistöjen alueelta myytyjen tonttien myyntituottojen 20 %:n osuus ohjataan rahaston pääomaan. Viimemainitun ehdon valtuusto on päättänyt erikseen, ja ko. muutos esitetään lisättäväksi sääntöihin"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Valtioneuvos_C.F._ja_Maria_von_Wahlbergin_rahaston_saannot muutosesitys kh 250923 ok",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231533-6-97376.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Kv 9.10.2017 Valtioneuvos_C.F._ja_Maria_von_Wahlbergin_rahaston_saannot",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231533-6-97291.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20231533-7",
+      "ordinal": "7",
+      "title": "Eron myöntäminen yhdyskuntatekniikan lautakunnan varajäsenyydestä sekä uuden varajäsenen valinta, K.J., Kv",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231533-7",
+      "decision": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "johdon assistentti Gunnel Ekström, etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää ehdottaa kunnanvaltuustolle, että valtuusto 1 myöntää eron Katja Juutille yhdyskuntatekniikan lautakunnan varajäsenyydestä 2 valita uuden varajäsenen Katja Juutin tilalle toimikauden loppuun",
+        "paatos": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+        "selostus": "Katja Juuti on pyytänyt eroa yhdyskuntatekniikan lautakunnan varajäsenyydestä. Kuntalain 10 luvun 70 §:n mukaan luottamustoimesta voi erota pätevästä syystä. Eron myöntämisestä päättää luottamushenkilön valinnut toimielin. Yhdyskuntatekniikan lautakunnan kokoonpano 2021-2025: Jäsen/varajäsen: Pj. Kim Åström, Kok. / Leena Virkki, Kok. Vpj. Jenny Snellman, RKP / Michaela Lindholm, RKP Pekka Jäppinen, SDP / Katja Juuti, Pro Kirkkonummi Antti Salonen, Pro Kirkkonummi / Aku Leijala, Pro Kirkkonummi Sanni Jäppinen, Vihr. / Tarja Ketola, Vihr. Ronja Karkinen, Vihr. / Henry Scheinin, Vihr. Aleksander Polkko, Kirnu ry / Martin Honkanen, Vapauden Liitto rp. Teemu Kelkka, Kesk. / Reijo Munther, Kesk. Josephine Frimodig, RKP / Ann-Christine Sved, RKP Kim Liljequist, RKP / Peter Sundelin, RKP Saara Brax, Kok. / Hannu Valtanen, Kok"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231533-8",
+      "ordinal": "8",
+      "title": "Pääkaupunkiseudun Vesi Oy:n ylimääräinen yhtiökokous 4.10.2023",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231533-8",
+      "decision": "Kunnanhallitus päätti yksimielisesti 1 valita Urho Blomin kunnan edustajaksi Pääkaupunkiseudun Vesi Oy:n ylimääräiseen yhtiökokoukseen 4.10.2023 2 olla antamatta erityistä evästystä yhtiökokousedustajalle",
+      "votes": [],
+      "sections": {
+        "valmistelija": "johdon assistentti Gunnel Ekström, etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää 1 valita kunnan edustaja Pääkaupunkiseudun Vesi Oy:n ylimääräiseen yhtiökokoukseen 4.10.2023 2 mahdollisen evästyksen antamisesta yhtiökokousedustajalle",
+        "paatos": "Kunnanhallitus päätti yksimielisesti 1 valita Urho Blomin kunnan edustajaksi Pääkaupunkiseudun Vesi Oy:n ylimääräiseen yhtiökokoukseen 4.10.2023 2 olla antamatta erityistä evästystä yhtiökokousedustajalle",
+        "tiedoksi": "Pääkaupunkiseudun Vesi Oy, valitulle edustajalla",
+        "selostus": "Pääkaupunkiseudun Vesi Oy:n vuoden 2023 1. ylimääräinen yhtiökokous pidetään keskiviikkona 4.10.2023 alkaen klo 12:00 HSY Helsingin seudun ympäristöpalvelut -kuntayhtymän 1 krs. kokoushuoneessa Kaupungin vesijohtokonttori, osoitteessa Ilmalankuja 2 A, 00240 Helsinki, Kunnanhallitus päätti nimetä Urho Blomin kunnan edustajaksi 17.5.2023 pidettyyn Pääkaupunkiseudun Vesi Oy:n 1. yhtiökokoukseen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231533-9",
+      "ordinal": "9",
+      "title": "Kiinteistö Oy Kirkkonummen Kunnantalon ylimääräinen yhtiökokous 4.10.2023",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231533-9",
+      "decision": "Kunnanhallitus päätti yksimielisesti 1 valita yhdyskuntatekniikan johtajan Anna-Kaisa Kauppisen kunnan edustajaksi Kiinteistö Oy Kirkkonummen Kunnantalon ylimääräiseen yhtiökokoukseen 4.10.2023 2 olla antamatta erityistä evästystä yhtiökokousedustajalle 3 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+      "votes": [],
+      "sections": {
+        "valmistelija": "johdon assistentti Gunnel Ekström, etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää 1 valita kunnan edustaja Kiinteistö Oy Kirkkonummen Kunnantalon ylimääräiseen yhtiökokoukseen 4.10.2023 2 mahdollisen evästyksen antamisesta yhtiökokousedustajalle 3 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "paatos": "Kunnanhallitus päätti yksimielisesti 1 valita yhdyskuntatekniikan johtajan Anna-Kaisa Kauppisen kunnan edustajaksi Kiinteistö Oy Kirkkonummen Kunnantalon ylimääräiseen yhtiökokoukseen 4.10.2023 2 olla antamatta erityistä evästystä yhtiökokousedustajalle 3 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "selostus": "Kiinteistö Oy Kirkkonummen Kunnantalon ylimääräinen yhtiökokous pidetään 4.10.2023 klo 11.30 Teams-kokouksena Kunnan edustajana Kiinteistö Oy Kirkkonummen Kunnantalon yhtiökokouksessa 15.6.2023 toimi yhdyskuntatekniikan johtaja Anna-Kaisa Kauppinen (15.6.2023 Kauppinen toimi vt. kunnanjohtajana)"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231533-10",
+      "ordinal": "10",
+      "title": "Västra Nylands folkhögskola, yhtymäkokous 31.10.2023",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231533-10",
+      "decision": "Kunnanhallitus päätti yksimielisesti valita Stefan Gustafssonin kunnan edustajaksi ja Josephine Frimodigin kunnan varaedustajaksi Samkommunen för Västra Nylands folkhögskolan 31.10.2023 pidettävään yhtymäkokokseen",
+      "votes": [],
+      "sections": {
+        "valmistelija": "johdon assistentti Gunnel Ekström, etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää valita kunnan yhtymäkokousedustajan Samkommunen för Västra Nylands folkhögskolan 31.10.2023 pidettävään yhtymäkokokseen",
+        "paatos": "Kunnanhallitus päätti yksimielisesti valita Stefan Gustafssonin kunnan edustajaksi ja Josephine Frimodigin kunnan varaedustajaksi Samkommunen för Västra Nylands folkhögskolan 31.10.2023 pidettävään yhtymäkokokseen",
+        "tiedoksi": "Västra Nylands folkhögskola, valituille edustajille",
+        "selostus": "Ennakkoilmoitus: Samkommunen för Västra Nylands folkhögskolan yhtymäkokous pidetään 31.10.2023 klo 17.00 Karjaalla. Kokouksessa käsiteltävät asiat: Talousarvioseuranta 1-9.2023 Talousarviomuutos 2023 Vuoden 2024 palkkiot, matkakulukorvaukset ja työmatkapäivärahat Talousarvio 2024 ja taloussuunnitelma 2025-26 Hallituksen valinta Tarkastuslautakunnan valinta Stefan Gustafsson on toiminut kunnan edustajana, varaedustajana Josephine Frimodig"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231533-11",
+      "ordinal": "11",
+      "title": "Luksian yhtymäkokous 23.11.2023, yhtymäkokousedustajan nimeämispyyntö",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231533-11",
+      "decision": "Kunnanhallitus päätti yksimielissti nimetä Anna Sahiluoman kunnan yhtymäkokousedustajaksi ja Ulla Seppälän varaedustajaksi Luksian yhtymäkokoukseen 23.11.2023",
+      "votes": [],
+      "sections": {
+        "valmistelija": "johdon assistentti Gunnel Ekström, etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää nimetä kunnan yhtymäkokousedustajan Luksian yhtymäkokoukseen 23.11.2023",
+        "kasittely": "<Aloita käsittelyn kuvaus tästä>",
+        "paatos": "Kunnanhallitus päätti yksimielissti nimetä Anna Sahiluoman kunnan yhtymäkokousedustajaksi ja Ulla Seppälän varaedustajaksi Luksian yhtymäkokoukseen 23.11.2023",
+        "tiedoksi": "kirjaamo@luksia.fi , edustajille",
+        "selostus": "Länsi-Uudenmaan koulutuskuntayhtymän seuraava yhtymäkokous pidetään torstaina 23.11.2023 klo 13.00 Lohjalla. Yhtymäkokouksen kokouskutsu/esityslista lähetetään vähintään kolme viikkoa ennen kokousta. Luksia pyytää nimeämään edustajan ja varaedustajan sekä ilmoittamaan edustajien sähköpostiosoitteet viimeistään 27.10.2023 sähköpostilla kirjaamo@luksia.fi. Anna Sahiluoma nimettiin kunnan edustajaksi Luksia, Länsi-Uudenmaan koulutuskuntayhtymän yhtymäkokoukseen 12.6.2023 ja Ulla Seppälä nimettiin varaedustajaksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231533-12",
+      "ordinal": "12",
+      "title": "Kunnanjohtajan ajankohtaiset asiat",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231533-12",
+      "decision": "Kunnanjohtajan ajankohtaiskatsaus merkittiin tiedoksi. Todettiin linjauksena, että kunnanhallituksen kokoukset pidetään asialistasta riippuen joko lähi- tai etäkokouksena. Pitopaikasta tulisi ilmoittaa hyvissä ajoin",
+      "votes": [],
+      "sections": {
+        "valmistelija": "kunnanjohtaja Virpi Sailas, etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää merkitä kunnanjohtajan ajankohtaiskatsauksen tiedoksi",
+        "paatos": "Kunnanjohtajan ajankohtaiskatsaus merkittiin tiedoksi. Todettiin linjauksena, että kunnanhallituksen kokoukset pidetään asialistasta riippuen joko lähi- tai etäkokouksena. Pitopaikasta tulisi ilmoittaa hyvissä ajoin",
+        "selostus": "Kunnanjohtaja esittelee ajankohtaisia valmisteluissa olevia asioita: - kunnanhallituksen kokoukset, lähi- ja/tai etäkokouksina Hallintosäännön 147 §:n mukaan toimielin päättää kokoustensa ajan ja paikan"
+      },
+      "lang": "fi",
+      "text_encoding": "repaired",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231533-13",
+      "ordinal": "13",
+      "title": "Kuntalain 92 §:n mukaista otto-oikeusmenettelyä varten saapuneet päätökset",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231533-13",
+      "decision": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "esittelija": "Kunnanjohtaja Virpi Sailas, etunimi.sukunimi@kirkkonummi.fi",
+        "paatosehdotus": "Kunnanhallitus merkitsee tiedokseen edellä mainitut kuntalain 92 §:n nojalla otto-oikeuden käyttämistä varten esitetyt päätökset ja päättää, että Kunnanhallitus ei ota asioita käsiteltäväkseen",
+        "paatos": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231533-14",
+      "ordinal": "14",
+      "title": "Ilmoitusasioita tiedoksi",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231533-14",
+      "decision": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus merkitsee ilmoitusasiat tiedokseen",
+        "paatos": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231533-15",
+      "ordinal": "15",
+      "title": "Muut asiat",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231533-15",
+      "decision": null,
+      "votes": [],
+      "sections": {},
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    }
+  ],
+  "id": "20231533",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20231533"
+}

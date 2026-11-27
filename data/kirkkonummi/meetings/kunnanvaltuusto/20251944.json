@@ -1,0 +1,773 @@
+{
+  "title": "Kunnanvaltuusto Pöytäkirja 03.02.2025 klo 18:00 - 20:29 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Kunnanvaltuusto",
+  "doctype": "Pöytäkirja",
+  "date": "2025-02-03",
+  "items": [
+    {
+      "id": "20251944-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20251944-1",
+      "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Kokous todettiin lailliseksi ja päätösvaltaiseksi",
+        "selostus": "Kunnanvaltuuston kokouskutsu on julkaistu kunnan verkkosivulla 29.1.2025. Samana päivänä kutsu on toimitettu valtuutetuille ja varavaltuutetuille"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20251944-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20251944-2",
+      "decision": "Pöytäkirjantarkastajiksi valittiin Sini Felipe ja Jani Ekman",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanvaltuusto päättää valita kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan",
+        "paatos": "Pöytäkirjantarkastajiksi valittiin Sini Felipe ja Jani Ekman"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20251944-3",
+      "ordinal": "3",
+      "title": "Kirkkonummen kunnan kotoutumisohjelma vuosille 2025-2026",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20251944-3",
+      "decision": "Kunnanvaltuusto päätti hyväksyä liitteenä olevan Kirkkonummen kunnan kotoutumisohjelman vuosille 2025-2026 seuraavalla evästyksellä: Kotoutumisohjelman mittarit luodaan mahdollisimman pian ja käsitellään elinvoimajaostossa, kunnanhallituksessa ja tuodaan valtuustoon päätettäväksi. Mittareista voi ottaa mallia esim. Työ- ja elinkeinoministeriön kotoutumisen seurantajärjestelmän mittareista, joissa seurataan maahanmuuttajien työllisyyttä, koulutusta, terveyttä ja hyvinvointia, asumista, osallistumista ja kaksisuuntaista kotoutumista (ml. etniset suhteet). (https://tem.fi/kotouttamisen-seuranta)",
+      "votes": [
+        {
+          "jaa": [
+            "Antti Kilappa",
+            "Sanni Jäppinen",
+            "Anna-Mari Toikka",
+            "Anna Presnukhina",
+            "Hans Hedberg",
+            "Jenny Mäkinen",
+            "Marjut Frantsi-Lankia",
+            "Kati Kaihlaranta",
+            "Tuovi Ronkainen",
+            "Antti Salonen",
+            "Stefan Gustafsson",
+            "Kim Männikkö",
+            "Tony Björk",
+            "Patrik Lundell",
+            "Reetta Hyvärinen",
+            "Sini Felipe",
+            "Maarit Orko",
+            "Carl-Johan Kajanti",
+            "Anna Sahiluoma",
+            "Ulf Kjerin",
+            "Tero Suominen",
+            "Ronja Karkinen",
+            "Matilda Björkqvist",
+            "Ari Harinen",
+            "Kari Saari",
+            "Noora Piili",
+            "Saara Huhmarniemi",
+            "Greger Englund",
+            "Johanna Fleming"
+          ],
+          "ei": [
+            "Minna Hakapää",
+            "Martin Valtonen",
+            "Matti Kaurila",
+            "Ulla Seppälä",
+            "Marko Kari",
+            "Aku Leijala",
+            "Jani Ekman",
+            "Anneli Granström",
+            "Arttu Lankinen",
+            "Aleksander Polkko",
+            "Jukka Ylikoski",
+            "Hannu Valtanen",
+            "Riikka Purra",
+            "Ville Salminen",
+            "Kari Virtanen",
+            "Piia Aallonharja",
+            "Jussi Määttä",
+            "Timo Haapaniemi",
+            "Kim Åström",
+            "Urho Blom",
+            "Liisa Kosonen"
+          ],
+          "tyhja": [
+            "Kim Liljequist"
+          ],
+          "totals": {
+            "jaa": 29,
+            "ei": 21,
+            "tyhja": 1
+          },
+          "parties": {
+            "jaa": {
+              "pro yl": 3,
+              "vihr": 8,
+              "rkp": 10,
+              "kesk": 1,
+              "vas": 1,
+              "sdp": 5,
+              "kok": 1
+            },
+            "ei": {
+              "pro yl": 2,
+              "rkp": 1,
+              "kok": 11,
+              "ps": 7
+            },
+            "tyhja": {
+              "rkp": 1
+            }
+          },
+          "direction": {
+            "jaa_label": "asian jatkokäsittelyä",
+            "ei_label": "asian palauttamista",
+            "jaa_kind": "jatkokasittely",
+            "ei_kind": "jatkokasittely",
+            "kind": "procedural_substantive",
+            "rationale": "Puheenjohtaja julisti keskustelun päättyneeksi ja totesi, että keskustelun aikana on jätetty palautusehdotus, muutos- ja evästysehdotuksia seuraavasti: Palautusesitys (Purra Riikka): Ohjelma palautetaan valmisteluun niin, että se palveluluetteloinnin sijaan korostaa enemmän kotouttamisen velvoittavuutta ja erityisesti maahanmuuttajan omaa vastuuta.",
+            "winner": null,
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat asian jatkokäsittelyä äänestävät JAA, ja ne jotka kannattavat asian palauttamista äänestävät EI — annettiin 29 JAA ja 21 EI ääntä."
+          }
+        },
+        {
+          "jaa": [
+            "Anna Presnukhina",
+            "Saara Huhmarniemi",
+            "Patrik Lundell",
+            "Sini Felipe",
+            "Kim Männikkö",
+            "Aleksander Polkko",
+            "Urho Blom",
+            "Johanna Fleming",
+            "Ronja Karkinen",
+            "Kari Saari",
+            "Ulf Kjerin",
+            "Tony Björk",
+            "Tuovi Ronkainen",
+            "Greger Englund",
+            "Anna-Mari Toikka",
+            "Tero Suominen",
+            "Maarit Orko",
+            "Stefan Gustafsson",
+            "Kim Liljequist",
+            "Minna Hakapää",
+            "Liisa Kosonen",
+            "Kati Kaihlaranta",
+            "Matilda Björkqvist",
+            "Jenny Mäkinen",
+            "Carl-Johan Kajanti",
+            "Martin Valtonen",
+            "Sanni Jäppinen",
+            "Reetta Hyvärinen",
+            "Marjut Frantsi-Lankia",
+            "Antti Salonen",
+            "Hans Hedberg"
+          ],
+          "ei": [
+            "Antti Kilappa",
+            "Arttu Lankinen",
+            "Hannu Valtanen",
+            "Matti Kaurila",
+            "Riikka Purra",
+            "Timo Haapaniemi",
+            "Jani Ekman",
+            "Jukka Ylikoski",
+            "Kari Virtanen",
+            "Ari Harinen",
+            "Ville Salminen",
+            "Kim Åström",
+            "Noora Piili",
+            "Piia Aallonharja",
+            "Ulla Seppälä",
+            "Anneli Granström",
+            "Jussi Määttä",
+            "Anna Sahiluoma",
+            "Marko Kari"
+          ],
+          "tyhja": [
+            "Aku Leijala"
+          ],
+          "totals": {
+            "jaa": 31,
+            "ei": 19,
+            "tyhja": 1
+          },
+          "parties": {
+            "jaa": {
+              "vihr": 8,
+              "rkp": 12,
+              "sdp": 4,
+              "ps": 1,
+              "kok": 2,
+              "pro yl": 2,
+              "vas": 1,
+              "kesk": 1
+            },
+            "ei": {
+              "pro yl": 2,
+              "ps": 6,
+              "kok": 10,
+              "sdp": 1
+            },
+            "tyhja": {
+              "pro yl": 1
+            }
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta",
+            "ei_label": "Anneli Granströmin muutosehdotusta",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": "jaa",
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Anneli Granströmin muutosehdotusta äänestävät EI — annettiin 31 JAA ja 19 EI ääntä."
+          }
+        }
+      ],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 1 Kirkkonummen kunnan kotoutumisohjelma 2025-2026 Kirkkonummen kunnan kotoutumisohjelma vuosille 2025-2026 Kunnanvaltuusto 03.02.2025 § 3 919/00.01.02/2024",
+        "paatosehdotus": "Kunnanhallitus esittää kunnanvaltuustolle, että valtuusto hyväksyy liitteenä olevan Kirkkonummen kunnan kotoutumisohjelman vuosille 2025-2026",
+        "kasittely": "Hallintojohtaja Jaana Suihkonen esitteli asiaa. Puheenjohtaja julisti keskustelun päättyneeksi ja totesi, että keskustelun aikana on jätetty palautusehdotus, muutos- ja evästysehdotuksia seuraavasti: Palautusesitys (Purra Riikka): Ohjelma palautetaan valmisteluun niin, että se palveluluetteloinnin sijaan korostaa enemmän kotouttamisen velvoittavuutta ja erityisesti maahanmuuttajan omaa vastuuta. Suomeen integroidutaan ennen kaikkea työllä, ei osallistumalla yhä uusiin verorahoitteisiin palveluihin. Kotoutumisen rahoitusta on suunnattava tehokkaasti niihin toimiin, jotka edistävät nopeaa työllistymistä ja suomen ja/tai ruotsin kielen oppimista. Kaikessa kotouttamispolitiikassa on keskityttävä tehokkuuteen ja toimien vaikuttavuuteen. Tämä edellyttää mittareita, joilla kyetään seuraamaan toimenpiteiden vaikuttavuutta. Mittareita vaaditaan tähän ohjelmaan. Palautusehdotusta kannattivat Jani Ekman, Piia Aallonharja, Matti Kaurila, Ville Salminen, Arttu Lankinen, Marko Kari, Hannu Valtanen, Aleksander Polkko, Jussi Määttä, Jukka Ylikoski ja Kim Åström. Palautusehdotusta ei hyväksytty yksimielisesti, joten puheenjohtaja ilmoitti että asiasta on äänestettävä. Puheenjohtaja ehdotti että asiasta äänestetään niin, että ne jotka kannattavat asian jatkokäsittelyä äänestävät JAA, ja ne jotka kannattavat asian palauttamista äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 29 JAA ääntä, 21 EI ääntä ja 1 tyhjä ääni. Asian jatkokäsittely sai enemmän ääniä, joten asian käsittelyä päätettiin jatkaa. JAA äänestivät: Antti Kilappa, Sanni Jäppinen, Anna-Mari Toikka, Anna Presnukhina, Hans Hedberg, Jenny Mäkinen, Marjut Frantsi-Lankia, Kati Kaihlaranta, Tuovi Ronkainen, Antti Salonen, Stefan Gustafsson, Kim Männikkö, Tony Björk, Patrik Lundell, Reetta Hyvärinen, Sini Felipe, Maarit Orko, Carl-Johan Kajanti, Anna Sahiluoma, Ulf Kjerin, Tero Suominen, Ronja Karkinen, Matilda Björkqvist, Ari Harinen, Kari Saari, Noora Piili, Saara Huhmarniemi, Greger Englund ja Johanna Fleming EI äänestivät: Minna Hakapää, Martin Valtonen, Matti Kaurila, Ulla Seppälä, Marko Kari, Aku Leijala, Jani Ekman, Anneli Granström, Arttu Lankinen, Aleksander Polkko, Jukka Ylikoski, Hannu Valtanen, Riikka Purra, Ville Salminen, Kari Virtanen, Piia Aallonharja, Jussi Määttä, Timo Haapaniemi, Kim Åström, Urho Blom ja Liisa Kosonen. Tyhjää äänesti Kim Liljequist. Asian käsittely jatkettiin. Puheenjohtaja ilmoitti, että asiasta on jätetty muutos- ja evästysehdotuksia seuraavasti: Muutosesitys (Granström Anneli): Kotoutumisohjelmassa olevat kunnan palvelut (sivu 4), listaan lisätään viimeiseksi teksti -tiedon tarjoaminen paluumuuton mahdollisuuksista. Muutosehdotusta kannattivat Matti Kaurila, Ville Salminen, Jukka Ylikoski, Arttu Lankinen, Piia Aallonharja, Jussi Määttä, Kim Åström, Kari Virtanen, Riikka Purra, Hannu Valtanen, Marko Kari ja Noora Piili. Muutosehdotusta ei hyväksytty yksimielisesti, joten puheenjohtaja ilmoitti että asiasta on äänestettävä. Puheenjohtaja ehdotti, että asiasta äänestetään niin, että ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Anneli Granströmin muutosehdotusta äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 31 JAA ääntä, 19 EI ääntä ja 1 tyhjä ääni. Pohjaehdotus sai enemmän ääniä ja voitti. JAA äänestivät: Anna Presnukhina, Saara Huhmarniemi, Patrik Lundell, Sini Felipe, Kim Männikkö, Aleksander Polkko, Urho Blom, Johanna Fleming, Ronja Karkinen, Kari Saari, Ulf Kjerin, Tony Björk, Tuovi Ronkainen, Greger Englund, Anna-Mari Toikka, Tero Suominen, Maarit Orko, Stefan Gustafsson, Kim Liljequist, Minna Hakapää, Liisa Kosonen , Kati Kaihlaranta, Matilda Björkqvist, Jenny Mäkinen, Carl-Johan Kajanti, Martin Valtonen, Sanni Jäppinen, Reetta Hyvärinen, Marjut Frantsi-Lankia, Antti Salonen ja Hans Hedberg EI äänestivät: Antti Kilappa, Arttu Lankinen, Hannu Valtanen, Matti Kaurila, Riikka Purra, Timo Haapaniemi, Jani Ekman, Jukka Ylikoski, Kari Virtanen, Ari Harinen, Ville Salminen, Kim Åström, Noora Piili, Piia Aallonharja, Ulla Seppälä, Anneli Granström, Jussi Määttä, Anna Sahiluoma ja Marko Kari Tyhjää äänesti Aku Leijala. Evästysehdotus (Aallonharja Piia): Kotoutumisohjelman mittarit luodaan mahdollisimman pian ja käsitellään elinvoimajaostossa, kunnanhallituksessa ja tuodaan valtuustoon päätettäväksi. Mittareista voi ottaa mallia esim. Työ- ja elinkeinoministeriön kotoutumisen seurantajärjestelmän mittareista, joissa seurataan maahanmuuttajien työllisyyttä, koulutusta, terveyttä ja hyvinvointia, asumista, osallistumista ja kaksisuuntaista kotoutumista (ml. etniset suhteet). ( https://tem.fi/kotouttamisen-seuranta ). Evästysehdotusta kannattivat Marko Kari, Timo Haapaniemi, Arttu Lankinen, Ulla Seppälä, Matti Kaurila, Carl-Johan Kajanti, Anneli Granström, Anna-Mari Toikka, Kari Virtanen, Anna Sahiluoma, Kim Åström, Jani Ekman, Ville Salminen, Jukka Ylikoski ja Urho Blom. Puheenjohtajan tiedustellessa Piia Aallonharjan evästysehdotus hyväksyttiin yksimielisesti",
+        "paatos": "Kunnanvaltuusto päätti hyväksyä liitteenä olevan Kirkkonummen kunnan kotoutumisohjelman vuosille 2025-2026 seuraavalla evästyksellä: Kotoutumisohjelman mittarit luodaan mahdollisimman pian ja käsitellään elinvoimajaostossa, kunnanhallituksessa ja tuodaan valtuustoon päätettäväksi. Mittareista voi ottaa mallia esim. Työ- ja elinkeinoministeriön kotoutumisen seurantajärjestelmän mittareista, joissa seurataan maahanmuuttajien työllisyyttä, koulutusta, terveyttä ja hyvinvointia, asumista, osallistumista ja kaksisuuntaista kotoutumista (ml. etniset suhteet). (https://tem.fi/kotouttamisen-seuranta)"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kirkkonummen kunnan kotoutumisohjelma 2025-2026",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20251944-3-119704.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Anneli Granström",
+          "kind": "vastaehdotus",
+          "text": null,
+          "source": "order",
+          "party": "ps"
+        },
+        {
+          "proposer": "Piia Aallonharja",
+          "kind": "evastysehdotus",
+          "text": null,
+          "source": "order",
+          "party": "ps"
+        }
+      ]
+    },
+    {
+      "id": "20251944-4",
+      "ordinal": "4",
+      "title": "Lasten ja nuorten hyvinvointisuunnitelma 2024–2026",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20251944-4",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti hyväksyä lasten ja nuorten hyvinvointisuunnitelman vuosille 2024–2026 seuraavalla evästyksellä: Seuraavaksi laadittavassa hyvinvointisuunnitelmassa vuosille 2026-2029 otetaan huomioon luontoympäristöjen ja lähiluonnon merkitys hyvinvoinnin ja terveyden edistämisessä. Luonnon arvostus korostuu kirkonummelaisille tehdyissä asukaskyselyissä ja sen sisällyttäminen hyvinvointisuunnitelmaan on perusteltua myös kuntastrategian linjausten näkökulmasta",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 2 Lasten ja nuorten hyvinvointisuunnitelma 2024-2026 3\n2 Nuva 3.12.2024 liite_Kirkkonummen nuorisovaltuuston lausunto lasten ja nuorten hyvinvointisuunnitelmasta Lasten ja nuorten hyvinvointisuunnitelma 2024–2026 Kunnanvaltuusto 03.02.2025 § 4 517/00.01.02/2024",
+        "paatosehdotus": "Kunnanhallitus esittää kunnanvaltuustolle, että valtuusto hyväksyy lasten ja nuorten hyvinvointisuunnitelman vuosille 2024–2026",
+        "kasittely": "Sivistysjohtaja Eeva-Kaisa Ikonen esitteli asiaa. Puheenjohtaja julisti keskustelun päättyneeksi, ja totesi että keskustelun aikana on jätetty evästysehdotus seuraavasti: Evästys seuraavan hyvinvointisuunnitelman laadintaan (Hyvärinen Reetta): Seuraavaksi laadittavassa hyvinvointisuunnitelmassa vuosille 2026-2029 otetaan huomioon luontoympäristöjen ja lähiluonnon merkitys hyvinvoinnin ja terveyden edistämisessä. Luonnon arvostus korostuu kirkonummelaisille tehdyissä asukaskyselyissä ja sen sisällyttäminen hyvinvointisuunnitelmaan on perusteltua myös kuntastrategian linjausten näkökulmasta. Evästysehdotusta kannattivat Saara Huhmarniemi, Aku Leijala, Kati Kaihlaranta, Johanna Fleming, Ronja Karkinen, Sanni Jäppinen, Tuovi Ronkainen, Marjut Frantsi-Lankia, Minna Hakapää, Antti Salonen, Maarit Orko, Kim Åström, Stefan Gustafsson, Kari Virtanen, Kari Saari, Antti Kilappa, Patrik Lundell, Hannu Valtanen, Tero Suominen, Jussi Määttä, Greger Englund, Matilda Björkqvist, Jenny Mäkinen, Tony Björk, Timo Haapaniemi ja Matti Kaurila. Puheenjohtajan tiedustellessa, evästysehdotus hyväksyttiin yksimielisesti. Kunnanvaltuusto piti tauon tämän pykälän jälkeen ko 19.15 – 19.25",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti hyväksyä lasten ja nuorten hyvinvointisuunnitelman vuosille 2024–2026 seuraavalla evästyksellä: Seuraavaksi laadittavassa hyvinvointisuunnitelmassa vuosille 2026-2029 otetaan huomioon luontoympäristöjen ja lähiluonnon merkitys hyvinvoinnin ja terveyden edistämisessä. Luonnon arvostus korostuu kirkonummelaisille tehdyissä asukaskyselyissä ja sen sisällyttäminen hyvinvointisuunnitelmaan on perusteltua myös kuntastrategian linjausten näkökulmasta"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Lasten ja nuorten hyvinvointisuunnitelma 2024-2026",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20251944-4-119728.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite 2 Nuva 3.12.2024 liite_Kirkkonummen nuorisovaltuuston lausunto lasten ja nuorten hyvinvointisuunnitelmasta",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20251944-4-119330.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20251944-5",
+      "ordinal": "5",
+      "title": "Nissniku-talon lisämääräraha",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20251944-5",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto myöntää Nissniku-talon elinkaarihankkeelle 1 884 000 euron lisämäärärahan ja vahvistaa hankkeen kokonaiskustannuksiksi 38 954 000 euroa",
+        "kasittely": "Kuntakehitysjohtaja Anna-Kaisa Kauppinen esitteli asiaa. Kunnanvaltuuston I varapuheenjohtaja Reetta Hyvärinen ja valtuutettu Jussi Määttä ilmoittivat olevansa esteellisiä ja poistuivat kokouksesta tämän pykälän käsittelyn ja päätöksenteon ajaksi",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20251944-6",
+      "ordinal": "6",
+      "title": "Eron myöntäminen varavaltuutetun tehtävästä (L.V.)",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20251944-6",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto 1 myöntää eron Leena Virkille varavaltuutetun tehtävästä 2 merkitsee tiedokseen, että keskusvaalilautakunta arvioi tarpeen määrätä uuden varavaltuutetun",
+        "kasittely": "Valtuutettu Anna Sahiluoma poistui kokouksesta tämän pykälän alussa klo 19.42",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20251944-7",
+      "ordinal": "7",
+      "title": "Eron myöntäminen tarkastuslautakunnan varajäsenen tehtävästä (E.M.) ja uuden varajäsenen valitseminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20251944-7",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Elina Malmbergille tarkastuslautakunnan varajäsenyydestä 2 valita Edla Niemen uudeksi varajäseneksi tarkastuslautakuntaan Elina Malmbergin tilalle kauden 2025 loppuun",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto 1 myöntää eron Elina Malmbergille tarkastuslautakunnan varajäsenyydestä 2 valitsee uuden varajäsenen tarkastuslautakuntaan Elina Malmbergin tilalle kauden 2025 loppuun",
+        "kasittely": "Esitys varajäseneksi (Kaihlaranta Kati): Vasemmistoliitto esittää tarkastuslautakunnan varajäseneksi Edla Niemeä",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Elina Malmbergille tarkastuslautakunnan varajäsenyydestä 2 valita Edla Niemen uudeksi varajäseneksi tarkastuslautakuntaan Elina Malmbergin tilalle kauden 2025 loppuun"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20251944-8",
+      "ordinal": "8",
+      "title": "Eron myöntäminen yhdyskuntatekniikan lautakunnan varajäsenen tehtävästä ja uuden varajäsenen nimeäminen (L.V.)",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20251944-8",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Leena Virkille yhdyskuntatekniikan lautakunnan varajäsenyydestä 2 valita Tarja Siivosen uudeksi varajäseneksi yhdyskuntatekniikan lautakuntaan Leena Virkin tilalle toimikauden loppuun",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto 1 myöntää eron Leena Virkille yhdyskuntatekniikan lautakunnan varajäsenyydestä 2 valitsee uuden varajäsenen Leena Virkin tilalle toimikauden loppuun",
+        "kasittely": "Urho Blom: Kokoomuksen esitys uudeksi lautakunnan varajäseneksi on Tarja Siivonen",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Leena Virkille yhdyskuntatekniikan lautakunnan varajäsenyydestä 2 valita Tarja Siivosen uudeksi varajäseneksi yhdyskuntatekniikan lautakuntaan Leena Virkin tilalle toimikauden loppuun"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20251944-9",
+      "ordinal": "9",
+      "title": "Eron myöntäminen suomenkielisen kasvatus- ja koulutuslautakunnan jäsenen tehtävästä (N.B) ja uuden jäsenen valitseminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20251944-9",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Nina Bogatenkolle suomenkielisen kasvatus- ja koulutuslautakunnan jäsenyydestä 2 valita Maarit Orkon uudeksi jäseneksi suomenkieliseen kasvatus- ja koulutuslautakuntaan Nina Bogatenkon tilalle toimikauden loppuun",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto päättää 1 myöntää eron Nina Bogatenkolle suomenkielisen kasvatus- ja koulutuslautakunnan jäsenyydestä 2 valita uuden jäsenen Nina Bogatenkon tilalle toimikauden loppuun",
+        "kasittely": "Sanni Jäppinen: Vihreät esittää suomenkielisen kasvatus- ja koulutuslautakunnan jäseneksi Maarit Orkoa",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Nina Bogatenkolle suomenkielisen kasvatus- ja koulutuslautakunnan jäsenyydestä 2 valita Maarit Orkon uudeksi jäseneksi suomenkieliseen kasvatus- ja koulutuslautakuntaan Nina Bogatenkon tilalle toimikauden loppuun"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20251944-10",
+      "ordinal": "10",
+      "title": "Eron myöntäminen rakennus- ja ympäristölautakunnan jäsenyydestä ja uuden jäsenen valinta (L.V.)",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20251944-10",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Leena Virkille rakennus- ja ympäristölautakunnan jäsenyydestä 2 valita Viveca Lindgrenin uudeksi jäseneksi rakennus- ja ympäristölautakuntaan Leena Virkin tilalle toimikauden 2025 loppuun",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto päättää 1 myöntää eron Leena Virkille rakennus- ja ympäristölautakunnan jäsenyydestä 2 valita uuden jäsenen rakennus- ja ympäristölautakuntaan Leena Virkin tilalle toimikauden 2025 loppuun",
+        "kasittely": "Urho Blom: Kokoomus esitys lautakunnan uudeksi jäseneksi on Viveca Lindgren",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Leena Virkille rakennus- ja ympäristölautakunnan jäsenyydestä 2 valita Viveca Lindgrenin uudeksi jäseneksi rakennus- ja ympäristölautakuntaan Leena Virkin tilalle toimikauden 2025 loppuun"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20251944-11",
+      "ordinal": "11",
+      "title": "Eron myöntäminen työllisyys- ja elinkeinoasioiden lautakunnan varajäsenen tehtävästä (S.F.) ja uuden varajäsenen valitseminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20251944-11",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Sini Felipelle työllisyys- ja elinkeinoasioiden lautakunnan varajäsenyydestä 2 valita Tuovi Ronkaisen uudeksi varajäseneksi työllisyys- ja elinkeinoasioiden lautakuntaan Sini Felipen tilalle toimikauden loppuun",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto päättää 1 myöntää eron Sini Felipelle työllisyys- ja elinkeinoasioiden lautakunnan varajäsenyydestä 2 valita uuden varajäsenen työllisyys- ja elinkeinoasioiden lautakuntaan Sini Felipen tilalle toimikauden loppuun",
+        "kasittely": "Sini Felipe: Sdp esittää uudeksi varajäseneksi työllisyys- ja elinkeinoasioiden lautakuntaan Tuovi Ronkaista",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Sini Felipelle työllisyys- ja elinkeinoasioiden lautakunnan varajäsenyydestä 2 valita Tuovi Ronkaisen uudeksi varajäseneksi työllisyys- ja elinkeinoasioiden lautakuntaan Sini Felipen tilalle toimikauden loppuun"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20251944-12",
+      "ordinal": "12",
+      "title": "Vastaus valtuustoaloitteeseen 11/2020: Liikkumisstrategian laatiminen Kirkkonummen kuntaan",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20251944-12",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "initiative": {
+        "ref": "11/2020",
+        "proposer": "Valtuutettu Irja Bergholm",
+        "party": null,
+        "name": "Irja Bergholm"
+      },
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko S-VL 12.12.2024 oheismateriaali_Valtuustoaloite 11_2020 Liikkumisstrategian laatiminen Kirkkonummen kuntaan Vastaus valtuustoaloitteeseen 11/2020: Liikkumisstrategian laatiminen Kirkkonummen kuntaan Kunnanvaltuusto 03.02.2025 § 12 1142/12.04.00/2020",
+        "paatosehdotus": "Kunnanhallitus antaa sivistys- ja vapaa-aikalautakunnan selostusosan mukaisen vastauksen valtuustoaloitteeseen 11/2020: Liikkumisstrategian laatiminen Kirkkonummen kuntaan ja esittää kunnanvaltuustolle, että valtuusto pitää vastausta riittävänä ja aloitetta loppuun käsiteltynä",
+        "kasittely": "Nuoriso- ja liikuntapäällikkö Päivi Sorvari oli läsnä tämän pykälän aikana",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "S-VL 12.12.2024 oheismateriaali_Valtuustoaloite 11_2020 Liikkumisstrategian laatiminen Kirkkonummen kuntaan",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20251944-12-116467.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20251944-13",
+      "ordinal": "13",
+      "title": "Vastaus valtuustoaloitteeseen 27/2021: Graffitiseinä kuntakeskuksen alueelle",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20251944-13",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "initiative": {
+        "ref": "27/2021",
+        "proposer": "Krista Petäjäjärvi",
+        "party": null,
+        "name": "Krista Petäjäjärvi"
+      },
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko S-VL 12.12.2024 oheismateriaali_Valtuustoaloite 27_2021 Graffitiseinä kuntakeskuksen alueelle Vastaus valtuustoaloitteeseen 27/2021: Graffitiseinä kuntakeskuksen alueelle Kunnanvaltuusto 03.02.2025 § 13 1220/10.03.01.02/2021",
+        "paatosehdotus": "Kunnanhallitus antaa sivistys- ja vapaa-aikalautakunnan selostusosan mukaisen vastauksen valtuustoaloitteeseen 27/2021: Grafiittiseinä kuntakeskuksen alueelle ja esittää kunnanvaltuustolle, että valtuusto pitää vastausta riittävänä ja aloitetta loppuun käsiteltynä",
+        "kasittely": "Nuoriso- ja liikuntapäällikkö Päivi Sorvari oli läsnä tämän pykälän aikana",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "S-VL 12.12.2024 oheismateriaali_Valtuustoaloite 27_2021 Graffitiseinä kuntakeskuksen alueelle",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20251944-13-116418.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20251944-14",
+      "ordinal": "14",
+      "title": "Vastaus valtuustoaloitteeseen 3/2022: Jääkenttien ja -ratojen ylläpito vapaaehtoisvoimin",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20251944-14",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "initiative": {
+        "ref": "3/2022",
+        "proposer": "Markus Myllyniemi ja Vihreä valtuustoryhmä",
+        "party": "vihr",
+        "name": null
+      },
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko S-VL 12.12.2024 oheismateriaali_Valtuustoaloite 3_2022 Jääkenttien ja -ratojen ylläpito vapaaehtoisvoimin Vastaus valtuustoaloitteeseen 3/2022: Jääkenttien ja -ratojen ylläpito vapaaehtoisvoimin Kunnanvaltuusto 03.02.2025 § 14 145/10.03.01.03/2022",
+        "paatosehdotus": "Kunnanhallitus päättää antaa sivistys- ja vapaa-aikalautakunnan selostusosan mukaisen vastauksen valtuustoaloitteeseen 3/2022: Jääkenttien ja -ratojen ylläpito vapaaehtoisvoimin ja esittää kunnanvaltuustolle, että valtuusto pitää vastausta riittävänä ja aloitetta loppuun käsiteltyinä",
+        "kasittely": "Nuoriso- ja liikuntapäällikkö Päivi Sorvari oli läsnä tämän pykälän aikana",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "S-VL 12.12.2024 oheismateriaali_Valtuustoaloite 3_2022 Jääkenttien ja -ratojen ylläpito vapaaehtoisvoimin",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20251944-14-116476.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20251944-15",
+      "ordinal": "15",
+      "title": "Vastaukset valtuustoaloitteisiin 17/2022: Pitkä hiihtolatu Kirkkonummelle, 1/2023: Koiraladun toteuttaminen Kirkkonummelle ja 2/2024: Kirkkonummen hiihtomahdollisuuksien parantamiseksi",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20251944-15",
+      "decision": "Kunnanvaltuusto päätti ehdotuksen mukaisesti seuraavilla evästyksillä: - Selvitetään mahdollisuus investoida keinolumijärjestelmiin hiihtomahdollisuuksien varmistamiseksi Kirkkonummella Tausta: Tänä talvena olemme kokeneet merkittävän luonnonlumen puutteen, mikä on vaikuttanut mahdollisuuksiimme tarjota hiihtoaktiviteetteja Kirkkonummen asukkaille. Jotta voisimme varmistaa hiihtomahdollisuudet myös vähälumisina talvina, vuoden 2026 talousarvion valmistelun yhteydessä selvitetään mahdollisuudet investoida keinolumijärjestelmään, eli lumitykkien ja niihin liittyvien laitteiden hankinta ja asennus keinolumen valmistamiseksi. Lisäksi selvitetään myös järvien tai jokien veden käyttäminen lumen valmistukseen, sekä mitä lupia siihen tarvitaan. Terveysedut: Hiihto on erinomainen liikuntamuoto, jota voivat harrastaa kaikenikäiset asukkaat. Säännöllinen fyysinen aktiivisuus parantaa terveyttä ja hyvinvointia, vähentää sydän- ja verisuonitautien riskiä sekä vahvistaa lihaksia ja niveliä. Tarjoamalla hiihtomahdollisuuksia ympäri vuoden voimme edistää aktiivista elämäntapaa ja ehkäistä terveysongelmia väestössä. Kustannussäästöt: Keinolumijärjestelmien ja uuden latukoneen kokonaiskustannuksia voidaan vähentää tutkimalla vaihtoehtoa ostaa vanhempia, kunnostettuja koneita. Tämä vähentäisi alkuinvestointikustannuksia, kunhan varmistetaan, että laitteet ovat täysin toimivia. Yhteenveto: Investointi keinolumijärjestelmiin on pitkäaikainen ratkaisu hiihtomahdollisuuksien varmistamiseksi Kirkkonummella sääolosuhteista riippumatta. Tämä tulee vaikuttamaan positiivisesti asukkaiden terveyteen ja hyvinvointiin sekä edistämään aktiivista ja terveellistä elämäntapaa. Tutkimalla mahdollisuutta ostaa kunnostettuja koneita voimme lisäksi vähentää projektin alkuperäisiä kustannuksia. - Masalan kuntoradan valaistu latu on hoitoluokituksessa 1 (sivistys-ja vapaa-aikalautakunnan päätös 9.6.2021). Latua ei kuitenkaan ole ylläpidetty viime talvina hoitoluokituksen mukaisesti, joten valtuusto evästää kuntaa huolehtimaan siitä että latuja ylläpidetään hoitoluokituksen mukaisesti tulevina talvina ja - Kirkkonummella kehitetään hiihtämisen mahdollisuuksia yhteisesti sopimalla ja hiihtomahdollisuuksien kehittämisessä huomioidaan latupohjien mahdollinen ympärivuotinen käyttö",
+      "votes": [
+        {
+          "jaa": [
+            "Ville Salminen",
+            "Antti Salonen",
+            "Marko Kari",
+            "Anneli Granström",
+            "Aleksander Polkko",
+            "Ronja Karkinen",
+            "Jukka Ylikoski",
+            "Anna Presnukhina",
+            "Aku Leijala",
+            "Hannu Valtanen",
+            "Piia Aallonharja",
+            "Riikka Purra",
+            "Arttu Lankinen"
+          ],
+          "ei": [
+            "Ulla Seppälä",
+            "Kari Saari",
+            "Antti Kilappa",
+            "Liisa Kosonen",
+            "Patrik Lundell",
+            "Timo Haapaniemi",
+            "Stefan Gustafsson",
+            "Tuovi Ronkainen",
+            "Sini Felipe",
+            "Reetta Hyvärinen",
+            "Matilda Björkqvist",
+            "Ari Harinen",
+            "Kim Åström",
+            "Urho Blom",
+            "Jani Ekman",
+            "Greger Englund",
+            "Ulf Kjerin",
+            "Martin Valtonen",
+            "Maarit Orko",
+            "Johanna Fleming",
+            "Jussi Määttä",
+            "Noora Piili",
+            "Saara Huhmarniemi",
+            "Tero Suominen",
+            "Kati Kaihlaranta",
+            "Jenny Mäkinen",
+            "Kim Liljequist",
+            "Kari Virtanen",
+            "Sanni Jäppinen",
+            "Kim Männikkö",
+            "Minna Hakapää",
+            "Tony Björk",
+            "Hans Hedberg"
+          ],
+          "tyhja": [
+            "Anna-Mari Toikka",
+            "Matti Kaurila",
+            "Marjut Frantsi-Lankia"
+          ],
+          "totals": {
+            "jaa": 13,
+            "ei": 33,
+            "tyhja": 3
+          },
+          "parties": {
+            "jaa": {
+              "ps": 7,
+              "pro yl": 2,
+              "kok": 2,
+              "vihr": 2
+            },
+            "ei": {
+              "kok": 8,
+              "vihr": 5,
+              "pro yl": 3,
+              "rkp": 11,
+              "sdp": 5,
+              "vas": 1
+            },
+            "tyhja": {
+              "vihr": 1,
+              "kok": 1,
+              "kesk": 1
+            }
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta ilman evästystä",
+            "ei_label": "Tony Björkin evästysehdotuksen hyväksymistä",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "evastys",
+            "kind": "procedural_substantive",
+            "rationale": "Puheenjohtaja julisti keskustelun päättyneeksi ja totesi, että keskustelun aikana on jätetty evästysehdotuksia seuraavasti: Evästys (valtuuston puheenjohtaja Tony Björk) Selvitetään mahdollisuus investoida keinolumijärjestelmiin hiihtomahdollisuuksien varmistamiseksi Kirkkonummella Tausta: Tänä talvena olemme kokeneet merkittävän luonnonlumen puutteen, mikä on vaikuttanut mahdollisuuksiimme tarjota hiihtoaktiviteetteja Kirkkonummen asukkaille.",
+            "winner": null,
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat pohjaehdotusta ilman evästystä äänestävät JAA, ja ne jotka kannattavat Tony Björkin evästysehdotuksen hyväksymistä äänestävät EI — annettiin 13 JAA ja 33 EI ääntä."
+          }
+        }
+      ],
+      "initiative": {
+        "ref": "17/2022",
+        "proposer": "kunnanhallitukselle valmisteltavaksi.   Selostus   Valtuutettu Markus Myllyniemi (Vihreät)",
+        "party": "vihr",
+        "name": "Markus Myllyniemi"
+      },
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko S-VL 12.12.2024 oheismateriaali_Valtuustoaloite 17_2022 Pitkä hiihtolatu Kirkkonummelle S-VL 12.12.2024 oheismateriaali_Valtuustoaloite 1_2023 Koiraladun toteuttaminen Kirkkonummelle S-VL 12.12.2024 oheismateriaali_Valtuustoaloite 2_2024 Kirkkonummen hiihtomahdollisuuksien parantamiseksi Vastaukset valtuustoaloitteisiin 17/2022: Pitkä hiihtolatu Kirkkonummelle, 1/2023: Koiraladun toteuttaminen Kirkkonummelle ja 2/2024: Kirkkonummen hiihtomahdollisuuksien parantamiseksi Kunnanvaltuusto 03.02.2025 § 15 230/10.03.01.02/2024",
+        "paatosehdotus": "Kunnanhallitus antaa sivistys- ja vapaa-aikalautakunnan selostusosan mukaisen vastauksen, kunnanhallituksen hyväksymällä evästyksellä, valtuustoaloitteisiin 17/2022: Pitkä hiihtolatu Kirkkonummelle, 1/2023: Koiraladun toteuttaminen Kirkkonummelle ja 2/2024: Kirkkonummen hiihtomahdollisuuksien parantamiseksi ja esittää kunnanvaltuustolle, että valtuusto pitää vastauksia riittävinä ja aloitteita loppuun käsiteltyinä",
+        "kasittely": "Nuoriso- ja liikuntapäällikkö Päivi Sorvari oli läsnä tämän pykälän aikana. Puheenjohtaja julisti keskustelun päättyneeksi ja totesi, että keskustelun aikana on jätetty evästysehdotuksia seuraavasti: Evästys (valtuuston puheenjohtaja Tony Björk) Selvitetään mahdollisuus investoida keinolumijärjestelmiin hiihtomahdollisuuksien varmistamiseksi Kirkkonummella Tausta: Tänä talvena olemme kokeneet merkittävän luonnonlumen puutteen, mikä on vaikuttanut mahdollisuuksiimme tarjota hiihtoaktiviteetteja Kirkkonummen asukkaille. Jotta voisimme varmistaa hiihtomahdollisuudet myös vähälumisina talvina, vuoden 2026 talousarvion valmistelun yhteydessä selvitetään mahdollisuudet investoida keinolumijärjestelmään, eli lumitykkien ja niihin liittyvien laitteiden hankinta ja asennus keinolumen valmistamiseksi. Lisäksi selvitetään myös järvien tai jokien veden käyttäminen lumen valmistukseen, sekä mitä lupia siihen tarvitaan. Terveysedut: Hiihto on erinomainen liikuntamuoto, jota voivat harrastaa kaikenikäiset asukkaat. Säännöllinen fyysinen aktiivisuus parantaa terveyttä ja hyvinvointia, vähentää sydän- ja verisuonitautien riskiä sekä vahvistaa lihaksia ja niveliä. Tarjoamalla hiihtomahdollisuuksia ympäri vuoden voimme edistää aktiivista elämäntapaa ja ehkäistä terveysongelmia väestössä. Kustannussäästöt: Keinolumijärjestelmien ja uuden latukoneen kokonaiskustannuksia voidaan vähentää tutkimalla vaihtoehtoa ostaa vanhempia, kunnostettuja koneita. Tämä vähentäisi alkuinvestointikustannuksia, kunhan varmistetaan, että laitteet ovat täysin toimivia. Yhteenveto: Investointi keinolumijärjestelmiin on pitkäaikainen ratkaisu hiihtomahdollisuuksien varmistamiseksi Kirkkonummella sääolosuhteista riippumatta. Tämä tulee vaikuttamaan positiivisesti asukkaiden terveyteen ja hyvinvointiin sekä edistämään aktiivista ja terveellistä elämäntapaa. Tutkimalla mahdollisuutta ostaa kunnostettuja koneita voimme lisäksi vähentää projektin alkuperäisiä kustannuksia. Evästysehdotus kannattivat Ulf Kjerin, Timo Haapaniemi, Patrik Lundell, Hans Hedberg, Kim Männikkö, Stefan Gustafsson, Jenny Mäkinen, Matilda Björkqvist, Martin Valtonen, Kim Åström, Jussi Määttä, Antti Kilappa, Johanna Fleming, Kari Saari, Tero Suominen, Greger Englund ja Liisa Kosonen. Evästysehdotusta ei hyväksytty yksimielisesti, joten puheenjohtaja ilmoitti että asiasta on äänestettävä. Puheenjohtaja ehdotti, että asiasta äänestetään niin, että ne jotka kannattavat pohjaehdotusta ilman evästystä äänestävät JAA, ja ne jotka kannattavat Tony Björkin evästysehdotuksen hyväksymistä äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 13 JAA ääntä, 33 EI ääntä, 3 tyhjää ääntä ja kaksi poissa (Carl-Johan Kajanti ja Anna Sahiluoma) Tony Björkin evästysehdotuksen hyväksyminen sai enemmän ääniä, joten evästysehdotus hyväksyttiin. JAA äänestivät: Ville Salminen, Antti Salonen, Marko Kari, Anneli Granström, Aleksander Polkko, Ronja Karkinen, Jukka Ylikoski, Anna Presnukhina, Aku Leijala, Hannu Valtanen, Piia Aallonharja, Riikka Purra ja Arttu Lankinen EI äänestivät: Ulla Seppälä, Kari Saari, Antti Kilappa, Liisa Kosonen, Patrik Lundell, Timo Haapaniemi, Stefan Gustafsson, Tuovi Ronkainen, Sini Felipe, Reetta Hyvärinen, Matilda Björkqvist, Ari Harinen, Kim Åström, Urho Blom, Jani Ekman, Greger Englund, Ulf Kjerin, Martin Valtonen, Maarit Orko, Johanna Fleming, Jussi Määttä, Noora Piili, Saara Huhmarniemi, Tero Suominen, Kati Kaihlaranta, Jenny Mäkinen, Kim Liljequist, Kari Virtanen, Sanni Jäppinen, Kim Männikkö, Minna Hakapää, Tony Björk ja Hans Hedberg Tyhjää äänestivät: Anna-Mari Toikka, Matti Kaurila ja Marjut Frantsi-Lankia. Jäsen Antti Kilapan evästysehdotus: Masalan kuntoradan valaistu latu on hoitoluokituksessa 1 (sivistys-ja vapaa-aikalautakunnan päätös 9.6.2021). Latua ei kuitenkaan ole ylläpidetty viime talvina hoitoluokituksen mukaisesti, joten valtuusto evästää kuntaa huolehtimaan siitä että latuja ylläpidetään hoitoluokituksen mukaisesti tulevina talvina. Evästysehdotusta kannattivat Kari Virtanen, Sanni Jäppinen, Tero Suominen, Antti Salonen, Matti Kaurila, Arttu Lankinen, Aleksander Polkko, Hannu Valtanen, Ulf Kjerin, Matilda Björkqvist, Patrik Lundell, Anna-Mari Toikka, Johanna Fleming, Martin Valtonen, Noora Piili, Kim Liljequist, Minna Hakapää, Kari Saari, Kati Kaihlaranta, Urho Blom, Timo Haapaniemi, Ville Salminen, Tony Björk, Kim Åström, Stefan Gustafsson, Liisa Kosonen, Greger Englund, Jussi Määttä, Marko Kari, Ari Harinen ja Tuovi Ronkainen. Puheenjohtaja tiedustellessa evästysehdotus hyväksyttiin yksimielisesti. II varapuheenjohtajan Minna Hakapään evästysehdotus: Kirkkonummella kehitetään hiihtämisen mahdollisuuksia yhteisesti sopimalla ja hiihtomahdollisuuksien kehittämisessä huomioidaan latupohjien mahdollinen ympärivuotinen käyttö. Evästysehdotusta kannattivat Antti Kilappa, Noora Piili, Ulf Kjerin, Patrik Lundell, Matti Kaurila, Kati Kaihlaranta, Martin Valtonen, Stefan Gustafsson, Tero Suominen, Antti Salonen, Ari Harinen, Kari Virtanen ja Sanni Jäppinen. Puheenjohtaja tiedustellessa evästysehdotus hyväksyttiin yksimielisesti. Jäsen Carl-Johan Kajanti poistui kokouksesta tämän pykälin käsittelyn aikana klo 20.09",
+        "paatos": "Kunnanvaltuusto päätti ehdotuksen mukaisesti seuraavilla evästyksillä: - Selvitetään mahdollisuus investoida keinolumijärjestelmiin hiihtomahdollisuuksien varmistamiseksi Kirkkonummella Tausta: Tänä talvena olemme kokeneet merkittävän luonnonlumen puutteen, mikä on vaikuttanut mahdollisuuksiimme tarjota hiihtoaktiviteetteja Kirkkonummen asukkaille. Jotta voisimme varmistaa hiihtomahdollisuudet myös vähälumisina talvina, vuoden 2026 talousarvion valmistelun yhteydessä selvitetään mahdollisuudet investoida keinolumijärjestelmään, eli lumitykkien ja niihin liittyvien laitteiden hankinta ja asennus keinolumen valmistamiseksi. Lisäksi selvitetään myös järvien tai jokien veden käyttäminen lumen valmistukseen, sekä mitä lupia siihen tarvitaan. Terveysedut: Hiihto on erinomainen liikuntamuoto, jota voivat harrastaa kaikenikäiset asukkaat. Säännöllinen fyysinen aktiivisuus parantaa terveyttä ja hyvinvointia, vähentää sydän- ja verisuonitautien riskiä sekä vahvistaa lihaksia ja niveliä. Tarjoamalla hiihtomahdollisuuksia ympäri vuoden voimme edistää aktiivista elämäntapaa ja ehkäistä terveysongelmia väestössä. Kustannussäästöt: Keinolumijärjestelmien ja uuden latukoneen kokonaiskustannuksia voidaan vähentää tutkimalla vaihtoehtoa ostaa vanhempia, kunnostettuja koneita. Tämä vähentäisi alkuinvestointikustannuksia, kunhan varmistetaan, että laitteet ovat täysin toimivia. Yhteenveto: Investointi keinolumijärjestelmiin on pitkäaikainen ratkaisu hiihtomahdollisuuksien varmistamiseksi Kirkkonummella sääolosuhteista riippumatta. Tämä tulee vaikuttamaan positiivisesti asukkaiden terveyteen ja hyvinvointiin sekä edistämään aktiivista ja terveellistä elämäntapaa. Tutkimalla mahdollisuutta ostaa kunnostettuja koneita voimme lisäksi vähentää projektin alkuperäisiä kustannuksia. - Masalan kuntoradan valaistu latu on hoitoluokituksessa 1 (sivistys-ja vapaa-aikalautakunnan päätös 9.6.2021). Latua ei kuitenkaan ole ylläpidetty viime talvina hoitoluokituksen mukaisesti, joten valtuusto evästää kuntaa huolehtimaan siitä että latuja ylläpidetään hoitoluokituksen mukaisesti tulevina talvina ja - Kirkkonummella kehitetään hiihtämisen mahdollisuuksia yhteisesti sopimalla ja hiihtomahdollisuuksien kehittämisessä huomioidaan latupohjien mahdollinen ympärivuotinen käyttö"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "S-VL 12.12.2024 oheismateriaali_Valtuustoaloite 17_2022 Pitkä hiihtolatu Kirkkonummelle",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20251944-15-116480.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "S-VL 12.12.2024 oheismateriaali_Valtuustoaloite 1_2023 Koiraladun toteuttaminen Kirkkonummelle",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20251944-15-116481.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "S-VL 12.12.2024 oheismateriaali_Valtuustoaloite 2_2024 Kirkkonummen hiihtomahdollisuuksien parantamiseksi",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20251944-15-116482.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Tony Björk",
+          "kind": "evastysehdotus",
+          "text": null,
+          "source": "order",
+          "party": "rkp"
+        },
+        {
+          "proposer": "Minna Hakapää",
+          "kind": "evastysehdotus",
+          "text": null,
+          "source": "order",
+          "party": "pro yl"
+        }
+      ]
+    },
+    {
+      "id": "20251944-16",
+      "ordinal": "16",
+      "title": "Vastaus valtuustoaloitteeseen 5/2024: Maksuttoman toisen asteen säilyttäminen Kirkkonummella",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20251944-16",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "initiative": {
+        "ref": "5/2024",
+        "proposer": "tösehdotuksen mukaisesti.   Tiedoksi   -     Selostus   Kirkkonummen Vihreä valtuustoryhmä",
+        "party": "vihr",
+        "name": null
+      },
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko S-VL 12.12.2024 oheismateriaali_Valtuustoaloite 5_2024 Maksuttoman toisen asteen säilyttäminen Kirkkonummella Vastaus valtuustoaloitteeseen 5/2024: Maksuttoman toisen asteen säilyttäminen Kirkkonummella Kunnanvaltuusto 03.02.2025 § 16 414/12.01.02/2024",
+        "paatosehdotus": "Kunnanhallitus antaa sivistys- ja vapaa-aikalautakunnan selostusosan mukaisen vastauksen valtuustoaloitteeseen 5/2024: Maksuttoman toisen asteen säilyttäminen Kirkkonummella ja esittää kunnanvaltuustolle, että valtuusto pitää vastausta riittävänä ja aloitetta loppuun käsiteltynä",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "S-VL 12.12.2024 oheismateriaali_Valtuustoaloite 5_2024 Maksuttoman toisen asteen säilyttäminen Kirkkonummella",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20251944-16-116986.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20251944-17",
+      "ordinal": "17",
+      "title": "Vastaus valtuustoaloitteeseen 6/2024: Kirkkonummen torjuttava maksuttoman toisen asteen koulutuksen romuttaminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20251944-17",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "initiative": {
+        "ref": "6/2024",
+        "proposer": "demokraattinen valtuustoryhmä / Sini Felipe, Tuovi Ronkainen, Ari Harinen ja Tero Suominen",
+        "party": "sdp",
+        "name": "Sini Felipe"
+      },
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko S-VL 12.12.2024 oheismateriaali_Valtuustoaloite 6_2024 Kirkkonummen torjuttava maksuttoman toisen asteen koulutuksen romuttaminen Vastaus valtuustoaloitteeseen 6/2024: Kirkkonummen torjuttava maksuttoman toisen asteen koulutuksen romuttaminen Kunnanvaltuusto 03.02.2025 § 17 415/12.01.02/2024",
+        "paatosehdotus": "Kunnanhallitus antaa sivistys- ja vapaa-aikalautakunnan selostusosan mukaisen vastauksen valtuustoaloitteeseen 6/2024: Kirkkonummen torjuttava maksuttoman toisen asteen koulutuksen romuttaminen ja esittää kunnanvaltuustolle, että valtuusto pitää vastausta riittävänä ja aloitetta loppuun käsiteltynä",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "S-VL 12.12.2024 oheismateriaali_Valtuustoaloite 6_2024 Kirkkonummen torjuttava maksuttoman toisen asteen koulutuksen romuttaminen",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20251944-17-116989.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20251944-18",
+      "ordinal": "18",
+      "title": "Valtuustoaloite 1/2025: Aloite maksuttomien kuukautisvälineiden tarjoamisesta nuorille ja vähävaraisille Kirkkonummella",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20251944-18",
+      "decision": "Kunnanvaltuusto toimittaa valtuustoaloitteen kunnanhallitukselle valmisteltavaksi",
+      "votes": [],
+      "initiative": {
+        "ref": "1/2025",
+        "proposer": "a valtuustoaloitteen kunnanhallitukselle valmisteltavaksi.     Selostus   Anja Presnukhina",
+        "party": null,
+        "name": "Anja Presnukhina"
+      },
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Valtuustoaloite, Kv 3.2.2025 Valtuustoaloite 1/2025: Aloite maksuttomien kuukautisvälineiden tarjoamisesta nuorille ja vähävaraisille Kirkkonummella Kunnanvaltuusto 03.02.2025 § 18 100/06.01.03/2025",
+        "paatos": "Kunnanvaltuusto toimittaa valtuustoaloitteen kunnanhallitukselle valmisteltavaksi",
+        "selostus": "Anja Presnukhina jätti kunnanvaltuuston kokouksessa 3.2.2025 seuraavan valtuustoaloitteen maksuttomien kuukautisvälineiden tarjoamisesta nuorille ja vähävaraisille Kirkkonummella: ”Kuukautisvälineiden puute koskee monia ihmisiä Suomessa. kuukautiset ovat edelleen monelle tabu eikä kuukautisiin liittyvistä asioista keskustella riittävän avoimesti. Julkinen sektori voisi tukea kuukautisterveyttä tarjoamalla suojia ja helposti saatavilla olevaa tietoa nykyistä paremmin. Plan International Suomen keväällä 2023 julkaiseman tiedon mukaan jopa 14 prosenttia suomalaisista elää kuukautisköyhyydessä. 15-24 -vuotiaiden ikäryhmästä kuukautisköyhyys koskettaa jopa 72 prosenttia. Vähävaraiselle ihmiselle kuukautisvälineisiin kuluva summa voi muodostaa merkittävän osan kuukauden tai viikon budjetista. Terveyssiteet ja tamponit maksavat käyttäjälle kuukaudessa muutamasta eurosta yli kymmeneen euroon. Kestosuojat, kuten kestositeet ja kuukupit, tulevat pitkällä aikavälillä halvemmiksi, mutta ovat ostohetkellä kalliita. Kenenkään ei tulisi joutua valitsemaan käyttääkö rahansa ruokaan vai kuukautisvälineisiin. Kuukautisköyhyyteen puuttumisesta on olemassa esimerkkejä maailmalta ja Suomesta. Esimerkiksi Skotlanti on päättänyt tarjota maksuttomia terveyssiteistä ja tamponeja niitä tarvitseville. Suomessa Helsinki on päättänyt aloittaa kuukautissuojien jakamisen oppilaitoksissa. Kirkkonummen tulee seurata Helsingin esimerkkiä kuukautisköyhyyteen liittyvän tabun rikkomisessa ja turvata kaikille oikeus hyviin kuukautisiin taloudellisista resursseista riippumatta. Maksuttomia kuukautisvälineitä tulisi olla tarjolla kouluissa, terveyskeskuksissa ja sosiaalipalveluissa, jotta ne ovat helposti ihmisten saatavilla. Samalla voidaan edistää gynekologista terveyttä tarjoamalla tietoa kuukautisista ja gynekologisista sairauksista. Me allekirjoittaneet valtuutetut pyydämme että Kirkkonummi selvittää mahdollisuutta tarjota maksuttomia kuukautisvälineitä sekä saavutettavaa tietoa kuukautisista nuorille ja muille niitä tarvitseville. Suojien tulee olla satavilla niin, ettei niitä tarvitsevan sukupuoli tule suojia noutaessa kyseenalaistetuksi. Kirkkonummella 3.2.2025” Valtuustoaloitteen allekirjoittivat Anja Presnukhina, Maarit Orko, Sanni Jäppinen, Kari Saari, Saara Huhmarniemi, Reetta Hyvärinen, Minna Hakapää, Anna-Mari Toikka, Ville Salminen, Tuovi Ronkainen, Sini Felipe, Kati Kaihlaranta, Johanna Fleming, Ronja Karkinen, Martin Valtonen, Mathilda Björkqvist, Jenny Mäkinen ja Patrik Lundell"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtuustoaloite, Kv 3.2.2025",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20251944-18-119925.PDF"
+        }
+      ],
+      "proposals": []
+    }
+  ],
+  "id": "20251944",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20251944"
+}

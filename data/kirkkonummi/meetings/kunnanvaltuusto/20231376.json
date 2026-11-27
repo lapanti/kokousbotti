@@ -1,0 +1,857 @@
+{
+  "title": "Kunnanvaltuusto Pöytäkirja 06.03.2023 klo 18:00 - 20:22 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Kunnanvaltuusto",
+  "doctype": "Pöytäkirja",
+  "date": "2023-03-06",
+  "items": [
+    {
+      "id": "20231376-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231376-1",
+      "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Kokous todettiin lailliseksi ja päätösvaltaiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231376-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231376-2",
+      "decision": "Pöytäkirjantarkastajiksi valittiin Maarit Orko ja Jussi Määttä",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanvaltuusto päättää valita kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan",
+        "paatos": "Pöytäkirjantarkastajiksi valittiin Maarit Orko ja Jussi Määttä"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231376-3",
+      "ordinal": "3",
+      "title": "Läntisen Gesterbyn asemakaavan muutos ja laajennus (hanke 12203), asemakaavan hyväksyminen MRL 52 §:n mukaisesti",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231376-3",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 1 3480_LantinenGesterby_kaavakartta_ja_määräykset 2 3480_Lantinen Gesterby_Kaavaselostus 3 3480_Lantinen Gesterby_Kaavaselostus_sv 4 3480_Lantinen Gesterby_LIITTEET_1-5 5 3480_Lantinen Gesterby_Kaavaselostuksen liitteet_6-10 6 3480_Lantinen Gesterby_Yhteenveto lausunnoista_vastineet 7 3480_Lantinen Gesterby_Yhteenveto lausunnoista_vastineet_sv Läntisen Gesterbyn asemakaavan muutos ja laajennus (hanke 12203), asemakaavan hyväksyminen MRL 52 §:n mukaisesti Kunnanvaltuusto 06.03.2023 § 12 540/10.02.03/2020",
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto päättää hyväksyä Läntisen Gesterbyn asemakaavan (piir. 3480) asiakirjoineen MRL:n 52 §:n mukaisesti",
+        "kasittely": "Valtuutettu Jerri Kämpe-Hellenius ja varavaltuutetut Leena Virkki ja Miisa Jeremejew ilmoittivat olevansa jäävejä ja poistuivat kokouksesta tämän pykälän käsittelyn ja päätöksenteon ajaksi. Varavaltuutetut Jenny Snellman ja Paula Oittinen olivat paikalla tämän pykälän aikana, ja poistuivat kokouksesta tämän pykälän jälkeen klo 18.09. Asemakaavapäällikkö Simon Store esitteli asiaa kokouksessa",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "3480_LantinenGesterby_kaavakartta_ja_määräykset",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231376-3-87138.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "3480_Lantinen Gesterby_Kaavaselostus",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231376-3-87149.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "3480_Lantinen Gesterby_Kaavaselostus_sv",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231376-3-87150.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "3480_Lantinen Gesterby_LIITTEET_1-5",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231376-3-87141.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "3480_Lantinen Gesterby_Kaavaselostuksen liitteet_6-10",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231376-3-79744.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "3480_Lantinen Gesterby_Yhteenveto lausunnoista_vastineet",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231376-3-79728.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "3480_Lantinen Gesterby_Yhteenveto lausunnoista_vastineet_sv",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231376-3-79729.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20231376-4",
+      "ordinal": "4",
+      "title": "Masalan osayleiskaavan (piir.nro 3481) hyväksyminen MRL 37 §:n mukaisesti",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231376-4",
+      "decision": "Kunnanvaltuusto päätti ehdotuksen mukaisesti lisättynä seuraavalla ponnella: Tiedolla johtaminen Vastaisuudessa kaavataloudellisiin analyyseihin tulee arvioida verotulokertymää ja palvelutarpeita nykyistä tarkemmin. Luonteeltaan samankaltaisten alueiden tilastotietoja hyödyntäen tulee muodostaa alueelliset arviot, pyrkien huomioimaan mm. asuntokannan, sijainnin, saavutettavuuden ja demografisten tekijöiden vaikutukset",
+      "votes": [
+        {
+          "jaa": [
+            "Suominen Tero",
+            "Ylisiurua Katja",
+            "Määttä Jussi",
+            "Kajanti Carl-Johan",
+            "Åström Kim",
+            "Purra Riikka",
+            "Kekkonen Irja",
+            "Salminen Ville",
+            "Felipe Sini",
+            "Ronkainen Tuovi",
+            "Ylikoski Jukka",
+            "Lundell Patrik",
+            "Petäjäjärvi Krista",
+            "Kjerin Ulf",
+            "Lankia Eero",
+            "Basilier Linda",
+            "Fleming Johanna",
+            "Harinen Ari",
+            "Karkinen Ronja",
+            "Orko Maarit",
+            "Oittinen Paula",
+            "Kosonen Liisa",
+            "Adlercreutz Anders",
+            "Jäppinen Sanni",
+            "Aallonharja Piia",
+            "Liljequist Kim",
+            "Gustafsson Stefan",
+            "Blom Urho",
+            "Granström Anneli",
+            "Salonen Antti",
+            "Virtanen Kari",
+            "Ekman Jani",
+            "Mäkinen Jenny",
+            "Hedberg Hans",
+            "Kilappa Antti",
+            "Sahiluoma Anna",
+            "Seppälä Ulla",
+            "Järvinen Johanna",
+            "Virkki Leena",
+            "Frimodig Josephine",
+            "Myllyniemi Markus"
+          ],
+          "ei": [
+            "Piili Noora",
+            "Hakapää Minna",
+            "Honkanen Martin",
+            "Toikka Anna-Mari",
+            "Leijala Aku",
+            "Kämpe-Hellenius Jerri",
+            "Valtonen Martin",
+            "Valtanen Hannu",
+            "Kaurila Matti",
+            "Kari Marko"
+          ],
+          "tyhja": [],
+          "totals": {
+            "jaa": 41,
+            "ei": 10,
+            "tyhja": 0
+          },
+          "parties": {
+            "jaa": {
+              "sdp": 5,
+              "vas": 1,
+              "kok": 9,
+              "rkp": 10,
+              "ps": 6,
+              "vihr": 7,
+              "kesk": 1,
+              "pro yl": 2
+            },
+            "ei": {
+              "pro yl": 3,
+              "ps": 1,
+              "vihr": 1,
+              "rkp": 2,
+              "kok": 3
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta",
+            "ei_label": "Hannu Valtasen muutosehdotusta",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": null,
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Hannu Valtasen muutosehdotusta äänestävät EI — annettiin 41 JAA ja 10 EI ääntä."
+          }
+        },
+        {
+          "jaa": [
+            "Oittinen Paula",
+            "Toikka Anna-Mari",
+            "Lundell Patrik",
+            "Purra Riikka",
+            "Kosonen Liisa",
+            "Liljequist Kim",
+            "Valtanen Hannu",
+            "Åström Kim",
+            "Virtanen Kari",
+            "Kilappa Antti",
+            "Blom Urho",
+            "Kari Marko",
+            "Gustafsson Stefan",
+            "Basilier Linda",
+            "Ylikoski Jukka",
+            "Virkki Leena",
+            "Kekkonen Irja",
+            "Valtonen Martin",
+            "Kajanti Carl-Johan",
+            "Aallonharja Piia",
+            "Lankia Eero",
+            "Salminen Ville",
+            "Honkanen Martin",
+            "Järvinen Johanna",
+            "Leijala Aku",
+            "Kaurila Matti",
+            "Seppälä Ulla",
+            "Määttä Jussi",
+            "Granström Anneli",
+            "Kämpe-Hellenius Jerri",
+            "Piili Noora",
+            "Myllyniemi Markus",
+            "Mäkinen Jenny",
+            "Ekman Jani",
+            "Petäjäjärvi Krista",
+            "Frimodig Josephine",
+            "Adlercreutz Anders",
+            "Sahiluoma Anna"
+          ],
+          "ei": [
+            "Orko Maarit",
+            "Karkinen Ronja",
+            "Hakapää Minna",
+            "Felipe Sini",
+            "Salonen Antti",
+            "Hedberg Hans",
+            "Suominen Tero",
+            "Ronkainen Tuovi",
+            "Fleming Johanna",
+            "Kjerin Ulf",
+            "Ylisiurua Katja",
+            "Harinen Ari"
+          ],
+          "tyhja": [
+            "Jäppinen Sanni"
+          ],
+          "totals": {
+            "jaa": 38,
+            "ei": 12,
+            "tyhja": 1
+          },
+          "parties": {
+            "jaa": {
+              "vihr": 5,
+              "rkp": 10,
+              "ps": 7,
+              "kok": 12,
+              "pro yl": 3,
+              "kesk": 1
+            },
+            "ei": {
+              "vihr": 2,
+              "pro yl": 2,
+              "sdp": 5,
+              "rkp": 2,
+              "vas": 1
+            },
+            "tyhja": {
+              "vihr": 1
+            }
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta lisättynä Kim Åströmin ponnella",
+            "ei_label": "pohjaehdotus ilman pontta",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "pohjaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": null,
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat pohjaehdotusta lisättynä Kim Åströmin ponnella äänestävät JAA, ja ne jotka kannattavat pohjaehdotus ilman pontta äänestävät EI — annettiin 38 JAA ja 12 EI ääntä."
+          }
+        }
+      ],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 8 3481_Masala_OYK_kv_kaava_pienennös_A3 9 3481_Masala_OYK_kv_määräykset_A0 10 3481 Masala_selostus_su_hyväksyminen_ kv_6.3.2023 11 3481 Masala_selostus_sv_hyväksyminen_ kv_6.3.2023 12 3481_\n1-14_päivitetty 13\n15. Kantatie 50 (Kehä III) tiesuunnitelman meluselvitys (Uudenmaan ELY-keskus & Afry Oy, 2020) 14 Vastineet_su 15 Vastineet_ru",
+        "oheismateriaali": "Kuvake Otsikko Pöytäkirja kh 25.10.2021 § 471, Masalan osayleiskaavaehdotuksen asettaminen julkisesti nähtäville Protokoll ks 25.10.2021 § 471, delgeneralplanen för Masaby, framläggning av förslaget till delgeneralplan Masalan osayleiskaavan ilmastovaikutusten arviointi - Loppuraportti 6.5.2022, Ramboll Masala_liikenneselvitys_31.3.2021 Kaavatalousarviointi_Masala_Raportti Masalan osayleiskaavan (piir.nro 3481) hyväksyminen MRL 37 §:n mukaisesti Kunnanvaltuusto 06.03.2023 § 13 1643/10.02.02/2019\n- Kaavakartta_ja_määräykset - Kaavaselostus_su - Kaavaselostus_ru - Kaavaselostus_liitteet - Vastineet_su - Vastineet_ru - Masalan osayleiskaava, Ilmastovaikutusten arviointi (Ramboll Finland Oy, 2022) - Masalan osayleiskaavan liikenneselvitys (Ramboll Finland Oy, 2021 ja 2022) - Masalan osayleiskaavan kaavataloudellinen selvitys (Ramboll Finland Oy, 2019)",
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto päättää 1 hyväksyä Masalan osayleiskaavan (piir.nro 3481) ja siihen liittyvät asiakirjat MRL 37 §:n mukaisesti 2 että Masalan osayleiskaava-alueen A-kaavamerkinnöillä olevat alueet asemakaavoitetaan jatkossa pientalopainotteisina",
+        "kasittely": "Kunnanarkkitehti Tero Luomajärvi esitteli asiaa kokouksessa. Varavaltuutettu Miisa Jeremejew poistui kokouksesta ja varavaltuutettu Paula Oittinen saapui kokoukseen tämän pykälän käsittelyn aikana klo 18.45. Puheenjohtaja julisti keskustelun päättyneeksi ja totesi, että keskustelun aikana on jätetty ponsiehdotus ja muutosehdotus seuraavasti: Valtuutettu Hannu Valtasen muutosehdotus: Esitän, että maakaapelin ohjeellinen linjaus poistetaan osayleiskaavasta. Kunta on tehnyt useita sopimuksia, joissa se on jo sitoutunut kaapelin toteuttamiseen Fortumin edellyttämällä tavalla. Muutosehdotusta kannatti Aki Leijala. Muutosehdotusta ei hyväksytty yksimielisesti joten puheenjohtaja ilmoitti että asiasta on äänestettävä. Puheenjohtaja ehdotti että asiasta äänestetään niin, että ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Hannu Valtasen muutosehdotusta äänestävät EI. Ääänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 41 JAA ääntä ja 10 EI ääntä. Pohjaehdotus sai enemmän ääniä. JAA äänestivät: Suominen Tero, Ylisiurua Katja, Määttä Jussi, Kajanti Carl-Johan, Åström Kim, Purra Riikka, Kekkonen Irja, Salminen Ville, Felipe Sini, Ronkainen Tuovi, Ylikoski Jukka, Lundell Patrik, Petäjäjärvi Krista, Kjerin Ulf, Lankia Eero, Basilier Linda, Fleming Johanna, Harinen Ari, Karkinen Ronja, Orko Maarit, Oittinen Paula, Kosonen Liisa, Adlercreutz Anders, Jäppinen Sanni, Aallonharja Piia, Liljequist Kim, Gustafsson Stefan, Blom Urho, Granström Anneli, Salonen Antti, Virtanen Kari, Ekman Jani, Mäkinen Jenny, Hedberg Hans, Kilappa Antti, Sahiluoma Anna, Seppälä Ulla, Järvinen Johanna, Virkki Leena, Frimodig Josephine ja Myllyniemi Markus. EI äänestivät: Piili Noora, Hakapää Minna, Honkanen Martin, Toikka Anna-Mari, Leijala Aku, Kämpe-Hellenius Jerri, Valtonen Martin, Valtanen Hannu, Kaurila Matti ja Kari Marko. Valtuutettu Kim Åströmin ponsiehdotus: Tiedolla johtaminen Vastaisuudessa kaavataloudellisiin analyyseihin tulee arvioida verotulokertymää ja palvelutarpeita nykyistä tarkemmin. Luonteeltaan samankaltaisten alueiden tilastotietoja hyödyntäen tulee muodostaa alueelliset arviot, pyrkien huomioimaan mm. asuntokannan, sijainnin, saavutettavuuden ja demografisten tekijöiden vaikutukset. Ponsiehdotusta kannattivat Kari Virtanen, Kim Liljequist, Martin Honkanen, Urho Blom, Marko Kari, Matti Kaurila, Piia Aallonharja, Carl-Johan Kajanti, Anneli Granström, Leena Virkki, Jukka Ylikoski, Ville Salminen, Riikka Purra, Jussi Määttä, Ulla Seppälä, Jani Ekman, Johanna Järvinen, Hannu Valtanen, Liisa Kosonen, Anna Sahiluoma, Patrik Lundell, Eero Lankia, Jenny Mäkinen, Aku Leijala ja Markus Myllyniemi. Ponsiehdotusta ei hyväksytty yksimielisesti joten puheenjohtaja ilmoitti että asiasta on äänestettävä. Puheenjohtaja ehdotti että asiasta äänestetään niin, että ne jotka kannattavat pohjaehdotusta lisättynä Kim Åströmin ponnella äänestävät JAA, ja ne jotka kannattavat pohjaehdotus ilman pontta äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 38 JAA ääntä, 12 EI ääntä ja 1 tyhjä ääni. Pohjaehdotus lisättynä Kim Åströmin ponnella sai enemmän ääniä. JAA äänestivät: Oittinen Paula, Toikka Anna-Mari, Lundell Patrik, Purra Riikka, Kosonen Liisa, Liljequist Kim, Valtanen Hannu, Åström Kim, Virtanen Kari, Kilappa Antti, Blom Urho, Kari Marko, Gustafsson Stefan, Basilier Linda, Ylikoski Jukka, Virkki Leena, Kekkonen Irja, Valtonen Martin, Kajanti Carl-Johan, Aallonharja Piia, Lankia Eero, Salminen Ville, Honkanen Martin, Järvinen Johanna, Leijala Aku, Kaurila Matti, Seppälä Ulla, Määttä Jussi, Granström Anneli, Kämpe-Hellenius Jerri, Piili Noora, Myllyniemi Markus, Mäkinen Jenny, Ekman Jani, Petäjäjärvi Krista, Frimodig Josephine, Adlercreutz Anders ja Sahiluoma Anna EI äänestivät: Orko Maarit, Karkinen Ronja, Hakapää Minna, Felipe Sini, Salonen Antti, Hedberg Hans, Suominen Tero, Ronkainen Tuovi, Fleming Johanna, Kjerin Ulf, Ylisiurua Katja ja Harinen Ari. Tyhjää äänesti Jäppinen Sanni",
+        "paatos": "Kunnanvaltuusto päätti ehdotuksen mukaisesti lisättynä seuraavalla ponnella: Tiedolla johtaminen Vastaisuudessa kaavataloudellisiin analyyseihin tulee arvioida verotulokertymää ja palvelutarpeita nykyistä tarkemmin. Luonteeltaan samankaltaisten alueiden tilastotietoja hyödyntäen tulee muodostaa alueelliset arviot, pyrkien huomioimaan mm. asuntokannan, sijainnin, saavutettavuuden ja demografisten tekijöiden vaikutukset",
+        "selostus": "Masalan osayleiskaavan kaavakartta on päivitetty kunnanhallituksen päätösten mukaisesti merkitsemällä Näseuddenissä liito-oravan elinpiirin kannalta tärkeä alue sen mukaisella kaavamerkinnällä (s-1). Tämän johdosta on kaavalle annettu uusi piirustusnumero, joka on 3481. Niin ikään kaavakartan päiväys on muutettu kunnanvaltuuston kokouspäivän mukaiseksi (6.3.2023)"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "3481_Masala_OYK_kv_kaava_pienennös_A3",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231376-4-87983.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "3481_Masala_OYK_kv_määräykset_A0",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231376-4-87981.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "3481 Masala_selostus_su_hyväksyminen_ kv_6.3.2023",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231376-4-87964.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "3481 Masala_selostus_sv_hyväksyminen_ kv_6.3.2023",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231376-4-87965.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "3481_Liitteet 1-14_päivitetty",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231376-4-87970.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite 15. Kantatie 50 (Kehä III) tiesuunnitelman meluselvitys (Uudenmaan ELY-keskus & Afry Oy, 2020)",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231376-4-87967.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Vastineet_su",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231376-4-87224.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Vastineet_ru",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231376-4-87287.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Pöytäkirja kh 25.10.2021 § 471, Masalan osayleiskaavaehdotuksen asettaminen julkisesti nähtäville",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231376-4-86151.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Protokoll ks 25.10.2021 § 471, delgeneralplanen för Masaby, framläggning av förslaget till delgeneralplan",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231376-4-86159.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Masalan osayleiskaavan ilmastovaikutusten arviointi - Loppuraportti 6.5.2022, Ramboll",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231376-4-87113.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Masala_liikenneselvitys_31.3.2021",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231376-4-87111.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Kaavatalousarviointi_Masala_Raportti",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231376-4-87112.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Hannu Valtanen",
+          "kind": "vastaehdotus",
+          "text": null,
+          "source": "order",
+          "party": "kok"
+        }
+      ]
+    },
+    {
+      "id": "20231376-5",
+      "ordinal": "5",
+      "title": "Hirsala I, ranta-asemakaavan osittainen muutos (hanke 37101), ranta-asemakaavan hyväksyminen MRL 52 §:n mukaisesti",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231376-5",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 16 3476_Hirsala_I_RAK_kaavakartta ja määräykset SU-RU 17 3476_Hirsala_I_RAK_selostus 18 3476_Hirsala_I_RAK_beskrivningen 19\n1_Asemakaavan_seurantalomake 20\n2_Voimassa oleva ranta-asemakaava ja määräykset 21\n3_Ranta-asemakaava ja ranta-asemakaavan muutos -kartta 22\n4_Kaavamääräykset 23 Hirsala I ehdotusvaiheen lausunnot ja vastineet_SU 24 Hirsala I ehdotusvaiheen lausunnot ja vastineet_RU Hirsala I, ranta-asemakaavan osittainen muutos (hanke 37101), ranta-asemakaavan hyväksyminen MRL 52 §:n mukaisesti Kunnanvaltuusto 06.03.2023 § 14 1171/10.02.04/2020",
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto päättää hyväksyä Hirsala I ranta-asemakaavan osittaisen muutoksen, piir. nro 3476 ja siihen liittyvät asiakirjat MRL 52 §:n mukaisesti",
+        "kasittely": "Kaavoitusarkkitehti Seppo Mäkinen esitteli asiaa kokouksessa",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "3476_Hirsala_I_RAK_kaavakartta ja määräykset SU-RU",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231376-5-86087.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "3476_Hirsala_I_RAK_selostus",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231376-5-86090.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "3476_Hirsala_I_RAK_beskrivningen",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231376-5-86089.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite 1_Asemakaavan_seurantalomake",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231376-5-86086.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite 2_Voimassa oleva ranta-asemakaava ja määräykset",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231376-5-86088.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite 3_Ranta-asemakaava ja ranta-asemakaavan muutos -kartta",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231376-5-86085.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite 4_Kaavamääräykset",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231376-5-86092.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Hirsala I ehdotusvaiheen lausunnot ja vastineet_SU",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231376-5-86091.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Hirsala I ehdotusvaiheen lausunnot ja vastineet_RU",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231376-5-86093.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20231376-6",
+      "ordinal": "6",
+      "title": "Mössö, ranta-asemakaavan laatiminen (hanke 24400), ranta-asemakaavan hyväksyminen MRL 52 §:n mukaisesti",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231376-6",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 25 3474_Mössö_RAK_kaavakartta ja määräykset SU-RU 26 3474_Mössö_RAK_selostus 27 3474_Mössö_RAK_beskrivningen 28 Mössö_RAK_selostuksen liitteet 29 3475_Mössö_RAK_havainnekuva 30 Mössö_ehdotusvaiheen vastineet SU 31 Mössö_ehdotusvaiheen vastineet RU Mössö, ranta-asemakaavan laatiminen (hanke 24400), ranta-asemakaavan hyväksyminen MRL 52 §:n mukaisesti Kunnanvaltuusto 06.03.2023 § 15 1109/10.02.04/2020",
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto päättää hyväksyä Mössön saaren ranta-asemakaavan, piir. nro 3474 ja siihen liittyvät asiakirjat MRL 52 §:n mukaisesti",
+        "kasittely": "Kaavoitusarkkitehti Seppo Mäkinen esitteli asiaa kokouksessa. Asemakaavapäällikkö Simon Store poistui kokouksesta tämän pykälän käsittelyn aikana klo 19.45",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "3474_Mössö_RAK_kaavakartta ja määräykset SU-RU",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231376-6-86070.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "3474_Mössö_RAK_selostus",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231376-6-86073.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "3474_Mössö_RAK_beskrivningen",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231376-6-86074.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Mössö_RAK_selostuksen liitteet",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231376-6-86075.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "3475_Mössö_RAK_havainnekuva",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231376-6-86072.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Mössö_ehdotusvaiheen vastineet SU",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231376-6-86071.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Mössö_ehdotusvaiheen vastineet RU",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231376-6-86076.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20231376-7",
+      "ordinal": "7",
+      "title": "Vuoden 2022 talousarvion ylitysoikeus perusturvan palvelualueen määrärahaan",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231376-7",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus esittää kunnanvaltuustolle, että perusturvan palvelualueen määrärahaan myönnetään 1,7 milj. euron ylitysoikeus",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+        "tiedoksi": "talousyksikkö"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231376-8",
+      "ordinal": "8",
+      "title": "Kunnanvaltuuston kokousaikataulu, syksy 2023",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231376-8",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus esittää kunnanvaltuustolle, että valtuusto päättää omista kokousaikatauluistaan syksyn 2023 osalta niin että valtuuston kokoukset pidetään 4.9.2023, 9.10.2023, 13.11.2023 ja 11.12.2023",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+        "tiedoksi": "kokousaikatauluun (kunnan kotisivuille)"
+      },
+      "lang": "fi",
+      "text_encoding": "repaired",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231376-9",
+      "ordinal": "9",
+      "title": "Vastaus valtuustoaloitteeseen 1/2019: Valtuustoaloite osallistuvan budjetoinnin käyttöön ottamisesta kuntalaisten osallistumismahdollisuuksien ja kunnan toiminnan avoimuuden lisäämiseksi",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231376-9",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "initiative": {
+        "ref": "1/2019",
+        "proposer": "Vihreä valtuustoryhmä kunnanvaltuuston",
+        "party": "vihr",
+        "name": null
+      },
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Valtuustoaloite osallistuvan budjetoinnin käyttöön ottamisesta kuntalaisten osallistumismahdollisuuksien ja kunnan toiminnan avoimuuden lisäämiseksi Vastaus valtuustoaloitteeseen 1/2019: Valtuustoaloite osallistuvan budjetoinnin käyttöön ottamisesta kuntalaisten osallistumismahdollisuuksien ja kunnan toiminnan avoimuuden lisäämiseksi Kunnanvaltuusto 06.03.2023 § 18 1042/02.02.02/2022",
+        "paatosehdotus": "Kunnanhallitus antaa selostusosan mukaisen vastauksen valtuustoaloitteeseen 1/2019 kunnanvaltuustolle ja ehdottaa että valtuusto pitää vastausta riittävänä ja aloitetta loppuunkäsiteltynä",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtuustoaloite osallistuvan budjetoinnin käyttöön ottamisesta kuntalaisten osallistumismahdollisuuksien ja kunnan toiminnan avoimuuden lisäämiseksi",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231376-9-79706.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20231376-10",
+      "ordinal": "10",
+      "title": "Vastaus valtuustoaloitteeseen 18/2021: Ekologinen kompensaatio -aloite",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231376-10",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "initiative": {
+        "ref": "18/2021",
+        "proposer": "Vihreä valtuustoryhmä",
+        "party": "vihr",
+        "name": null
+      },
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Valtuustoaloite 18/2021: Ekologinen kompensaatio -aloite Vastaus valtuustoaloitteeseen 18/2021: Ekologinen kompensaatio -aloite Kunnanvaltuusto 06.03.2023 § 19 674/10.00.00/2021",
+        "paatosehdotus": "Kunnanhallitus antaa kunnanvaltuustolle selostusosan mukaisen vastauksen valtuustoaloitteeseen 18/2021 ja esittää että valtuusto pitää vastausta riittävänä ja aloitetta loppuunkäsiteltynä",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtuustoaloite 18/2021: Ekologinen kompensaatio -aloite",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231376-10-53939.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20231376-11",
+      "ordinal": "11",
+      "title": "Vastaus valtuustoaloitteeseen 8/2022: Kunnan frisbeegolfratojen jätehuolto",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231376-11",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "initiative": {
+        "ref": "8/2022",
+        "proposer": "Perussuomalaisten Kirkkonummen valtuustoryhmä",
+        "party": "ps",
+        "name": null
+      },
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Valtuustoaloite 8/2022: Kunnan frisbeegolfratojen jätehuolto Vastaus valtuustoaloitteeseen 8/2022: Kunnan frisbeegolfratojen jätehuolto Kunnanvaltuusto 06.03.2023 § 20 476/12.04.02/2022",
+        "paatosehdotus": "Kunnanhallitus antaa tekstiosassa mainitun selvityksen vastauksenaan valtuustoaloitteeseen 8/2022 kunnanvaltuustolle, ja ehdottaa että valtuusto pitää annettua vastausta riittävänä ja aloitetta loppuun käsiteltynä",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtuustoaloite 8/2022: Kunnan frisbeegolfratojen jätehuolto",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231376-11-71728.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20231376-12",
+      "ordinal": "12",
+      "title": "Vastaus valtuustoaloitteeseen 15/2022: Someturvan käyttöönotto Kirkkonummen peruskouluissa",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231376-12",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "initiative": {
+        "ref": "15/2022",
+        "proposer": "Kirkkonummen Perussuomalaisten valtuustoryhmä / Johanna Järvinen",
+        "party": "ps",
+        "name": "Johanna Järvinen"
+      },
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Valtuustoaloite - fullmäktigemotion 15-2022 Vastaus valtuustoaloitteeseen 15/2022: Someturvan käyttöönotto Kirkkonummen peruskouluissa Kunnanvaltuusto 06.03.2023 § 21 1149/12.01.03/2022",
+        "paatosehdotus": "Kunnanhallitus antaa selostusosan mukaisen vastauksen valtuustoaloitteeseen 15/2022 kunnanvaltuustolle ja esittää että valtuusto pitää vastausta riittävänä ja aloitetta loppuunkäsiteltynä",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+        "tiedoksi": "sivistyksen palvelualue"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtuustoaloite - fullmäktigemotion 15-2022",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231376-12-81771.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20231376-13",
+      "ordinal": "13",
+      "title": "Vireillä olevat valtuustoaloitteet",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231376-13",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "initiative": {
+        "ref": null,
+        "proposer": "nnanhallituksen on vuosittain maaliskuun ja lokakuun loppuun mennessä esitettävä valtuusto",
+        "party": null,
+        "name": null
+      },
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 32 Vireillä olevat valtuustoaloitteet, kh 27.2.2023 Vireillä olevat valtuustoaloitteet Kunnanvaltuusto 06.03.2023 § 22 1308/00.01.02/2019",
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto merkitsee liitteenä olevan luettelon vireillä olevista valtuustoaloitteista tiedoksi",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+        "tiedoksi": "palvelualueille"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Vireillä olevat valtuustoaloitteet, kh 27.2.2023",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231376-13-88002.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20231376-14",
+      "ordinal": "14",
+      "title": "Eron myöntäminen toimitilapalvelujen lautakunnan varajäsenyydestä ja uuden varajäsenen valitseminen (JV)",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231376-14",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Julia Valtaselle toimitilapalvelujen lautakunnan varajäsenyydestä 2 valita Carita Vilén uudeksi varajäseneksi Julia Valtasen tilalle toimitilapalvelujen lautakuntaan toimikauden loppuun",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto 1 myöntää eron Julia Valtaselle toimitilapalvelujen lautakunnan varajäsenyydestä 2 valitsee uuden varajäsenen Julia Valtasen tilalle toimitilapalvelujen lautakuntaan toimikauden loppuun",
+        "kasittely": "Keskustelun aikana jäsen Urho Blom esitti seuraavaa: Kokoomus ehdottaa uudeksi varajäseneksi Carita Viléniä. Ehdotus hyväksyttiin yksimielisesti",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Julia Valtaselle toimitilapalvelujen lautakunnan varajäsenyydestä 2 valita Carita Vilén uudeksi varajäseneksi Julia Valtasen tilalle toimitilapalvelujen lautakuntaan toimikauden loppuun",
+        "tiedoksi": "asianosaisille, yhdyskuntatekniikan palvelualueelle ja palkka-tiimille"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231376-15",
+      "ordinal": "15",
+      "title": "Ilmoitus Vihreään valtuustoryhmään liittymisestä ja SDP:n valtuustoryhmästä eroamisesta (J.F.)",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231376-15",
+      "decision": "Kunnanvaltuusto päätti merkitä ilmoituksen tiedoksi",
+      "votes": [],
+      "sections": {
+        "paatos": "Kunnanvaltuusto päätti merkitä ilmoituksen tiedoksi",
+        "selostus": "Valtuutettu Johanna Fleming jätti kunnanvaltuuston kokouksessa 6.3.2023 seuraavan ilmoituksen: \"Minä Johanna Fleming eroan SDP:n valtuustoryhmästä ja liityn Vihreään valtuustoryhmään tällä päivämäärällä 6.3.2023. Kirkkonummella 6.3.2023, Johanna Fleming\""
+      },
+      "lang": "fi",
+      "text_encoding": "repaired",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231376-16",
+      "ordinal": "16",
+      "title": "Valtuustoaloite 3/2023: Pohjois-Kirkkonummen jalkapallohalli - Pohjois-Kirkkonummen hiilijalkapallojäljen pienentäminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231376-16",
+      "decision": "Kunnanvaltuusto toimittaa aloitteen kunnanhallitukselle valmisteltavaksi",
+      "votes": [],
+      "initiative": {
+        "ref": "3/2023",
+        "proposer": "een kunnanhallitukselle valmisteltavaksi.     Selostus   Kunnanvaltuutettu Martin Honkanen",
+        "party": null,
+        "name": "Martin Honkanen"
+      },
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Valtuustoaloite: Pohjois-Kirkkonummen jalkapallohalli - Pohjois-Kirkkonummen hiilijalkapallojaÌˆljen pienentaÌˆminen Valtuustoaloite 3/2023: Pohjois-Kirkkonummen jalkapallohalli - Pohjois-Kirkkonummen hiilijalkapallojäljen pienentäminen Kunnanvaltuusto 06.03.2023 § 25 221/10.00.02/2023",
+        "paatos": "Kunnanvaltuusto toimittaa aloitteen kunnanhallitukselle valmisteltavaksi",
+        "selostus": "Kunnanvaltuutettu Martin Honkanen jätti kunnanvaltuuston kokouksessa 6.3.2023 seuraavan valtuustoaloitteen: \"Pohjois-Kirkkonummen jalkapallohalli Pohjois-Kirkkonummen hiilijalkapallojäljen pienentäminen TAUSTAT Pohjoisen Kirkkonummen liikunnan, urheilun sekä ulkoilun sydänmaita on Velmon alue Veikkolassa, jossa liikkuu satoja ihmisiä päivittäin. Jalkapalloseura FC Wild, liikuttaa Vuorenmäen koulun pihalla yli 400 lisenssipelaajaa, joista käytännössä suurin osa on lapsia ja nuoria. Alueelta puuttuu kuitenkin puitteet laaja-alaiseen ympärivuotiseen jalkapallon harrastamiseen. FC Wildin toimintaa ja positiivisia vaikutuksia yhteiskunnalle ei voida pitää vähäpätöisinä. UEFA SROI (Social Return Of Invest) mallin mukaan FC Wildin yhteiskunnalle vuosittain tuottama kokonaisarvo on 3,04M€, joista sosiaaliset hyödyt ovat 0,71M€, terveydelliset hyödyt 1,07M€ ja taloudelliset hyödyt 1,26M€. Vuonna 2011 FC Wild ryhtyi toteuttamaan tekonurmihanketta Vuorenmäen koulun pihalle, ja seuran suunnitelmissa oli huomioitu valmiudet, mahdollisesti myöhemmin rakennettavalle sisähallille. Tekonurmi rakentui Vuorenmäen koulun pihalle 2012, mutta kaavoitus asettaa esteet hallin rakentamiselle. Seuran strategia on siitä lähtien sisältänyt tavoitteen saada Veikkolaan oma sisähalli, ja nyt tarvitaan vähän tukea luottamushenkilöiltä sekä viranhaltijoilta. ALOITE Me allekirjoittaneet esitämme, että Kirkkonummen kunta selvittää kevään 2023 aikana edellytykset kaavoituksen muuttamiselle Veikkolan alueella siten, että sisähalli olisi mahdollista rakentaa joko ylipainehallina tai muuna kiinteänä hallina: A. Ensisijaisesti kiinteistölle 257-895-2-12; 1) Nykyisen tekonurmen päälle 2) Olemassa olevalle kolmannen urheilukentän varaukselle, joka sijaitsee frisbeeradan ja monitoimikentän välissä. B. Toissijaisesti osoittaa hankkeelle soveltuvan toisen kiinteistön Veikkolan alueelta. PERUSTELUT YHDENVERTAISUUS FC Wildin joukkueet ovat talvikaudella kokonaan muiden seurojen antamien hallivuorojen varassa, jolloin mahdollisuudet varsinaisen harjoittelun määrään vähenevät oleellisesti. Riski lajin lopettamiselle tästä syystä kasvaa talvikaudella. Seurojen väliset mahdollisuudet pelaajien kehittymiselle ovat eriarvoiset. Seuran nuorimpien 5-8 vuotiaiden pelaajien harjoittelun määrää joudutaan rajaamaan, seuralle annettujen usein myöhäisten harjoitusvuorojen ja pitkien matkojen vuoksi. Nuorimmilla pelaajilla ei käytännössä ole talvikaudella lajille ominaista jalkapalloharjoittelua lainkaan. Pitkät siirtymät vaativat huomattavasti aikaa, ja kuormittavat perheitä myös taloudellisesti. Kaikilla ei välttämättä ole edellytyksiä kuljettaa lapsia harjoituksiin Veikkolasta pois. Tämä näkyy yleisesti aktiivisuudessa, joka vähenee huomattavasti talvikaudella. Tämän hetkinen tilanne ei edistä pelaajien eikä seurojen yhdenvertaisia mahdollisuuksia harjoitella ja kehittyä. Pohjois-Kirkkonummelle tarvitaan kelvolliset lajiharjoitteluolosuhteet myös talvikaudeksi. YMPÄRISTÖVAIKUTUKSET Vuorenmäen koulun kentälle ihmiset saapuvat pääsääntöisesti kävellen, pyöräillen tai muuten kestävästi ja päästöttömästi, myös talvisin useimmat saapuvat Vuorenmäen koululle kävellen. Kaikkien kenttävuorojen siirtyessä marras- joulukuussa muiden alueiden sisähalleihin, liikkuminen harjoituksiin tapahtuu käytännössä autoillen. FC Wildilla on eri ikäluokissa 16 joukkuetta joiden harjoitukset järjestetään tällä hetkellä pääsääntöisesti Masalan hallissa. Yhdessä joukkueessa on 20-40 pelaajaa. Pelkästään FC Wildin toimihenkilöt tuottavat hiilijalkapallojälkeä 30 tonnin verran talvikauden aikana. Sisähallin rakentaminen Veikkolaan tulisi vähentämään Pohjois Kirkkonummelaisten liikenteen päästöjä vuosittain oleellisesti ja näin ollen myös edistäisi kunnan tavoitteita päästöjen vähentämisessä. YLEISHYÖDYLLISIÄ VAIKUTUKSIA FC Wildin joukkueet maksavat talvikauden aikana kymmeniä tuhansia euroja kenttämaksuja muille seuroille Espooseen, Kauniaisiin, Vihtiin ja Lohjalle. Sisähalli toisi Pohjois-Kirkkonummelle lisää turnauksia sekä tapahtumia, ja näin myös rahallisia tuottoja kentän ylläpitoa varten. Välillisesti lisätuloja saisi koko kylän kaupat ja liikkeet sekä asukkaat. Veikkolan alueen koulujen ja päiväkotien olosuhteet liikuntatuntien pitämiseen paranisivat oleellisesti, koska kenttä olisi päiväsaikaan näiden hyödynnettävissä, kuten nytkin tekonurmi kesäaikaan. Sisähalli nostaisi muidenkin urheilulajien käyttöastetta ympärivuotiseksi, joka hyödyttää jalkapalloseuran lisäksi kaikkia Pohjois-Kirkkonummen asukkaita, seuroja sekä yhdistyksiä. Enemmän on enemmän, ja sisähalli lisäisi muidenkin Kirkkonummen alueiden asukkaiden mahdollisuuksia harrastamiseen ja liikkumiseen talviaikaan. Sisähalli parantaisi entisestään Veikkolan hyvää yhteisöllisyyttä, ja lisäisi yhdenvertaisuutta kuntalaisten välillä. Sisähalli lisäisi uskottavuutta Pohjois-Kirkkonummen kehittämisessä. Sisähalli nostaisi seuran yhteiskunnalle tuottamaa arvoa nykyisestä 3,04miljoonasta eurosta (UEFA SROI) merkittävästi. YHTEENVETO Urheilun ja liikunnan yhdenvertaisuuden edistämiseksi, liikenteen päästöjen vähentämiseksi ja alueen sosiaalisen sekä kansanterveyden parantamiseksi, kunnan tulisi osoittaa kiinteistö sisähallin rakentamista varten. Rakentamisen kustannuksista, ja rahoituksen järjestämisestä vastaa seura. Kunnioittavasti (allekirjoitukset ja nimenselvennykset) Martin Honkanen\" Aloitteen allekirjoittivat Martin Honkasen lisäksi seuraavat valtuutetut ja varavaltuutetut: Aku Leijala, Urho Blom, Jani Ekman, Minna Hakapää, Matti Kaurila, Antti Kilappa, Ulf Kjerin, Kim Liljequist, Markus Myllyniemi, Jussi Määttä, Maarit Orko, Krista Petäjäjärvi, Anna Sahiluoma, Antti Salonen, Martin Valtonen, Jukka Ylikoski, Kim Åström, Sanni Jäppinen, Eero Lankia ja Leena Virkki"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtuustoaloite: Pohjois-Kirkkonummen jalkapallohalli - Pohjois-Kirkkonummen hiilijalkapallojaÌˆljen pienentaÌˆminen",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231376-16-88512.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20231376-17",
+      "ordinal": "17",
+      "title": "Valtuustoaloite 4/2023: Vieraslajien torjuntaan keskittyneiden nuorten kesätyöpaikkojen luomiseksi",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231376-17",
+      "decision": "Kunnanvaltuusto toimittaa aloitteen kunnanhallitukselle valmisteltavaksi",
+      "votes": [],
+      "initiative": {
+        "ref": "4/2023",
+        "proposer": "ksi.     Selostus   Vihreä valtuustoryhmä, valtuustoryhmän puheenjohtaja Markus Myllyniemi",
+        "party": "vihr",
+        "name": "Markus Myllyniemi"
+      },
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Valtuustoaloite vieraslajien torjuntaan keskittyneiden nuorten kesätyöpaikkojen luomiseksi Valtuustoaloite 4/2023: Vieraslajien torjuntaan keskittyneiden nuorten kesätyöpaikkojen luomiseksi Kunnanvaltuusto 06.03.2023 § 26 222/10.03.01.03/2023",
+        "paatos": "Kunnanvaltuusto toimittaa aloitteen kunnanhallitukselle valmisteltavaksi",
+        "selostus": "Vihreä valtuustoryhmä, valtuustoryhmän puheenjohtaja Markus Myllyniemi jätti kunnanvaltuuston kokouksessa 6.3.2023 seuraavan valtuustoaloitteen: \" Valtuustoaloite vieraslajien torjuntaan keskittyneiden nuorten kesätyöpaikkojen luomiseksi Vieraslajeiksi kutsutaan eliölajeja, jotka ovat levinneet pois luontaiselta levinneisyysalueeltaan uudelle alueelle. Pahimmillaan vieraslajit aiheuttavat vakavaa vahinkoa mm. alkuperäislajistolle, ekosysteemeille, viljelykasveille, metsätaloudelle tai muille elinkeinoille. Ne voivat myös aiheuttaa huomattavaa taloudellista haittaa vaikuttamalla ihmisten, eläinten tai kasvien terveyteen tai kiinteistöjen arvoon. Haitat voivat myös olla sosiaalisia tai esteettisiä. Kurtturuusun, jättipalsamin ja espanjansiruetanan kaltaiset vieraslajit ovat levinneet Kirkkonummella hyvin laajalti. Kunta on aikaisemmin käynnistänyt esimerkiksi torjuntahankkeen kurtturuusun poistamiseksi vuonna 2021. Vieraslajeja on torjuttu myös talkoovoimin esimerkiksi osana 5.-6.-luokkalaisten valinnaista kurssia Gesterbyn koulussa. Lisää toimenpiteitä kuitenkin tarvitaan, jotta vieraslajien määrää kunnassamme saadaan hillittyä. Maanomistajien velvollisuus on torjua vieraslajeja omalla maallaan, mistä myös Kirkkonummen kunnan tulisi pitää huolta. Yksi keino toteuttaa vieraslajien torjuntaa resurssitehokkaasti olisi ohjata kunnan palkkaamia kesätyöntekijöitä tekemään torjuntatyötä Kirkkonummen kunnan hallinnoimille alueille. Torjunta sopisi nuorten kesätyöntekijöiden tehtäväksi, kunhan työ olisi suunniteltu hyvin ja siinä tehtäisiin riittävät varotoimenpiteet. Samalla kesätyöntekijät voisivat omalta osaltaan innostaa kuntalaisia talkoisiin vieraslajien torjumiseksi. Kesätyöntekijöiden hyödyntäminen vieraslajien torjunnassa ei ole uusi asia, ja esimerkiksi Liperissä ja Pietarsaaressa nuoria on palkattu vieraskasvien torjuntaan jo joidenkin vuosien ajan. Hämeenlinnan kaupunki on puolestaan palkannut nuoria yhteistyössä paikallisen 4H-yhdistyksen kanssa lupiinin poistotalkoisiin. Jotta vieraslajeja voitaisiin torjua kunnassamme tulevaisuudessa, meidän on ryhdyttävä päättäväisiin ja pitkäjänteisiin toimiin tilanteen parantamiseksi. Me aloitteen allekirjoittaneet valtuutetut esitämmekin, että Kirkkonummen kunta selvittää mahdollisuuksia palkata nuoria tulevina kesinä vieraslajien torjuntaan. Vihreä valtuustoryhmä\" Aloitteen allekirjoitti Markus Myllyniemen lisäksi seuraavat valtuutetut ja varavaltuutetut: Anna-Mari Toikka, Maarit Orko, Paula Oittinen, Irja Kekkonen, Ronja Karkinen, Miisa Jeremejew, Sanni Jäppinen, Katja Ylisiurua, Johanna Fleming, Krista Petäjäjärvi, Kim Liljequist, Patrik Lundell, Linda Basilier, Josephine Frimodig, Jenny Mäkinen ja Aku Leijala"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtuustoaloite vieraslajien torjuntaan keskittyneiden nuorten kesätyöpaikkojen luomiseksi",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231376-17-88517.PDF"
+        }
+      ],
+      "proposals": []
+    }
+  ],
+  "id": "20231376",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20231376"
+}

@@ -1,0 +1,915 @@
+{
+  "title": "Yhdyskuntatekniikan lautakunta Pöytäkirja 31.08.2023 klo 17:00 - 20:58 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Yhdyskuntatekniikan lautakunta",
+  "doctype": "Pöytäkirja",
+  "date": "2023-08-31",
+  "items": [
+    {
+      "id": "20231488-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231488-1",
+      "decision": "Puheenjohtaja totesi kokouksen laillisesti koolle kutsutuksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "valmistelija": "hallintosihteeri Suvi Wikström",
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Puheenjohtaja totesi kokouksen laillisesti koolle kutsutuksi ja päätösvaltaiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231488-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231488-2",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaisesti. Pöytäkirjantarkistajiksi valittiin Ronja Karkinen ja Teemu Kelkka",
+      "votes": [],
+      "sections": {
+        "valmistelija": "hallintosihteeri Suvi Wikström etunimi.sukunimi@kirkkonummi.fi",
+        "paatosehdotus": "Yhdyskuntatekniikan lautakunta päättää 1 valita kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan 2 tarkastaa tämän pöytäkirjan sähköisesti seuraavan aikataulun mukaan: Perjantaina 1.9.2023 lähetetään pöytäkirja sähköpostitse pöytäkirjantarkastajille, jotka ilmoittavat hyväksymisestään viimeistään tiistaina 5.9.2023. Jos hyväksymisviestiä ei tule sihteerille em. ajankohtaan mennessä, pöytäkirja katsotaan hyväksytyksi. Pöytäkirja allekirjoitetaan sähköisesti. Pöytäkirja on nähtävänä keskiviikkona 6.9.2023 kunnan verkkosivulla. Yleinen oikaisuvaatimusaika alkaa torstaina 14.9.2023",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaisesti. Pöytäkirjantarkistajiksi valittiin Ronja Karkinen ja Teemu Kelkka"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231488-3",
+      "ordinal": "3",
+      "title": "Kirkkonummen kunnan metsästrategian päivittäminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231488-3",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti: 1. että se merkitsee uuden metsästrategian osaltaan käsitellyksi 2. esittää kunnanhallitukselle, että se osaltaan käsittelee uuden metsästrategian ja valtuuttaa kunnallistekniikkapalveluiden kunnossapitoyksikön asettamaan uuden metsästrategian nähtäville sekä pyytämään strategiasta lausunnot 3. hyväksyä liitteen mukaiset muutokset 4. hyväksyä seuraavat muutokset: 4.1. LISÄYS metsästrategian kohtaan 1.6: \"Metsähoidossa, sen suunnittelussa ja toteutuksessa käytetään tarvittaessa ulkopuolista asiantuntija-apua.\" 4.2. LISÄYS metsästrategian kohtaan 1.6: \"Ilmastolliset, ekologiset ja sosiaaliset arvoperiaatteet eivät saa kohtuuttomasti rajoittaa ja/tai rasittaa metsien taloudellista käyttöä.\" 4.3. Vedetään kaaviossa kuntalaiset -alapalkista nuolet viemään sivuille ylösmenevän nuolen sijaan. 4.4. Asukas- ja käyttäjätyytyväisyyttä seurataan kymmenen vuoden sijaan tiheämmin, jotta varmistetaan kuntalaisten tyytyväisyys ja osallistaminen. 4.5. Lähi-ja virkistysmetsien luokista poistetaan mahdollisuus aukkohakkuisiin. Tämä kunnioittaa asukkaiden strategian kuntalaiskyselyssä esittämiä toiveita luonnontilaisesta ja virkistävästä metsäkokemuksesta. Jäsenet Ronja Karkinen ja Sanni Jäppinen jättivät päätöksestä eriävän mielipiteen",
+      "votes": [
+        {
+          "jaa": [
+            "Jäppinen Sanni",
+            "Karkinen Ronja"
+          ],
+          "ei": [
+            "Jäppinen Pekka",
+            "Liljequist Kim",
+            "Valtanen Hannu",
+            "Salonen Antti",
+            "Frimodig Josephine",
+            "Polkko Aleksander",
+            "Kaurila Matti"
+          ],
+          "tyhja": [
+            "Kelkka Teemu"
+          ],
+          "named_by": "surname",
+          "totals": {
+            "jaa": 2,
+            "ei": 7,
+            "tyhja": 1
+          },
+          "as_written": {
+            "jaa": [
+              "Jäppinen S",
+              "Karkinen"
+            ],
+            "ei": [
+              "Jäppinen P",
+              "Liljequist",
+              "Valtanen",
+              "Salonen",
+              "Frimodig",
+              "Polkko",
+              "Kaurila"
+            ],
+            "tyhja": [
+              "Kelkka"
+            ]
+          },
+          "names_from": "osallistujat",
+          "unresolved": [],
+          "parties": {
+            "jaa": {
+              "vihr": 2
+            },
+            "ei": {
+              "sdp": 1,
+              "rkp": 2,
+              "kok": 2,
+              "pro yl": 1,
+              "ps": 1
+            },
+            "tyhja": {
+              "kesk": 1
+            }
+          },
+          "direction": {
+            "jaa_label": "esittelijän pohjaesitystä",
+            "ei_label": "Hannu Valtasen muutosesitystä",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": "ei",
+            "source": "parsed",
+            "evidence": "Ne, jotka kannattavat esittelijän pohjaesitystä äänestävät JAA ja ne, jotka kannattavat Hannu Valtasen muutosesitystä, äänestävät EI — Äänet jakautuivat seuraavasti: 2 JAA-ääntä (Jäppinen S., Karkinen) 7 EI-ääntä (Jäppinen P., Liljequist, Valtanen, Salonen, Frimodig, Polkko, Kaurila) 1 TYHJÄ (Kelkka)"
+          }
+        },
+        {
+          "jaa": [
+            "Jäppinen Sanni",
+            "Karkinen Ronja"
+          ],
+          "ei": [
+            "Frimodig Josephine",
+            "Jäppinen Pekka",
+            "Kaurila Matti",
+            "Salonen Antti",
+            "Kelkka Teemu",
+            "Valtanen Hannu",
+            "Liljequist Kim",
+            "Polkko Aleksander"
+          ],
+          "tyhja": [],
+          "named_by": "surname",
+          "totals": {
+            "jaa": 2,
+            "ei": 8,
+            "tyhja": 0
+          },
+          "as_written": {
+            "jaa": [
+              "Jäppinen S",
+              "Karkinen"
+            ],
+            "ei": [
+              "Frimodig",
+              "Jäppinen P",
+              "Kaurila",
+              "Salonen",
+              "Kelkka",
+              "Valtanen",
+              "Liljequist",
+              "Polkko"
+            ],
+            "tyhja": []
+          },
+          "names_from": "osallistujat",
+          "unresolved": [],
+          "parties": {
+            "jaa": {
+              "vihr": 2
+            },
+            "ei": {
+              "rkp": 2,
+              "sdp": 1,
+              "kok": 2,
+              "pro yl": 1,
+              "kesk": 1,
+              "ps": 1
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "pohjaesitystä",
+            "ei_label": "Hannu Valtasen esitystä",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "other",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": "ei",
+            "source": "parsed",
+            "evidence": "Ne, jotka kannattavat pohjaesitystä, äänestävät JAA ja ne, jotka kannattavat Hannu Valtasen esitystä, äänestävät EI — Äänet jakautuivat seuraavasti: 8 EI-ääntä (Frimodig, Jäppinen P., Kaurila, Salonen, Kelkka, Valtanen, Liljequist, Polkko) 2 JAA-ääntä (Jäppinen S., Karkinen)"
+          }
+        },
+        {
+          "jaa": [
+            "Jäppinen Sanni",
+            "Jäppinen Pekka",
+            "Karkinen Ronja",
+            "Kelkka Teemu"
+          ],
+          "ei": [
+            "Kaurila Matti",
+            "Frimodig Josephine",
+            "Liljequist Kim",
+            "Salonen Antti",
+            "Polkko Aleksander",
+            "Valtanen Hannu"
+          ],
+          "tyhja": [],
+          "named_by": "surname",
+          "totals": {
+            "jaa": 4,
+            "ei": 6,
+            "tyhja": 0
+          },
+          "as_written": {
+            "jaa": [
+              "Jäppinen S",
+              "Jäppinen P",
+              "Karkinen",
+              "Kelkka"
+            ],
+            "ei": [
+              "Kaurila",
+              "Frimodig",
+              "Liljequist",
+              "Salonen",
+              "Polkko",
+              "Valtanen"
+            ],
+            "tyhja": []
+          },
+          "names_from": "osallistujat",
+          "unresolved": [],
+          "parties": {
+            "jaa": {
+              "vihr": 2,
+              "sdp": 1,
+              "kesk": 1
+            },
+            "ei": {
+              "kok": 2,
+              "rkp": 2,
+              "pro yl": 1,
+              "ps": 1
+            },
+            "tyhja": {}
+          }
+        },
+        {
+          "jaa": [
+            "Polkko Aleksander",
+            "Valtanen Hannu"
+          ],
+          "ei": [
+            "Jäppinen Pekka",
+            "Karkinen Ronja",
+            "Salonen Antti",
+            "Jäppinen Sanni",
+            "Kelkka Teemu"
+          ],
+          "tyhja": [
+            "Liljequist Kim",
+            "Frimodig Josephine",
+            "Kaurila Matti"
+          ],
+          "named_by": "surname",
+          "totals": {
+            "jaa": 2,
+            "ei": 5,
+            "tyhja": 3
+          },
+          "as_written": {
+            "jaa": [
+              "Polkko",
+              "Valtanen"
+            ],
+            "ei": [
+              "Jäppinen P",
+              "Karkinen",
+              "Salonen",
+              "Jäppinen S",
+              "Kelkka"
+            ],
+            "tyhja": [
+              "Liljequist",
+              "Frimodig",
+              "Kaurila"
+            ]
+          },
+          "names_from": "osallistujat",
+          "unresolved": [],
+          "parties": {
+            "jaa": {
+              "ps": 1,
+              "kok": 1
+            },
+            "ei": {
+              "sdp": 1,
+              "vihr": 2,
+              "pro yl": 1,
+              "kesk": 1
+            },
+            "tyhja": {
+              "rkp": 2,
+              "kok": 1
+            }
+          },
+          "direction": {
+            "jaa_label": "nykyistä muotoilua",
+            "ei_label": "Ronja Karkisen muutosta",
+            "jaa_kind": "other",
+            "ei_kind": "other",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": "ei",
+            "source": "parsed",
+            "evidence": "Ne, jotka kannattavat nykyistä muotoilua, äänestävät JAA ja ne, jotka kannattavat Ronja Karkisen muutosta, äänestävät EI — Äänet jakautuivat seuraavasti: 5 EI-ääntä (Jäppinen P., Karkinen, Salonen, Jäppinen S., Kelkka) 2 JAA- ääntä (Polkko, Valtanen) 3 TYHJÄÄ (Liljequist, Frimodig, Kaurila)"
+          }
+        }
+      ],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko Uusi_metsästrategia 17.8.2023 Uusi_metsästrategia_170823_\nyhdyskuntatekniikan lautakunta 31.8.2023 metsästrategian liite, H.Valtasen muutokset",
+        "oheismateriaali": "Kuvake Otsikko Eriävä mielipide, Karkinen ja S.Jäppinen Kirkkonummen kunnan metsästrategian päivittäminen Yhdyskuntatekniikan lautakunta 31.08.2023 § 92 1023/10.03.01.06/2020",
+        "valmistelija": "Kuntatekniikkapäällikkö Keski-Lusa Toni etunimi.sukunimi@kirkkonummi.fi",
+        "paatosehdotus": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa Yhdyskuntatekniikan lautakunta päättää: 1. että se merkitsee uuden metsästrategian osaltaan käsitellyksi 2. esittää kunnanhallitukselle, että se osaltaan käsittelee uuden metsästrategian ja valtuuttaa kunnallistekniikkapalveluiden kunnossapitoyksikön asettamaan uuden metsästrategian nähtäville sekä pyytämään strategiasta lausunnot",
+        "kasittely": "Käsittelyn aikana Hannu Valtanen teki muutosehdotuksen, joka on pöytäkirjan liitteenä. Matti Kaurila, Aleksander Polkko, Antti Salonen ja Pekka Jäppinen kannattivat esitystä. Puheenjohtaja totesi, että esitystä ei kannateta yksimielisesti, joten asiasta tulee äänestää. ÄÄNESTYS Puheenjohtaja käynnisti äänestyksen. Ne, jotka kannattavat esittelijän pohjaesitystä äänestävät JAA ja ne, jotka kannattavat Hannu Valtasen muutosesitystä, äänestävät EI. Puheenjohtaja päätti äänestyksen. Äänet jakautuivat seuraavasti: 2 JAA-ääntä (Jäppinen S., Karkinen) 7 EI-ääntä (Jäppinen P., Liljequist, Valtanen, Salonen, Frimodig, Polkko, Kaurila) 1 TYHJÄ (Kelkka), jolloin Hannu Valtasen ehdotus voitti. Hannu Valtanen teki muutosesityksen koskien metsästrategian kohtaa 1.6. Matti Kaurila, Aleksander Polkko, Antti Salonen ja Pekka Jäppinen kannattivat esitystä. Puheenjohtaja totesi, että esitystä ei kannateta yksimielisesti, joten asiasta tulee äänestää. ÄÄNESTYS Puheenjohtaja käynnisti äänestyksen. Ne, jotka kannattavat pohjaesitystä, äänestävät JAA ja ne, jotka kannattavat Hannu Valtasen esitystä, äänestävät EI. Puheenjohtaja päätti äänestyksen. Äänet jakautuivat seuraavasti: 8 EI-ääntä (Frimodig, Jäppinen P., Kaurila, Salonen, Kelkka, Valtanen, Liljequist, Polkko) 2 JAA-ääntä (Jäppinen S., Karkinen), jolloin Hannu Valtasen esitys voitti. Kim Liljequist teki seuraavan lisäysehdotuksen: LISÄYS metsästrategian kohtaan 1.6: \"Metsähoidossa, sen suunnittelussa ja toteutuksessa käytetään tarvittaessa ulkopuolista asiantuntija-apua.\" Matti Kaurila, Aleksander Polkko, Antti Salonen ja Josephine Frimodig kannattivat lisäystä. Puheenjohtaja totesi, että esitystä kannatettiin yksimielisesti. Kim Liljequist teki seuraavan lisäysehdotuksen LISÄYS metsästrategian kohtaan 1.6: \"Ilmastolliset, ekologiset ja sosiaaliset arvoperiaatteet eivät saa kohtuuttomasti rajoittaa ja/tai rasittaa metsien taloudellista käyttöä.\" Aleksander Polkko, Josephine Frimodig, Jenny Snellman ja Antti Salonen kannattivat esitystä. Puheenjohtaja totesi, että esitystä ei kannateta yksimielisesti, joten asiasta tulee äänestää. ÄÄNESTYS Puheenjohtaja käynnisti äänestyksen. Ne, jotka kannattavat Hannu Valtasen pohjaesitystä, äänstävät JAA ja ne, jotka kannattavat Kim Liljequistin lisäyksen lisäämistä Hannu Valtasen pohjaesitykseen, äänestävät EI. Puheenjohtaja päätti äänestyksen. Äänet jakautuivat seuraavasti: 6 EI-ääntä (Kaurila, Frimodig, Liljequist, Salonen, Polkko, Valtanen) 4 JAA-ääntä(Jäppinen S., Jäppinen P., Karkinen, Kelkka), jolloin Liljequistin lisäys lisätään. Ronja Karkinen teki seuraavan ehdotuksen: Vedetään kaaviossa kuntalaiset -alapalkista nuolet viemään sivuille ylösmenevän nuolen sijaan. Sanni Jäppinen kannatti ehdotusta. Puheenjohtaja totesi, että esitystä ei kannateta yksimielisesti, joten asiasta tulee äänestää. ÄÄNESTYS Puheenjohtaja käynnisti äänestyksen. Ne, jotka kannattavat nykyistä muotoilua, äänestävät JAA ja ne, jotka kannattavat Ronja Karkisen muutosta, äänestävät EI. Puheenjohtaja päätti äänestyksen. Äänet jakautuivat seuraavasti: 5 EI-ääntä (Jäppinen P., Karkinen, Salonen, Jäppinen S., Kelkka) 2 JAA- ääntä (Polkko, Valtanen) 3 TYHJÄÄ (Liljequist, Frimodig, Kaurila), jolloin Ronja Karkisen ehdotus voitti. Ronja Karkinen teki seuraavan ehdotuksen: Muutetaan liitteen 1.1.7. kappaleessa: Osallistamisessa annetaan kuntalaisille, järjestöille ja muille tahoille mahdollisuus LAUSUA LUONTOMETSÄsuunnitelmAN JA TOIMENPIDEOHJELMAN ehdotuksista. LAUSUNNOISTA tehty kooste ja vastineet liitetään lautakunnan käsittelyAINEISTOON. Puheenjohtaja totesi, että yllämainittu ehdotus on rauennut Hannu Valtasen ensimmäisen muutosehdotuksen voittaessa alkuperäisen ehdotuksen. Hannu Valtasen voittanut muutosehdotus poisti strategian liitteet. Ronja Karkinen teki seuraavan ehdotuksen: Asukas- ja käyttäjätyytyväisyyttä seurataan kymmenen vuoden sijaan tiheämmin, jotta varmistetaan kuntalaisten tyytyväisyys ja osallistaminen. Josephine Frimodig, Kim Liljequist, Sanni Jäppinen, Teemu Kelkka, Antti Salonen ja Hannu Valtanen kannattivat esitystä. Esitystä kannatettiin yksimielisesti. Ronja Karkinen teki seuraavan esityksen: Lähi-ja virkistysmetsien luokista poistetaan mahdollisuus aukkohakkuisiin. Tämä kunnioittaa asukkaiden strategian kuntalaiskyselyssä esittämiä toiveita luonnontilaisesta ja virkistävästä metsäkokemuksesta. Sanni Jäppinen ja Pekka Jäppinen kannattivat esitystä. Puheenjohtaja totesi, että esitystä kannatettiin yksimielisesti",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti: 1. että se merkitsee uuden metsästrategian osaltaan käsitellyksi 2. esittää kunnanhallitukselle, että se osaltaan käsittelee uuden metsästrategian ja valtuuttaa kunnallistekniikkapalveluiden kunnossapitoyksikön asettamaan uuden metsästrategian nähtäville sekä pyytämään strategiasta lausunnot 3. hyväksyä liitteen mukaiset muutokset 4. hyväksyä seuraavat muutokset: 4.1. LISÄYS metsästrategian kohtaan 1.6: \"Metsähoidossa, sen suunnittelussa ja toteutuksessa käytetään tarvittaessa ulkopuolista asiantuntija-apua.\" 4.2. LISÄYS metsästrategian kohtaan 1.6: \"Ilmastolliset, ekologiset ja sosiaaliset arvoperiaatteet eivät saa kohtuuttomasti rajoittaa ja/tai rasittaa metsien taloudellista käyttöä.\" 4.3. Vedetään kaaviossa kuntalaiset -alapalkista nuolet viemään sivuille ylösmenevän nuolen sijaan. 4.4. Asukas- ja käyttäjätyytyväisyyttä seurataan kymmenen vuoden sijaan tiheämmin, jotta varmistetaan kuntalaisten tyytyväisyys ja osallistaminen. 4.5. Lähi-ja virkistysmetsien luokista poistetaan mahdollisuus aukkohakkuisiin. Tämä kunnioittaa asukkaiden strategian kuntalaiskyselyssä esittämiä toiveita luonnontilaisesta ja virkistävästä metsäkokemuksesta. Jäsenet Ronja Karkinen ja Sanni Jäppinen jättivät päätöksestä eriävän mielipiteen",
+        "selostus": "Uusi Kirkkonummen kunnan metsästrategia, joka koskee Kirkkonummen kunnan omistamia metsiä, sisältää metsästrategian ja strategian liitteen. Liitteessä on esitelty toimintaperiaatteita, metsien käsittelyperiaatteet RAMS 2020 kunnossapitoluokissa ja sanasto. Metsästrategian päivityksessä ja siihen liittyvässä liitteessä on otettu huomioon helmikuussa 2022 järjestetyn metsästrategian kuntalaiskyselyn tulokset, yhdyskuntatekniikan lautakunnan 22.10.2020 § 112 päätöksessä esitetyt päivitystarpeet, 19.01.2023 § 5 käymät evästykset kannatusten mukaisesti sekä 25.05.2023 § 60 kokouksessa esiin tuodut ehdotukset siltä osin kuin mahdollista. Myös valtuuston 08.03.2021 hyväksymä Kirkkonummen kunnan kestävän energian ja ilmaston toimintasuunnitelma (SECAP) huomioitu. Liitteitä on tarkennettu entisestä"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Uusi_metsästrategia 17.8.2023",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231488-3-95824.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Uusi_metsästrategia_170823_Liitteet",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231488-3-95823.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "yhdyskuntatekniikan lautakunta 31.8.2023 metsästrategian liite, H.Valtasen muutokset",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231488-3-96309.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Eriävä mielipide, Karkinen ja S.Jäppinen",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231488-3-96496.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Hannu Valtanen",
+          "kind": "vastaehdotus",
+          "text": ", joka on pöytäkirjan liitteenä. Matti Kaurila, Aleksander Polkko, Antti Salonen ja Pekka Jäppinen kannattivat esitystä",
+          "source": "introduction",
+          "party": "kok"
+        },
+        {
+          "proposer": "Kim Liljequist",
+          "kind": "vastaehdotus",
+          "text": "LISÄYS metsästrategian kohtaan 1.6: \"Metsähoidossa, sen suunnittelussa ja toteutuksessa käytetään tarvittaessa ulkopuolista asiantuntija-apua.\" Matti Kaurila, Aleksander Polkko, Antti Salonen ja Josephine Frimodig kannattivat lisäystä",
+          "source": "introduction",
+          "party": "rkp"
+        },
+        {
+          "proposer": "Ronja Karkinen",
+          "kind": "vastaehdotus",
+          "text": null,
+          "source": "order",
+          "party": "vihr"
+        }
+      ]
+    },
+    {
+      "id": "20231488-4",
+      "ordinal": "4",
+      "title": "Kirkkonummen kunnan lausunto HSL -kuntayhtymän alustavasta toiminta- ja taloussuunnitelmaehdotuksesta vuosille 2024 - 2026",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231488-4",
+      "decision": "Yhdyskuntatekniikan lautakunta päättää 1. tehdä lausuntoon seuraavat muutokset: 1.1. Muutos, joka korvaa sivun 5 3. ja 4. kappaleen Kirkkonummen subventioaste vuonna 2024 olisi 49,6 %. Vuosina 2025-2026 se olisi noin 46-48 % luokkaa. Subventioasteessa ei luonnollisesti huomioida aiempien vuosien ylijäämää, jota ei tällä suunnitelmakaudella ole esitetty käytettävän. Kirkkonummen kunta katsoo, että TTS-lausunnossa esitetty kuntaosuuden taso on hyväksyttävä, kun subventioaste jää alle 50 %. HSL:n tulee ALOITTAA TALOUDEN TOIMENPITEET JA SOPEUTTAA JA KEHITTÄÄ AJOISSA LINJASTOA, jottei Kirkkonummen kuntaosuudet kasva nykyisestä merkittävästi ja pysytään alle 50 % subventioasteessa MYÖS KESKIPITKÄLLÄ AIKAVÄLILLÄ VUOSINA 2030 JA 2035, JOLLOIN TOIMINTA- JA TALOUSSUUNNITELMASSA ON ESITETTY VUODELLE 2030 KUNNAN RAHOITUSTARPEEKSI 13 MILJ. € SUBVENTIOASTEEN OLLESSA 61,4% JA VUONNA 2035 RAHOITUSTARVE ON 16,1 MILJ. € JA SUBVENTIOASTE 65,6%. 1.2. ELLEI HSL:N JOUKKOLIIKENTEESEEN SAADA merkittävästi ENEMMÄN VALTION RAHOITUSTA, ON HSL:N ALUEEN SUURIA JOUKKOLIIKENNE-INVESTOINTEJA LYKÄTTÄVÄ, JOTTA VUOSITTAIN KUNNILLE TULEVAT INFRAKUSTANNUKSET PYSYVÄT KOHTUULLISINA SEKÄ ENNAKOITAVISSA OLEVINA. 1.3. Kohta: \"edellyttäen, että toimenpiteet ovat suhteessa saataviin hyötyihin oikein mitoitettuja ja järkevästi perusteltuja\" muutetaan muotoon: \"edellyttäen, että yksittäisen nousun kustannus pysyy strategian mukaisella 0,25€/km tasolla.\" 1.4. Muutetaan sivulla 3: Kirkkonummen kunta katsoo, että liityntälinjojen 171-174 päätepysäkkikysymys tulee ratkaista lähemmin yhteistyössä kunnan kanssa. Muotoon: Kirkkonummen kunta katsoo, että liityntälinjojen 171-175 päätepysäkkikysymys tulee ratkaista lähemmin yhteistyössä kunnan kanssa. 2. esittää kunnanhallitukselle, että Kirkkonummen kunta antaa kokouksessa muutetun lausunnon HSL:n alustavasta toiminta- ja taloussuunnitelmaehdotuksesta 2024 - 2026 3. tarkastaa tämän pykälän kokouksessa",
+      "votes": [
+        {
+          "jaa": [
+            "Karkinen Ronja",
+            "Jäppinen Sanni"
+          ],
+          "ei": [
+            "Frimodig Josephine",
+            "Liljequist Kim",
+            "Polkko Aleksander",
+            "Kaurila Matti",
+            "Jäppinen Pekka",
+            "Valtanen Hannu",
+            "Kelkka Teemu",
+            "Salonen Antti"
+          ],
+          "tyhja": [],
+          "named_by": "surname",
+          "totals": {
+            "jaa": 2,
+            "ei": 8,
+            "tyhja": 0
+          },
+          "as_written": {
+            "jaa": [
+              "Karkinen",
+              "Jäppinen S"
+            ],
+            "ei": [
+              "Frimodig",
+              "Liljequist",
+              "Polkko",
+              "Kaurila",
+              "Jäppinen P",
+              "Valtanen",
+              "Kelkka",
+              "Salonen"
+            ],
+            "tyhja": []
+          },
+          "names_from": "osallistujat",
+          "unresolved": [],
+          "parties": {
+            "jaa": {
+              "vihr": 2
+            },
+            "ei": {
+              "rkp": 2,
+              "ps": 1,
+              "kok": 2,
+              "sdp": 1,
+              "kesk": 1,
+              "pro yl": 1
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "pohjaesitystä",
+            "ei_label": "Matti Kaurilan muutosesitystä",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": "ei",
+            "source": "parsed",
+            "evidence": "Ne, jotka kannattavat pohjaesitystä, äänestävät JAA ja ne, jotka kannattavat Matti Kaurilan muutosesitystä, äänestävät EI — Äänet jakautuivat seuraavasti: 8 EI-ääntä (Frimodig, Liljequist, Polkko, Kaurila, Jäppinen P., Valtanen, Kelkka, Salonen) 2 JAA-ääntä (Karkinen, Jäppinen S. )"
+          }
+        },
+        {
+          "jaa": [
+            "Salonen Antti",
+            "Kelkka Teemu",
+            "Valtanen Hannu",
+            "Liljequist Kim",
+            "Frimodig Josephine",
+            "Polkko Aleksander",
+            "Kaurila Matti"
+          ],
+          "ei": [
+            "Jäppinen Pekka",
+            "Jäppinen Sanni",
+            "Karkinen Ronja"
+          ],
+          "tyhja": [],
+          "named_by": "surname",
+          "totals": {
+            "jaa": 7,
+            "ei": 3,
+            "tyhja": 0
+          },
+          "as_written": {
+            "jaa": [
+              "Salonen",
+              "Kelkka",
+              "Valtanen",
+              "Liljequist",
+              "Frimodig",
+              "Polkko",
+              "Kaurila"
+            ],
+            "ei": [
+              "Jäppinen P",
+              "Jäppinen S",
+              "Karkinen"
+            ],
+            "tyhja": []
+          },
+          "names_from": "osallistujat",
+          "unresolved": [],
+          "parties": {
+            "jaa": {
+              "pro yl": 1,
+              "kesk": 1,
+              "kok": 2,
+              "rkp": 2,
+              "ps": 1
+            },
+            "ei": {
+              "sdp": 1,
+              "vihr": 2
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "pohjaesitystä",
+            "ei_label": "Ronja Karkisen muutosesitystä",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": "jaa",
+            "source": "parsed",
+            "evidence": "Ne, jotka kannattavat pohjaesitystä, äänestävät JAA ja ne, jotka kannattavat Ronja Karkisen muutosesitystä, äänestävät EI — Äänet jakautuivat seuraavasti: 7 JAA-ääntä (Salonen, Kelkka, Valtanen, Liljequist, Frimodig, Polkko, Kaurila) 3 EI-ääntä (Jäppinen P., Jäppinen S., Karkinen)"
+          }
+        },
+        {
+          "jaa": [
+            "Kelkka Teemu",
+            "Valtanen Hannu",
+            "Jäppinen Pekka",
+            "Liljequist Kim",
+            "Polkko Aleksander",
+            "Frimodig Josephine",
+            "Salonen Antti",
+            "Kaurila Matti"
+          ],
+          "ei": [
+            "Karkinen Ronja",
+            "Jäppinen Sanni"
+          ],
+          "tyhja": [],
+          "named_by": "surname",
+          "totals": {
+            "jaa": 8,
+            "ei": 2,
+            "tyhja": 0
+          },
+          "as_written": {
+            "jaa": [
+              "Kelkka",
+              "Valtanen",
+              "Jäppinen P",
+              "Liljequist",
+              "Polkko",
+              "Frimodig",
+              "Salonen",
+              "Kaurila"
+            ],
+            "ei": [
+              "Karkinen",
+              "Jäppinen S"
+            ],
+            "tyhja": []
+          },
+          "names_from": "osallistujat",
+          "unresolved": [],
+          "parties": {
+            "jaa": {
+              "kesk": 1,
+              "kok": 2,
+              "sdp": 1,
+              "rkp": 2,
+              "ps": 1,
+              "pro yl": 1
+            },
+            "ei": {
+              "vihr": 2
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "pohjaesitystä",
+            "ei_label": "Ronja Karkisen poistoehdotusta",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "other",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": "jaa",
+            "source": "parsed",
+            "evidence": "Ne, jotka kannattavat pohjaesitystä, äänestävät JAA ja ne, jotka kannattavat Ronja Karkisen poistoehdotusta, äänestävät EI — Äänet jakautuivat seuraavasti: 8 JAA-ääntä (Kelkka, Valtanen, Jäppinen P., Liljequist, Polkko, Frimodig, Salonen, Kaurila) 2 EI- ääntä (Karkinen, Jäppinen S.)"
+          }
+        }
+      ],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko Kirkkonummen kunnan lausunto_HSL TTS-ehdotus 2024-2026_YTL\nHelsingin seudun liikenne -kuntayhtymän alustava toiminta- ja taloussuunnitelma 2024-2026\nHSLn tilannekuvan ja rahoituspohjan arviointi loppuraportti 6.2.2023\nPöytäkirjan ote, HSLn hallitus 13.6.2023 § 63, Lausuntopyyntö Helsingin seudun liikenne -kun Kirkkonummen kunnan lausunto HSL -kuntayhtymän alustavasta toiminta- ja taloussuunnitelmaehdotuksesta vuosille 2024 - 2026 Yhdyskuntatekniikan lautakunta 31.08.2023 § 93 361/00.04.02/2023\n- Kirkkonummen kunnan lausunto_HSL TTS-ehdotus 2024-2026",
+        "oheismateriaali": "Kuvake Otsikko Lausuntopyyntö jäsenkunnille Helsingin seudun liikenne -kuntayhtymän toiminta- ja taloussuunnitelmaehdotuksesta\n- Pöytäkirjan ote, HSL hallitus 13.6.2023 § 63 - HSL:n alustava toiminta- ja taloussuunnitelma 2024-2026 - HSL:n tilannekuvan ja rahoituspohjan arviointi loppuraportti 6.2.2023 - Lausuntopyyntö alustavasta toiminta- ja taloussuunnitelmasta 2024-2026",
+        "valmistelija": "Liikennesuunnittelija Marko Suni etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa Yhdyskuntatekniikan lautakunta päättää 1. esittää kunnanhallitukselle, että Kirkkonummen kunta antaa esityslistan liitteenä olevan lausunnon HSL:n alustavasta toiminta- ja taloussuunnitelmaehdotuksesta 2024 - 2026 2. tarkastaa tämän pykälän kokouksessa",
+        "kasittely": "Käsittelyn aikana puheenjohtaja Matti Kaurila teki seuraavan muutosesityksen: Muutos, joka korvaa sivun 5 3. ja 4. kappaleen Kirkkonummen subventioaste vuonna 2024 olisi 49,6 %. Vuosina 2025-2026 se olisi noin 46-48 % luokkaa. Subventioasteessa ei luonnollisesti huomioida aiempien vuosien ylijäämää, jota ei tällä suunnitelmakaudella ole esitetty käytettävän. Kirkkonummen kunta katsoo, että TTS-lausunnossa esitetty kuntaosuuden taso on hyväksyttävä, kun subventioaste jää alle 50 %. HSL:n tulee ALOITTAA TALOUDEN TOIMENPITEET JA SOPEUTTAA JA KEHITTÄÄ AJOISSA LINJASTOA, jottei Kirkkonummen kuntaosuudet kasva nykyisestä merkittävästi ja pysytään alle 50 % subventioasteessa MYÖS KESKIPITKÄLLÄ AIKAVÄLILLÄ VUOSINA 2030 JA 2035, JOLLOIN TOIMINTA- JA TALOUSSUUNNITELMASSA ON ESITETTY VUODELLE 2030 KUNNAN RAHOITUSTARPEEKSI 13 MILJ. € SUBVENTIOASTEEN OLLESSA 61,4% JA VUONNA 2035 RAHOITUSTARVE ON 16,1 MILJ. € JA SUBVENTIOASTE 65,6%. Hannu Valtanen, Kim Liljequist, Pekka Jäppinen ja Antti Salonen kannattivat esitystä. Puheenjohtaja totesi, että esitystä ei kannateta yksimielisesti, joten asiasta tulee äänestää. ÄÄNESTYS Puheenjohtaja käynnisti äänestyksen. Ne, jotka kannattavat pohjaesitystä, äänestävät JAA ja ne, jotka kannattavat Matti Kaurilan muutosesitystä, äänestävät EI. Puheenjohtaja päätti äänestyksen. Äänet jakautuivat seuraavasti: 8 EI-ääntä (Frimodig, Liljequist, Polkko, Kaurila, Jäppinen P., Valtanen, Kelkka, Salonen) 2 JAA-ääntä (Karkinen, Jäppinen S. ) ,jolloin Matti Kaurilan muutosesitys voitti. Matti Kaurila teki myös seuraavan lisäysesityksen lausunnon viimeisen kappaleen loppuun: ELLEI HSL:N JOUKKOLIIKENTEESEEN SAADA ENEMMÄN VALTION RAHOITUSTA, ON HSL:N ALUEEN SUURIA JOUKKOLIIKENNE-INVESTOINTEJA LYKÄTTÄVÄ, JOTTA VUOSITTAIN KUNNILLE TULEVAT INFRAKUSTANNUKSET PYSYVÄT KOHTUULLISINA SEKÄ ENNAKOITAVISSA OLEVINA Hannu Valtanen, Antti Salonen, Teemu Kelkka, Kim Liljequist, Ronja Karkinen ja Antti Salonen kannattivat esitystä. Käsittelyn aikana Matti Kaurila täydensi muutosesitystä seuraavaan muotoon: ELLEI HSL:N JOUKKOLIIKENTEESEEN SAADA merkittävästi ENEMMÄN VALTION RAHOITUSTA, ON HSL:N ALUEEN SUURIA JOUKKOLIIKENNE-INVESTOINTEJA LYKÄTTÄVÄ, JOTTA VUOSITTAIN KUNNILLE TULEVAT INFRAKUSTANNUKSET PYSYVÄT KOHTUULLISINA SEKÄ ENNAKOITAVISSA OLEVINA. Muutosesitystä kannatettiin yksimielisesti. Ronja Karkinen teki seuraavan muutosesityksen: Kohta: \"Kunta haluaa nostaa esiin, että tasapainoinen talous tulee nähdä laajemmin koskien myös jäsenkuntien kuntaosuuksia. HSL:n tulee jatkossa huolehtia siitä, että sen kaikkien jäsenkuntien kuntaosuudet pysyvät tasapuolisesti maltillisella ja kyseisen kunnan hyväksymällä tasolla.\" Kohta korvataan: \"Kunta pitää joukkoliikenteen käyttäjämäärien kasvuun panostamista keskeisenä liikenteen ilmastotavoitteiden saavuttamiseksi.\" Sanni Jäppinen kannatti esitystä. Puheenjohtaja totesi, että esitystä ei kannateta yksimielisesti, joten asiasta tulee äänestää. ÄÄNESTYS Puheenjohtaja käynnisti äänestyksen. Ne, jotka kannattavat pohjaesitystä, äänestävät JAA ja ne, jotka kannattavat Ronja Karkisen muutosesitystä, äänestävät EI. Puheenjohtaja päätti äänestyksen. Äänet jakautuivat seuraavasti: 7 JAA-ääntä (Salonen, Kelkka, Valtanen, Liljequist, Frimodig, Polkko, Kaurila) 3 EI-ääntä (Jäppinen P., Jäppinen S., Karkinen), jolloin pohjaesitys voitti. Ronja Karkinen teki myös seuraavat muutosesitykset: Kohta: \"edellyttäen, että toimenpiteet ovat suhteessa saataviin hyötyihin oikein mitoitettuja ja järkevästi perusteltuja\" muutetaan muotoon: \"edellyttäen, että yksittäisen nousun kustannus pysyy strategian mukaisella 0,25€/km tasolla.\" Sanni Jäppinen ja Antti Salonen kannattivat esitystä. Esitystä kannatettiin yksimielisesti. Ronja Karkinen teki seuraavan poistoesityksen: Poistetaan kohta: \"Kirkkonummen kunta katsoo, että jatkossa tulisi kyetä vastaamaan tehokkaasti kasvavaan kysyntään ja käyttää harkiten panostuksia matkustajamäärien kasvun jatkumiseksi. \" Sanni Jäppinen kannatti esitystä. Puheenjohtaja totesi, että esitystä ei kannateta yksimielisesti, joten asiasta tulee äänestää. ÄÄNESTYS Puheenjohtaja käynnisti äänestyksen. Ne, jotka kannattavat pohjaesitystä, äänestävät JAA ja ne, jotka kannattavat Ronja Karkisen poistoehdotusta, äänestävät EI. Puheenjohtaja päätti äänestyksen. Äänet jakautuivat seuraavasti: 8 JAA-ääntä (Kelkka, Valtanen, Jäppinen P., Liljequist, Polkko, Frimodig, Salonen, Kaurila) 2 EI- ääntä (Karkinen, Jäppinen S.) Teemu Kelkka teki seuraavan muutosesityksen: Muutetaan sivulla 3: Kirkkonummen kunta katsoo, että liityntälinjojen 171-174 päätepysäkkikysymys tulee ratkaista lähemmin yhteistyössä kunnan kanssa. Muotoon: Kirkkonummen kunta katsoo, että liityntälinjojen 171-175 päätepysäkkikysymys tulee ratkaista lähemmin yhteistyössä kunnan kanssa. Ronja Karkinen, Kim Liljequist ja Sanni Jäppinen kannattivat esitystä. Puheenjohtaja totesi, että esitystä kannatetaan yksimielisesti",
+        "paatos": "Yhdyskuntatekniikan lautakunta päättää 1. tehdä lausuntoon seuraavat muutokset: 1.1. Muutos, joka korvaa sivun 5 3. ja 4. kappaleen Kirkkonummen subventioaste vuonna 2024 olisi 49,6 %. Vuosina 2025-2026 se olisi noin 46-48 % luokkaa. Subventioasteessa ei luonnollisesti huomioida aiempien vuosien ylijäämää, jota ei tällä suunnitelmakaudella ole esitetty käytettävän. Kirkkonummen kunta katsoo, että TTS-lausunnossa esitetty kuntaosuuden taso on hyväksyttävä, kun subventioaste jää alle 50 %. HSL:n tulee ALOITTAA TALOUDEN TOIMENPITEET JA SOPEUTTAA JA KEHITTÄÄ AJOISSA LINJASTOA, jottei Kirkkonummen kuntaosuudet kasva nykyisestä merkittävästi ja pysytään alle 50 % subventioasteessa MYÖS KESKIPITKÄLLÄ AIKAVÄLILLÄ VUOSINA 2030 JA 2035, JOLLOIN TOIMINTA- JA TALOUSSUUNNITELMASSA ON ESITETTY VUODELLE 2030 KUNNAN RAHOITUSTARPEEKSI 13 MILJ. € SUBVENTIOASTEEN OLLESSA 61,4% JA VUONNA 2035 RAHOITUSTARVE ON 16,1 MILJ. € JA SUBVENTIOASTE 65,6%. 1.2. ELLEI HSL:N JOUKKOLIIKENTEESEEN SAADA merkittävästi ENEMMÄN VALTION RAHOITUSTA, ON HSL:N ALUEEN SUURIA JOUKKOLIIKENNE-INVESTOINTEJA LYKÄTTÄVÄ, JOTTA VUOSITTAIN KUNNILLE TULEVAT INFRAKUSTANNUKSET PYSYVÄT KOHTUULLISINA SEKÄ ENNAKOITAVISSA OLEVINA. 1.3. Kohta: \"edellyttäen, että toimenpiteet ovat suhteessa saataviin hyötyihin oikein mitoitettuja ja järkevästi perusteltuja\" muutetaan muotoon: \"edellyttäen, että yksittäisen nousun kustannus pysyy strategian mukaisella 0,25€/km tasolla.\" 1.4. Muutetaan sivulla 3: Kirkkonummen kunta katsoo, että liityntälinjojen 171-174 päätepysäkkikysymys tulee ratkaista lähemmin yhteistyössä kunnan kanssa. Muotoon: Kirkkonummen kunta katsoo, että liityntälinjojen 171-175 päätepysäkkikysymys tulee ratkaista lähemmin yhteistyössä kunnan kanssa. 2. esittää kunnanhallitukselle, että Kirkkonummen kunta antaa kokouksessa muutetun lausunnon HSL:n alustavasta toiminta- ja taloussuunnitelmaehdotuksesta 2024 - 2026 3. tarkastaa tämän pykälän kokouksessa",
+        "selostus": "Lausuntopyyntö Helsingin seudun liikenne - kuntayhtymä (HSL) laatii vuosittain toiminta- ja taloussuunnitelman kolmelle seuraavalle vuodelle. HSL:n hallitus pyytää laatimastaan suunnitelmasta vuosittain jäsenkuntiensa lausunnot. Jäsenkuntien on annettava lausuntonsa suunnitelmasta viimeistään 31.8. HSL pyytää lausuntoa alustavasta HSL:n toiminta- ja taloussuunnitelmaehdotuksesta 2024 - 2026 (TTS) 31.8.2023 mennessä. Lausunnossa pyydetään ottamaan kantaa seuraaviin kohtiin: 1. Sitoutuvatko jäsenkunnat tavoitelähtöiseen budjetointiin, jolla mahdollistetaan joukkoliikenteen käyttäjämäärien kasvu? . Talousarvio ja -suunnitelma pohjautuvat tavoitteeseen, että nousijamäärät saadaan strategian mukaiseen nousuvauhtiin ja toimenpiteisiin tämän tavoitteen saavuttamiseksi panostetaan myös taloudellisesti TTS-kaudella. . Talousarviossa ja suunnitelmassa ei esitetä ylijäämien palautusta jäsenkuntiin, vaan valtion koronatukien ansioista kertyneet ylijäämät jätetään HSL:lle ja käytetään TTS-kauden toimenpiteisiin, joilla matkustajamäärätavoitteet on mahdollista saavuttaa. 2. Miten kunnat aikovat ratkaista infrakorvausjärjestelmän haasteet HSL:n taloudelle tulevina vuosina? . HSL on muodostanut yhteistä näkemystä yhdessä jäsenkuntiensa edustajien kanssa arvioimalla HSL:n tilannekuvaa ja rahoituspohjaa. . Tavoitteena oli luoda yhteinen tilanne- ja tulevaisuuskuva HSL:n rahoituksellisesta pohjasta, perussopimuksen määrittämistä velvoitteista sekä HSL:n kyvystä vastata asetettuihin erilaisiin velvoitteisiin 2020-2030-luvuilla. Tämän työn loppuraportti alustavan TTS-suunnitelman liitteenä. Mahdollinen jatkotyö on jäsenkuntien/ omistajien vastuulla. Toiminta- ja taloussuunnitelma HSL:n strateginen tavoite vuodelle 2025 on 400 miljoonaa nousua. Korona-ajan jälkeinen matkustajamäärien kasvu on ollut hitaampaa kuin strategiassa on tähdätty. Ukrainan sodan myötä energian ja polttoaineiden kustannukset, inflaatio, korkeat korot ja epävakaa taloustilanne heijastuu joukkoliikenteeseen. Työmaat ja poikkeusjärjestelyt vaikeuttavat liikkumista Kirkkonummellakin Espoon kaupunkiradan rakentamisen aikaisina junaliikenteen katkoina. Suuret infrainvestoinnit kuten Länsimetron jatke ja Raide-Jokeri rasittavat HSL:n taloutta infrakustannusten kasvuna. Kirkkonummen näkökulmasta positiivisena voi kuitenkin nähdä kehityksen bussiliikenteen nousijamäärissä, jotka ovat ohittaneet vuoden 2019 tason. HSL:n strategia 2022-2025 - Asiakkuuksista kestävään kasvuun on hyväksytty yhtymäkokouksessa tammikuussa 2022. Strategia ohjaa HSL:n toimintaa, kehittämistä ja tavoitteiden laadintaa. Visiona on olla vuonna 2030 kestävän liikkumisen johtava toimija, mahdollistaja ja kumppani. HSL:llä on neljä strategista tavoitetta, joissa korostuvat talouden tervehdyttäminen, asiakkaiden paluu joukkoliikenteeseen ja päästöjen vähentäminen: Kohti päästötöntä joukkoliikennettä (Co2 päästöt -90% vuoden 2010 tasosta) Joukkoliikenteen käyttö ennätyslukemissa (400 milj. nousua) Kustannustehokas joukkoliikenne (0,25 €/matkustajakm. pl. Infra) Tasapainoinen talous (tulot yht. 400 M€, Kuntaosuus 50-55 %) Strategian tavoitteiden saavuttamiseksi HSL on tunnistanut kolme kriittistä menestystekijää: Kasvu asiakasymmärryksellä Sujuvat matkaketjut Tieto ja osaaminen Tavoitteen täyttymiseksi tulisi joka vuosi 2023-2025 saada noin 2,3 % lisää uusia matkustajia (nykyisen kasvun lisäksi). Tätä tavoitetta HSL pyrkii alustavalla toiminta- ja taloussuunnitelmallaan saavuttamaan. Toimintatulot Vuonna 2024 HSL:n toimintatulot kasvavat 64,9 milj. euroa (7,6 %) ja ovat yhteensä 923,4 milj. euroa. Toimintatulojen arvioidaan olevat 933,4 milj. euroa vuonna 2025 ja 950,2 milj. euroa vuonna 2026. Lipputulot TTS perustuu tavoitteeseen, jossa matkustajamäärät vuonna 2024 kasvaisivat 380 miljoonaan nousuun, mikä mahdollistaisi strategiakauden lopun tavoitteen 400 miljoonaa nousijaa vuonna 2025. Tämä edellyttää toteutuakseen sekä hintatason että muiden hinnoittelutekijöiden kriittistä tarkastelua syksyllä 2023, kun HSL:n hallitus tekee päätöksen vuoden 2023 lippujen hinnoista. HSL:n vuoden 2024 keskeisimpiä tavoitteita on saada kaikin keinoin nousijamäärät strategian mukaiseen kasvuvauhtiin. Vuoden 2024 lipputulotavoite on yhteensä 382,7 milj. Tämä on 13,3 milj. euroa (3,6 %) kuluvan vuoden 2023 ennustetta suurempi. Vuonna 2025 lipputulot arvioidaan 405,0 milj. euroa ja vuonna 2026 420,0 milj. euroa. Kuntaosuudet ja kertyneet ylijäämät HSL laskuttaa kuntaosuuksia jäsenkunnilta vuonna 2024 yhteensä 517,1 milj. euroa. Keskimääräinen subventioaste on 56,7 % vuonna 2024. Vuonna 2023 kunnille hyvitetään kertyneitä ylijäämiä noin 21,2 miljoonaa euroa (ennusteen OVK 1/2023 mukaan). Ylijäämäkertymiä on käytettävissä TTS-kausille tämän jälkeen arvion mukaan 49,2 milj. euroa. Traficom päätti myöntää vielä 09/2022 lisärahoitusta joukkoliikenteen järjestämiseen poikkeusoloissa ja palvelutason ylläpitämiseen yhteensä 49,233 milj. euroa. HSL esittää käytettäväksi tuon tukiosuuden lisäpanostuksina joukkoliikenteen matkustajamäärien kasvattamiseen ja palvelutason parantamiseen strategiatavoitteiden saavuttamiseksi. Kertyneitä ylijäämiä ei siten esitetä palautettavaksi jäsenkuntiin. Alustava TTS-suunnitelma ei sisällä varausta tähän lisäpanostukseen, vaan lisäkustannukset tuodaan vuosina 2024-2025 talousarviomuutoksina Yhtymäkokouksen käsittelyyn sitovien toimintamenojen ylittyessä ja kulu- jen rahoittamiseen käytetään koronatukien ansiosta kertyneitä ylijäämiä. Muut tulot vuonna 2024 Valtion suurten kaupunkien joukkoliikennetuki arvioidaan olevan noin 12,0 milj. euroa vuosittain. Tarkastusmaksutuotoiksi arvioidaan vuosittain 4,3 milj. euroa ja vuokratuloiksi 3,1-3,9 milj. euroa. Muita tuloja syntyy 3,7 milj. Toimintamenot HSL:n toimintamenot vuonna 2024 kasvavat vuoden 2023 ennusteesta 45,4 milj. euroa (5,3 %) ja ovat 905,7 milj. euroa. Toimintamenot vuonna 2025 ovat arviolta 915,3 milj. euroa ja 927,4 milj. euroa vuonna 2026. Palveluiden ostot Palveluiden ostomenot ovat yhteensä 870,0 milj. euroa vuonna 2024, 96,1 % HSL:n kaikista toimintamenoista. Vuonna 2025 ne ovat 879,4 milj. euroa ja 891,4 milj. euroa vuonna 2026. Liikennöitsijöille maksettavat korvaukset Liikennöitsijöille maksetaan joukkoliikenteen operoinnista vuonna 2024 yhteensä 611,4 milj. euroa, joka on 67,5 % HSL:n toimintamenoista. Vuosina 2024-2026 vuotuisten kustannuksien arvioidaan bussiliikenteessä olevan 358-368 milj. euroa ja metroliikenteessä 62-64 milj. euroa. Vastaavasti raitioliikenteessä ne ovat 71-76 milj. euroa, lauttaliikenteessä noin 5 milj. euroa ja junaliikenteessä 96-100 milj. euroa. Käynnistyvään pikaraitioliikenteeseen varataan 19-21 milj. euroa. Polttoaineiden ja energian hinnan nousun ennakoidaan olevan maltillisempaa lähivuosina. Palkka-, pääoma- ja muut kustannukset kasvavat tulevinakin vuosina. Kustannuksissa ei ole huomioitu matkustajamäärien kasvun vaatimia lisäpanostuksia tarjontaan. Näiden vaikutukset selviävät tarkemman suunnittelun edetessä syksyllä (HSL esitys ylijäämien käytöstä). Joukkoliikenteen infrakorvaukset Kunnille joukkoliikenteen infrasta maksettava käyttökorvaus vuonna 2024 on 217,4 milj. euroa ja lähivuosina noin 220 milj. euron luokkaa. Valmistuvat suuret infrahankkeet luovat painetta korottaa lippujen hintoja kustannustason nousua enemmän. Mikäli lippujen hintoja ei koroteta kustannuksia vastaavasti ja joukkoliikenteen palvelutaso halutaan säilyttää nykytasolla, syntyy paineita nostaa kuntien rahoitusosuuksia. Mikäli hintoja taas korotetaan, johtaa se matkustajamäärien vähenemiseen ja siihen, ettei infrahankkeista saada täyttä hyötyä, kun käyttäjiä on vähemmän. Muut kustannukset Vuonna 2024 muihin ostopalveluihin (pl. liikennöinti- ja infra) kuluu 41,2 milj. euroa, josta lähes 2/3 lippu- ja infojärjestelmiin. Henkilöstömenot ovat 25,6 milj. euroa. Muita toimintamenoja syntyy myös erinäisistä kulueristä. Rahoitustilanne ja tilikauden tulos Vuonna 2020 nostettua talousarviolainaa on vuoden 2023 lopussa jäljellä 34,2 milj. euroa, jota lyhennetään vuosittain 5,3 milj. euroa. Rahoituksen nettotuottojen arvioidaan olevan 0,5-0,4 milj. euroa vuosina 2024-2026. Vuosikate rahoituserien jälkeen on 18,3 milj. euroa ylijäämäinen, ja se riittää kattamaan poistot (18,3 milj. euroa). Tilikauden 2024 tulos on nolla euroa eli arvioidut kulut katetaan arvioiduilla vuosituloilla tilikauden aikana. Investoinnit ja poistot HSL:n investointimenot ovat 19,1 milj. euroa vuonna 2024 ja vuosina 2025-2026 14,5-13,2 milj. euroa. Suunnitelmakaudella poistot ovat 18,1-23,1 milj. euroa vuodessa. Kirkkonummen kuntaosuudet Kirkkonummen kuntaosuudet ilman edellisvuosien yli-/alijäämää ovat HSL:n TTS:n mukaan (vertailutietona TP2022 ja TA2023): 2022 TP 5,480 milj. € (41,4 %) 2023 TA (HSL) 7,734 milj. € (53,9 %) 2023 ennuste (HSL ovk 1/2023) 7,038 milj. € (49,0 %) 2024 TAE 7,460 milj. € (49,6 %) 2025 TS 7,161 milj. € (47,5 %) 2026 TS 7,010 milj. € (45,8 %) Keväällä 2023 julkaistun HSL:n vuoden 2022 tilinpäätöksen mukaan HSL sai valtion myöntämiä joukkoliikenteen tukia lähes 67 milj. euroa, josta koronatilanteesta johtuvaa tukea oli 49,2 milj. euroa. Valtion tukea Kirkkonummen kuntaosuuteen kohdistui vuonna 2022 lähes 2 milj. euroa, josta koronatukea oli vajaa 1,5 milj. euroa. Kirkkonummelle muodostui ylijäämää noin 2 milj. euroa tilikaudelta 2022. Kirkkonummen kumulatiivinen ylijäämä oli 31.12.2022 yhteensä 4,7 milj. euroa. Kertynyttä ylijäämää olisi tarkoitus käyttää HSL:n käyttöennusteen mukaan (ovk 1/2023) 0,9 miljoonaa euroa vuonna 2023, jolloin vuoden lopussa Kirkkonummen kuntakohtaista ylijäämää arvioitaisiin olevan 3,8 milj. euroa. Kirkkonummen kuntaosuus vuonna 2023 käyttöennusteen mukaan on 6,1 miljoonaa euroa huomioituna käytettävä ylijäämä 0,9 miljoonaa euroa. Vuonna 2023 HSL:n koko ylijäämäennusteen arvioidaan olevan 49,2 miljoonaa euroa, joka on saman verran kuin vuonna 2022 valtion myöntämä koronatuki matkustajamäärien kasvattamiseen. Alustavan toiminta- ja taloussuunnitelmaluonnoksen 2024-2026 (TTS) mukaan ylijäämää ei esitetä palautettavaksi jäsenkuntiin, vaan varoja käytetään matkustajamäärien kasvattamiseen ja palvelutason parantamiseen strategiatavoitteiden saavuttamiseksi. Kirkkonummen ennustettu vuoden 2023 lopussa oleva ylijäämä 3,8 miljoonaa euroa käytettäisiin strategiatavoitteiden saavuttamiseksi tulevalla TTS-kaudella"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kirkkonummen kunnan lausunto_HSL TTS-ehdotus 2024-2026_YTL",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231488-4-96055.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Lausuntopyyntö jäsenkunnille Helsingin seudun liikenne -kuntayhtymän toiminta- ja taloussuunnitelmaehdotuksesta",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231488-4-96051.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Liite Helsingin seudun liikenne -kuntayhtymän alustava toiminta- ja taloussuunnitelma 2024-2026",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231488-4-96052.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Liite HSLn tilannekuvan ja rahoituspohjan arviointi loppuraportti 6.2.2023",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231488-4-96053.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Liite Pöytäkirjan ote, HSLn hallitus 13.6.2023 § 63, Lausuntopyyntö Helsingin seudun liikenne -kun",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231488-4-96050.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Ronja Karkinen",
+          "kind": "vastaehdotus",
+          "text": "Kohta: \"Kunta haluaa nostaa esiin, että tasapainoinen talous tulee nähdä laajemmin koskien myös jäsenkuntien kuntaosuuksia. HSL:n tulee jatkossa huolehtia siitä, että sen kaikkien jäsenkuntien kuntaosuudet pysyvät tasapuolisesti maltillisella ja kyseisen kunnan hyväksymällä tasolla.\" Kohta korvataan: \"Kunta pitää joukkoliikenteen käyttäjämäärien kasvuun panostamista keskeisenä liikenteen ilmastotavoitteiden saavuttamiseksi.\" Sanni Jäppinen kannatti esitystä",
+          "source": "introduction",
+          "party": "vihr"
+        },
+        {
+          "proposer": "Teemu Kelkka",
+          "kind": "vastaehdotus",
+          "text": "Muutetaan sivulla 3: Kirkkonummen kunta katsoo, että liityntälinjojen 171-174 päätepysäkkikysymys tulee ratkaista lähemmin yhteistyössä kunnan kanssa. Muotoon: Kirkkonummen kunta katsoo, että liityntälinjojen 171-175 päätepysäkkikysymys tulee ratkaista lähemmin yhteistyössä kunnan kanssa. Ronja Karkinen, Kim Liljequist ja Sanni Jäppinen kannattivat esitystä",
+          "source": "introduction",
+          "party": "kesk"
+        },
+        {
+          "proposer": "Matti Kaurila",
+          "kind": "vastaehdotus",
+          "text": null,
+          "source": "order",
+          "party": "kok"
+        }
+      ]
+    },
+    {
+      "id": "20231488-5",
+      "ordinal": "5",
+      "title": "Tassumäen asemakaava (hanke 31100), asemakaavan vireilletulo sekä osallistumis- ja arviointisuunnitelman hyväksyminen (MRL 62 § ja 63 §)",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231488-5",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti hyväksyä Tassumäen asemakaavan osallistumis- ja arviointisuunnitelman (MRL 62 § ja 63 §) seuraavin lisäyksin: - Kylärakenne --> laadukas ja ekologinen kylärakenne - \"Suunnittelu perustuu seuraavalle lähtötietoaineistolle\" lisätään teksti: \" Luoman Bobäck Kyläsuunnitelma - Byaplan 2009 Luoman Kyläyhdistys\" ja siihen liittyvät myöhemmät asukaskyselyt",
+      "votes": [
+        {
+          "jaa": [
+            "Liljequist Kim",
+            "Polkko Aleksander",
+            "Kaurila Matti",
+            "Salonen Antti",
+            "Jäppinen Pekka",
+            "Jäppinen Sanni"
+          ],
+          "ei": [
+            "Kelkka Teemu",
+            "Valtanen Hannu"
+          ],
+          "tyhja": [
+            "Karkinen Ronja",
+            "Frimodig Josephine"
+          ],
+          "named_by": "surname",
+          "totals": {
+            "jaa": 6,
+            "ei": 2,
+            "tyhja": 2
+          },
+          "as_written": {
+            "jaa": [
+              "Liljequist",
+              "Polkko",
+              "Kaurila",
+              "Salonen",
+              "Jäppinen P",
+              "Jäppinen S"
+            ],
+            "ei": [
+              "Kelkka",
+              "Valtanen"
+            ],
+            "tyhja": [
+              "Karkinen",
+              "Frimodig"
+            ]
+          },
+          "names_from": "osallistujat",
+          "unresolved": [],
+          "parties": {
+            "jaa": {
+              "rkp": 1,
+              "ps": 1,
+              "kok": 1,
+              "pro yl": 1,
+              "sdp": 1,
+              "vihr": 1
+            },
+            "ei": {
+              "kesk": 1,
+              "kok": 1
+            },
+            "tyhja": {
+              "vihr": 1,
+              "rkp": 1
+            }
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta",
+            "ei_label": "Hannu Valtasen lisäysehdotusta",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": "jaa",
+            "source": "parsed",
+            "evidence": "Ne, jotka kannattavat pohjaehdotusta, äänestävät JAA ja ne, jotka kannattavat Hannu Valtasen lisäysehdotusta, äänestävät EI — Äänet jakautuivat seuraavasti: 6 JAA-ääntä (Liljequist, Polkko, Kaurila, Salonen, Jäppinen P., Jäppinen S.) 2 EI-ääntä (Kelkka, Valtanen) 2 TYHJÄÄ (Karkinen, Frimodig)"
+          }
+        }
+      ],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko Tassumäki OAS _su_2023-8-18 Tassumäki OAS _sv_2023-8-18 Tassumäen asemakaava (hanke 31100), asemakaavan vireilletulo sekä osallistumis- ja arviointisuunnitelman hyväksyminen (MRL 62 § ja 63 §) Yhdyskuntatekniikan lautakunta 31.08.2023 § 94 329/10.02.03/2023\n-Tassumäen asemakaavan osallistumis- ja arviointisuunnitelma",
+        "valmistelija": "Asemakaavapäällikkö Simon Store etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa Yhdyskuntatekniikan lautakunta päättää hyväksyä Tassumäen asemakaavan osallistumis- ja arviointisuunnitelman (MRL 62 § ja 63 §)",
+        "kasittely": "Käsittelyn aikana Sanni Jäppinen teki seuraavan lisäysehdotuksen: Kylärakenne --> laadukas ja ekologinen kylärakenne Hannu Valtanen, Ronja Karkinen, Teemu Kelkka, Pekka Jäppinen ja Antti Salonen kannattivat esitystä. Puheenjohtaja totesi, että lisäystä kannatetaan yksimielisesti",
+        "esittelija": "esitti seuraavan muutetun päätösehdotuksen, joka otetaan huomioon osallistumis- ja arviointisuunnitelman valmistelussa. OAS:n kohtaan \"Suunnittelu perustuu seuraavalle lähtötietoaineistolle\" lisätään teksti: \" Luoman Bobäck Kyläsuunnitelma - Byaplan 2009 Luoman Kyläyhdistys\" ja siihen liittyvät myöhemmät asukaskyselyt. Hannu Valtanen teki seuraavan lisäysehdotuksen: OAS:een maininta, että Tassumäen kaava tukee Luoman seisakkeen avaamista - kunnanvaltuuston ponsi 24.10.2022: \" Kunta pyrkii kaavoituksen ja vaikuttamistyön kautta vaikuttamaan niin, että paikallisjunaliikenne voidaan palauttaa Luomaan.\" Teemu Kelkka kannatti ehdotusta. Puheenjohtaja totesi, että ehdotusta ei kannateta yksimielisesti, joten asiasta tulee äänestää. ÄÄNESTYS: Puheenjohtaja käynnisti äänestyksen. Ne, jotka kannattavat pohjaehdotusta, äänestävät JAA ja ne, jotka kannattavat Hannu Valtasen lisäysehdotusta, äänestävät EI. Puheenjohtaja päätti äänestyksen. Äänet jakautuivat seuraavasti: 6 JAA-ääntä (Liljequist, Polkko, Kaurila, Salonen, Jäppinen P., Jäppinen S.) 2 EI-ääntä (Kelkka, Valtanen) 2 TYHJÄÄ (Karkinen, Frimodig), jolloin pohjaehdotus voitti",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti hyväksyä Tassumäen asemakaavan osallistumis- ja arviointisuunnitelman (MRL 62 § ja 63 §) seuraavin lisäyksin: - Kylärakenne --> laadukas ja ekologinen kylärakenne - \"Suunnittelu perustuu seuraavalle lähtötietoaineistolle\" lisätään teksti: \" Luoman Bobäck Kyläsuunnitelma - Byaplan 2009 Luoman Kyläyhdistys\" ja siihen liittyvät myöhemmät asukaskyselyt",
+        "selostus": "Taustaa Tassumäen asemakaava sisältyy kunnanvaltuuston hyväksymään Kirkkonummen kaavoitusohjelmaan vuosille 2023-2027. Maanomistaja on tehnyt aloitteen kaavan laatimiseksi ja kunnanhallitus on kokouksessaan 26.6.2023, § 211 hyväksynyt asemakaavoituksen käynnistämissopimuksen. Kaava-alueen sijainti Tassumäen asemakaava-alue sijaitsee Luoman kylässä, Masalan taajaman pohjoispuolella. Suunnittelualue sijoittuu Masalantien ja Gränsnäsintien väliin ja ulottuu itä-länsisuunnassa Luoman koulun ja Hommaksen asuntoalueen väliselle vyöhykkeelle. Pohjoisessa alue rajautuu myös Bobäckenin puroon. Suunnittelualueen koko on noin 62,5 ha. Pisimmillään etäisyys Masalan keskustaan ja junaseisakkeelle on noin kaksi kilometriä. Tavoitteet ja suunnittelun tarve Suunnittelussa tavoitellaan pienimittakaavaista, laadukasta ja viihtyisää kylärakennetta, jolla on oma vahva identiteettinsä. Lisäksi tavoitteena on osoittaa sujuvat kulkuyhteydet Masalantielle ja Masalan keskustaan ja sen palveluihin, kuten urheilupuistoon. Alueen asukasmäärän kasvu edistää Masalan keskustan kehittymistä sekä Luoman kylän elinvoimaisuutta. Suunnittelussa otetaan huomioon uusien liikenneyhteyksien järjestämistarpeet sekä alueen kytkeytyminen lähialueen kunnallistekniikkaan. Monipuolisen asuntotuotannon saavuttamiseksi uusien pientaloalueiden tavoiteltava tonttitehokkuus vaihtelisi 0,2:sta 0,4:een, siten että väljemmät alueet sijoittuvat lähemmäksi nykyistä asutusta. Suunnittelualueella olevan nykyisen asutuksen osalta tutkitaan jo rakennettujen kiinteistöjen hallittua tiivistämistä. Kaavaprosessi ja alustava aikataulu Hankkeelle on laadittu osallistumis- ja arviointisuunnitelmassa alustava rajaus ja aikataulu, joita tarkennetaan tarpeen mukaan suunnitteluprosessin edetessä. Kaavan valmisteluaineisto laaditaan vuoden 2024 aikana. Kaavaehdotus laaditaan vuoden 2025 alkupuolella ja kaava on tavoitteena hyväksyä vuoden 2025 aikana. Ennen asemakaavan hyväksymistä kunnanvaltuustossa tulee olla allekirjoitettu maankäyttösopimus kunnan ja niiden maanomistajien kesken, jotka saavat asemakaavasta kiinteistöilleen merkittävää arvonnousua. Osallistuminen, osalliset ja yhteistyö on kuvattu osallistumis- ja arviointisuunnitelmassa. Kunta järjestää työpaja -tyyppisen asukastilaisuuden syksyllä 2023 yhteistyössä Luoman kyläyhdistyksen kanssa"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Tassumäki OAS _su_2023-8-18",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231488-5-95822.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Tassumäki OAS _sv_2023-8-18",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231488-5-95821.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Sanni Jäppinen",
+          "kind": "vastaehdotus",
+          "text": "Kylärakenne --> laadukas ja ekologinen kylärakenne Hannu Valtanen, Ronja Karkinen, Teemu Kelkka, Pekka Jäppinen ja Antti Salonen kannattivat esitystä",
+          "source": "introduction",
+          "party": "vihr"
+        }
+      ]
+    },
+    {
+      "id": "20231488-6",
+      "ordinal": "6",
+      "title": "Talvikunnossapidon kustannukset talvihoitokautena 2022-2023",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231488-6",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaan",
+      "votes": [],
+      "sections": {
+        "valmistelija": "kunnossapitopäällikkö Annika Selart etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Yhdyskuntatekniikan palvelualueen johtaja Kauppinen Anna-Kaisa Yhdyskuntatekniikan lautakunta päättää merkitä talvikunnossapidon kustannukset talvihoitokautena 2022-2023 tiedoksi",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaan",
+        "selostus": "Kunnan kunnossapidettäviä väyliä on yhteensä noin 260 km (katuja 129 km, katujen vierellä olevat kevyen liikenteen väylät 81 km, muita kevyen liikenteen väyliä ja puistoraitteja 51 km ja pysäköintialueita 6,1 ha). Kunnossapitoalueet ja väylät on esitetty kunnan karttapalvelussa https://kirkkonummi.karttatiimi.fi/ . Kadut on jaettu kolmeen talvikunnossapitoluokkaan, kunnossapitoluokkien eroja voi tarkastella nettisivuilta osoitteesta https://www.kirkkonummi.fi/talvikunnossapito Kunta vastaa noin 70 kiinteistön piha-alueiden talvikunnossapidosta, kunnossapidettäviä piha-alueita on yhteensä noin 21 ha. Kirkkonummen kunnan alueella on neljä talvihoitourakka-aluetta (Masala, Sundet ja Sarvvik aluehoitourakka, Kt 51 eteläinen aluehoitourakka, Kirkkonummen keskustan talvihoitourakka ja Veikkolan talvihoitourakka). Urakat on kilpailutettu ja urakoitsijat valittu avoimella menettelyllä. Urakka käsittää mm. sopimukseen sisältyvien katujen ja kevyen liikenteen väylien sekä kiinteistöjen pihojen talvihoitotyöt. Sopimusten kesto: Kirkkonummen keskustan talvihoitourakka; 1.10.2018-31.5.2021 optio 1.10.2021-31.5.2024 Masala, Sundet ja Sarvvik aluehoitourakka; 1.11.2020-31.10.2023 Kt 51 eteläinen aluehoitourakka; 1.11.2022-31.10.2024 Veikkolan talvihoitourakka; 1.10.2018-31.5.2021 optio 1.10.2021- 31.5.2024 Keski-Kirkkonummen ja Volsin alueen kiinteistöjen pihojen talvikunnossapito; 1.10.2018-31.5.2021 optio 1.10.2021-31.5.2024 Talvikunnossapidon (urakoiden) kustannukset vaihtelevat merkittävästi sääolosuhteiden mukaan. Toteutuneet kustannukset hoitokausittain raportoidaan yhdyskuntatekniikan lautakunnalle vuosittain. Talvikauden 2022-2023 talvikunnossapitokustannukset ovat: Kirkkonummen keskustan talvihoitourakan osalta 534 033,65 euroa (hoitokautena 2021-2022: 557 985 euroa), katualueet 450 424,30 euroa ja piha-alueet 83 609,35 euroa, ei sis. kiinteistöjen käsilumitöitä. Masalan, Sundet, Sarvvik aluehoitourakan osalta 225 670,33 euroa (hoitokautena 2021-2022: 259 906 euroa), katualueet 191 642,16 euroa ja piha-alueet 34 028,17 euroa. 3. Kt 51 eteläisen aluehoitourakan osalta noin 206 481 euroa (hoitokautena 2021-2022: 352 000 euroa), katualueet 177 666 euroa ja piha-alueet 28 815 euroa. 4. Veikkolan talvihoitourakan osalta 286 840,52 euroa, (hoitokautena 2021-2022: 298 165 euroa) katualueet 235 287,51euroa ja piha-alueet 51 553,01euroa, ei sis. kiinteistöjen käsilumitöitä. 5. Keski-Kirkkonummen ja Volsin alueen kiinteistöjen pihojen talvikunnossapito -urakan osalta 50 710 euroa (hoitokautena 2021- 2022: 79 720,95 euroa). Kustannukset on ilmoitettu ilman alv. Urakoiden kustannukset ovat talvikaudelta 2022-2023 olleet yhteensä 1 223 375,98 euroa, katualueet 1 011 374,62 euroa ja kiinteistöjen piha-alueet 231 190,69 euroa. Vuoden 2023 käyttösuunnitelmaan on varattu noin 900 000 euroa katujen kunnossapitoon. Talvikunnossapidon kustannuksiin on vaikuttanut sääolosuhteet, maarakennuskustannusindeksin muutos (indeksin suhteellinen muutos on 19-23 %)"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231488-7",
+      "ordinal": "7",
+      "title": "Yhdyskuntatekniikan lautakunnan vuoden 2023 osavuosikatsaus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231488-7",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko Osavuosikatsaus 31.7.2023, ytltk ovk_31.7.2023_kaavoitusohjelma_2023_kaavoitusohjelma 2023-2027_käyttösuunnitelma Yhdyskuntatekniikan lautakunnan vuoden 2023 osavuosikatsaus Yhdyskuntatekniikan lautakunta 31.08.2023 § 97 4/02.02.02/2023\n- vuoden 2023 osavuosikatsaus liitteineen",
+        "valmistelija": "Talousjohtaja Esa Lindell Yhdyskuntatekniikan johtaja Anna-Kaisa Kauppinen etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa Yhdyskuntatekniikan lautakunta päättää: 1. hyväksyä omalta osaltaan vuoden 2023 osavuosikatsauksen 2. toimittaa osavuosikatsausliitteen kunnanhallitukselle ja edelleen kunnanvaltuustolle tiedoksi",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaisesti",
+        "selostus": "Voimassa olevan hallintosäännön mukaan mukaisesti kunnanhallitus vahvistaa vuosittain talousarvion täytäntöönpano-ohjeet, joissa ohjeistetaan käyttösuunnitelmien laatimisesta sekä talousarviovuoden aikana muista noudatettavista periaatteista. Vuoden 2023 talousarvion täytäntöönpano-ohjeen mukaan kuntatason raportoinnista vastaa kunnanhallitus, joka toimielinten omien osavuosikatsausten perusteella laatii osavuosikatsauksen kunnanvaltuustolle (tilanne 31.7.) sekä tilinpäätökseen kuuluvan vuosikertomuksen. Kunnanhallitus voi myös päättää tarvittaessa yksityiskohtaisemmasta talouden ja toiminnan raportoinnista, sekä sen miten toimielimet sille raportoivat. Täytäntöönpano-ohjeissa on toimielimiä ohjeistettu laatimaan sisäisen valvonnan suunnitelma käyttösuunnitelman yhteydessä ja raportoimaan sen toteutumisesta toimintakertomuksen yhteydessä. Vuoden 2023 talousarvioon on kirjattu riskienhallintaan liittyvät olennaiset riskit ja niiden riskiarviot. Riskien sekä sisäisen valvonnan suunnitelman toteutumisen vaikutuksesta talouteen ja toimintaan voidaan olennaisten poikkeamien osalta raportoida jo osavuosikatsauksessa. Kunnanvaltuuston 16.5.2022 hyväksymän sisäisen valvonnan ohjeen mukaan jokainen kuntakonsernin tilivelvollinen toimielin antaa osana toimintakertomustaan selonteon sisäisen valvonnan ja riskienhallinnan toteutumisesta tai järjestämisestä, valvonnassa havaituista puutteista ja toimenpiteistä niiden korjaamiseksi. Kunnanhallitukselle raportoidaan toimielinten talousarvion toteumat sekä ennuste koko vuoden toteumasta kuntatasolla. Toimielinten raportoimat osavuosikatsaukset viedään kunnanhallitukselle tiedoksi koko kunnan osavuosikatsauksen raportoinnin yhteydessä. Käyttötalousosassa perustelut, toiminnan painopisteet, mahdolliset tunnusluvut, määrärahat ja tuloarviot esitetään toimielimittäin tehtävätasolla. Käyttötalousosan perusteluissa otsikon \"Sitovat toiminnalliset tavoitteet\" alla esitetyt tavoitteet ovat valtuustoon nähden sitovia. Kunkin toimielimen ulkoisten toimintatulojen ja -menojen erotus eli toimintakate on valtuuston nähden sitova lukuun ottamatta työmarkkinatuen kuntaosuuteen ja HSL:n yhteistyöhön varattuja määrärahoja, jotka ovat erikseen sitovia. Kirkkonummen Vesi-liikelaitoksen sitova taso on vuoden 2023 talousarvion liitteen tuloslaskelman mukainen tilikauden yli-/alijäämä. Osavuosikatsauksessa raportoidaan käyttötalousosan perustelujen tunnusluvut, jotka ovat ohjeellisia. Tunnuslukujen oleellisista poikkeamat on selvitettävä. Talousarvion tuloslaskelmaosan tehtävätasoiset määrärahat ja tuloarviot ovat kunnanhallitusta sitovia. Investointiosan määrärahoista tehtävätasolla sitovia ovat ATK-ohjelmat ja käyttöönottoprojektit, muut pitkävaikutteiset menot ja irtain omaisuus. Hankeryhmätasolla sitovia määrärahoja ja tuloarvioita ovat maa- ja vesialueet, liikenneväylät ja puistot, liikunta- ja virkistysalueet, muut kiinteät rakenteet ja laitteet, talonrakentamisen peruskorjaushankkeet sekä osakkeet ja osuudet. Liikenneväylät ja puistot sekä liikunta- ja virkistysalueet hankeryhmien määrärahaa saa käyttää muihin taloussuunnitelmavuosien hankkeisiin kunnanhallituksen päätöksellä, jos talousarviovuoden jonkin hankkeen toteuttamista ei ole voitu aloittaa. Talonrakentamisen määrärahat ja tuloarviot ovat hanketasolla sitovia. Mahdolliset hankkeen kokonaiskustannusten ylitystarpeet tulee tuoda valtuustoon etupainotteisesti. Talousarviovuoden osalta myös talonrakennushankkeiden yhteenlaskettu kokonaismääräraha on sitova. Liitteenä oleva osavuosikatsaus on laadittu talousyksikön antamien ohjeiden mukaisesti. Vastuuhenkilöt seuraavat toteumaa lisäksi kuukausittain, erityisesti ostopalveluita ja/tai projekteja, tekevät ennusteita loppuvuoden käyttömenojen toteutumisesta sekä korjaavia toimenpiteitä talousarvioylitysten välttämiseksi. Vuonna 2023 yleinen palkkaratkaisu korotti palkkoja budjetoitua enemmän. Henkilöstömenojen ylitys ei pääsääntöisesti ole kompensoitavissa muita menoja karsimalla"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Osavuosikatsaus 31.7.2023, ytltk",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231488-7-96029.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "ovk_31.7.2023_kaavoitusohjelma_2023_kaavoitusohjelma 2023-2027_käyttösuunnitelma",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231488-7-96311.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20231488-8",
+      "ordinal": "8",
+      "title": "Masalan katualueen haltuunoton kasvillisuuskorvaukset, toimitusnumero 2023-713634",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231488-8",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaan",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko Koonti_haltuunotto 2.6 Masalan katualueen haltuunoton kasvillisuuskorvaukset, toimitusnumero 2023-713634 Yhdyskuntatekniikan lautakunta 31.08.2023 § 98 377/10.00.01/2023",
+        "valmistelija": "Maankäyttöasiantuntija Erika Märkälä etunimi.sukunimi@kirkkonummi.fi, puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa Yhdyskuntatekniikan lautakunta päättää 1 maksaa maanmittaustoimituksen TN:o 2023-713634 kasvillisuuskorvaukset, pääoma yhteensä 12 017,70 euroa, haltuunotetun katualueen asianosaisille omistajille ja haltijoille päätöksen liitteenä olevien korvauslaskelmien mukaisesti. 2 että korvaussummaan lisätään lunastuslain (laki kiinteän omaisuuden ja erityisten oikeuksien lunastuksesta, 603/1977) 95.1 § mukainen kuuden prosentin korko haltuunottohetkestä maksupäivään. 3 että päätös voidaan panna täytäntöön odottamatta sen lainvoimaisuutta. 4 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaan",
+        "tiedoksi": "erittely kiinteistökohtaisesti korvauksen saajalle, taloushallinto, Maanmittauslaitos",
+        "selostus": "Maankäyttö- ja rakennuslain 95 §:n mukaan kunta voi ottaa haltuunsa katualueen, kun sitä koskeva lunastusmenettely on pantu vireille. Kunta on hakenut 8.5.2023 kiinteistötoimitusta Maanmittauslaitokselta. Toimitus on tullut vireille 9.5.2023 toimitusnumerolla 2023-713634. Haltuunotot tehtiin 2.6.2023. Katualueen haltuunotot käsittävät Muonamiehenkujan, Rusthollinpolun, Tinantien, Suomelanpolun ja Köpaksenpolun. Maankäyttö- ja rakennuslain 108 §:n mukaan kunnalle siirtyvällä alueella olevat rakennukset, puut, istutukset ja laitteet on kunnan korvattava maanomistajalle. Kunta maksaa kasvillisuuskorvaukset asianosaisille kiinteistön omistajille tai haltijoille haltuunottokatselmuksen jälkeen. Asianosaisten mahdolliset muut vaatimukset käsitellään Maanmittauslaitoksen pitämässä maankäyttö- ja rakennuslain mukaisessa lunastustoimituksessa. Kasvillisuuskorvausten määrittämiseen on käytetty Maanmittauslaitoksen lunastustoimituksia varten laadittuja ajantasaisia korvaussuosituksia, ohje \"Arviointi- ja korvaustiedot 2022\". Päätöksen liitteenä on korvauslaskelma. Kiinteistökohtaiset erittelyt lähetetään tiedoksi asianosaisille kiinteistön omistajille ja haltijoille. Päätökseen tyytymätön voi hakea siihen muutosta vireillä olevassa maanmittaustoimituksessa TN:o 2023-713634. Päätöksen liitteet: korvauslaskelmat, haltuunotto 2.6.2023 (ei julkaistava) Päätöksen oheismateriaali: koonti korvauslaskelmista"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Koonti_haltuunotto 2.6",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231488-8-95237.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20231488-9",
+      "ordinal": "9",
+      "title": "Vastine oikaisuvaatimukseen yhdyskuntatekniikan lautakunnan päätöksestä 15.6.2023 § 75 koskien kiinteistön BLÅBÄRSBACKA 257-437-1-170 kasvillisuuskorvausta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231488-9",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaan",
+      "votes": [],
+      "sections": {
+        "valmistelija": "maankäyttöasiantuntija Erika Märkälä ja kunnangeodeetti Otso Kärkkäinen etunimi.sukunimi@kirkkonummi.fi, puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa Yhdyskuntatekniikan lautakunta 1 päättää muuttaa yhdyskuntatekniikan lautakunnan päätöstä 15.6.2023 § 75 siten, että kiinteistölle BLÅBÄRSBACKA 257-437-1-170 suoritettavan kasvillisuuskorvauksen määrä on pääomaltaan 7 892,92 euroa. Korvaus maksetaan haltuunotetun katualueen omistajalle päätöksen liitteenä olevan korvauserittelyn mukaisesti. Maksamatta olevalle korvaussummalle suoritetaan lunastuslain (603/1977) 95.1 § mukainen kuuden prosentin korko haltuunottopäivästä 11.5.2023 lukien. 2 antaa selvityksenään alla selostuskohdassa annetun selvityksen. 3 päättää, että päätös voidaan panna täytäntöön odottamatta sen lainvoimaisuutta",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaan",
+        "tiedoksi": "Kiinteistön BLÅBÄRSBACKA 257-437-1-170 omistaja",
+        "selostus": "Kiinteistön BLÅBÄRSBACKA 257-437-1-170 omistaja on tehnyt oikaisuvaatimuksen yhdyskuntatekniikan lautakunnan päätöksestä 15.6.2023 § 75 koskien kiinteistön katualueen haltuunotosta maksettavaa kasvillisuuskorvausta pääomaltaan 6 797,31 euroa, jonka kunta on suorittanut ns. riidattomana osuutena. Oikaisuvaatimuksen mukaan korvattavasta kasvillisuudesta puuttuu noin kolme raitaa ja noin 12 mäntyä, joista suurin on halkaisijaltaan noin 48 cm. Kiinteistöllä on pidetty 3.8.2023 maastokatselmus, jossa ovat olleet paikalla kiinteistön omistajan lisäksi kunnasta maankäyttöasiantuntija, kunnanpuutarhuri, toimistosihteeri, mittausteknikko ja mittamies. Katselmuksella koko puusto on käyty uudelleen läpi. Katselmuksella kirjatun puuston mukaan suoritettava kasvillisuuskorvaus on pääomaltaan 7 892,92 euroa. Maksamatta olevalle korvaussummalle (1 095,61 euroa) suoritetaan lunastuslain (603/1977) 95.1 § mukainen kuuden prosentin korko haltuunottopäivästä 11.5.2023 lukien"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231488-10",
+      "ordinal": "10",
+      "title": "Vastine oikaisuvaatimukseen yhdyskuntatekniikan lautakunnan päätöksestä 15.6.2023 § 76 koskien kiinteistön LÖFNÄS 257-428-3-9 kasvillisuuskorvausta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231488-10",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaan",
+      "votes": [],
+      "sections": {
+        "valmistelija": "maankäyttöasiantuntija Erika Märkälä ja kunnangeodeetti Otso Kärkkäinen etunimi.sukunimi@kirkkonummi.fi, puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa Yhdyskuntatekniikan lautakunta 1 päättää muuttaa yhdyskuntatekniikan lautakunnan päätöstä 15.6.2023 § 76 siten, että kiinteistölle LÖFNÄS 257-428-3-9 suoritettavan kasvillisuuskorvauksen määrä on pääomaltaan 3 252,35 euroa. Korvaus maksetaan haltuunotetun katualueen omistajalle päätöksen liitteenä olevan korvauserittelyn mukaisesti. Maksamatta olevalle korvaussummalle suoritetaan lunastuslain (603/1977) 95.1 § mukainen kuuden prosentin korko haltuunottopäivästä 12.5.2023 lukien. 2 antaa selvityksenään alla selostuskohdassa annetun selvityksen. 3 päättää, että päätös voidaan panna täytäntöön odottamatta sen lainvoimaisuutta",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaan",
+        "tiedoksi": "Kiinteistön LÖFNÄS 257-428-3-9 omistaja",
+        "selostus": "Kiinteistön LÖFNÄS 257-428-3-9 omistaja on tehnyt oikaisuvaatimuksen yhdyskuntatekniikan lautakunnan päätöksestä 15.6.2023 § 76 koskien kiinteistön katualueen haltuunotosta maksettavaa kasvillisuuskorvausta pääomaltaan 3 203,71 euroa, jonka kunta on suorittanut ns. riidattomana osuutena. Oikaisuvaatimuksen mukaan korvattavasta kasvillisuudesta puuttuu virpiangervoaidannetta 6,5 metriä, neljä vaahteraa ja juhannusruusupensaat 1 m 2 . Kiinteistöllä on pidetty 3.8.2023 ennakkoon kiinteistön omistajan kanssa sovittu maastokatselmus, jossa ovat olleet paikalla kunnasta maankäyttöasiantuntija, kunnanpuutarhuri, toimistosihteeri, mittausteknikko ja mittamies. Katselmuksella kasvillisuus on käyty uudelleen läpi. Katselmuksella kirjatun kasvillisuuden mukaan suoritettava kasvillisuuskorvaus on pääomaltaan 3 252,35 euroa. Maksamatta olevalle korvaussummalle (48,64 euroa) suoritetaan lunastuslain (603/1977) 95.1 § mukainen kuuden prosentin korko haltuunottopäivästä 12.5.2023 lukien"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231488-11",
+      "ordinal": "11",
+      "title": "Ilmoitusasioita tiedoksi",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231488-11",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaan",
+      "votes": [],
+      "sections": {
+        "valmistelija": "Virkanimeke Etunimi Sukunimi, etunimi.sukunimi@kirkkonummi.fi",
+        "paatosehdotus": "Yhdyskuntatekniikan lautakunta merkitsee ilmoitusasiat tiedokseen",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaan"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    }
+  ],
+  "id": "20231488",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20231488"
+}

@@ -1,0 +1,1533 @@
+{
+  "title": "Kunnanvaltuusto Pöytäkirja 19.05.2025 klo 18:00 - 22:51 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Kunnanvaltuusto",
+  "doctype": "Pöytäkirja",
+  "date": "2025-05-19",
+  "items": [
+    {
+      "id": "20252022-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252022-1",
+      "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Kokous todettiin lailliseksi ja päätösvaltaiseksi",
+        "selostus": "Kunnanvaltuuston kokouskutsu on julkaistu kunnan verkkosivulla 14.5.2025. Samana päivänä kutsu on toimitettu valtuutetuille ja varavaltuutetuille"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252022-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252022-2",
+      "decision": "Pöytäkirjantarkastajiksi valittiin Marko Kari ja Kim Liljequist",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanvaltuusto päättää valita kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan",
+        "paatos": "Pöytäkirjantarkastajiksi valittiin Marko Kari ja Kim Liljequist"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252022-3",
+      "ordinal": "3",
+      "title": "Seudullista lähijunavarikkoa koskevan kaavoituksen käynnistäminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252022-3",
+      "decision": "Kunnanvaltuusto päätti 1 tehtyjen selvitysten perusteella Kirkkonummi jatkaa lähijunavarikon mahdollistavan kaavoituksen jatkoselvittämistä ja asemakaavan laatimista Vuohimäen alueelle. 2 samalla viipymättä käynnistää jatkoneuvottelut valtion kanssa varikkoratkaisun edellyttämän Vuohimäen eritasoliittymäratkaisun valtionrahoituksesta ja eritasoliittymän toteuttamisen suunnittelusta. 3 todeta, että kunnalla ei ole taloudellisia edellytyksiä rahoittaa varikkoratkaisun edellyttämää huoltoraidejärjestelyä, myöskään siltä osin kun se aiheuttaa lisärakentamistarvetta, esim. alikulkuja, Kirkkonummen keskustan ja Vuohimäen välillä. 4 edellyttää, että Espoon jatkoselvittävää Näkinmetsän varikon kustannusrakennetta, jotta esitetyn kustannushaarukan laveus saadaan supistettua ja ratkaisun avoinna olevat asiat selvitettyä tarkemmin. Lisäksi kunnanvaltuusto päätti yksimielisesti haittavaikutusten vähentämiseksi edellyttää että siirtoliikenteestä aiheutuvat haitat radan varrella asuville kuntalaisille huomioidaan suunnittelussa alusta alkaen ja vähennetään esimerkiksi, meluesteillä, nopeusrajoituksilla, ajoaikarajoituksilla sekä siirtojunien ajaminen muutaman junan yksiköissä joka näin vähentää junien määrä. Varikon ja siirtoraiteen kokonaiskustannukset sisältäen maa-alueiden ja rakennusten lunastuskustannukset, tiestön uusimisen sekä kaikki muut kustannukset tulee ottaa huomioon kustannusvertailussa. Asukkaita tulee kuulla ja ottaa mukaan suunnitteluun varhaisessa vaiheessa. Suunnittelussa varmistetaan, että lisäraide toteutetaan niin, että se on käytettävissä radan perusliikennöintiin. Reetta Hyvärinen, Saara Huhmarniemi, Sanni Jäppinen ja Markus Myllyniemi jättivät päätöksestä eriävän mielipiteen",
+      "votes": [
+        {
+          "jaa": [
+            "Haapaniemi Timo",
+            "Seppälä Ulla",
+            "Määttä Jussi",
+            "Salminen Ville",
+            "Salonen Antti",
+            "Kaurila Matti",
+            "Blom Urho",
+            "Åström Kim",
+            "Männikkö Kim",
+            "Aallonharja Piia",
+            "Valtonen Martin",
+            "Virtanen Kari",
+            "Kari Marko",
+            "Valtanen Hannu",
+            "Suominen Tero",
+            "Lundell Patrik",
+            "Kajanti Carl-Johan",
+            "Sahiluoma Anna",
+            "Granström Anneli",
+            "Lankinen Arttu",
+            "Kosonen Liisa",
+            "Kaihlaranta Kati",
+            "Kähkönen Jani",
+            "Ronkainen Tuovi",
+            "Gustafsson Stefan",
+            "Kjerin Ulf",
+            "Harinen Ari",
+            "Hakapää Minna",
+            "Ekman Jani",
+            "Kämpe-Hellenius Jerri",
+            "Björk Tony",
+            "Purra Riikka",
+            "Piili Noora",
+            "Leijala Aku",
+            "Polkko Aleksander",
+            "Kilappa Antti",
+            "Liljequist Kim",
+            "Hedberg Hans"
+          ],
+          "ei": [
+            "Huhmarniemi Saara",
+            "Aintila Anna",
+            "Jeremejew Miisa",
+            "Jäppinen Sanni",
+            "Frantsi-Lankia Marjut",
+            "Myllyniemi Markus",
+            "Hyvärinen Reetta",
+            "Bogatenko Nina",
+            "Orko Maarit",
+            "Frimodig Josephine",
+            "Fleming Johanna",
+            "Tamm Irja"
+          ],
+          "tyhja": [
+            "Felipe Sini"
+          ],
+          "totals": {
+            "jaa": 38,
+            "ei": 12,
+            "tyhja": 1
+          },
+          "parties": {
+            "jaa": {
+              "kok": 12,
+              "ps": 7,
+              "pro yl": 5,
+              "rkp": 10,
+              "sdp": 3,
+              "vas": 1
+            },
+            "ei": {
+              "vihr": 8,
+              "rkp": 2,
+              "kesk": 1,
+              "sdp": 1
+            },
+            "tyhja": {
+              "sdp": 1
+            }
+          },
+          "direction": {
+            "jaa_label": "asian jatkokäsittelyä",
+            "ei_label": "Saara Huhmarnimen palautusehdotusta",
+            "jaa_kind": "jatkokasittely",
+            "ei_kind": "jatkokasittely",
+            "kind": "procedural_substantive",
+            "rationale": "Puheenjohtaja julisti keskustelun päättyneeksi ja totesi, että keskustelun aikana on jätetty palautusehdotus ja muutosehdotuksia seuraavasti: Saara Huhmarniemen palautusehdotus: Palautetaan valmisteluun Tehty rantaradan lähijunaliikenteen varikkoselvitys ei ole riittävä, jotta sen pohjalta voitaisiin tehdä päätös kaavoituksen aloittamisesta.",
+            "winner": null,
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat asian jatkokäsittelyä äänestävät JAA, ja ne jotka kannattavat Saara Huhmarnimen palautusehdotusta äänestävät EI — annettiin 38 JAA ja 12 EI ääntä."
+          }
+        },
+        {
+          "jaa": [
+            "Purra Riikka",
+            "Polkko Aleksander",
+            "Hakapää Minna",
+            "Kämpe-Hellenius Jerri",
+            "Ekman Jani",
+            "Kaihlaranta Kati",
+            "Kilappa Antti",
+            "Kajanti Carl-Johan",
+            "Kosonen Liisa",
+            "Lundell Patrik",
+            "Ronkainen Tuovi",
+            "Männikkö Kim",
+            "Leijala Aku",
+            "Haapaniemi Timo",
+            "Blom Urho",
+            "Lankinen Arttu",
+            "Valtonen Martin",
+            "Määttä Jussi",
+            "Salminen Ville",
+            "Kjerin Ulf",
+            "Harinen Ari",
+            "Suominen Tero",
+            "Sahiluoma Anna",
+            "Kähkönen Jani",
+            "Kari Marko",
+            "Kaurila Matti",
+            "Virtanen Kari",
+            "Björk Tony",
+            "Frimodig Josephine",
+            "Granström Anneli",
+            "Felipe Sini",
+            "Piili Noora",
+            "Hedberg Hans",
+            "Valtanen Hannu",
+            "Aallonharja Piia",
+            "Liljequist Kim",
+            "Åström Kim",
+            "Gustafsson Stefan",
+            "Salonen Antti",
+            "Seppälä Ulla"
+          ],
+          "ei": [
+            "Huhmarniemi Saara",
+            "Jäppinen Sanni",
+            "Orko Maarit",
+            "Frantsi-Lankia Marjut",
+            "Aintila Anna",
+            "Jeremejew Miisa",
+            "Hyvärinen Reetta",
+            "Myllyniemi Markus",
+            "Bogatenko Nina",
+            "Tamm Irja",
+            "Fleming Johanna"
+          ],
+          "tyhja": [],
+          "totals": {
+            "jaa": 40,
+            "ei": 11,
+            "tyhja": 0
+          },
+          "parties": {
+            "jaa": {
+              "ps": 7,
+              "pro yl": 5,
+              "rkp": 11,
+              "kok": 12,
+              "vas": 1,
+              "sdp": 4
+            },
+            "ei": {
+              "vihr": 8,
+              "kesk": 1,
+              "rkp": 1,
+              "sdp": 1
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta",
+            "ei_label": "Saara Huhmarnimen vastaehdotusta",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": "jaa",
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Saara Huhmarnimen vastaehdotusta äänestävät EI — annettiin 40 JAA ja 11 EI ääntä."
+          }
+        },
+        {
+          "jaa": [
+            "Kämpe-Hellenius Jerri",
+            "Kähkönen Jani",
+            "Harinen Ari",
+            "Sahiluoma Anna",
+            "Salonen Antti",
+            "Seppälä Ulla",
+            "Salminen Ville",
+            "Lundell Patrik",
+            "Hakapää Minna",
+            "Lankinen Arttu",
+            "Granström Anneli",
+            "Kari Marko",
+            "Suominen Tero",
+            "Orko Maarit",
+            "Kosonen Liisa",
+            "Virtanen Kari",
+            "Ekman Jani",
+            "Haapaniemi Timo",
+            "Blom Urho",
+            "Purra Riikka",
+            "Kilappa Antti",
+            "Ronkainen Tuovi",
+            "Kaurila Matti",
+            "Piili Noora",
+            "Määttä Jussi",
+            "Leijala Aku",
+            "Hedberg Hans",
+            "Aallonharja Piia",
+            "Polkko Aleksander",
+            "Åström Kim",
+            "Valtanen Hannu"
+          ],
+          "ei": [
+            "Felipe Sini",
+            "Myllyniemi Markus",
+            "Liljequist Kim",
+            "Aintila Anna",
+            "Frimodig Josephine",
+            "Valtonen Martin",
+            "Hyvärinen Reetta",
+            "Huhmarniemi Saara",
+            "Kaihlaranta Kati",
+            "Kjerin Ulf",
+            "Fleming Johanna",
+            "Tamm Irja",
+            "Gustafsson Stefan",
+            "Jeremejew Miisa",
+            "Bogatenko Nina",
+            "Björk Tony"
+          ],
+          "tyhja": [
+            "Männikkö Kim",
+            "Kajanti Carl-Johan",
+            "Jäppinen Sanni",
+            "Frantsi-Lankia Marjut"
+          ],
+          "totals": {
+            "jaa": 31,
+            "ei": 16,
+            "tyhja": 4
+          },
+          "parties": {
+            "jaa": {
+              "rkp": 3,
+              "ps": 7,
+              "sdp": 3,
+              "kok": 12,
+              "pro yl": 5,
+              "vihr": 1
+            },
+            "ei": {
+              "sdp": 2,
+              "vihr": 6,
+              "rkp": 7,
+              "vas": 1
+            },
+            "tyhja": {
+              "rkp": 2,
+              "vihr": 1,
+              "kesk": 1
+            }
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta",
+            "ei_label": "Kim Liljequistin lisäysehdotusta",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": "jaa",
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Kim Liljequistin lisäysehdotusta äänestävät EI — annettiin 31 JAA ja 16 EI ääntä."
+          }
+        }
+      ],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 1 Eriävä mielipide, lähijunavarikko, kunnanvaltuusto 19.5.2025\n4 Lisäraiteen tarvetarkastelu 5.11.2024 Seudullista lähijunavarikkoa koskevan kaavoituksen käynnistäminen Kunnanvaltuusto 19.05.2025 § 45 621/00.04.00/2024",
+        "oheismateriaali": "Kuvake Otsikko Rantaradan lähijunaliikenteen varikkoselvitys_30.4.2025",
+        "paatosehdotus": "Kunnanhallitus esittää valtuustolle, että se päättää 1 tehtyjen selvitysten perusteella Kirkkonummi jatkaa lähijunavarikon mahdollistavan kaavoituksen jatkoselvittämistä ja asemakaavan laatimista Vuohimäen alueelle. 2 samalla viipymättä käynnistää jatkoneuvottelut valtion kanssa varikkoratkaisun edellyttämän Vuohimäen eritasoliittymäratkaisun valtionrahoituksesta ja eritasoliittymän toteuttamisen suunnittelusta. 3 todeta, että kunnalla ei ole taloudellisia edellytyksiä rahoittaa varikkoratkaisun edellyttämää huoltoraidejärjestelyä, myöskään siltä osin kun se aiheuttaa lisärakentamistarvetta, esim. alikulkuja, Kirkkonummen keskustan ja Vuohimäen välillä. 4 edellyttää, että Espoon jatkoselvittävää Näkinmetsän varikon kustannusrakennetta, jotta esitetyn kustannushaarukan laveus saadaan supistettua ja ratkaisun avoinna olevat asiat selvitettyä tarkemmin",
+        "kasittely": "WSP:n Juhani Bäckström esitteli asiaa kokouksessa ja poistui tämän §:n jälkeen klo 19.41. Puheenjohtaja julisti keskustelun päättyneeksi ja totesi, että keskustelun aikana on jätetty palautusehdotus ja muutosehdotuksia seuraavasti: Saara Huhmarniemen palautusehdotus: Palautetaan valmisteluun Tehty rantaradan lähijunaliikenteen varikkoselvitys ei ole riittävä, jotta sen pohjalta voitaisiin tehdä päätös kaavoituksen aloittamisesta. Esimerkiksi siirtoajoliikenteen vaikutukset ovat selvittämättä. Palautusehdotusta kannattivat Markus Myllyniemi, Maarit Orko, Marjut Frantsi-Lankia, Miisa Jeremejew, Reetta Hyvärinen, Johanna Fleming, Sanni Jäppinen, Irja Tamm, Nina Bogatenko, Josephine Frimodig ja Anna Aintila. Palautusehdotusta ei hyväksytty yksimielisesti, joten puheenjohtaja ilmoitti että asiasta on äänestettävä. Puheenjohtaja ehdotti että asiasta äänestetään niin, että ne jotka kannattavat asian jatkokäsittelyä äänestävät JAA, ja ne jotka kannattavat Saara Huhmarnimen palautusehdotusta äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 38 JAA ääntä, 12 EI ääntä ja 1 tyhjä ääni. Asian jatkokäsittely sai enemmän ääniä, joten asian käsittelyä päätettiin jatkaa. JAA äänestivät Haapaniemi Timo, Seppälä Ulla, Määttä Jussi, Salminen Ville, Salonen Antti, Kaurila Matti, Blom Urho, Åström Kim, Männikkö Kim, Aallonharja Piia, Valtonen Martin, Virtanen Kari, Kari Marko, Valtanen Hannu, Suominen Tero, Lundell Patrik, Kajanti Carl-Johan, Sahiluoma Anna, Granström Anneli, Lankinen Arttu, Kosonen Liisa, Kaihlaranta Kati, Kähkönen Jani, Ronkainen Tuovi, Gustafsson Stefan, Kjerin Ulf, Harinen Ari, Hakapää Minna, Ekman Jani, Kämpe-Hellenius Jerri, Björk Tony, Purra Riikka, Piili Noora, Leijala Aku, Polkko Aleksander, Kilappa Antti, Liljequist Kim ja Hedberg Hans EI äänestivät Huhmarniemi Saara, Aintila Anna, Jeremejew Miisa, Jäppinen Sanni, Frantsi-Lankia Marjut, Myllyniemi Markus, Hyvärinen Reetta, Bogatenko Nina, Orko Maarit, Frimodig Josephine, Fleming Johanna ja Tamm Irja Tyhjää äänesti Felipe Sini. Saara Huhmarniemen vastaehdotus: Lähijunavarikon mahdollistavaa kaavahanketta ei käynnistetä Kirkkonummella. Tehty rantaradan lähijunaliikenteen varikkoselvitys ei ole riittävä, jotta sen pohjalta voitaisiin tehdä päätös kaavoituksen aloittamisesta. Vastaehdotusta kannattivat Miisa Jeremejew, Markus Myllyniemi, Maarit Orko, Reetta Hyvärinen, Marjut Frantsi-Lankia, Johanna Fleming, Irja Tamm, Sanni Jäppinen ja Nina Bogatenko. Vastaehdotusta ei hyväksytty yksimielisesti, joten puheenjohtaja ilmoitti että asiasta on äänestettävä. Puheenjohtaja ehdotti että asiasta äänestetään niin, että ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Saara Huhmarnimen vastaehdotusta äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 40 JAA ääntä ja 11 EI ääntä. Pohjaehdotus sai enemmän ääniä ja voitti. JAA äänestivät Purra Riikka, Polkko Aleksander, Hakapää Minna, Kämpe-Hellenius Jerri, Ekman Jani, Kaihlaranta Kati, Kilappa Antti, Kajanti Carl-Johan, Kosonen Liisa, Lundell Patrik, Ronkainen Tuovi, Männikkö Kim, Leijala Aku, Haapaniemi Timo, Blom Urho, Lankinen Arttu, Valtonen Martin, Määttä Jussi, Salminen Ville, Kjerin Ulf, Harinen Ari, Suominen Tero, Sahiluoma Anna, Kähkönen Jani, Kari Marko, Kaurila Matti, Virtanen Kari, Björk Tony, Frimodig Josephine, Granström Anneli, Felipe Sini, Piili Noora, Hedberg Hans, Valtanen Hannu, Aallonharja Piia, Liljequist Kim, Åström Kim, Gustafsson Stefan, Salonen Antti ja Seppälä Ulla EI äänestivät Huhmarniemi Saara, Jäppinen Sanni, Orko Maarit, Frantsi-Lankia Marjut, Aintila Anna, Jeremejew Miisa, Hyvärinen Reetta, Myllyniemi Markus, Bogatenko Nina, Tamm Irja ja Fleming Johanna. Kim Liljequistin lisäysehdotus: Jos Kirkkonummen kunnanvaltuusto päättää kaavoittamisen osalta valita Vuohimäen mahdolliseksi junavarikkoalueeksi, on jatkosuunnittelussa kaikin keinoin pyrittävä nykyasutuksen melu- ja tärinähaittojen minimoimiseen. Siksi jatkoselvityksiin on otettava mukaan tarkastelu siitä, olisiko mahdollista siirtää koko junaradan linjaus eri paikkaan, esimerkiksi tulevan 51:n nelikaistaisen tien läheisyyteen sen meluvyöhykkeelle. Lisäysehdotusta kannattivat Martin Valtonen, Anna Aintila, Josephine Frimodig ja Reetta Hyvärinen. Lisäysehdotusta ei hyväksytty yksimielisesti, joten puheenjohtaja ilmoitti että asiasta on äänestettävä. Puheenjohtaja ehdotti että asiasta äänestetään niin, että ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Kim Liljequistin lisäysehdotusta äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 31 JAA ääntä ja 16 EI ääntä ja 4 tyhjää ääntä. Pohjaehdotus sai enemmän ääniä ja voitti. JAA äänestivät Kämpe-Hellenius Jerri, Kähkönen Jani, Harinen Ari, Sahiluoma Anna, Salonen Antti, Seppälä Ulla, Salminen Ville, Lundell Patrik, Hakapää Minna, Lankinen Arttu, Granström Anneli, Kari Marko, Suominen Tero, Orko Maarit, Kosonen Liisa, Virtanen Kari, Ekman Jani, Haapaniemi Timo, Blom Urho, Purra Riikka, Kilappa Antti, Ronkainen Tuovi, Kaurila Matti, Piili Noora, Määttä Jussi, Leijala Aku, Hedberg Hans, Aallonharja Piia, Polkko Aleksander, Åström Kim ja Valtanen Hannu EI äänestivät Felipe Sini, Myllyniemi Markus, Liljequist Kim, Aintila Anna, Frimodig Josephine, Valtonen Martin, Hyvärinen Reetta, Huhmarniemi Saara, Kaihlaranta Kati, Kjerin Ulf, Fleming Johanna, Tamm Irja, Gustafsson Stefan, Jeremejew Miisa, Bogatenko Nina ja Björk Tony Tyhjää äänestivät Männikkö Kim, Kajanti Carl-Johan, Jäppinen Sanni ja Frantsi-Lankia Marjut. Ulf Kjerinin lisäysehdotus: Haittavaikutusten vähentäminen Edellyttää että siirtoliikenteestä aiheutuvat haitat radan varrella asuville kuntalaisille huomioidaan suunnittelussa alusta alkaen ja vähennetään esimerkiksi, meluesteillä, nopeusrajoituksilla, ajoaikarajoituksilla sekä siirtojunien ajaminen muutaman junan yksiköissä joka näin vähentää junien määrä. Varikon ja siirtoraiteen kokonaiskustannukset sisältäen maa-alueiden ja rakennusten lunastuskustannukset, tiestön uusimisen sekä kaikki muut kustannukset tulee ottaa huomioon kustannusvertailussa. Asukkaita tulee kuulla ja ottaa mukaan suunnitteluun varhaisessa vaiheessa. Lisäysehdotusta kannattivat Kim Liljequist, Patrik Lundell, Jani Ekman, Martin Valtonen, Marko Kari, Anna Aintila, Josephine Frimodig, Kim Åström, Hannu Valtanen, Reetta Hyvärinen, Miisa Jeremejew, Kati Kaihlaranta, Saara Huhmarniemi, Nina Bogatenko ja Carl-Johan Kajanti. Tony Björkin ponsiehdotus: Suunnittelussa varmistetaan, että lisäraide toteutetaan niin, että se on käytettävissä radan perusliikennöintiin. Ponsiehdotusta kannattivat Ulf Kjerin, Anna Aintila ja Josephine Frimodig. Ulf Kjerinin lisäysehdotus ja Tony Björkin ponsiehdotus päätettiin yhdistää ja puheenjohtajan tiedustellessa yhdistetty lisäys- ja ponsiehdotus hyväksyttiin yksimielisesti. Valtuutettu Antti Kilappa poistui kokouksesta tämän §:n jälkeen ja varavaltuutettu Pekka Sinisalo saapui kokoukseen klo 19.41. Valtuusto piti tauon tämän pykälän jälkeen klo 19.41 – 19.50",
+        "paatos": "Kunnanvaltuusto päätti 1 tehtyjen selvitysten perusteella Kirkkonummi jatkaa lähijunavarikon mahdollistavan kaavoituksen jatkoselvittämistä ja asemakaavan laatimista Vuohimäen alueelle. 2 samalla viipymättä käynnistää jatkoneuvottelut valtion kanssa varikkoratkaisun edellyttämän Vuohimäen eritasoliittymäratkaisun valtionrahoituksesta ja eritasoliittymän toteuttamisen suunnittelusta. 3 todeta, että kunnalla ei ole taloudellisia edellytyksiä rahoittaa varikkoratkaisun edellyttämää huoltoraidejärjestelyä, myöskään siltä osin kun se aiheuttaa lisärakentamistarvetta, esim. alikulkuja, Kirkkonummen keskustan ja Vuohimäen välillä. 4 edellyttää, että Espoon jatkoselvittävää Näkinmetsän varikon kustannusrakennetta, jotta esitetyn kustannushaarukan laveus saadaan supistettua ja ratkaisun avoinna olevat asiat selvitettyä tarkemmin. Lisäksi kunnanvaltuusto päätti yksimielisesti haittavaikutusten vähentämiseksi edellyttää että siirtoliikenteestä aiheutuvat haitat radan varrella asuville kuntalaisille huomioidaan suunnittelussa alusta alkaen ja vähennetään esimerkiksi, meluesteillä, nopeusrajoituksilla, ajoaikarajoituksilla sekä siirtojunien ajaminen muutaman junan yksiköissä joka näin vähentää junien määrä. Varikon ja siirtoraiteen kokonaiskustannukset sisältäen maa-alueiden ja rakennusten lunastuskustannukset, tiestön uusimisen sekä kaikki muut kustannukset tulee ottaa huomioon kustannusvertailussa. Asukkaita tulee kuulla ja ottaa mukaan suunnitteluun varhaisessa vaiheessa. Suunnittelussa varmistetaan, että lisäraide toteutetaan niin, että se on käytettävissä radan perusliikennöintiin. Reetta Hyvärinen, Saara Huhmarniemi, Sanni Jäppinen ja Markus Myllyniemi jättivät päätöksestä eriävän mielipiteen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Eriävä mielipide, lähijunavarikko, kunnanvaltuusto 19.5.2025",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252022-3-126175.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Rantaradan lähijunaliikenteen varikkoselvitys_30.4.2025",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252022-3-124647.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Liite 4 Lisäraiteen tarvetarkastelu 5.11.2024",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252022-3-124646.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Saara Huhmarniemi",
+          "kind": "palautusehdotus",
+          "text": null,
+          "source": "order",
+          "party": "vihr"
+        },
+        {
+          "proposer": "Saara Huhmarniemi",
+          "kind": "vastaehdotus",
+          "text": null,
+          "source": "order",
+          "party": "vihr"
+        }
+      ]
+    },
+    {
+      "id": "20252022-4",
+      "ordinal": "4",
+      "title": "Kantvikin koulun hankesuunnitelman hyväksyminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252022-4",
+      "decision": "Kunnanvaltuusto päätti ehdotuksen mukaisesti. Perussuomalaisten valtuustoryhmä jätti päätöksestä eriävän mielipiteen",
+      "votes": [
+        {
+          "jaa": [
+            "Piili Noora",
+            "Ronkainen Tuovi",
+            "Tamm Irja",
+            "Huhmarniemi Saara",
+            "Myllyniemi Markus",
+            "Frantsi-Lankia Marjut",
+            "Jeremejew Miisa",
+            "Felipe Sini",
+            "Kaihlaranta Kati",
+            "Fleming Johanna",
+            "Kosonen Liisa",
+            "Jäppinen Sanni",
+            "Orko Maarit",
+            "Hakapää Minna",
+            "Polkko Aleksander",
+            "Åström Kim",
+            "Aintila Anna",
+            "Salonen Antti",
+            "Valtonen Martin",
+            "Harinen Ari",
+            "Sahiluoma Anna",
+            "Suominen Tero",
+            "Toikka Anna-Mari",
+            "Hedberg Hans",
+            "Kari Marko",
+            "Valtanen Hannu",
+            "Määttä Jussi",
+            "Ekman Jani",
+            "Haapaniemi Timo",
+            "Blom Urho",
+            "Bogatenko Nina"
+          ],
+          "ei": [
+            "Granström Anneli",
+            "Björk Tony",
+            "Kajanti Carl-Johan",
+            "Liljequist Kim",
+            "Gustafsson Stefan",
+            "Salminen Ville",
+            "Kämpe-Hellenius Jerri",
+            "Lundell Patrik",
+            "Purra Riikka",
+            "Männikkö Kim",
+            "Lankinen Arttu",
+            "Seppälä Ulla",
+            "Aallonharja Piia",
+            "Sinisalo Pekka",
+            "Virtanen Kari",
+            "Kjerin Ulf",
+            "Leijala Aku",
+            "Frimodig Josephine",
+            "Kähkönen Jani",
+            "Kaurila Matti"
+          ],
+          "tyhja": [],
+          "totals": {
+            "jaa": 31,
+            "ei": 20,
+            "tyhja": 0
+          },
+          "parties": {
+            "jaa": {
+              "pro yl": 3,
+              "sdp": 5,
+              "vihr": 8,
+              "kesk": 1,
+              "vas": 1,
+              "kok": 9,
+              "ps": 1,
+              "rkp": 3
+            },
+            "ei": {
+              "ps": 6,
+              "rkp": 9,
+              "kok": 3,
+              "pro yl": 2
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta",
+            "ei_label": "Anneli Granströmin vastaehdotusta",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": "jaa",
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Anneli Granströmin vastaehdotusta äänestävät EI — annettiin 31 JAA ja 20 EI ääntä."
+          }
+        }
+      ],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 2 Kantvikin koulun hankesuunnitelma_190325 3 Kantvikin koulu Kustannusselvitys 25.3.2025 4 Kantvik koulu_pohjaluonnos_uudis_130125 5 Kantvikin koulu, Energiantuotantoratkaisut, Sweco Finland Oy 21.2.2025 6 Kantvikin koulu_tilaohjelmat_100325",
+        "oheismateriaali": "Kuvake Otsikko Kantvikin koulu, Hiilijalanjälkitarkastelu, Sweco Finland Oy 21.2.2025 Kantvikin koulun väistötilaselvitys 19032025 Kantvikin kouluhanke Asemakaavaote Kantvikin kouluhanke rakennettavuusselvitys, Taratest Oy 15.11.2023 Kantvikin koulun tarveselvitys 18.3.2024 Kantvikin kouluhanke, Tontinkäyttöluonnokset, Tilakonsultit TM2 Oy 13.1.2025 Kantvikin kouluhanke, Tontinkäyttösuunnitelmat Hila-arkkitehdit Eriävä mielipide 46 § 19.05.2025, Perussuomalaisten ryhmä Kantvikin koulun hankesuunnitelman hyväksyminen Kunnanvaltuusto 19.05.2025 § 46 862/10.03.02.03/2023",
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto päättää 1 hyväksyä liitteenä olevan Kantvikin koulun hankesuunnitelman 2 että hanke toteutetaan uudisrakentamisena puurungolla (hankesuunnitelmassa esitetty vaihtoehto 3) hankesuunnitelmassa esitetyin perustein 3 hyväksyä hankkeen investointikustannuksiksi 18 800 000 euroa. 4 valtuuttaa toimitilapalvelujen lautakunnan päättämään hankkeen urakkamuodosta 5 että väistötilojen edellyttämät määrärahat huomioidaan kunnan vuoden 2026 talousarviossa ja -suunnitelmissa",
+        "kasittely": "Reetta Hyvärinen ilmoitti olevansa esteellinen ja poistui kokouksesta pykälän käsittelyn ja päätöksenteon ajaksi. Varavaltuutettu Anna-Mari Toikka oli läsnä tämän pykälä aikana klo 19.51 – 20.34. Rakennuttajapäällikkö Hanne Nylund esitteli asiaa kokouksessa ja poistui pykälän jälkeen klo 20.34. Puheenjohtaja julisti keskustelun päättyneeksi ja totesi että keskustelun aikana Anneli Granström on jättänyt seuraavan vastasehdotuksen: Päätösesityksen mukaan, mutta kohdat 2 ja 3 muutettu seuraavasti: 2 esittää kunnanhallitukselle ja kunnanvaltuustolle, että hanke toteutetaan uudisrakentamisena (hankesuunnitelmassa esitetty vaihtoehto VE1) 3 esittää kunnanhallitukselle ja kunnanvaltuustolle, että se hyväksyy hankkeen investointikustannuksiksi 17 199 000 euroa. Vastaehdotusta kannattivat Ville Salminen, Matti Kaurila, Jani Kähkönen, Riikka Purra, Aku Leijala, Piia Aallonharja, Arttu Lankinen, Tony Björk, Ulf Kjerin, Josephine Frimodig, Ulla Seppälä ja Patrik Lundell. Vastaehdotusta ei hyväksytty yksimielisesti joten puheenjohtaja ilmoitti että asiasta on äänestettävä. Puheenjohtaja ehdotti että asiasta äänestetään niin, että ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Anneli Granströmin vastaehdotusta äänestävät EI. Äänestysjärjestys hyväksyttin. Äänestyksessä annettiin 31 JAA ääntä ja 20 EI ääntä. Pohjaehdotus sai enemmän ääniä ja voitti. JAA äänestivät Piili Noora, Ronkainen Tuovi, Tamm Irja, Huhmarniemi Saara, Myllyniemi Markus, Frantsi-Lankia Marjut, Jeremejew Miisa, Felipe Sini, Kaihlaranta Kati, Fleming Johanna, Kosonen Liisa, Jäppinen Sanni, Orko Maarit, Hakapää Minna, Polkko Aleksander, Åström Kim, Aintila Anna, Salonen Antti, Valtonen Martin, Harinen Ari, Sahiluoma Anna, Suominen Tero, Toikka Anna-Mari, Hedberg Hans, Kari Marko, Valtanen Hannu, Määttä Jussi, Ekman Jani, Haapaniemi Timo, Blom Urho ja Bogatenko Nina EI äänestivät Granström Anneli, Björk Tony, Kajanti Carl-Johan, Liljequist Kim, Gustafsson Stefan, Salminen Ville, Kämpe-Hellenius Jerri, Lundell Patrik, Purra Riikka, Männikkö Kim, Lankinen Arttu, Seppälä Ulla, Aallonharja Piia, Sinisalo Pekka, Virtanen Kari, Kjerin Ulf, Leijala Aku, Frimodig Josephine, Kähkönen Jani ja Kaurila Matti. Kunnanvaltuusto piti tauon tämä pykälän jälkeen klo 20.34 – 20.46",
+        "paatos": "Kunnanvaltuusto päätti ehdotuksen mukaisesti. Perussuomalaisten valtuustoryhmä jätti päätöksestä eriävän mielipiteen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kantvikin koulun hankesuunnitelma_190325",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252022-4-123392.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kantvikin koulu Kustannusselvitys 25.3.2025",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252022-4-123415.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kantvik koulu_pohjaluonnos_uudis_130125",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252022-4-123389.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kantvikin koulu, Energiantuotantoratkaisut, Sweco Finland Oy 21.2.2025",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252022-4-123390.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kantvikin koulu_tilaohjelmat_100325",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252022-4-123393.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Kantvikin koulu, Hiilijalanjälkitarkastelu, Sweco Finland Oy 21.2.2025",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252022-4-123391.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Kantvikin koulun väistötilaselvitys 19032025",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252022-4-123400.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Kantvikin kouluhanke Asemakaavaote",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252022-4-123394.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Kantvikin kouluhanke rakennettavuusselvitys, Taratest Oy 15.11.2023",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252022-4-123395.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Kantvikin koulun tarveselvitys 18.3.2024",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252022-4-123399.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Kantvikin kouluhanke, Tontinkäyttöluonnokset, Tilakonsultit TM2 Oy 13.1.2025",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252022-4-123397.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Kantvikin kouluhanke, Tontinkäyttösuunnitelmat Hila-arkkitehdit",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252022-4-123398.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Eriävä mielipide 46 § 19.05.2025, Perussuomalaisten ryhmä",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252022-4-125762.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Anneli Granström",
+          "kind": "vastaehdotus",
+          "text": null,
+          "source": "introduction",
+          "party": "ps"
+        }
+      ]
+    },
+    {
+      "id": "20252022-5",
+      "ordinal": "5",
+      "title": "Kirkkonummen kunnan luonnon monimuotoisuuden turvaamisen toimintaohjelman eli LUMO-ohjelman 2025 - 2030 hyväksyminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252022-5",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 7 LUMO-ohjelma 2025-2030, Kh 5.5.2025",
+        "oheismateriaali": "Kuvake Otsikko Vastineet LUMO-ohjelman luonnoksesta annettuihin palautteisiin Kirkkonummen kunnan luonnon monimuotoisuuden turvaamisen toimintaohjelman eli LUMO-ohjelman 2025 - 2030 hyväksyminen Kunnanvaltuusto 19.05.2025 § 47 749/00.01.02/2024",
+        "paatosehdotus": "Kunnanhallitus esittää kunnanvaltuustolle, että valtuusto hyväksyy liitteenä olevan Kirkkonummen LUMO-ohjelman 2025 – 2030",
+        "kasittely": "Ympäristösuunnittelija Merja Puromies esitteli asiaa kokouksessa ja poistui kokouksesta §:n jälkeen klo 21.03",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "LUMO-ohjelma 2025-2030, Kh 5.5.2025",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252022-5-125032.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Vastineet LUMO-ohjelman luonnoksesta annettuihin palautteisiin",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252022-5-119034.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20252022-6",
+      "ordinal": "6",
+      "title": "Kirkkonummen kunnan metsäohjelman päivittäminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252022-6",
+      "decision": "Kunnanvaltuusto päätti hyväksyä liitteenä olevan Kirkkonummen kunnan metsäohjelman lisäyksellä, että kuntalaisia tiedotetaan tulevista metsänhoitotoimista ja niihin on mahdollista antaa palautetta palautejärjestelmän kautta tai sähköpostitse. Tiedote tehdään kunnan someen ja julkaistaan Kirkkonummen sanomissa. Johanna Fleming, Irja Tamm, Miisa Jeremejew, Maarit Orko, Nina Bogatenko, Sanni Jäppinen, Reetta Hyvärinen ja Saara Huhmarniemi jättivät päätöksestä eriävän mielipiteen",
+      "votes": [
+        {
+          "jaa": [
+            "Leijala Aku",
+            "Harinen Ari",
+            "Aallonharja Piia",
+            "Kosonen Liisa",
+            "Polkko Aleksander",
+            "Virtanen Kari",
+            "Seppälä Ulla",
+            "Granström Anneli",
+            "Ronkainen Tuovi",
+            "Suominen Tero",
+            "Åström Kim",
+            "Lankinen Arttu",
+            "Haapaniemi Timo",
+            "Frimodig Josephine",
+            "Salonen Antti",
+            "Kähkönen Jani",
+            "Valtonen Martin",
+            "Kämpe-Hellenius Jerri",
+            "Valtanen Hannu",
+            "Salminen Ville",
+            "Ekman Jani",
+            "Lundell Patrik",
+            "Sahiluoma Anna",
+            "Kjerin Ulf",
+            "Hedberg Hans",
+            "Kajanti Carl-Johan",
+            "Sinisalo Pekka",
+            "Liljequist Kim",
+            "Purra Riikka",
+            "Kari Marko",
+            "Männikkö Kim",
+            "Blom Urho",
+            "Matti Kaurila"
+          ],
+          "ei": [
+            "Piili Noora",
+            "Huhmarniemi Saara",
+            "Gustafsson Stefan",
+            "Aintila Anna",
+            "Hakapää Minna",
+            "Määttä Jussi",
+            "Frantsi-Lankia Marjut",
+            "Kaihlaranta Kati",
+            "Jäppinen Sanni",
+            "Björk Tony",
+            "Jeremejew Miisa",
+            "Hyvärinen Reetta",
+            "Myllyniemi Markus",
+            "Fleming Johanna",
+            "Tamm Irja",
+            "Felipe Sini",
+            "Bogatenko Nina",
+            "Orko Maarit"
+          ],
+          "tyhja": [],
+          "totals": {
+            "jaa": 33,
+            "ei": 18,
+            "tyhja": 0
+          },
+          "parties": {
+            "jaa": {
+              "pro yl": 3,
+              "sdp": 3,
+              "ps": 7,
+              "kok": 11,
+              "rkp": 9
+            },
+            "ei": {
+              "pro yl": 2,
+              "vihr": 8,
+              "rkp": 3,
+              "kok": 1,
+              "kesk": 1,
+              "vas": 1,
+              "sdp": 2
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta",
+            "ei_label": "Kati Kaihlarannan muutosehdotusta",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": "jaa",
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Kati Kaihlarannan muutosehdotusta äänestävät EI — annettiin 33 JAA ja 18 EI ääntä."
+          }
+        },
+        {
+          "jaa": [
+            "Valtanen Hannu",
+            "Sahiluoma Anna",
+            "Männikkö Kim",
+            "Virtanen Kari",
+            "Gustafsson Stefan",
+            "Ekman Jani",
+            "Kjerin Ulf",
+            "Seppälä Ulla",
+            "Åström Kim",
+            "Leijala Aku",
+            "Valtonen Martin",
+            "Kaurila Matti",
+            "Polkko Aleksander",
+            "Suominen Tero",
+            "Määttä Jussi",
+            "Kähkönen Jani",
+            "Purra Riikka",
+            "Kämpe-Hellenius Jerri",
+            "Kajanti Carl-Johan",
+            "Frimodig Josephine",
+            "Liljequist Kim",
+            "Harinen Ari",
+            "Haapaniemi Timo",
+            "Aallonharja Piia",
+            "Blom Urho",
+            "Sinisalo Pekka",
+            "Kosonen Liisa",
+            "Salonen Antti",
+            "Granström Anneli",
+            "Hedberg Hans",
+            "Kari Marko",
+            "Salminen Ville",
+            "Björk Tony",
+            "Lankinen Arttu",
+            "Lundell Patrik"
+          ],
+          "ei": [
+            "Frantsi-Lankia Marjut",
+            "Bogatenko Nina",
+            "Kaihlaranta Kati",
+            "Ronkainen Tuovi",
+            "Jeremejew Miisa",
+            "Fleming Johanna",
+            "Huhmarniemi Saara",
+            "Felipe Sini",
+            "Hakapää Minna",
+            "Myllyniemi Markus",
+            "Orko Maarit",
+            "Tamm Irja",
+            "Hyvärinen Reetta",
+            "Aintila Anna",
+            "Piili Noora",
+            "Jäppinen Sanni"
+          ],
+          "tyhja": [],
+          "totals": {
+            "jaa": 35,
+            "ei": 16,
+            "tyhja": 0
+          },
+          "parties": {
+            "jaa": {
+              "kok": 12,
+              "rkp": 11,
+              "pro yl": 3,
+              "ps": 7,
+              "sdp": 2
+            },
+            "ei": {
+              "kesk": 1,
+              "vihr": 8,
+              "vas": 1,
+              "sdp": 3,
+              "pro yl": 2,
+              "rkp": 1
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta",
+            "ei_label": "Saara Huhmarniemen lisäysehdotusta",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": "jaa",
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Saara Huhmarniemen lisäysehdotusta äänestävät EI — annettiin 35 JAA ja 16 EI ääntä."
+          }
+        },
+        {
+          "jaa": [
+            "Männikkö Kim",
+            "Granström Anneli",
+            "Purra Riikka",
+            "Kosonen Liisa",
+            "Kjerin Ulf",
+            "Salminen Ville",
+            "Hedberg Hans",
+            "Kähkönen Jani",
+            "Valtanen Hannu",
+            "Hakapää Minna",
+            "Gustafsson Stefan"
+          ],
+          "ei": [
+            "Felipe Sini",
+            "Leijala Aku",
+            "Frantsi-Lankia Marjut",
+            "Huhmarniemi Saara",
+            "Fleming Johanna",
+            "Hyvärinen Reetta",
+            "Björk Tony",
+            "Orko Maarit",
+            "Åström Kim",
+            "Määttä Jussi",
+            "Blom Urho",
+            "Kaihlaranta Kati",
+            "Lankinen Arttu",
+            "Virtanen Kari",
+            "Sinisalo Pekka",
+            "Jeremejew Miisa",
+            "Polkko Aleksander",
+            "Bogatenko Nina",
+            "Jäppinen Sanni",
+            "Tamm Irja",
+            "Kari Marko",
+            "Ronkainen Tuovi",
+            "Seppälä Ulla",
+            "Haapaniemi Timo",
+            "Valtonen Martin",
+            "Sahiluoma Anna",
+            "Ekman Jani",
+            "Myllyniemi Markus",
+            "Aintila Anna",
+            "Frimodig Josephine",
+            "Liljequist Kim",
+            "Suominen Tero",
+            "Salonen Antti",
+            "Harinen Ari",
+            "Piili Noora",
+            "Kajanti Carl-Johan",
+            "Lundell Patrik"
+          ],
+          "tyhja": [
+            "Aallonharja Piia",
+            "Kämpe-Hellenius Jerri",
+            "Kaurila Matti"
+          ],
+          "totals": {
+            "jaa": 11,
+            "ei": 37,
+            "tyhja": 3
+          },
+          "parties": {
+            "jaa": {
+              "rkp": 4,
+              "ps": 4,
+              "kok": 2,
+              "pro yl": 1
+            },
+            "ei": {
+              "sdp": 5,
+              "pro yl": 4,
+              "kesk": 1,
+              "vihr": 8,
+              "rkp": 7,
+              "kok": 9,
+              "vas": 1,
+              "ps": 2
+            },
+            "tyhja": {
+              "ps": 1,
+              "rkp": 1,
+              "kok": 1
+            }
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta",
+            "ei_label": "Reetta Hyvärisen lisäysehdotusta",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": "ei",
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Reetta Hyvärisen lisäysehdotusta äänestävät EI — annettiin 11 JAA ja 37 EI ääntä."
+          }
+        },
+        {
+          "jaa": [
+            "Seppälä Ulla",
+            "Lankinen Arttu",
+            "Leijala Aku",
+            "Hedberg Hans",
+            "Lundell Patrik",
+            "Sahiluoma Anna",
+            "Liljequist Kim",
+            "Männikkö Kim",
+            "Haapaniemi Timo",
+            "Suominen Tero",
+            "Valtonen Martin",
+            "Blom Urho",
+            "Sinisalo Pekka",
+            "Kosonen Liisa",
+            "Määttä Jussi",
+            "Valtanen Hannu",
+            "Kari Marko",
+            "Polkko Aleksander",
+            "Ekman Jani",
+            "Salonen Antti",
+            "Virtanen Kari",
+            "Salminen Ville",
+            "Kjerin Ulf",
+            "Kähkönen Jani",
+            "Åström Kim",
+            "Granström Anneli",
+            "Harinen Ari",
+            "Purra Riikka",
+            "Gustafsson Stefan",
+            "Kämpe-Hellenius Jerri",
+            "Kaurila Matti",
+            "Aallonharja Piia",
+            "Kajanti Carl-Johan"
+          ],
+          "ei": [
+            "Hyvärinen Reetta",
+            "Tamm Irja",
+            "Huhmarniemi Saara",
+            "Ronkainen Tuovi",
+            "Hakapää Minna",
+            "Björk Tony",
+            "Fleming Johanna",
+            "Jeremejew Miisa",
+            "Aintila Anna",
+            "Kaihlaranta Kati",
+            "Piili Noora",
+            "Frantsi-Lankia Marjut",
+            "Jäppinen Sanni",
+            "Myllyniemi Markus",
+            "Orko Maarit",
+            "Bogatenko Nina",
+            "Felipe Sini",
+            "Frimodig Josephine"
+          ],
+          "tyhja": [],
+          "totals": {
+            "jaa": 33,
+            "ei": 18,
+            "tyhja": 0
+          },
+          "parties": {
+            "jaa": {
+              "kok": 12,
+              "ps": 7,
+              "pro yl": 3,
+              "rkp": 9,
+              "sdp": 2
+            },
+            "ei": {
+              "vihr": 8,
+              "sdp": 3,
+              "pro yl": 2,
+              "rkp": 3,
+              "vas": 1,
+              "kesk": 1
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta",
+            "ei_label": "Reetta Hyvärisen ponsiehdotusta",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "other",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": "jaa",
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Reetta Hyvärisen ponsiehdotusta äänestävät EI — annettiin 33 JAA ja 18 EI ääntä."
+          }
+        }
+      ],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 8 Kirkkonummen kunnan metsäohjelma 2025 9 Kirkkonummen kunnan metsäohjelma 2025, liitteet 10 Kunnan_metsät_2025_eteläinen 11 Kunnan_metsät_2025_keskinen 12 Kunnan_metsät_2025_pohjoinen 13 Yhteenveto, Metsästrategiaan tulleet palautteet ja vastaukset_kh27012025 14 Eriävä mielipide metsäohjelma, kunnanvaltuusto 19.5.2025 Kirkkonummen kunnan metsäohjelman päivittäminen Kunnanvaltuusto 19.05.2025 § 48 1023/10.03.01.06/2020",
+        "paatosehdotus": "Kunnanhallitus esittää kunnanvaltuustolle, että valtuusto päättää hyväksyä liitteenä olevan Kirkkonummen kunnan metsäohjelman (ent. metsästrategia)",
+        "kasittely": "Kuntakehitusjohtaja Anna-Kaisa Kauppinen esitteli asiaa kokouksessa. Puheenjohtaja julisti keskustelun päättyneeksi ja totesi että keskustelun aikana on jätetty muutosehdotuksia seuraavasti: Kati Kaihlarannan muutosesitys: Kirkkonummen kunnan metsäohjelmaan ja sen liitteisiin lisätään seuraava kirjaus päätöksenteko- ja hyväksymismenettelyä koskevaan osioon: Kaikki muutokset, joissa metsän hoitoluokka muutetaan arvometsästä (M1), suojelumetsästä (S), lähimetsästä (M2) tai virkistysmetsästä (M3) talousmetsäksi (M5), on tuotava valtuuston hyväksyttäväksi. Muutosehdotusta kannattivat Miisa Jeremejew, Sini Felipe, Maarit Orko, Johanna Fleming, Saara Huhmarniemi, Irja Tamm, Tony Björk, Sanni Jäppinen, Nina Bogatenko, Anna Aintila, Markus Myllyniemi, Marjut Frantsi-Lankia, Minna Hakapää, Reetta Hyvärinen ja Noora Piili. Muutosehdotus ei hyväksytty yksimielisesti, joten puheenjohtaja ilmoitti että asiasta on äänestettävä. Puheenjohtaja ehdotti, että asiasta äänestetään niin, että ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Kati Kaihlarannan muutosehdotusta äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 33 JAA ääntä ja 18 EI ääntä. Pohjaehdotus sai enemmän ääniä ja voitti. JAA äänestivät Leijala Aku, Harinen Ari, Aallonharja Piia, Kosonen Liisa, Polkko Aleksander, Virtanen Kari, Seppälä Ulla, Granström Anneli, Ronkainen Tuovi, Suominen Tero, Åström Kim, Lankinen Arttu, Haapaniemi Timo, Frimodig Josephine, Salonen Antti, Kähkönen Jani, Valtonen Martin, Kämpe-Hellenius Jerri, Valtanen Hannu, Salminen Ville, Ekman Jani, Lundell Patrik, Sahiluoma Anna, Kjerin Ulf, Hedberg Hans, Kajanti Carl-Johan, Sinisalo Pekka, Liljequist Kim, Purra Riikka, Kari Marko, Männikkö Kim, Blom Urho ja Matti Kaurila. EI äänestivät Piili Noora, Huhmarniemi Saara, Gustafsson Stefan, Aintila Anna, Hakapää Minna, Määttä Jussi, Frantsi-Lankia Marjut, Kaihlaranta Kati, Jäppinen Sanni, Björk Tony, Jeremejew Miisa, Hyvärinen Reetta, Myllyniemi Markus, Fleming Johanna, Tamm Irja, Felipe Sini, Bogatenko Nina ja Orko Maarit. Saara Huhmarniemen lisäysehdotus: Lisätään ohjelmaan: “Kirkkonummen kunnan metsiä hoidetaan pääosin jatkuvan kasvatuksen menetelmillä.” Lisäysehdotusta kannattivat Maarit Orko, Irja Tamm, Miisa Jeremejew, Johanna Fleming, Tuovi Ronkainen, Anna Aintila, Kati Kaihlaranta, Nina Bogatenko, Sanni Jäppinen, Markus Myllyniemi ja Reetta Hyvärinen. Lisäysehdotusta ei hyväksytty yksimielisesti, joten puheenjohtaja ilmoitti että asiasta on äänestettävä. Puheenjohtaja ehdotti, että asiasta äänestetään niin, että ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Saara Huhmarniemen lisäysehdotusta äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 35 JAA ääntä ja 16 EI ääntä. Pohjaehdotus sai enemmän ääniä ja voitti. JAA äänestivät Valtanen Hannu, Sahiluoma Anna, Männikkö Kim, Virtanen Kari, Gustafsson Stefan, Ekman Jani, Kjerin Ulf, Seppälä Ulla, Åström Kim, Leijala Aku, Valtonen Martin, Kaurila Matti, Polkko Aleksander, Suominen Tero, Määttä Jussi, Kähkönen Jani, Purra Riikka, Kämpe-Hellenius Jerri, Kajanti Carl-Johan, Frimodig Josephine, Liljequist Kim, Harinen Ari, Haapaniemi Timo, Aallonharja Piia, Blom Urho, Sinisalo Pekka, Kosonen Liisa, Salonen Antti, Granström Anneli, Hedberg Hans, Kari Marko, Salminen Ville, Björk Tony, Lankinen Arttu ja Lundell Patrik EI äänestivät Frantsi-Lankia Marjut, Bogatenko Nina, Kaihlaranta Kati, Ronkainen Tuovi, Jeremejew Miisa, Fleming Johanna, Huhmarniemi Saara, Felipe Sini, Hakapää Minna, Myllyniemi Markus, Orko Maarit, Tamm Irja, Hyvärinen Reetta, Aintila Anna, Piili Noora ja Jäppinen Sanni. Reetta Hyvärisen lisäys kuntetekniikkapäällikön viestiin perustuen: “Kuntalaisia tiedotetaan tulevista metsänhoitotoimista ja niihin on mahdollista antaa palautetta palautejärjestelmän kautta tai sähköpostitse. Tiedote tehdään kunnan someen ja julkaistaan Kirkkonummen sanomissa.” Lisäysehdotusta kannattivat Markus Myllyniemi, Johanna Fleming, Miisa Jeremejew, Aku Leijala, Anna Aintila, Maarit Orko, Sanni Jäppinen, Saara Huhmarniemi, Kati Kaihlaranta, Irja Tamm, Nina Bogatenko ja Marjut Frantsi-Lankia. Lisäysehdotusta ei hyväksytty yksimielisesti, joten puheenjohtaja ilmoitti että asiasta on äänestettävä. Puheenjohtaja ehdotti, että asiasta äänestetään niin, että ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Reetta Hyvärisen lisäysehdotusta äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 11 JAA ääntä ja 37 EI ääntä ja 3 tyhjää ääntä. Reetta Hyvärisen lisäysehdotus sai enemmän ääniä ja voitti. JAA äänestivät Männikkö Kim, Granström Anneli, Purra Riikka, Kosonen Liisa, Kjerin Ulf, Salminen Ville, Hedberg Hans, Kähkönen Jani, Valtanen Hannu, Hakapää Minna ja Gustafsson Stefan EI äänestivät Felipe Sini, Leijala Aku, Frantsi-Lankia Marjut, Huhmarniemi Saara, Fleming Johanna, Hyvärinen Reetta, Björk Tony, Orko Maarit, Åström Kim, Määttä Jussi, Blom Urho, Kaihlaranta Kati, Lankinen Arttu, Virtanen Kari, Sinisalo Pekka, Jeremejew Miisa, Polkko Aleksander, Bogatenko Nina, Jäppinen Sanni, Tamm Irja, Kari Marko, Ronkainen Tuovi, Seppälä Ulla, Haapaniemi Timo, Valtonen Martin, Sahiluoma Anna, Ekman Jani, Myllyniemi Markus, Aintila Anna, Frimodig Josephine, Liljequist Kim, Suominen Tero, Salonen Antti, Harinen Ari, Piili Noora, Kajanti Carl-Johan ja Lundell Patrik Tyhjää äänestivät Aallonharja Piia, Kämpe-Hellenius Jerri ja Kaurila Matti. Reetta Hyvärisen ponsiehdotus: Luonnonsuojelualueiden reunoille jätetään hakkuissa suojapuusto, jotta vältytään muun muassa tuulenkaadoilta ym haitallisilta reunavaikutuksilta Ponsiehdotusta kannattivat Saara Huhmarniemi, Sanni Jäppinen, Johanna Fleming, Markus Myllyniemi, Kati Kaihlaranta, Irja Tamm, Maarit Orko ja Nina Bogatenko. Ponsiehdotusta ei hyväksytty yksimielisesti, joten puheenjohtaja ilmoitti että asiasta on äänestettävä. Puheenjohtaja ehdotti, että asiasta äänestetään niin, että ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Reetta Hyvärisen ponsiehdotusta äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 33 JAA ääntä ja 18 EI ääntä. Pohjaehdotus sai enemmän ääniä ja voitti. JAA äänestivät Seppälä Ulla, Lankinen Arttu, Leijala Aku, Hedberg Hans, Lundell Patrik, Sahiluoma Anna, Liljequist Kim, Männikkö Kim, Haapaniemi Timo, Suominen Tero, Valtonen Martin, Blom Urho, Sinisalo Pekka, Kosonen Liisa, Määttä Jussi, Valtanen Hannu, Kari Marko, Polkko Aleksander, Ekman Jani, Salonen Antti, Virtanen Kari, Salminen Ville, Kjerin Ulf, Kähkönen Jani, Åström Kim, Granström Anneli, Harinen Ari, Purra Riikka, Gustafsson Stefan, Kämpe-Hellenius Jerri, Kaurila Matti, Aallonharja Piia ja Kajanti Carl-Johan EI äänestivät Hyvärinen Reetta, Tamm Irja, Huhmarniemi Saara, Ronkainen Tuovi, Hakapää Minna, Björk Tony, Fleming Johanna, Jeremejew Miisa, Aintila Anna, Kaihlaranta Kati, Piili Noora, Frantsi-Lankia Marjut, Jäppinen Sanni, Myllyniemi Markus, Orko Maarit, Bogatenko Nina, Felipe Sini ja Frimodig Josephine. Noora Piili poistui kokouksesta tämän pykälän jälkeen klo 21.40",
+        "paatos": "Kunnanvaltuusto päätti hyväksyä liitteenä olevan Kirkkonummen kunnan metsäohjelman lisäyksellä, että kuntalaisia tiedotetaan tulevista metsänhoitotoimista ja niihin on mahdollista antaa palautetta palautejärjestelmän kautta tai sähköpostitse. Tiedote tehdään kunnan someen ja julkaistaan Kirkkonummen sanomissa. Johanna Fleming, Irja Tamm, Miisa Jeremejew, Maarit Orko, Nina Bogatenko, Sanni Jäppinen, Reetta Hyvärinen ja Saara Huhmarniemi jättivät päätöksestä eriävän mielipiteen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kirkkonummen kunnan metsäohjelma 2025",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252022-6-125258.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kirkkonummen kunnan metsäohjelma 2025, liitteet",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252022-6-125257.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kunnan_metsät_2025_eteläinen",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252022-6-119451.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kunnan_metsät_2025_keskinen",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252022-6-119452.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kunnan_metsät_2025_pohjoinen",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252022-6-119453.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Yhteenveto, Metsästrategiaan tulleet palautteet ja vastaukset_kh27012025",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252022-6-119563.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Eriävä mielipide metsäohjelma, kunnanvaltuusto 19.5.2025",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252022-6-126173.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Kati Kaihlaranta",
+          "kind": "vastaehdotus",
+          "text": null,
+          "source": "order",
+          "party": "vas"
+        }
+      ]
+    },
+    {
+      "id": "20252022-7",
+      "ordinal": "7",
+      "title": "Vuoden 2024 tilinpäätös",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252022-7",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 15 Kirkkonummen kunta_Tilinpäätös 2024, Kv 19.5.2025 16 Kirkkonummen kunta Tilintarkastuskertomus 2024",
+        "oheismateriaali": "Kuvake Otsikko Tase ja tuloslaskelma 2024, Kirkkonummen Vuokra-asunnot Oy KVA Toimintakertomus 2024 Vuoden 2024 tilinpäätös Kunnanvaltuusto 19.05.2025 § 49 123/02.02.02/2025",
+        "paatosehdotus": "Tarkastuslautakunta esittää kunnanvaltuustolle, että valtuusto päättää 1 merkitä tilintarkastuskertomuksen tilikaudelta 2024 tiedoksi 2 hyväksyä vuoden 2024 tilinpäätöksen 3 myöntää vastuuvapaus kunnan hallintoa ja taloutta hoitaneille toimielinten jäsenille ja tehtäväalueiden johtaville viranhaltijoille tilikaudelta 1.1. - 31.12.2024. Kunnanhallitus hyväksyi tilinpäätöksen kokouksessaan 31.3.2025 ja ehdotti kunnanvaltuustolle tilikauden 11 523 906,46 euron tuloksen käsittelystä seuraavaa: - tuloutetaan aikaisemmin tehdystä poistoerosta poistoerohankkeiden tilikauden suunnitelmapoistoja vastaava määrä 11 779,96 euroa - tilikauden ylijäämä 11 535 686,42 euroa siirretään taseen tilikauden yli-/ alijäämätilille",
+        "kasittely": "Talousjohtaja Esa Lindell esitteli asiaa kokouksessa. Varavaltuutettu Anni-Mari Syvänemi saapui kokoukseen tämän pykälän aikana klo 21.42",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kirkkonummen kunta_Tilinpäätös 2024, Kv 19.5.2025",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252022-7-125464.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kirkkonummen kunta Tilintarkastuskertomus 2024",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252022-7-125122.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Tase ja tuloslaskelma 2024, Kirkkonummen Vuokra-asunnot Oy",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252022-7-125422.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "KVA Toimintakertomus 2024",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252022-7-125423.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20252022-8",
+      "ordinal": "8",
+      "title": "Arviointikertomus 2024",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252022-8",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 17 Kirkkonummen kunnan arviointikertomus_2024_FINAL, allekirjoitettu Arviointikertomus 2024 Kunnanvaltuusto 19.05.2025 § 50 658/02.02.02/2024",
+        "paatosehdotus": "Tarkastuslautakunta ehdottaa kunnanvaltuustolle, että valtuusto päättää 1 merkitä vuoden 2024 arviointikertomuksen tiedokseen 2 pyytää kunnanhallitukselta kuntalain mukaisen selvityksen arviointikertomuksesta aiheutuvista toimenpiteistä 3 että vastineiden tulee olla valtuuston käsiteltävänä syyskuun 2025 loppuun mennessä, ennen tulevan vuoden talousarviokäsittelyä",
+        "kasittely": "Tarkastuslautakunnan puheenjohtaja Ulla Seppälä esitteli asiaa kokouksessa. Varavaltuutettu Aleksander Polkko poistui kokouksesta tämän pykälän jälkeen klo 22.08",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kirkkonummen kunnan arviointikertomus_2024_FINAL, allekirjoitettu",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252022-8-125426.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20252022-9",
+      "ordinal": "9",
+      "title": "Henkilöstökertomus 2024",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252022-9",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 18 Henkilöstökertomus 2024 Henkilöstökertomus 2024 Kunnanvaltuusto 19.05.2025 § 51 313/01.00.02/2025",
+        "paatosehdotus": "Kunnanhallitus saattaa Kirkkonummen kunnan henkilöstökertomuksen vuodelta 2024 tiedoksi kunnanvaltuustolle",
+        "kasittely": "Henkilöstöjohtaja Lea Pääkkönen esitteli asiaa kokouksessa",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Henkilöstökertomus 2024",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252022-9-124943.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20252022-10",
+      "ordinal": "10",
+      "title": "Kestävän kasvun ohjelma",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252022-10",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 19 Kestävän kasvun ohjelma_2025.05.09 20\n1 Strategisen kehittämisen suunnitelma 21\n2_Kuntatalous monen muuttujan summa 2025_Kuntaliiton kestävän kasvun ohjelma 22\n3_Kustannukset toimielimittäin 23\n4_Kestävän kasvun ohjelma - kustannusvaikutukset 24\n5 KKO pulssikysely Kestävän kasvun ohjelma Kunnanvaltuusto 19.05.2025 § 52 143/00.01.05/2025",
+        "paatosehdotus": "Kunnanhallitus esittää kunnanvaltuustolle, että se merkitsee kestävän kasvun ohjelman liitteineen tiedoksi ja lopullinen ohjelma hyväksytään talousarvion 2026 ja taloussuunnitelman 2027 - 2028 käsittelyn yhteydessä. Kunnanhallitus hyväksyy talousarvion kehyksen kokouksessaan 9.6.2025",
+        "kasittely": "Kunnanjohtaja Virpi Sailas esitteli asiaa kokouksessa",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kestävän kasvun ohjelma_2025.05.09",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252022-10-125000.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite 1 Strategisen kehittämisen suunnitelma",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252022-10-124958.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite 2_Kuntatalous monen muuttujan summa 2025_Kuntaliiton kestävän kasvun ohjelma",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252022-10-120899.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite 3_Kustannukset toimielimittäin",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252022-10-120923.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite 4_Kestävän kasvun ohjelma - kustannusvaikutukset",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252022-10-124947.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite 5 KKO pulssikysely",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252022-10-125209.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20252022-11",
+      "ordinal": "11",
+      "title": "Kirkkonummen kunnan hallintosäännön hyväksyminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252022-11",
+      "decision": "Kunnanvaltuusto päätti ehdotuksen mukaisesti",
+      "votes": [
+        {
+          "jaa": [
+            "Salonen Antti",
+            "Hedberg Hans",
+            "Valtanen Hannu",
+            "Salminen Ville",
+            "Åström Kim",
+            "Kähkönen Jani",
+            "Kajanti Carl-Johan",
+            "Purra Riikka",
+            "Haapaniemi Timo",
+            "Syväniemi Anni-Mari",
+            "Kaurila Matti",
+            "Harinen Ari",
+            "Leijala Aku",
+            "Virtanen Kari",
+            "Hakapää Minna",
+            "Gustafsson Stefan",
+            "Kosonen Liisa",
+            "Kjerin Ulf",
+            "Granström Anneli",
+            "Lundell Patrik",
+            "Kämpe-Hellenius Jerri",
+            "Männikkö Kim",
+            "Sinisalo Pekka",
+            "Suominen Tero",
+            "Seppälä Ulla",
+            "Blom Urho",
+            "Ekman Jani",
+            "Aallonharja Piia",
+            "Lankinen Arttu"
+          ],
+          "ei": [
+            "Hyvärinen Reetta",
+            "Liljequist Kim",
+            "Valtonen Martin",
+            "Jäppinen Sanni",
+            "Sahiluoma Anna",
+            "Myllyniemi Markus",
+            "Fleming Johanna",
+            "Ronkainen Tuovi",
+            "Björk Tony",
+            "Frimodig Josephine",
+            "Määttä Jussi",
+            "Aintila Anna",
+            "Bogatenko Nina",
+            "Kaihlaranta Kati",
+            "Kari Marko",
+            "Frantsi-Lankia Marjut",
+            "Felipe Sini",
+            "Jeremejew Miisa",
+            "Orko Maarit",
+            "Tamm Irja",
+            "Huhmarniemi Saara"
+          ],
+          "tyhja": [],
+          "totals": {
+            "jaa": 29,
+            "ei": 21,
+            "tyhja": 0
+          },
+          "parties": {
+            "jaa": {
+              "pro yl": 5,
+              "rkp": 7,
+              "kok": 9,
+              "ps": 6,
+              "sdp": 2
+            },
+            "ei": {
+              "vihr": 8,
+              "rkp": 5,
+              "kok": 3,
+              "sdp": 3,
+              "vas": 1,
+              "kesk": 1
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta",
+            "ei_label": "Markus Myllyniemen muutosehdotusta",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": "jaa",
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat pohjaehdotusta äänestävät JAA ja ne jotka kannattavat Markus Myllyniemen muutosehdotusta äänestävät EI — annettiin 29 JAA ja 21 EI ääntä."
+          }
+        }
+      ],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 25 Kirkkonummen kunnan hallintosääntö 16.6.2025 alkaen, Kunnanvaltuuston 19.5.2025 hyväksymä Kirkkonummen kunnan hallintosäännön hyväksyminen Kunnanvaltuusto 19.05.2025 § 53 405/00.01.01/2025",
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto hyväksyy liitteenä olevan Kirkkonummen kunnan hallintosäännön 16.6.2025 alkaen",
+        "kasittely": "Hallintojohtaja Jaana Suihkonen esitteli asiaa kokouksessa. Puheenjohtaja julisti keskustelun päättyneeksi ja totesi, että keskustelun aikana on jätetty muutosehdotus seuraavasti: Markus Myllyniemen muutosehdotus: Muutosesitys hallintosäännön pykälään 160 §: 160 § Läsnäolo toimielimen kokouksessa: Nuorisovaltuuston edustajalla on läsnäolo- ja puheoikeus sivistys- ja hyvinvointilautakunnassa, kuntakehityksen lautakunnassa, suomen- ja ruotsinkielisissä kasvatus- ja koulutuslautakunnissa sekä kunnanhallituksessa. Läsnäolo-oikeutta ei ole silloin, kun käsiteltäviin asiakirjoihin sisältyy salassa pidettäviä tietoja. Muutosehdotusta kannattivat Sanni Jäppinen, Johanna Fleming, Miisa Jeremejew, Irja Tamm, Kati Kaihlaranta, Anna Aintila, Maarit Orko, Reetta Hyvärinen, Anna Sahiluoma, Nina Bogatenko, Saara Huhmarniemi ja Josephine Frimodig. Muutosehdotusta ei hyväksytty yksimielisesti, joten puheenjohtaja ilmoitti että asiasta on äänestettävä. Puheenjohtaja ehdotti että asiasta äänestetään niin, että ne jotka kannattavat pohjaehdotusta äänestävät JAA ja ne jotka kannattavat Markus Myllyniemen muutosehdotusta äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 29 JAA ääntä ja 21 EI ääntä, 1 poissa (Aleksander Polkko) Pohjaehdotus sai enemmän ääniä ja voitti. JAA äänestivät Salonen Antti, Hedberg Hans, Valtanen Hannu, Salminen Ville, Åström Kim, Kähkönen Jani, Kajanti Carl-Johan, Purra Riikka, Haapaniemi Timo, Syväniemi Anni-Mari, Kaurila Matti, Harinen Ari, Leijala Aku, Virtanen Kari, Hakapää Minna, Gustafsson Stefan, Kosonen Liisa, Kjerin Ulf, Granström Anneli, Lundell Patrik, Kämpe-Hellenius Jerri, Männikkö Kim, Sinisalo Pekka, Suominen Tero, Seppälä Ulla, Blom Urho, Ekman Jani, Aallonharja Piia ja Lankinen Arttu EI äänestivät Hyvärinen Reetta, Liljequist Kim, Valtonen Martin,Jäppinen Sanni, Sahiluoma Anna, Myllyniemi Markus, Fleming Johanna, Ronkainen Tuovi, Björk Tony, Frimodig Josephine, Määttä Jussi, Aintila Anna, Bogatenko Nina, Kaihlaranta Kati, Kari Marko, Frantsi-Lankia Marjut, Felipe Sini, Jeremejew Miisa, Orko Maarit, Tamm Irja ja Huhmarniemi Saara",
+        "paatos": "Kunnanvaltuusto päätti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kirkkonummen kunnan hallintosääntö 16.6.2025 alkaen, Kunnanvaltuuston 19.5.2025 hyväksymä",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252022-11-125884.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Markus Myllyniemi",
+          "kind": "vastaehdotus",
+          "text": null,
+          "source": "order",
+          "party": "vihr"
+        }
+      ]
+    },
+    {
+      "id": "20252022-12",
+      "ordinal": "12",
+      "title": "Palkkiosäännön hyväksyminen valtuustokaudelle 2025 – 2029",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252022-12",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 26 Palkkiosääntö 2025-2029_final Palkkiosäännön hyväksyminen valtuustokaudelle 2025 – 2029 Kunnanvaltuusto 19.05.2025 § 54 952/00.01.01/2020",
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto hyväksyy liitteenä olevan palkkiosäännön valtuustokaudelle 2025-2029",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Palkkiosääntö 2025-2029_final",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252022-12-125135.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20252022-13",
+      "ordinal": "13",
+      "title": "​​Keskusvaalilautakunnan ilmoitus vuoden 2025 kuntavaalien tuloksesta​",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252022-13",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 27 KT23 28 KT26 ​​Keskusvaalilautakunnan ilmoitus vuoden 2025 kuntavaalien tuloksesta​ Kunnanvaltuusto 19.05.2025 § 55 490/00.00.00/2024",
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto merkitsee luettelot KT26: Valitut valtuutetut ja varavaltuutetut vertausluvuittain ja KT23: Ehdokkaat vertausluvuittain tiedoksi vuoden 2025 Kirkkonummen kunnassa toimitettujen kuntavaalien tuloksena",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "KT23",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252022-13-124533.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "KT26",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252022-13-124534.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20252022-14",
+      "ordinal": "14",
+      "title": "Luottamushenkilötoimikunnan nimeäminen valtuustokaudelle 2025 – 2029",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252022-14",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus esittää kunnanvaltuustolle, että se nimeää luottamushenkilötoimikunnan seuraavasti: Kokoomus: Anna Sahiluoma, varsinainen jäsen ja Timo Haapaniemi, varajäsen RKP: Tony Björk, varsinainen jäsen ja Jerri Kämpe-Hellenius, varajäsen SDP: Sini Felipe, varsinainen jäsen ja Tuovi Ronkainen, varajäsen PS : Arttu Lankinen, varsinainen jäsen ja Piia Aallonharja, varajäsen Vihreät: Saara Huhmarniemi, varsinainen jäsen ja Lauri Lavanti, varajäsen Vasemmistoliitto: Kati Kaihlaranta, varsinainen jäsen ja Edla Niemi, varajäsen Pro Kirkkonummi: Antti Kilappa, varsinainen jäsen, Noora Piili, varajäsen Keskusta: Eero Lankia, varsinainen jäsen ja Jarmo Siivari, varajäsen KD: Maiju Kiukas, varsinainen jäsen ja Rita Holopainen, varajäsen",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252022-15",
+      "ordinal": "15",
+      "title": "Vastaus valtuustoaloitteeseen 26/2021: Rakennuttajaorganisaation perustaminen Kirkkonummen kunnalle",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252022-15",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "initiative": {
+        "ref": "26/2021",
+        "proposer": "päätösehdotuksen mukaisesti.   Selostus   Martin Honkanen / Kirkkonummen Perussuomalaiset",
+        "party": "ps",
+        "name": "Kirkkonummen Perussuomalaiset"
+      },
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Valtuustoaloite 262021 Rakennuttajaorganisaation perustaminen Kirkkonummen kunnalle Vastaus valtuustoaloitteeseen 26/2021: Rakennuttajaorganisaation perustaminen Kirkkonummen kunnalle Kunnanvaltuusto 19.05.2025 § 57 1116/00.01.00/2021",
+        "paatosehdotus": "Kunnanhallitus antaa selostusosan mukaisen vastauksen valtuustoaloitteeseen 26/2021 \"Rakennuttajaorganisaation perustaminen Kirkkonummen kunnalle\" ja esittää edelleen kunnanvaltuustolle, että valtuusto pitää vastausta riittävänä ja aloitetta loppuun käsiteltynä",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtuustoaloite 262021 Rakennuttajaorganisaation perustaminen Kirkkonummen kunnalle",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252022-15-118851.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20252022-16",
+      "ordinal": "16",
+      "title": "Valtuustoaloite 8/2025: Kustannustehokas ja yhdenvertainen mahdollisuus Kirkkonummen yleisten ulkoilualueiden saavutettavuuteen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252022-16",
+      "decision": "Kunnanvaltuusto lähettää valtuustoaloitteen kunnanhallitukselle valmisteltavaksi",
+      "votes": [],
+      "initiative": {
+        "ref": "8/2025",
+        "proposer": "ltuustoaloitteen kunnanhallitukselle valmisteltavaksi.     Selostus   Kim Liljequist / RKP",
+        "party": "rkp",
+        "name": null
+      },
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Valtuustoaloite: Kustannustehokas ja yhdenvertainen mahdollisuus Kirkkonummen yleisten ulkoilualueiden saavutettavuuteen Valtuustoaloite 8/2025: Kustannustehokas ja yhdenvertainen mahdollisuus Kirkkonummen yleisten ulkoilualueiden saavutettavuuteen Kunnanvaltuusto 19.05.2025 § 58 481/12.04.02/2025",
+        "paatos": "Kunnanvaltuusto lähettää valtuustoaloitteen kunnanhallitukselle valmisteltavaksi",
+        "selostus": "Kim Liljequist / RKP jätti kunnanvaltuuston kokouksessa 19.5.2025 seuraavan aloitteen: ” Me allekirjoittaneet esitämme, että Kirkkonummen kunta selvittää ja toteuttaa keinot, joilla jokaiselle kuntalaiselle taattaisiin mahdollisuus päästä Kirkkonummella lähelle kunnan/kuntien omistuksessa olevia ulkoilualueita – iästä, fyysisestä kunnosta tai taloudellisesta tilanteesta riippumatta. Ulkoilu ja luonnossa liikkuminen edistävät tutkitusti hyvinvointia, terveyttä ja yhteisöllisyyttä. Kirkkonummen kunnalla (kuten myös muilla kunnilla) on Kirkkonummen alueella omistuksessaan upeita ulkoilualueita, mutta kaikilla ihmisillä ei ole tasavertaisia mahdollisuuksia päästä niistä nauttimaan. Esimerkiksi ikääntyneet, liikkumisrajoitteiset tai ilman omaa autoa elävät asukkaat voivat jäädä ulkoilun tarjoamien hyötyjen ulkopuolelle. Ehdotamme, että Kirkkonummen kunta: • kartoittaa Kirkkonummen alueella kuntien/kaupunkien omistuksessa olevat ulkoilualueet ja niihin johtavat reitit saavutettavuuden näkökulmasta • selvittää kustannustehokkaat kuljetus- tai kimppakyytiratkaisut, esimerkiksi yhteistyössä kolmannen sektorin tai yritysten kanssa • kehittää viestintää ja palveluita niin, että kuntalaiset löytävät helposti tiedon näiden alueiden ulkoilumahdollisuuksista ja niiden saavutettavuudesta • pilotoi näistä yhtä aluetta, jonne järjestetään matalan kynnyksen kulkuyhteys esimerkiksi tiettyinä viikonloppuina tai loma-aikoina Tavoitteena on, että ulkoilu edellä mainituilla Kirkkonummella olevilla ulkoilualueilla kuuluu kaikille – ei vain niille, joilla on mahdollisuus kulkea omalla autolla tai jotka ovat hyväkuntoisia. Tämä on paitsi tasa-arvokysymys myös ennaltaehkäisevää hyvinvointityötä, joka maksaa itsensä takaisin. Kirkkonummen vahvuus on sen luonto. Tehdään siitä yhteinen voimavara kaikille kuntalaisille. Kim Liljequist (RKP)” Kim Liljequistin lisäksi valtuustoaloitteen allekirjoittivat Reetta Hyvärinen, Minna Hakapää, Anna Aintila, Nina Bogatenko, Sini Felipe, Johanna Fleming, Marjut Frantsi-Lankia, Josephine Frimodig, Stefan Gustafsson, Saara Huhmarniemi, Kati Kaihlaranta, Antti Kilappa, Ulf Kjerin, Tuovi Ronkainen, Tero Suominen, Martin Valtonen, Patrik Lundell, Miisa Jeremejew ja Irja Tamm"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtuustoaloite: Kustannustehokas ja yhdenvertainen mahdollisuus Kirkkonummen yleisten ulkoilualueiden saavutettavuuteen",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252022-16-125686.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20252022-17",
+      "ordinal": "17",
+      "title": "Valtuustoaloite 9/2025: Kirkkonummen yleisten alueiden viihtyisyyden parantaminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252022-17",
+      "decision": "Kunnanvaltuusto lähettää valtuustoaloitteen kunnanhallitukselle valmisteltavaksi",
+      "votes": [],
+      "initiative": {
+        "ref": "9/2025",
+        "proposer": "anhallitukselle valmisteltavaksi.     Selostus   Vihreä valtuustoryhmä / Saara Huhmarniemi",
+        "party": "vihr",
+        "name": "Saara Huhmarniemi"
+      },
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Valtuustoaloite 9-2025, Kirkkonummen yleisten alueiden viityisyyden parantamiseksi Valtuustoaloite 9/2025: Kirkkonummen yleisten alueiden viihtyisyyden parantaminen Kunnanvaltuusto 19.05.2025 § 59 484/10.03.01.02/2025",
+        "paatos": "Kunnanvaltuusto lähettää valtuustoaloitteen kunnanhallitukselle valmisteltavaksi",
+        "selostus": "Vihreä valtuustoryhmä / Saara Huhmarniemi jätti kunnanvaltuuston kokouksessa seuraavan aloitteen: ” Me allekirjoitetut valtuutetut esitämme, että Kirkkonummi laatii toimenpideohjelman puistojen ja yleisten alueiden viihtyisyyden parantamiseksi lisäämällä puita ja istutuksia sekä penkkejä ja oleskelualueita. Toimenpideohjelmaa toteutetaan vuosittain. Kirkkonummen keskusta-alueiden viihtyisyydessä on parantamisen varaa. Puita ja istutuksia lisäämällä voidaan parantaa kaupunkikuvaa ja lisätä kohtaamispaikkoja. Viihtyisyyden lisäksi monipuolinen lajisto tarjoaa suojaa sekä ihmisille että muille lajeille, tasaa lämpötilan vaihteluita ja pidättää hulevesiä, mikä on tärkeää etenkin vesistöjen läheisyydessä. Vihreä valtuustoryhmä” Valtuustoaloitteen allekirjoittivat vihreän valtuustoryhmän lisäksi Minna Hakapää, Anna Aintila, Urho Blom, Sini Felipe, Marjut Frantsi-Lankia, Josephine Frimodig, Ari Harinen, Kati Kaihlaranta, Antti Kilappa, Ulf Kjerin, Liisa Kosonen, Aku Leijala, Kim Liljequist, Jussi Määttä, Tuovi Ronkainen, Tero Suominen, Kim Åström ja Patrik Lundell"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtuustoaloite 9-2025, Kirkkonummen yleisten alueiden viityisyyden parantamiseksi",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252022-17-125967.PDF"
+        }
+      ],
+      "proposals": []
+    }
+  ],
+  "id": "20252022",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20252022"
+}

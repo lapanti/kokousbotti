@@ -1,0 +1,128 @@
+{
+  "title": "Tarkastuslautakunta Pöytäkirja 30.01.2025 klo 17:30 - 20:30 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Tarkastuslautakunta",
+  "doctype": "Pöytäkirja",
+  "date": "2025-01-30",
+  "items": [
+    {
+      "id": "20251970-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20251970-1",
+      "decision": "Tarkastuslautakunta totesi kokouksen lailliseksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Tarkastuslautakunta toteaa kokouksen lailliseksi ja päätösvaltaiseksi",
+        "paatos": "Tarkastuslautakunta totesi kokouksen lailliseksi ja päätösvaltaiseksi",
+        "selostus": "Hallintosäännön 162 §:n mukaan avattuaan kokouksen puheenjohtaja toteaa läsnä olevat sekä kokouksen laillisuuden ja päätösvaltaisuuden. Kuntalain 103 §:n mukaan lautakunta on päätösvaltainen, kun enemmän kuin puolet jäsenistä on läsnä"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20251970-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan laatiminen ja tarkastaminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20251970-2",
+      "decision": "Pöytäkirjantarkastajiksi valittiin Maija Lounamaa ja Matti Tanskanen",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Tarkastuslautakunta valitsee kaksi pöytäkirjantarkastajaa",
+        "paatos": "Pöytäkirjantarkastajiksi valittiin Maija Lounamaa ja Matti Tanskanen",
+        "selostus": "Hallintosäännön 173 §:n mukaan pöytäkirjan pitämisestä ja sisällöstä vastaa toimielimen puheenjohtaja. Pöytäkirjan allekirjoittaa puheenjohtaja ja sen varmentaa pöytäkirjanpitäjä. Tarkastuslautakunta on 16.9.2021 § 44 päättänyt, että jokaisessa kokouksessa valitaan kaksi pöytäkirjantarkastajaa. Pöytäkirja tarkastetaan ja allekirjoitetaan sähköisesti. Pöytäkirja asetetaan nähtäväksi tarkastuspäivää seuraavana arkipäivänä. Hallintosäännön 174 §:n mukaan lautakunnan pöytäkirja pidetään tarkastamisen jälkeen nähtävänä kunnan verkkosivuilla siten kuin kuntalain 140 §:ssä säädetään"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20251970-3",
+      "ordinal": "3",
+      "title": "Kunnan talouskatsaus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20251970-3",
+      "decision": "Talousjohtajan antama selvitys sekä siitä käyty keskustelu merkittiin tiedoksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Talousjohtajan antama selvitys sekä siitä käyty keskustelu merkitään tiedoksi",
+        "paatos": "Talousjohtajan antama selvitys sekä siitä käyty keskustelu merkittiin tiedoksi",
+        "selostus": "Talousjohtaja Esa Lindell on kutsuttu kokoukseen antamaan selvitys Kirkkonummen kunnan taloudesta"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20251970-4",
+      "ordinal": "4",
+      "title": "Kirkkonummen Vuokra-asunnot Oy:n toiminta ja talous",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20251970-4",
+      "decision": "Toimitusjohtajan antama selvitys ja asiasta käyty keskustelu merkittiin tiedoksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Toimitusjohtajan antama selvitys ja asiasta käyty keskustelu merkitään tiedoksi",
+        "paatos": "Toimitusjohtajan antama selvitys ja asiasta käyty keskustelu merkittiin tiedoksi",
+        "selostus": "Kokoukseen on kutsuttu Kirkkonummen Vuokra-asunnot Oy:n toimitusjohtaja Juha Marjamo antamaan selvitys yhtiön toiminnasta ja taloudesta"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20251970-5",
+      "ordinal": "5",
+      "title": "Elinvoimapalvelut",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20251970-5",
+      "decision": "Elinvoimajohtajan antama selvitys sekä siitä käyty keskustelu merkittiin tiedoksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Elinvoimajohtajan antama selvitys sekä siitä käyty keskustelu merkitään tiedoksi",
+        "paatos": "Elinvoimajohtajan antama selvitys sekä siitä käyty keskustelu merkittiin tiedoksi",
+        "selostus": "Elinvoimajohtaja Simon Store on kutsuttu kokoukseen antamaan selvitys kunnan elinvoimapalveluista"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20251970-6",
+      "ordinal": "6",
+      "title": "Tilintarkastuksen raportointi",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20251970-6",
+      "decision": "Tilintarkastajan raportointi ja asiasta käyty keskustelu merkittiin tiedoksi. Raportti ei ole julkinen (JulkL 24.1 § 15) kohta)",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Tilintarkastajan antama raportti merkitään tiedoksi",
+        "paatos": "Tilintarkastajan raportointi ja asiasta käyty keskustelu merkittiin tiedoksi. Raportti ei ole julkinen (JulkL 24.1 § 15) kohta)",
+        "selostus": "Tilintarkastaja JHT, KHT, KRT Outi Koskinen raportoi tilikauden 2024 tilintarkastussuunnitelman toteutumisesta"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20251970-7",
+      "ordinal": "7",
+      "title": "Kokousaikataulu",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20251970-7",
+      "decision": "Tarkastuslautakunta päätti yksimielisesti 1 ottaa tämän lisäpykälän käsiteltäväksi 2 pitää kevään kokoukset seuraavasti: 10.4.2025 kunnantalo 24.4.2025 kunnantalo 8.5.2025 kunnantalo",
+      "votes": [],
+      "sections": {
+        "paatos": "Tarkastuslautakunta päätti yksimielisesti 1 ottaa tämän lisäpykälän käsiteltäväksi 2 pitää kevään kokoukset seuraavasti: 10.4.2025 kunnantalo 24.4.2025 kunnantalo 8.5.2025 kunnantalo",
+        "selostus": "Ylimääräisen asian ottaminen käsiteltäväksi. Puheenjohtajan esityksestä tarkastuslautakunta päätti yksimielisesti ottaa käsiteltäväksi asian § 7 Kokousaikataulu (lisäpykälä)"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    }
+  ],
+  "id": "20251970",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20251970"
+}

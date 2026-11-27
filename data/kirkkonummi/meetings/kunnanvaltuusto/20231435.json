@@ -1,0 +1,298 @@
+{
+  "title": "Kunnanvaltuusto Pöytäkirja 22.05.2023 klo 18:00 - 20:02 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Kunnanvaltuusto",
+  "doctype": "Pöytäkirja",
+  "date": "2023-05-22",
+  "items": [
+    {
+      "id": "20231435-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231435-1",
+      "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Kokous todettiin lailliseksi ja päätösvaltaiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231435-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231435-2",
+      "decision": "Pöytäkirjantarkastajiksi valittiin Anna Sahiluoma ja Martin Valtonen",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanvaltuusto päättää valita kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan",
+        "paatos": "Pöytäkirjantarkastajiksi valittiin Anna Sahiluoma ja Martin Valtonen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231435-3",
+      "ordinal": "3",
+      "title": "Kirkkonummen kunnan lausunto Helsingin seudun MAL 2023 -suunnitelmaluonnoksesta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231435-3",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 1 Kv 22.5.2023, Kirkkonummen kunnan lausunto MAL 2023 -suunnitelmaluonnoksesta kh 15052023_mustattu\n_3_MAL2023_VE2_esitysdiat MAL 2023_20230403_swe KUUMA, Luonnos MAL 2023 -lausunto 030523 RAPORTTI_MAL 2023 keskisuuret hankkeet_01072022 Kirkkonummen kunnan lausunto Helsingin seudun MAL 2023 -suunnitelmaluonnoksesta Kunnanvaltuusto 22.05.2023 § 37 286/00.04.02/2023",
+        "oheismateriaali": "Kuvake Otsikko Lähete Lausuntopyyntö Helsingin seudun maankäytön, asumisen ja liikenteen suunnitelman MAL 2023 -lu Lausuntopyyntö Helsingin seudun maankäytön, asumisen ja liikenteen suunnitelman MAL 2023 -luonnokses (2) MAL 2023, Helsingin seudun maankäytön, asumisen ja liikenteen suunnitelma, Luonnos 14.4.2023 MAL2023, suunnitelmaluonnoksen vaikutusten arviointiselostus, 14.4.2023 MAL 2023, Helsingin seudun maankäytön, asumisen ja liikenteen suunnitelma, Taustaraporttiluonnos 3.4",
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto päättää hyväksyä liitteenä olevan Kirkkonummen kunnan lausunnon Helsingin seudun MAL 2023 -suunnitelmaluonnoksesta",
+        "kasittely": "Kunnanarkkitehti Tero Luomajärvi esitteli asiaa kokouksessa ja poistui kokouksesta tämän pykälän jälkeen klo 18.25",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+        "selostus": "Kunnanhallituksen kokouksessa 15.5.2023 esitettiin lausuntoon seuraavat korjaukset: poistetaan lause \"Kunnan alueella ei sijaitse seudun pitkän aikavälin kasvusuuntia.\" (s. 5, 2. kappale) lisätään seuraava kappale: \"Kirkkonummen kunnan tavoitteena on palvelutasoltaan runkomaisen joukkoliikenteen toteuttaminen kuntakeskuksen ja Kantvikin taajaman välille.\" (s. 9, asiakohdan 2 viimeiseksi kappaleeksi) lisäksi tekstiin on tehty muutamia teknisiä korjauksia"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kv 22.5.2023, Kirkkonummen kunnan lausunto MAL 2023 -suunnitelmaluonnoksesta kh 15052023_mustattu",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231435-3-92309.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Lähete Lausuntopyyntö Helsingin seudun maankäytön, asumisen ja liikenteen suunnitelman MAL 2023 -lu",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231435-3-91872.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Lausuntopyyntö Helsingin seudun maankäytön, asumisen ja liikenteen suunnitelman MAL 2023 -luonnokses (2)",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231435-3-91873.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "MAL 2023, Helsingin seudun maankäytön, asumisen ja liikenteen suunnitelma, Luonnos 14.4.2023",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231435-3-91874.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "MAL2023, suunnitelmaluonnoksen vaikutusten arviointiselostus, 14.4.2023",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231435-3-91875.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "MAL 2023, Helsingin seudun maankäytön, asumisen ja liikenteen suunnitelma, Taustaraporttiluonnos 3.4",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231435-3-91876.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Liite_3_MAL2023_VE2_esitysdiat",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231435-3-91877.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "MAL 2023_20230403_swe",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231435-3-91878.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "KUUMA, Luonnos MAL 2023 -lausunto 030523",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231435-3-91879.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "RAPORTTI_MAL 2023 keskisuuret hankkeet_01072022",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231435-3-91889.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20231435-4",
+      "ordinal": "4",
+      "title": "Vuoden 2022 tilinpäätös",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231435-4",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 2 Tilinpäätös 2022 Kirkkonummen kunta 3.5.2023 3 Kirkkonummen kunta, tilintarkastuskertomus 2022 4 Allekirjoitusliite_Kirkkonummen kunta, tilintarkastuskertomus 2022 Vuoden 2022 tilinpäätös Kunnanvaltuusto 22.05.2023 § 38 41/02.02.02/2023",
+        "paatosehdotus": "Tarkastuslautakunta esitttää kunnanvaltuustolle, että valtuusto päättää 1 merkitä tilintarkastuskertomuksen vuodelta 2022 tiedoksi 2 hyväksyä vuoden 2022 tilinpäätöksen 3 myöntää vastuuvapaus kunnan hallintoa ja taloutta hoitaneille toimielinten jäsenille ja tehtäväalueiden johtaville viranhaltijoille tilikaudelta 1.1. - 31.12.2022",
+        "kasittely": "Vt. kunnanjohtaja Anna-Kaisa Kauppinen ja talousjohtaja Esa Lindell esittelivät asiaa kokouksessa",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Tilinpäätös 2022 Kirkkonummen kunta 3.5.2023",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231435-4-92045.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kirkkonummen kunta, tilintarkastuskertomus 2022",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231435-4-92021.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Allekirjoitusliite_Kirkkonummen kunta, tilintarkastuskertomus 2022",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231435-4-92022.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20231435-5",
+      "ordinal": "5",
+      "title": "Henkilöstökertomus 2022",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231435-5",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti. Lisäksi kunnanvaltuusto hyväksyi yksimielisesti seuraavat ponnet: Kunnasta työnantajana, kuten pito- ja vetovoimaan vaikuttavista tekijöistä sekä palkkaratkaisuista tulee järjestää iltakoulu kunnan luottamushenkilöille. ja HR:n tulisi keskustella mahdollisimman monen lähtijän kanssa, ja kaivaa lisätietoja lähdön syistä. Lähtijöillä on korvaamattoman tärkeää tietoa, jota on hyödynnettävä anonyyminä toiminnan kehittämisessä",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 5 Henkilöstökertomus 2022 Henkilöstökertomus 2022 Kunnanvaltuusto 22.05.2023 § 39 243/01.00.02/2023",
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto merkitsee Kirkkonummen kunnan vuoden 2022 henkilöstökertomuksen tiedokseen",
+        "kasittely": "Vt. henkilöstöjohtaja Teija Parkkonen esitteli asiaa kokouksessa. Puheenjohtaja julisti keskustelun päättyneeksi ja totesi, että käsittelyn aikana oli jätetty ponsiehdotuksia seuraavasti: Katja Ylisiuruan ponsi iltakoulusta: Kunnasta työnantajana, kuten pito- ja vetovoimaan vaikuttavista tekijöistä sekä palkkaratkaisuista tulee järjestää iltakoulu kunnan luottamushenkilöille. Ponsiehdotusta kannattivat Arttu Lakinen, Sini Felipe, Kim Liljequist, Tuovi Ronkainen, Jani Ekman, Ville Salminen, Maait Orko, Patrik Lundell, Kari Virtanen, Leena Virkki, Hannu Valtanen, Johanna Fleming, Jerri Kämpe-Hellenius, Pekka Oksanen, Mikko Elfving, Sanni Jäppinen, Anna Sahiluoma, Ulla Seppälä, Jenny Mäkinen, Sari Haapasaari, Martin Valtonen, Kim Åström, Elina Kärkimaa, Carl-Johan Kajanti, Antti Kilappa, Timo Haapaniemi, Ari Harinen, Tony Björk ja Aleksander Polkko. Puheenjohtajan tiedustellessa, ponsiehdotus hyväksyttiin yksimielisesti. Elina Kärkimaan ponsi: HR:n tulisi keskustella mahdollisimman monen lähtijän kanssa, ja kaivaa lisätietoja lähdön syistä. Lähtijöillä on korvaamattoman tärkeää tietoa, jota on hyödynnettävä anonyyminä toiminnan kehittämisessä. Ponsiehdotusta kannattivat Sanni Jäppinen, Paula Oittinen, Sini Felipe, Maarit Orko, Jani Ekman, Tuovi Ronkainen, Kari Virtanen, Hannu Valtanen, Leena Virkki, Katja Ylisiurua, Ulla Seppälä, Mikko Elfving, Sari Haapasaari, Johanna Fleming, Aku Leijala, Saara Huhmarniem, Carl-Johan Kajanti, Anna Sahiluoma, Kim Liljequist, Nina Bogatenko, Patrik Lundell, Ulf Kjerin, Urho Blom, Jenny Mäkinen, Martin Valtonen, Linda Basilier, Kim Åström, Antti Kilappa, Timo Haapaniemi, Ari Harinen, Tony Björk ja Reetta Hyvärinen. Puheenjohtajan tiedustellessa, ponsiehdotus hyväksyttiin yksimielisesti",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti. Lisäksi kunnanvaltuusto hyväksyi yksimielisesti seuraavat ponnet: Kunnasta työnantajana, kuten pito- ja vetovoimaan vaikuttavista tekijöistä sekä palkkaratkaisuista tulee järjestää iltakoulu kunnan luottamushenkilöille. ja HR:n tulisi keskustella mahdollisimman monen lähtijän kanssa, ja kaivaa lisätietoja lähdön syistä. Lähtijöillä on korvaamattoman tärkeää tietoa, jota on hyödynnettävä anonyyminä toiminnan kehittämisessä"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Henkilöstökertomus 2022",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231435-5-89684.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20231435-6",
+      "ordinal": "6",
+      "title": "Arviointikertomus 2022",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231435-6",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 6 Arviointikertomus 2022 Arviointikertomus 2022 Kunnanvaltuusto 22.05.2023 § 40 40/02.02.02/2023",
+        "paatosehdotus": "Tarkastuslautakunta ehdottaa kunnanvaltuustolle, että valtuusto päättä 1 merkitä vuoden 2022 arviointikertomuksen tiedokseen 2 pyytää kunnanhallitukselta kuntalain mukaisen selvityksen arviointikertomuksesta aiheutuvista toimenpiteistä 3 että vastineiden tulee olla valtuuston käsiteltävänä syyskuun 2023 loppuun mennessä, ennen tulevan vuoden talousarviokäsittelyä",
+        "kasittely": "Tarkastuslautakunnan puheenjohtaja Ulla Seppälä esitteli asiaa kokouksessa",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Arviointikertomus 2022",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231435-6-91789.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20231435-7",
+      "ordinal": "7",
+      "title": "Yleishallinnon ja muiden kunnan toimielinten vuoden 2023 talousarvion käyttösuunnitelmat",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231435-7",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko KS2023 koko kunta kh 27.3.2023 Yleishallinnon ja muiden kunnan toimielinten vuoden 2023 talousarvion käyttösuunnitelmat Kunnanvaltuusto 22.05.2023 § 41 37/02.02.02/2023",
+        "paatosehdotus": "Kunnanhallitus antaa kunnanvaltuustolle tiedoksi oheismateriaalina olevat toimielinten vuoden 2023 talousarvion käyttösuunnitelmat",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "KS2023 koko kunta kh 27.3.2023",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231435-7-89596.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20231435-8",
+      "ordinal": "8",
+      "title": "Yhdyskuntatekniikan lautakunnan talousarvion investointiosan hankkeen ‚€ùmuut pitkävaikutteiset menot‚€ù lisämäärärahaesitys",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231435-8",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus esittää kunnanvaltuustolle, että yhdyskuntatekniikan lautakunnan talousarvion investointiosan hankkeelle \"muut pitkävaikutteiset menot, Täydennyskartoitukset ja paikkatietojen tuottaminen\" lisätään lisäinvestointimäärärahaa vuodelle 2023 100 000 €",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231435-9",
+      "ordinal": "9",
+      "title": "Vastaus valtuustoaloitteeseen 13/2021: Sisäisen tarkastajan palkkaaminen kuntaan",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231435-9",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti. Lisäksi kunnanvaltuusto hyväksyi yksimielisesti seuraavan ponnen: Sisäisen tarkastajan kartoitus kunnan organisaatiosta tai mahdollinen ulkopuolelta palkkaaminen tulee olla selvitettynä vuoden 2024 budjetin käsittelyyn mennessä",
+      "votes": [],
+      "initiative": {
+        "ref": "13/2021",
+        "proposer": "Pro Kirkkonummen valtuustoryhmä",
+        "party": "prok",
+        "name": null
+      },
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Valtuustoaloite 13/2021: Sisäisen tarkastajan palkkaaminen kuntaan Vastaus valtuustoaloitteeseen 13/2021: Sisäisen tarkastajan palkkaaminen kuntaan Kunnanvaltuusto 22.05.2023 § 43 504/02.02.01/2021",
+        "paatosehdotus": "Kunnanhallitus antaa selostusosan mukaisen vastauksen valtuustoaloitteeseen 13/2021 ja esittää kunnanvaltuustolle, että valtuusto pitää vastausta riittävänä ja aloitetta loppuun käsiteltynä",
+        "kasittely": "Hallintojohtaja Jaana Suihkonen esitteli asiaa kokouksessa. Puheenjohtaja julisti keskustelun päättyneeksi ja totesi että keskustelun aikana Antti Salonen oli jättänyt seuraavan ponsiehdotuksen: Sisäisen tarkastajan kartoitus kunnan organisaatiosta tai mahdollinen ulkopuolelta palkkaaminen tulee olla selvitettynä vuoden 2024 budjetin käsittelyyn mennessä. Ponsiehdotusta kannattivat Timo Haapaniemi, Aku Leijala, Aleksander Polkko, Antti Kilappa, Ari Harinen, Katja Ylisiurua, Patrik Lundell, Kim Åström, Mikko Elfving, Hannu Valtanen, Pekka Sinisalo, Kari Virtanen, Ville Salminen, Kim Liljequist, Ulf Kjerin, Martin Valtonen, Ulla Seppälä, Tuovi Ronkainen, Jani Ekman, Sari Haapasaari, Linda Basilier, Jerri Kämpe-Hellenius ja Tony Björk. Puheenjohtajan tiedustellessa, ponsiehdotus hyväksyttiin yksimielisesti",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti. Lisäksi kunnanvaltuusto hyväksyi yksimielisesti seuraavan ponnen: Sisäisen tarkastajan kartoitus kunnan organisaatiosta tai mahdollinen ulkopuolelta palkkaaminen tulee olla selvitettynä vuoden 2024 budjetin käsittelyyn mennessä"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtuustoaloite 13/2021: Sisäisen tarkastajan palkkaaminen kuntaan",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231435-9-50779.PDF"
+        }
+      ],
+      "proposals": []
+    }
+  ],
+  "id": "20231435",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20231435"
+}

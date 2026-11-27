@@ -1,0 +1,58 @@
+{
+  "title": "Tarkastuslautakunta Pöytäkirja 12.04.2023 klo 17:30 - 19:45 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Tarkastuslautakunta",
+  "doctype": "Pöytäkirja",
+  "date": "2023-04-12",
+  "items": [
+    {
+      "id": "20231418-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231418-1",
+      "decision": "Tarkastuslautakunta totesi kokouksen lailliseksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Tarkastuslautakunta toteaa kokouksen lailliseksi ja päätösvaltaiseksi",
+        "paatos": "Tarkastuslautakunta totesi kokouksen lailliseksi ja päätösvaltaiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231418-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan laatiminen ja tarkastaminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231418-2",
+      "decision": "Pöytäkirjantarkastajiksi valittiin Sea Eklund ja Teppo Suontakanen",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Tarkastuslautakunta valitsee kaksi pöytäkirjantarkastajaa",
+        "paatos": "Pöytäkirjantarkastajiksi valittiin Sea Eklund ja Teppo Suontakanen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231418-3",
+      "ordinal": "3",
+      "title": "Arviointikertomus 2022",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231418-3",
+      "decision": "Tarkastuslautakunta valmisteli arviointikertomusta vuodelta 2022. Valmistelua jatketaan seuraavassa kokouksessa",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Tarkastuslautakunta valmistelee arviointikertomusta vuodelta 2022",
+        "paatos": "Tarkastuslautakunta valmisteli arviointikertomusta vuodelta 2022. Valmistelua jatketaan seuraavassa kokouksessa"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    }
+  ],
+  "id": "20231418",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20231418"
+}

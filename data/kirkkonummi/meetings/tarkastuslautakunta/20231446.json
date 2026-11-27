@@ -1,0 +1,92 @@
+{
+  "title": "Tarkastuslautakunta Pöytäkirja 03.05.2023 klo 17:30 - 19:10 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Tarkastuslautakunta",
+  "doctype": "Pöytäkirja",
+  "date": "2023-05-03",
+  "items": [
+    {
+      "id": "20231446-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231446-1",
+      "decision": "Tarkastuslautakunta totesi kokouksen lailliseksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Tarkastuslautakunta toteaa kokouksen lailliseksi ja päätösvaltaiseksi",
+        "paatos": "Tarkastuslautakunta totesi kokouksen lailliseksi ja päätösvaltaiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231446-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan laatiminen ja tarkastaminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231446-2",
+      "decision": "Pöytäkirjantarkastajiksi valittiin Birkitta Salonen ja Tuomo Tiitinen",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Tarkastuslautakunta valitsee kaksi pöytäkirjantarkastajaa",
+        "paatos": "Pöytäkirjantarkastajiksi valittiin Birkitta Salonen ja Tuomo Tiitinen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231446-3",
+      "ordinal": "3",
+      "title": "Tilintarkastajan raportointi",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231446-3",
+      "decision": "Tilintarkastajan raportointi ja asiasta käyty keskustelu merkittiin tiedoksi. Raportti ei ole julkinen (JulkL 24.1 § 15k)",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Tilintarkastajan raportointi ja asiasta käyty keskustelu merkitään tiedoksi. Raportti ei ole julkinen (JulkL 24.1 § 15k)",
+        "paatos": "Tilintarkastajan raportointi ja asiasta käyty keskustelu merkittiin tiedoksi. Raportti ei ole julkinen (JulkL 24.1 § 15k)",
+        "selostus": "Tilintarkastaja JHT, HT Kirsi Sova raportoi tilikauden 2022 tilintarkastussuunnitelman toteutumisesta"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231446-4",
+      "ordinal": "4",
+      "title": "Tilintarkastuskertomus vuodelta 2022",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231446-4",
+      "decision": "Tilintarkastuskertomus tilikaudelta 2022 merkittiin tiedoksi. Tarkastuslautakunta saattaa tilintarkastuskertomuksen tiedoksi kunnanvaltuustolle. Tarkastuslautakunta esittää kunnanvaltuustolle, että vuoden 2022 tilinpäätös hyväksytään ja kunnan hallintoa ja taloutta hoitaneille toimielinten jäsenille ja tehtäväalueiden johtaville viranhaltijoille myönnetään vastuuvapaus tilikaudelta 1.1. - 31.12.2022",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Tilintarkastuskertomus tilikaudelta 2022 merkitään tiedoksi. Tarkastuslautakunta saattaa tilintarkastuskertomuksen tiedoksi kunnanvaltuustolle. Tarkastuslautakunta esittää kunnanvaltuustolle, että vuoden 2022 tilinpäätös hyväksytään ja kunnan hallintoa ja taloutta hoitaneille toimielinten jäsenille ja tehtäväalueiden johtaville viranhaltijoille myönnetään vastuuvapaus tilikaudelta 1.1. - 31.12.2022",
+        "paatos": "Tilintarkastuskertomus tilikaudelta 2022 merkittiin tiedoksi. Tarkastuslautakunta saattaa tilintarkastuskertomuksen tiedoksi kunnanvaltuustolle. Tarkastuslautakunta esittää kunnanvaltuustolle, että vuoden 2022 tilinpäätös hyväksytään ja kunnan hallintoa ja taloutta hoitaneille toimielinten jäsenille ja tehtäväalueiden johtaville viranhaltijoille myönnetään vastuuvapaus tilikaudelta 1.1. - 31.12.2022",
+        "selostus": "Kuntalain 125 §:n mukaan tilintarkastajan on annettava valtuustolle kultakin tilikaudelta kertomus, jossa esitetään tarkastuksen tulokset. Kertomuksessa on myös esitettävä, onko tilinpäätös hyväksyttävä ja voidaanko toimielimen jäsenelle ja asianomaisen toimielimen tehtäväalueen johtavalle viranhaltijalle (tilivelvollinen) myöntää vastuuvapaus. Kuntalain 121 §:n mukaan tarkastuslautakunnan tehtävänä on valmistella valtuuston päätettävät hallinnon ja talouden tarkastusta koskevat asiat. Kunnanhallitus on 27.3.2023 § 100 hyväksynyt tilinpäätöksen 2022. Tilintarkastusyhteisö KPMG Julkistarkastus Oy on 3.5.2023 antanut tilintarkastuskertomuksen tilikaudelta 2022"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231446-5",
+      "ordinal": "5",
+      "title": "Arviointikertomus 2022",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231446-5",
+      "decision": "Tarkastuslautakunta hyväksyi ja allekirjoitti arviointikertomuksen vuodelta 2022 ja esittää sen kunnanvaltuustolle. Tarkastuslautakunta ehdottaa kunnanvaltuustolle, että valtuusto päättä 1 merkitä vuoden 2022 arviointikertomuksen tiedokseen 2 pyytää kunnanhallitukselta kuntalain mukaisen selvityksen arviointikertomuksesta aiheutuvista toimenpiteistä 3 että vastineiden tulee olla valtuuston käsiteltävänä syyskuun 2023 loppuun mennessä, ennen tulevan vuoden talousarviokäsittelyä",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Tarkastuslautakunta hyväksyy ja allekirjoittaa arviointikertomuksen vuodelta 2022 ja esittää sen kunnanvaltuustolle. Tarkastuslautakunta ehdottaa kunnanvaltuustolle, että valtuusto päättää 1 merkitä vuoden 2022 arviointikertomuksen tiedokseen 2 pyytää kunnanhallitukselta kuntalain mukaisen selvityksen arviointikertomuksesta aiheutuvista toimenpiteistä 3 että vastineiden tulee olla valtuuston käsiteltävänä syyskuun 2023 loppuun mennessä, ennen tulevan vuoden talousarviokäsittelyä",
+        "paatos": "Tarkastuslautakunta hyväksyi ja allekirjoitti arviointikertomuksen vuodelta 2022 ja esittää sen kunnanvaltuustolle. Tarkastuslautakunta ehdottaa kunnanvaltuustolle, että valtuusto päättä 1 merkitä vuoden 2022 arviointikertomuksen tiedokseen 2 pyytää kunnanhallitukselta kuntalain mukaisen selvityksen arviointikertomuksesta aiheutuvista toimenpiteistä 3 että vastineiden tulee olla valtuuston käsiteltävänä syyskuun 2023 loppuun mennessä, ennen tulevan vuoden talousarviokäsittelyä"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    }
+  ],
+  "id": "20231446",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20231446"
+}

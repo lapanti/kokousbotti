@@ -1,0 +1,503 @@
+{
+  "title": "Kunnanvaltuusto Pöytäkirja 04.03.2024 klo 18:00 - 20:04 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Kunnanvaltuusto",
+  "doctype": "Pöytäkirja",
+  "date": "2024-03-04",
+  "items": [
+    {
+      "id": "20241668-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241668-1",
+      "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Kokous todettiin lailliseksi ja päätösvaltaiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241668-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241668-2",
+      "decision": "Kunnanvaltuusto päätti ehdotuksen mukaisesti. Pöytäkirjantarkastajiksi valittiin Carl-Johan Kajanti ja Marko Kari",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanvaltuusto päättää valita kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan",
+        "paatos": "Kunnanvaltuusto päätti ehdotuksen mukaisesti. Pöytäkirjantarkastajiksi valittiin Carl-Johan Kajanti ja Marko Kari"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241668-3",
+      "ordinal": "3",
+      "title": "Tilintarkastusyhteisön valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241668-3",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 1\n1 Perustelumuistio\n1 Hankintasopimus\n2 hankittavan palvelun ehdot_\n3 HenkilÃƒtietojen luovuttamista koskevat ohjeet_\n4 Julkisten hankintojen yleiset sopimusehdot palveluhankinnoissa JYSE-ehdot huhtikuu 2022\n5 Referenssilomake Tilintarkastusyhteisön valinta Kunnanvaltuusto 04.03.2024 § 14 861/02.02.01/2023",
+        "oheismateriaali": "Kuvake Otsikko Tarjouspyyntö tilintarkastuspalvelut Tarjouspyynnön ESPD-asiakirja",
+        "paatosehdotus": "Tarkastuslautakunta esittää kunnanvaltuustolle, että kunnanvaltuusto 1 valitsee liitteen 1 Perustelumuistio mukaisin perusteluin puheena olevassa tarjouskilpailussa tarjouskilpailun voittajaksi ja kunnan tilintarkastusyhteisöksi KPMG Oy Ab:n. KPGM Oy Ab:n tarjous (16.01.2024) on tarjousvertailuun otetuista tarjouksista tarjouspyynnössä määrätyin vertailuperustein vertaillen kokonaistaloudellisesti edullisin, 2 toteaa, että hankintasopimus asiassa ei synny kunnanvaltuuston tekemällä hankintapäätöksellä, vaan edellyttää erillisen hankintasopimuksen allekirjoittamista. EU-hankinnassa hankintasopimus voidaan tehdä aikaisintaan 14 päivän kuluttua siitä, kun tarjoaja on saanut tai hänen katsotaan saaneen päätöksen ja valitusosoituksen tiedoksi edellyttäen, että päätös on saanut lainvoiman, 3 pyytää kunnan tytäryhteisöitä valitsemaan tilintarkastajakseen kunnanvaltuuston valitseman tilintarkastusyhteisön, 4 tekee erillisen päätöksen puheena olevaan tarjouspyyntöön kuuluvan optiokauden (tilikausi 2027) käyttämisestä",
+        "kasittely": "Controller Ari Hasu esitteli asiaa kokouksessa ja poistui kokouksesta tämän pykälän jälkeen klo 18.23",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite 1 Perustelumuistio",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241668-3-103904.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Tarjouspyyntö tilintarkastuspalvelut",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241668-3-104024.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Tarjouspyynnön ESPD-asiakirja",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241668-3-104023.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Liite 1 Hankintasopimus",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241668-3-104021.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Liite 2 hankittavan palvelun ehdot_",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241668-3-104019.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Liite 3 HenkilÃƒtietojen luovuttamista koskevat ohjeet_",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241668-3-104020.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Liite 4 Julkisten hankintojen yleiset sopimusehdot palveluhankinnoissa JYSE-ehdot huhtikuu 2022",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241668-3-104022.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Liite 5 Referenssilomake",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241668-3-104025.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20241668-4",
+      "ordinal": "4",
+      "title": "Kirkkonummen kuntastrategia 2024-2030",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241668-4",
+      "decision": "Kunnanvaltuusto päätti hyväksyä kunnanhallituksen ehdotuksen Kirkkonummen kuntastrategiaksi vuosille 2024-2030 liitteen mukaisesti seuraavilla muutoksilla: - sivu 8: \"Arkkitehdit Herman Gesellius, Armas Lindgren ja Eliel Saarinen ostivat Marievik-palstan Vitträsk-järven rannalta Luomasta. - sivu 9: \"Sibelius löytää kalliomaalaukset VITTRÄSKIN RANTAKALLIOSTA\". - ruotsinkielisessä versiossa sivulla 7 kohdassa \"Den mest eftersökta, livligaste och livskraftigaste kommunen i metropolområdet\" sana \"livligaste\" korvataan sanalla \"vitala\" seuraavan mukaisesti: \"Den mest eftersökta, vitala och livskraftigaste kommunen i metropolområdet\". Kunnanvaltuuston päätöksen mukaisesti korjattu liite on pöytäkirjan liitteenä",
+      "votes": [
+        {
+          "jaa": [
+            "Johanna Järvinen",
+            "Anna-Mari Toikka",
+            "Sini Felipe",
+            "Hannu Valtanen",
+            "Hans Hedberg",
+            "Johanna Fleming",
+            "Jerri Kämpe-Hellenius",
+            "Kim Liljequist",
+            "Marko Kari",
+            "Miisa Jeremejew",
+            "Ulf Kjerin",
+            "Carl-Johan Kajanti",
+            "Jussi Määttä",
+            "Marjut Frantsi-Lankia",
+            "Timo Haapaniemi",
+            "Urho Blom",
+            "Martin Valtonen",
+            "Reetta Hyvärinen",
+            "Liisa Kosonen",
+            "Patrik Lundell",
+            "Jani Ekman",
+            "Anna Aintila",
+            "Tuovi Ronkainen",
+            "Katja Ylisiurua",
+            "Riikka Purra",
+            "Kim Åström",
+            "Ville Salminen",
+            "Saara Huhmarniemi",
+            "Stefan Gustafsson",
+            "Anders Adlercreutz",
+            "Kari Virtanen",
+            "Krista Petäjäjärvi",
+            "Josephine Frimodig",
+            "Aku Leijala",
+            "Kim Männikkö",
+            "Maarit Orko",
+            "Ulla Seppälä"
+          ],
+          "ei": [
+            "Jani Kähkönen",
+            "Anneli Granström",
+            "Antti Salonen",
+            "Tero Suominen",
+            "Ari Harinen",
+            "Arttu Lankinen",
+            "Piia Aallonharja",
+            "Anna Sahiluoma",
+            "Minna Hakapää",
+            "Matti Kaurila",
+            "Antti Kilappa",
+            "Noora Piili"
+          ],
+          "tyhja": [],
+          "totals": {
+            "jaa": 37,
+            "ei": 12,
+            "tyhja": 0
+          },
+          "parties": {
+            "jaa": {
+              "ps": 3,
+              "vihr": 6,
+              "sdp": 3,
+              "kok": 10,
+              "rkp": 12,
+              "kesk": 1,
+              "vas": 1,
+              "pro yl": 1
+            },
+            "ei": {
+              "ps": 4,
+              "pro yl": 4,
+              "sdp": 2,
+              "kok": 2
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta",
+            "ei_label": "Antti Salosen muutosehdotusta",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": "jaa",
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Antti Salosen muutosehdotusta äänestävät EI — annettiin 37 JAA ja 12 EI ääntä."
+          }
+        }
+      ],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 2 Kirkkonummen strategia 2024-2030, kunnanvaltuuston 4.3.2024 hyväksymä Kirkkonummen kuntastrategia 2024-2030 Kunnanvaltuusto 04.03.2024 § 15 51/00.01.03/2022",
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto hyväksyy kunnanhallituksen ehdotuksen Kirkkonummen kuntastrategiaksi vuosille 2024-2030 liitteen mukaisesti",
+        "kasittely": "Kunnanjohtaja Virpi Sailas, hallintojohtaja Jaana Suihkonen, yhdyskuntatekniikan johtaja Anna-Kaisa Kauppinen ja sivistysjohtaja Eeva-Kaisa Ikonen esittelivät asiaa kokouksessa. Puheenjohtaja julisti keskustelun päättyneeksi, ja totesi että keskustelun aikana on jätetty muutosehdotuksia seuraavasti: Hannu Valtasen muutosehdotus: Muutosesitys sivulle 8: \"Arkkitehdit Herman Gesellius, Armas Lindgren ja Eliel Saarinen ostivat Marievik-palstan Vitträsk-järven rannalta (Kirkkonummelta) LUOMASTA. Muutosehdotusta kannattivat Marko Kari, Kim Åström, Liisa Kosonen, Riikka Purra, Matti Kaurila, Timo Haapaniemi, Arttu Lankinen, Kari Virtanen, Marjut Frantsi-Lankia, Patrik Lundell, Jussi Määttä, Ville Salminen, Piia Aallonharja, Anna-Mari Toikka, Kim Männikkö, Urho Blom, Johanna Järvinen, Ari Harinen, Kim Liljequist ja Antti Kilappa. Puheenjohtajan tiedustellessa, muutosehdotus hyväksyttiin yksimielisesti. Hannu Valtasen muutosehdotus: Muutosesitys sivulle 9: \"Sibelius löytää kalliomaalaukset VITTRÄSKIN RANTAKALLIOSTA\". Muutosehdotusta kannattivat Arttu Lankinen, Ville Salminen, Marko Kari, Piia Aallonharja, Kari Virtanen, Johanna Järvinen, Timo Haapaniemi, Matti Kaurila, Ari Harinen, Anna-Mari Toikka, Miisa Jeremejew, Patrik Lundell, Kim Liljequist, Antti Kilappa, Tero Suominen, Maarit Orko, Marjut Frantsi-Lankia, Jani Kähkönen, Martin Valtonen, Aku Leijala, Johanna Fleming, Anneli Granström ja Kim Åström. Puheenjohtajan tiedustellessa muutosehdotus hyväksyttiin yksimielisesti. Carl-Johan Kajannin muutosehdotus: Ruotsinkielisessä versiossa sivulla 7 kohdassa \"Den mest eftersökta, livligaste och livskraftigaste kommunen i metropolområdet\" sana \"livligaste\" korvataan sanalla \"vitala\" seuraavan mukaisesti: \"Den mest eftersökta, vitala och livskraftigaste kommunen i metropolområdet\". Muutosehdotusta kannattivat Timo Haapaniemi, Kim Liljequist, Josephine Frimodig, Johanna Fleming, Marko Kari, Urho Blom, Riikka Purra, Piia Aallonharja, Kari Virtanen, Ville Salminen, Antti Kilappa, Jussi Määttä, Martin Valtonen, Hannu Valtanen, Tero Suominen, Ulf Kjerin, Ari Harinen, Patrik Lundell, Maarit Orko, Aku Leijala, Anna-Mari Toikka, Kim Åström, Liisa Kosonen, Stefan Gustafsson, Kim Männikkö ja Anders Adlercreutz. Puheenjohtajan tiedustellessa muutosehdotus hyväksyttiin yksimielisesti. Antti Salosen muutosehdotus: Poistetaan kuntastrategian sivu 11 (Yhdessä - Tillsammans) Perustelut: Asiat on pääosin kirjattu Yhdessä - Tillsammans kuntastrategiaa tukevaan toimintatapaohjeeseen. Muutosehdotusta kannattivat Ari Harinen ja Noora Piili. Muutosehdotusta ei hyväksytty yksimielisesti, joten puheenjohtaja ilmoitti, että asiasta on äänestettävä. Puheenjohtaja ehdotti, että asiasta äänestetään niin, että ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Antti Salosen muutosehdotusta äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 37 JAA ääntä ja 12 EI ääntä, 2 poissa (Markus Myllyniemi ja Ronja Karkinen) Pohjaehdotus sai enemmän ääniä ja voitti. JAA äänestivät Johanna Järvinen, Anna-Mari Toikka, Sini Felipe, Hannu Valtanen, Hans Hedberg, Johanna Fleming, Jerri Kämpe-Hellenius, Kim Liljequist, Marko Kari, Miisa Jeremejew, Ulf Kjerin, Carl-Johan Kajanti, Jussi Määttä, Marjut Frantsi-Lankia, Timo Haapaniemi, Urho Blom, Martin Valtonen, Reetta Hyvärinen, Liisa Kosonen, Patrik Lundell, Jani Ekman, Anna Aintila, Tuovi Ronkainen, Katja Ylisiurua, Riikka Purra, Kim Åström, Ville Salminen, Saara Huhmarniemi, Stefan Gustafsson, Anders Adlercreutz, Kari Virtanen, Krista Petäjäjärvi, Josephine Frimodig, Aku Leijala, Kim Männikkö, Maarit Orko ja Ulla Seppälä. EI äänestivät Jani Kähkönen, Anneli Granström, Antti Salonen, Tero Suominen, Ari Harinen, Arttu Lankinen, Piia Aallonharja, Anna Sahiluoma, Minna Hakapää, Matti Kaurila, Antti Kilappa ja Noora Piili",
+        "paatos": "Kunnanvaltuusto päätti hyväksyä kunnanhallituksen ehdotuksen Kirkkonummen kuntastrategiaksi vuosille 2024-2030 liitteen mukaisesti seuraavilla muutoksilla: - sivu 8: \"Arkkitehdit Herman Gesellius, Armas Lindgren ja Eliel Saarinen ostivat Marievik-palstan Vitträsk-järven rannalta Luomasta. - sivu 9: \"Sibelius löytää kalliomaalaukset VITTRÄSKIN RANTAKALLIOSTA\". - ruotsinkielisessä versiossa sivulla 7 kohdassa \"Den mest eftersökta, livligaste och livskraftigaste kommunen i metropolområdet\" sana \"livligaste\" korvataan sanalla \"vitala\" seuraavan mukaisesti: \"Den mest eftersökta, vitala och livskraftigaste kommunen i metropolområdet\". Kunnanvaltuuston päätöksen mukaisesti korjattu liite on pöytäkirjan liitteenä"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kirkkonummen strategia 2024-2030, kunnanvaltuuston 4.3.2024 hyväksymä",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241668-4-104922.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Hannu Valtanen",
+          "kind": "vastaehdotus",
+          "text": null,
+          "source": "order",
+          "party": "kok"
+        },
+        {
+          "proposer": "Carl-Johan Kajanti",
+          "kind": "vastaehdotus",
+          "text": null,
+          "source": "order",
+          "party": "rkp"
+        },
+        {
+          "proposer": "Antti Salonen",
+          "kind": "vastaehdotus",
+          "text": null,
+          "source": "order",
+          "party": "pro yl"
+        }
+      ]
+    },
+    {
+      "id": "20241668-5",
+      "ordinal": "5",
+      "title": "Kirkkonummen kunnan Yhdessä - Tillsammans, kuntastrategiaa tukeva toimintatapaohje",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241668-5",
+      "decision": "Kunnanvaltuusto päätti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 3 Yhdessä Tillsammans-toimintatapaohje, kunnanvaltuuston 4.3.2024 hyväksymä Kirkkonummen kunnan Yhdessä - Tillsammans, kuntastrategiaa tukeva toimintatapaohje Kunnanvaltuusto 04.03.2024 § 16 840/00.01.02/2023",
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto hyväksyy kuntastrategian tueksi liitteen mukaiset Yhdessä - Tillsammans -toimintatapaohjeet",
+        "kasittely": "Kunnanjohtaja Virpi Sailas esitteli asian kokouksessa. Käsittelyn yhteydessä kunnanvaltuusto piti tauon klo 19.48 - 19.52",
+        "paatos": "Kunnanvaltuusto päätti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Yhdessä Tillsammans-toimintatapaohje, kunnanvaltuuston 4.3.2024 hyväksymä",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241668-5-104891.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20241668-6",
+      "ordinal": "6",
+      "title": "Hallintosäännön muuttaminen - työllisyys- ja elinkeinoasioiden lautakunnan asettaminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241668-6",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 4 Hallintosääntö korjaus 26.2.24 luku 21 Hallintosäännön muuttaminen - työllisyys- ja elinkeinoasioiden lautakunnan asettaminen Kunnanvaltuusto 04.03.2024 § 17 233/00.01.01/2023",
+        "paatosehdotus": "Kunnanhallitus esittää valtuustolle hyväksyttäväksi 1.1.2023 voimaan astuneen ja 9.10.2023 muutetun Kirkkonummen kunnan hallintosäännön loppuun lisättäväksi uudeksi luvuksi liitteen mukaista lukua 21: \"Työllisyys- ja elinkeinoasiat\". Esitettävä luku sisältää pykälän 173 otsikoltaan \"Työllisyys- ja elinkeinoasioiden lautakunta, tehtävät ja toimivalta\" sekä pykälän 174 otsikoltaan \"Ohjausryhmä, tehtävät ja toimivalta\"",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Hallintosääntö korjaus 26.2.24 luku 21",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241668-6-104329.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20241668-7",
+      "ordinal": "7",
+      "title": "Eron myöntäminen valtuutetulle ja varavaltuutetun kutsuminen (M.H.)",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241668-7",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto 1 myöntää eron Martin Honkaselle valtuutetun tehtävästä 2 toteaa, että valtuuston puheenjohtaja kutsuu Martin Honkasen sijaan jäljellä olevaksi toimikaudeksi asianomaisen puolueen järjestyksessä ensimmäisen varavaltuutetun 3 merkitsee tiedokseen, että keskusvaalilautakunta arvioi tarpeen määrätä uuden varavaltuutetun",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241668-8",
+      "ordinal": "8",
+      "title": "Eron myöntäminen yhdyskuntatekniikan lautakunnan varajäsenyydestä (M.H.) sekä uuden varajäsenen valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241668-8",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Martin Honkaselle yhdyskuntatekniikan lautakunnan varajäsenyydestä 2 valita Toni Lehtisen uudeksi varajäseneksi Martin Honkasen tilalle toimikauden loppuun",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto 1 myöntää eron Martin Honkaselle yhdyskuntatekniikan lautakunnan varajäsenyydestä 2 valitsee uuden varajäsenen Martin Honkasen tilalle toimikauden loppuun",
+        "kasittely": "Piia Aallonharjan nimeämisehdotus: Valitaan yhdyskuntatekniikan lautakunnan varajäseneksi Toni Lehtinen",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Martin Honkaselle yhdyskuntatekniikan lautakunnan varajäsenyydestä 2 valita Toni Lehtisen uudeksi varajäseneksi Martin Honkasen tilalle toimikauden loppuun"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241668-9",
+      "ordinal": "9",
+      "title": "Eron myöntäminen toimitilapalvelujen lautakunnan jäsenyydestä ja uuden jäsenen valinta (M.H.)",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241668-9",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Martin Honkaselle toimitilapalvelujen lautakunnan jäsenyydestä 2 valita Jani Kähkösen uudeksi jäseneksi Martin Honkasen tilalle toimitilapalvelujen lautakuntaan toimikauden loppuun",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto 1 myöntää eron Martin Honkaselle toimitilapalvelujen lautakunnan jäsenyydestä 2 valitsee uuden jäsenen Martin Honkasen tilalle toimitilapalvelujen lautakuntaan toimikauden loppuun",
+        "kasittely": "Piia Aallonharjan nimeämisehdotus: Valitaan toimitilapalveluiden lautakunnan jäseneksi Jani Kähkönen",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Martin Honkaselle toimitilapalvelujen lautakunnan jäsenyydestä 2 valita Jani Kähkösen uudeksi jäseneksi Martin Honkasen tilalle toimitilapalvelujen lautakuntaan toimikauden loppuun"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241668-10",
+      "ordinal": "10",
+      "title": "Eron myöntäminen suomenkielisen kasvatus- ja koulutuslautakunnan varajäsenen tehtävästä (M.H) ja uuden varajäsenen valitseminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241668-10",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Martin Honkaselle suomenkielisen kasvatus- ja koulutuslautakunnan varajäsenyydestä 2 valita Jarkko Kaaren uudeksi varajäseneksi Martin Honkasen tilalle toimikauden loppuun",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto 1 myöntää eron Martin Honkaselle suomenkielisen kasvatus- ja koulutuslautakunnan varajäsenyydestä 2 valitsee uuden varajäsenen Martin Honkasen tilalle toimikauden loppuun",
+        "kasittely": "Piia Aallonharjan nimeämisehdotus: Valitaan Suomenkielisen kasvatus- ja koulutuslautakunnan varajäseneksi Jarkko Kaari",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Martin Honkaselle suomenkielisen kasvatus- ja koulutuslautakunnan varajäsenyydestä 2 valita Jarkko Kaaren uudeksi varajäseneksi Martin Honkasen tilalle toimikauden loppuun"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241668-11",
+      "ordinal": "11",
+      "title": "Eron myöntäminen ruotsinkielisen kasvatus- ja koulutuslautakunnan jäsenyydestä (S-J.N.) ja uuden jäsenen valitseminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241668-11",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Stig-Johan Nybergille ruotsinkielisen kasvatus- ja koulutuslautakunnan jäsenyydestä 2 valita Mikael Gerkmanin uudeksi jäseneksi ruotsinkieliseen kasvatus- ja koulutuslautakuntaan Stig-Johan Nybergin tilalle toimikauden loppuun",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto 1 myöntää eron Stig-Johan Nybergille ruotsinkielisen kasvatus- ja koulutuslautakunnan jäsenyydestä 2 valitsee uuden jäsenen ruotsinkieliseen kasvatus- ja koulutuslautakuntaan Stig-Johan Nybergin tilalle toimikauden loppuun",
+        "kasittely": "Sini Felipen ehdotus: Valitaan Mikael Gerkman ruotsinkielisen kasvatus- ja koulutuslautakunnan jäseneksi",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Stig-Johan Nybergille ruotsinkielisen kasvatus- ja koulutuslautakunnan jäsenyydestä 2 valita Mikael Gerkmanin uudeksi jäseneksi ruotsinkieliseen kasvatus- ja koulutuslautakuntaan Stig-Johan Nybergin tilalle toimikauden loppuun"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241668-12",
+      "ordinal": "12",
+      "title": "Eron myöntäminen Uudenmaan liiton maakuntavaltuuston jäsenyydestä ja uuden jäsenen valinta, M.H.",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241668-12",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti valita Arttu Lankisen uudeksi jäseneksi Uudenmaan liiton maakuntavaltuustoon Martin Honkasen tilalle",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto valitsee uuden jäsenen Uudenmaan liiton maakuntavaltuustoon Martin Honkasen tilalle",
+        "kasittely": "Piia Aallonharjan nimeämisehdotus: Valitaan Uudenmaan liiton maakuntavaltuustoon Arttu Lankinen",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti valita Arttu Lankisen uudeksi jäseneksi Uudenmaan liiton maakuntavaltuustoon Martin Honkasen tilalle"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241668-13",
+      "ordinal": "13",
+      "title": "Vireillä olevat valtuustoaloitteet",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241668-13",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "initiative": {
+        "ref": null,
+        "proposer": "nnanhallituksen on vuosittain maaliskuun ja lokakuun loppuun mennessä esitettävä valtuusto",
+        "party": null,
+        "name": null
+      },
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 5 Vireillä olevat valtuustoaloitteet, kh 26.2.2024 Vireillä olevat valtuustoaloitteet Kunnanvaltuusto 04.03.2024 § 24 1308/00.01.02/2019",
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto merkitsee liitteenä olevan luettelon vireillä olevista valtuustoaloitteista tiedoksi",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Vireillä olevat valtuustoaloitteet, kh 26.2.2024",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241668-13-104213.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20241668-14",
+      "ordinal": "14",
+      "title": "Valtuustoaloite 2/2024 Kirkkonummen hiihtomahdollisuuksien parantamiseksi",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241668-14",
+      "decision": "Kunnanvaltuusto lähettää valtuustoaloitteen kunnanhallitukselle valmisteltavaksi",
+      "votes": [],
+      "initiative": {
+        "ref": "2/2024",
+        "proposer": "Selostus   Matti Kaurila, Timo Haapaniemi, Kim Åström, Liisa Kosonen ja Kari Virtanen",
+        "party": null,
+        "name": "Kari Virtanen"
+      },
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Valtuustoaloite Kirkkonummen hiihtomahdollisuuksien parantamiseksi Valtuustoaloite 2/2024 Kirkkonummen hiihtomahdollisuuksien parantamiseksi Kunnanvaltuusto 04.03.2024 § 25 230/10.03.01.02/2024",
+        "paatos": "Kunnanvaltuusto lähettää valtuustoaloitteen kunnanhallitukselle valmisteltavaksi",
+        "selostus": "Matti Kaurila, Timo Haapaniemi, Kim Åström, Liisa Kosonen ja Kari Virtanen jättivät kunnanvaltuuston kokouksessa 4.3.2024 seuraavan aloitteen: Me valtuustoaloitteen allekirjoittaneet valtuutetut ja varavaltuutetut haluamme edistää hiihtomahdollisuuksia Kirkkonummella. Pyydämme seuraavien toimenpiteiden selvittämistä ja mahdollisia tarvittavia päätöksiä ennen tulevaa hiihtokautta 2024-25: - Latukoneen hankinta. Esitämme, että vuoden 2025 talousarvioehdotukseen otetaan mukaan toisen latukoneen hankinta kuntaan. Kun latukoneita on kaksi, ei aikaa ja rahaa mene koneen siirtoon esim. Jerikonmäen ja Veikkolan välillä. Tällöin aikaa jää enemmän laadukkaampien latujen tekemiseen, jolloin myös myöhempi latuverkkojen laajentaminen on mahdollista. Ongelmana on myös se, että kun ainoa latukone on rikki sesonkiaikana esim. hiihtolomaviikolla, ei tarvittavia latujen kunnostuksia saada tehtyä ajallaan. - Pyydämme selvittämään myös sitä, että kunta yhteistyössä Peuramaan laskettelukeskuksen yrittäjän kanssa selvittää mahdollisuutta hyödyntää Peuramaan laskettelukeskuksen lumetusjärjestelmää ja kalustoa tekolumiladun tekemistä varten Peuramaan laskettelukeskuksen yhteyteen. Mikäli edellä mainittu on mahdollista, huomioidaan mahdollinen määrärahan tarve vuoden 2025 talousarvioehdotuksessa. - Kunta vuokratessaan peltoja pidättää itsellään oikeuden omistamilleen pelloille tehdä moottorikelkoin itse tai sopimuskumppanin avulla latuja. Aloitteen oli Matti Kaurilan, Timo Haapaniemen, Kim Åströmin, Liisa Kososen ja Kari Virtasen lisäksi allekirjoittaneet seuraavat valtuutetut ja varavaltuutetut: Jussi Määttä, Hannu Valtanen, Marko Kari, Jani Ekman, Ville Salminen, Urho Blom, Minna Hakapää, Antti Kilappa, Noora Piili, Antti Salonen, Tero Suominen, Ari Harinen, Jerri Kämpe-Hellenius, Aku Leijala, Kim Liljequist, Maarit Orko, Krista Petäjäjärvi, Anna Sahiluoma, Martin Valtonen, Arttu Lankinen, Jani Kähkönen, Anna-Mari Toikka, Minna Hakapää, Piia Aallonharja, Johanna Fleming, Josephine Frimodig, Stefan Gustafsson, Johanna Järvinen, Patrik Lundell ja Miisa Jeremejew"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtuustoaloite Kirkkonummen hiihtomahdollisuuksien parantamiseksi",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241668-14-104837.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20241668-15",
+      "ordinal": "15",
+      "title": "Valtuustoaloite 3/2024 Kirkkonummen kunnan varhaiskasvatuksen henkilöstön pito- ja vetovoiman vahvistamiseksi",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241668-15",
+      "decision": "Kunnanvaltuusto lähettää valtuustoaloitteen kunnanhallitukselle valmisteltavaksi",
+      "votes": [],
+      "initiative": {
+        "ref": "3/2024",
+        "proposer": "Kirkkonummen Vihreät ja ensimmäisinä allekirjoittajina Miisa Jeremejew ja Johanna Fleming",
+        "party": "vihr",
+        "name": "Johanna Fleming"
+      },
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Valtuustoaloite Kirkkonummen kunnan varhaiskasvatuksen henkilöstön pito- ja vetovoiman vahvistamiseksi Valtuustoaloite 3/2024 Kirkkonummen kunnan varhaiskasvatuksen henkilöstön pito- ja vetovoiman vahvistamiseksi Kunnanvaltuusto 04.03.2024 § 26 231/01.00.00/2024",
+        "paatos": "Kunnanvaltuusto lähettää valtuustoaloitteen kunnanhallitukselle valmisteltavaksi",
+        "selostus": "Kirkkonummen Vihreät ja ensimmäisinä allekirjoittajina Miisa Jeremejew ja Johanna Fleming jättivät kunnanvaltuuston kokouksessa 4.3.2024 seuraavan aloitteen: \"Valvontaruokailu ravintoeduksi kaikille varhaiskasvatuksen aikuisille, jotka ruokailevat yhdessä lasten kanssa päiväkotien ruokahetkissä. Koko Suomea ja erityisesti pääkaupunkiseutua vaivaava pula pätevästä varhaiskasvatuksen henkilökunnasta koskee myös Kirkkonummea. Tällä aloitteella on tavoitteena lisätä Kirkkonummen kunnan pito- ja vetovoimaa varhaiskasvatuksen henkilöstön pysyvyydessä sekä näyttää Kirkkonummen arvostavan mittaamattoman arvokasta työtä, jota varhaiskasvatuksessa tehdään. Me allekirjoittaneet ehdotamme, että Kirkkonummi muuttaa ravintoedun koskemaan varhaiskasvatuksen lastenhoitajien, varhaiskasvatuksen opettajien ja varhaiskasvatuksen sosionomien lisäksi myös varhaiskasvatuksen ryhmissä työskenteleviä muita aikuisia: ryhmäavustajia, taidepedagogeja, erityisopettajia ja kieli- ja kulttuuriryhmien opettajia. Myös heitä tarvitaan mallintamiseen ja lähitukeen, jonka tarvetta tuen lasten inkluusio on lisännyt erittäin paljon. Tällä hetkellä (maaliskuu 2024) ateriasta joutuu maksamaan 7 euroa mikäli ei ole oikeutettu valvonta-ateriaan. ? Valvonta-ateria tarkoittaa sitä, että ruokailun hinnaksi määritellään aterian verotusarvo 4,80 € lasketaan edun saajan tuloksi, josta hän maksaa veroprosenttinsa verran veroa. Ruokailun todelliseksi hinnaksi jää siis verotusarvo kerrottuna henkilön veroprosentilla. Miisa Jeremejew ja Johanna Fleming Kirkkonummen Vihreät\" Aloitteen olivat allekirjoittaneet Miisa Jeremejewin ja Johanna Flemingin lisäksi seuraavat valtuutetut ja varavaltuutetut: Minna Hakapää, Piia Aallonharja, Anders Adlercreutz, Urho Blom, Jani Ekman, Sini Felipe, Marjut Frantsi-Lankia, Anneli Granström, Saara Huhmarniemi, Johanna Järvinen, Marko Kari, Liisa Kosonen, Jerri Kämpe-Hellenius, Aku Leijala, Kim Liljequist, Jussi Määttä, Maarit Orko, Krista Petäjäjärvi, Noora Piili, Tuovi Ronkainen, Anna Sahiluoma, Ville Salminen, Hannu Valtanen, Martin Valtonen, Kari Virtanen, Katja Ylisiurua, Kim Åström, Nina Bogatenko (ilmoittanut s-postitse allekirjoittavansa), Anna-Mari Toikka, Patrik Lundell, Arttu Lankinen ja Jani Kähkönen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtuustoaloite Kirkkonummen kunnan varhaiskasvatuksen henkilöstön pito- ja vetovoiman vahvistamiseksi",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241668-15-104838.PDF"
+        }
+      ],
+      "proposals": []
+    }
+  ],
+  "id": "20241668",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20241668"
+}

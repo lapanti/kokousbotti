@@ -1,0 +1,527 @@
+{
+  "title": "Kunnanvaltuusto Pöytäkirja 13.11.2023 klo 18:00 - 20:32 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Kunnanvaltuusto",
+  "doctype": "Pöytäkirja",
+  "date": "2023-11-13",
+  "items": [
+    {
+      "id": "20231573-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231573-1",
+      "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Kokous todettiin lailliseksi ja päätösvaltaiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231573-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231573-2",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti. Pöytäkirjantarkastajiksi valittiin Jani Ekman ja Hans Hedberg",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanvaltuusto päättää valita kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti. Pöytäkirjantarkastajiksi valittiin Jani Ekman ja Hans Hedberg"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231573-3",
+      "ordinal": "3",
+      "title": "Kunnan tuloveroprosentin vahvistaminen vuodelle 2024",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231573-3",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto 1 vahvistaa vuoden 2024 tuloveroprosentiksi 7,1 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "kasittely": "Kunnanjohtaja Virpi Sailas ja talousjohtaja Esa Lindell esittelivät pykälät 89, 90 ja 91 yhtenä kokonaisuutena",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231573-4",
+      "ordinal": "4",
+      "title": "Kunnan kiinteistöveroprosenttien vahvistaminen vuodelle 2024",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231573-4",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto päättää 1 määrätä seuraavat kiinteistöverolaissa tarkoitetut kiinteistöveroprosentit vuodeksi 2024: . yleinen kiinteistöveroprosentti 0,93 % . yleisen kiinteistöveron maa-alueiden kiinteistöveroprosentti 1,30 % ehdollisena. Mikäli lakia ei hyväksytä, maa-alueiden veroprosentti määräytyy yleisen kiinteistöveroprosentin mukaisena . vakituiset asuinrakennukset 0,41 % . muut asuinrakennukset 1,40 % . rakentamaton rakennuspaikka 5,43 % . yleishyödyllisten yhteisöjen kiinteistöveroprosentti 0,00 % 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "kasittely": "Kunnanjohtaja Virpi Sailas ja talousjohtaja Esa Lindell esittelivät pykälät 89, 90 ja 91 yhtenä kokonaisuutena §:n 89 käsittelyn yhteydessä",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231573-5",
+      "ordinal": "5",
+      "title": "Vuoden 2024 talousarvion ja vuosien 2025-26 taloussuunnitelman hyväksyminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231573-5",
+      "decision": "Kunnanvaltuusto päätti hyväksyä kunnanhallituksen ehdotuksen vuoden 2024 talousarvioksi ja vuosien 2025-26 taloussuunnitelmaksi 30 000 euron lisäyksellä joka kohdennetaan sivulla 47 mainittuihin sivistystoimen ja sivulla 54 mainittuihin suomenkielisten opetuspalveluiden ja sivulla 62 mainittuihin ruotsinkielisten opetuspalveluiden toimintaympäristön muutoksista johtuviin toimenpiteisiin, toimialan katsomiin kohteisiin, huomioiden kuntalaisille tehtävän hyvinvointi- ja turvallisuuskyselyn tulokset",
+      "votes": [
+        {
+          "jaa": [
+            "Minna Hakapää",
+            "Reetta Hyvärinen",
+            "Saara Huhmarniemi",
+            "Sanni Jäppinen",
+            "Aku Leijala",
+            "Katja Ylisiurua",
+            "Markus Myllyniemi",
+            "Antti Kilappa"
+          ],
+          "ei": [
+            "Jani Ekman",
+            "Anna Sahiluoma",
+            "Johanna Järvinen",
+            "Ville Salminen",
+            "Hannu Valtanen",
+            "Kim Liljequist",
+            "Matti Kaurila",
+            "Ulla Seppälä",
+            "Antti Salonen",
+            "Hans Hedberg",
+            "Tero Suominen",
+            "Tony Björk",
+            "Ari Harinen",
+            "Jerri Kämpe-Hellenius",
+            "Pekka Oksanen",
+            "Carl-Johan Kajanti",
+            "Kim Åström",
+            "Noora Piili",
+            "Kari Virtanen",
+            "Martin Valtonen",
+            "Matilda Björkqvist",
+            "Jussi Määttä",
+            "Ulf Kjerin",
+            "Liisa Kosonen",
+            "Urho Blom",
+            "Tuovi Ronkainen",
+            "Jani Kähkönen",
+            "Marko Kari",
+            "Anneli Granström",
+            "Marjut Frantsi-Lankia",
+            "Kim Männikkö",
+            "Patrik Lundell",
+            "Timo Haapaniemi",
+            "Stefan Gustafsson",
+            "Anna Aintila",
+            "Arttu Lankinen",
+            "Piia Aallonharja"
+          ],
+          "tyhja": [
+            "Johanna Fleming",
+            "Miisa Jeremejew",
+            "Anna-Mari Toikka",
+            "Elina Kärkimaa",
+            "Maarit Orko"
+          ],
+          "totals": {
+            "jaa": 8,
+            "ei": 37,
+            "tyhja": 5
+          },
+          "parties": {
+            "jaa": {
+              "pro yl": 3,
+              "vihr": 4,
+              "vas": 1
+            },
+            "ei": {
+              "kok": 12,
+              "ps": 6,
+              "rkp": 12,
+              "pro yl": 2,
+              "sdp": 4,
+              "kesk": 1
+            },
+            "tyhja": {
+              "sdp": 1,
+              "vihr": 4
+            }
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta",
+            "ei_label": "Ville Salmisen lisäysehdotusta",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": "ei",
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Ville Salmisen lisäysehdotusta äänestävät EI — annettiin 8 JAA ja 37 EI ääntä."
+          }
+        },
+        {
+          "jaa": [
+            "Ari Harinen",
+            "Carl-Johan Kajanti",
+            "Jani Kähkönen",
+            "Jani Ekman",
+            "Anna Sahiluoma",
+            "Tero Suominen",
+            "Ulla Seppälä",
+            "Tuovi Ronkainen",
+            "Ville Salminen",
+            "Jussi Määttä",
+            "Arttu Lankinen",
+            "Matilda Björkqvist",
+            "Antti Kilappa",
+            "Noora Piili",
+            "Piia Aallonharja",
+            "Marko Kari",
+            "Kim Liljequist",
+            "Urho Blom",
+            "Liisa Kosonen",
+            "Hannu Valtanen",
+            "Ulf Kjerin",
+            "Pekka Oksanen",
+            "Tony Björk",
+            "Matti Kaurila",
+            "Timo Haapaniemi",
+            "Anneli Granström",
+            "Hans Hedberg",
+            "Aku Leijala",
+            "Antti Salonen",
+            "Patrik Lundell",
+            "Kim Åström",
+            "Jerri Kämpe-Hellenius",
+            "Kim Männikkö",
+            "Johanna Järvinen",
+            "Marjut Frantsi-Lankia",
+            "Stefan Gustafsson",
+            "Kari Virtanen"
+          ],
+          "ei": [
+            "Minna Hakapää",
+            "Anna Aintila",
+            "Katja Ylisiurua",
+            "Reetta Hyvärinen",
+            "Saara Huhmarniemi",
+            "Anna-Mari Toikka",
+            "Martin Valtonen"
+          ],
+          "tyhja": [
+            "Johanna Fleming",
+            "Maarit Orko",
+            "Markus Myllyniemi",
+            "Miisa Jeremejew",
+            "Sanni Jäppinen",
+            "Elina Kärkimaa"
+          ],
+          "totals": {
+            "jaa": 37,
+            "ei": 7,
+            "tyhja": 6
+          },
+          "parties": {
+            "jaa": {
+              "sdp": 4,
+              "rkp": 10,
+              "ps": 6,
+              "kok": 12,
+              "pro yl": 4,
+              "kesk": 1
+            },
+            "ei": {
+              "pro yl": 1,
+              "rkp": 2,
+              "vas": 1,
+              "vihr": 3
+            },
+            "tyhja": {
+              "sdp": 1,
+              "vihr": 5
+            }
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta Ville Salmisen lisäyksellä",
+            "ei_label": "Katja Ylisiuruan poistoesitystä",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "other",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": null,
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat pohjaehdotusta Ville Salmisen lisäyksellä äänestävät JAA, ja ne jotka kannattavat Katja Ylisiuruan poistoesitystä äänestävät EI — annettiin 37 JAA ja 7 EI ääntä."
+          }
+        }
+      ],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 1 Kirkkonummen kunta Talousarvio 2024, kunnanvaltuuston 13.11.2023 hyväksymä",
+        "oheismateriaali": "Kuvake Otsikko\nmuutosten erittely Vuoden 2024 talousarvion ja vuosien 2025-26 taloussuunnitelman hyväksyminen Kunnanvaltuusto 13.11.2023 § 91 490/02.02.00/2023",
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto hyväksyy kunnanhallituksen ehdotuksen vuoden 2024 talousarvioksi ja vuosien 2025-26 taloussuunnitelmaksi",
+        "kasittely": "Kunnanjohtaja Virpi Sailas ja talousjohtaja Esa Lindell esittelivät pykälät 89, 90 ja 91 yhtenä kokonaisuutena §:n 89 käsittelyn yhteydessä. Puheenvuoron pitivät kunnanvaltuuston puheenjohtaja Tony Björk ja kunnanhallituksen puheenjohtaja Timo Haapaniemi sekä vanhusneuvoston puheenjohtaja Kaj Sjöblom. Valtuuston ryhmäpuheenvuoroja pidettiin seuraavasti: Urho Blom (kok), Katja Ylisiurua (vas), Marjut Frantsi-Lankia (kesk), Markus Myllyniemi (vihreät) ja Antti Salonen (Pro Kirkkonummi). Puheenjohtaja julisti keskustelun päättyneeksi ja totesi, että keskustelun aikana on jätetty muutosehdotuksia seuraavasti: Jäsen Ville Salmisen lisäysehdotus: Lisäys 30 000 euroa budjettiin. Kohdennetaan 30 000 € sivulla 47 mainittuihin sivistystoimen ja sivulla 54 mainittuihin suomenkielisten opetuspalveluiden ja sivulla 62 mainittuihin ruotsinkielisten opetuspalveluiden toimintaympäristön muutoksista johtuviin toimenpiteisiin, toimialan katsomiin kohteisiin, huomioiden kuntalaisille tehtävän hyvinvointi- ja turvallisuuskyselyn tulokset. Lisäysehdotusta kannattivat Arttu Lankinen, Johanna Järvinen, Jani Kähkönen, Piia Aallonharja, Timo Haapaniemi, Ulf Kjerin, Kim Liljequist, Anneli Granström, Kari Virtanen, Jani Ekman, Kim Åström, Patrik Lundell, Marko Kari, Jussi Määttä, Hannu Valtanen, Urho Blom ja Matti Kaurila. Lisäysehdotusta ei hyväksytty yksimielisesti, joten puheenjohtaja ilmoitti että asiasta on äänestettävä. Puheenjohtaja ehdotti, että asiasta äänestetään niin, että ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Ville Salmisen lisäysehdotusta äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 8 JAA ääntä, 37 EI ääntä, 5 tyhjää ääntä, 1 poissa. Ville Salmisen lisäysehdotus sai enemmän ääniä ja voitti. JAA äänestivät Minna Hakapää, Reetta Hyvärinen, Saara Huhmarniemi, Sanni Jäppinen, Aku Leijala, Katja Ylisiurua, Markus Myllyniemi ja Antti Kilappa. EI äänestivät Jani Ekman, Anna Sahiluoma, Johanna Järvinen, Ville Salminen, Hannu Valtanen, Kim Liljequist, Matti Kaurila, Ulla Seppälä, Antti Salonen, Hans Hedberg, Tero Suominen, Tony Björk, Ari Harinen, Jerri Kämpe-Hellenius, Pekka Oksanen, Carl-Johan Kajanti, Kim Åström, Noora Piili, Kari Virtanen, Martin Valtonen, Matilda Björkqvist, Jussi Määttä, Ulf Kjerin, Liisa Kosonen, Urho Blom, Tuovi Ronkainen, Jani Kähkönen, Marko Kari, Anneli Granström, Marjut Frantsi-Lankia, Kim Männikkö, Patrik Lundell, Timo Haapaniemi, Stefan Gustafsson, Anna Aintila, Arttu Lankinen ja Piia Aallonharja. Tyhjää äänestivät Johanna Fleming, Miisa Jeremejew, Anna-Mari Toikka, Elina Kärkimaa ja Maarit Orko. Poissa: Martin Honkanen Jäsen Katja Ylisiuruan poistoesitys: s. 69 toiseksi viimeinen rivi ja s. 74 viimeinen kappale Poistetaan maininnat siitä, että puunmyyntituloilla katetaan vähintään metsien hoidon kustannukset. Poistoesitystä kannattivat Minna Hakapää ja Anna Aintila. Poistoesitystä ei hyväksytty yksimielisesti, joten puheenjohtaja ilmoitti että asiasta on äänestettävä. Puheenjohtaja ehdotti että asiasta äänestetään niin, että ne jotka kannattavat pohjaehdotusta Ville Salmisen lisäyksellä äänestävät JAA, ja ne jotka kannattavat Katja Ylisiuruan poistoesitystä äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 37 JAA ääntä, 7 EI ääntä, 6 tyhjää ääntä ja 1 poissa. Pohjaehdotus Ville Salmisen lisäyksellä sai enemmä ääniä ja voitti. JAA äänestivät Ari Harinen, Carl-Johan Kajanti, Jani Kähkönen, Jani Ekman, Anna Sahiluoma, Tero Suominen, Ulla Seppälä, Tuovi Ronkainen, Ville Salminen, Jussi Määttä, Arttu Lankinen, Matilda Björkqvist, Antti Kilappa, Noora Piili, Piia Aallonharja, Marko Kari, Kim Liljequist, Urho Blom, Liisa Kosonen, Hannu Valtanen, Ulf Kjerin, Pekka Oksanen, Tony Björk, Matti Kaurila, Timo Haapaniemi, Anneli Granström, Hans Hedberg, Aku Leijala, Antti Salonen, Patrik Lundell, Kim Åström, Jerri Kämpe-Hellenius, Kim Männikkö, Johanna Järvinen, Marjut Frantsi-Lankia, Stefan Gustafsson ja Kari Virtanen EI äänestivät Minna Hakapää, Anna Aintila, Katja Ylisiurua, Reetta Hyvärinen, Saara Huhmarniemi, Anna-Mari Toikka ja Martin Valtonen. Tyhjää äänestivät Johanna Fleming, Maarit Orko, Markus Myllyniemi, Miisa Jeremejew, Sanni Jäppinen ja Elina Kärkimaa. Poissa: Martin Honkanen. Varavaltuutettu Miisa Jeremejew poistui kokouksesta tämän pykälän jälkeen klo 19.36. Kunnanvaltuusto piti tauon tämän pykälän jälkeen klo 19.36 - 19.45",
+        "paatos": "Kunnanvaltuusto päätti hyväksyä kunnanhallituksen ehdotuksen vuoden 2024 talousarvioksi ja vuosien 2025-26 taloussuunnitelmaksi 30 000 euron lisäyksellä joka kohdennetaan sivulla 47 mainittuihin sivistystoimen ja sivulla 54 mainittuihin suomenkielisten opetuspalveluiden ja sivulla 62 mainittuihin ruotsinkielisten opetuspalveluiden toimintaympäristön muutoksista johtuviin toimenpiteisiin, toimialan katsomiin kohteisiin, huomioiden kuntalaisille tehtävän hyvinvointi- ja turvallisuuskyselyn tulokset"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kirkkonummen kunta Talousarvio 2024, kunnanvaltuuston 13.11.2023 hyväksymä",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231573-5-100285.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Oheismateriaali muutosten erittely",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231573-5-99459.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20231573-6",
+      "ordinal": "6",
+      "title": "MAL 2023 -suunnitelman hyväksyminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231573-6",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 2 MAL 2023_suunnitelma",
+        "oheismateriaali": "Kuvake Otsikko MAL 2023_taustaraportti vaikutusten_arviointiselostus mal2023_diaesitys MAL 2023 -suunnitelman hyväksyminen Kunnanvaltuusto 13.11.2023 § 92 286/00.04.02/2023",
+        "paatosehdotus": "Kunnanhallitus esittää kunnanvaltuustolle, että se päättää hyväksyä tämän asian liitteenä olevan MAL 2023 -suunnitelman sekä merkitä tiedokseen MAL 2023 vaikutusten arviointiselostuksen (SOVA). Raideliikenteen varikon osalta todetaan seuraavaa: Kirkkonummen kunta on aiemmin päätöksissään ja lausunnoissaan vastustanut raskaan raideliikenteen varikon sijoittamista Kirkkonummelle. Kirkkonummen kunta toteaa MAL-sopimuksen hyväksymisen yhteydessä omana kannanottonaan sen, että Rantaradan varikon paikka on vielä avoin. Asiasta on sovittava yhdessä Espoon kaupungin, Kirkkonummen kunnan sekä joukkoliikenteen operaattorien ja varikon toteuttaja- ja rahoittajatahojen kanssa. Kirkkonummen kunta korostaa niin HSL:n hallituksen kuin HSYK:n 12.9.2023 tekemiä päätöksiä asiasta: Poistetaan rantaradan varikkoja koskevasta kohdasta MAL-suunnitelman sivulla 35 olevat lauseet: \"Rantaradalta Kauklahden ja Kirkkonummen läheisyydestä parhaimmiksi varikko sijainneiksi on tunnistettu Mankin ja Luoman alueet. Aiemmin tarkastelussa ollut Kirkkonummen Vuohimäki on jätetty pois tarkasteluista suuren siirtoajotarpeen ja mahdollisten kapasiteettiongelmien vuoksi.\" Näin jäljelle jää seuraava kappale: \"Rantaradan osalta toimivaksi varikon sijainniksi on tunnistettu Kauklahden liikennepaikan läheisyys, joka toimii tulevaisuudessa Espoon kaupunkiradan pääteasemana. Varikon olisi hyvä sijaita lähellä Kirkkonummea, jolloin varikko palvelisi mahdollisimman hyvin myös Kirkkonummelle ja Siuntioon päättyvää liikennettä.\"",
+        "kasittely": "Yhdyskuntatekniikan johtaja Anna-Kaisa Kauppinen esitteli asiaa kokouksessa",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "MAL 2023_suunnitelma",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231573-6-99446.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "MAL 2023_taustaraportti",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231573-6-99449.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "vaikutusten_arviointiselostus",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231573-6-99447.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "mal2023_diaesitys",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231573-6-99448.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20231573-7",
+      "ordinal": "7",
+      "title": "Toimitilapalvelujen lautakunnan lisämäärärahaesitys",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231573-7",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Korjausohjelma 13.10.2023 Investointiraportti 10.11.2023 Talouden ja toiminnan seurantaraportti_topa 09_2023 Toimitilapalvelujen lautakunnan lisämäärärahaesitys Kunnanvaltuusto 13.11.2023 § 93 618/02.02.00/2022",
+        "paatosehdotus": "Kunnanhallitus esittää kunnanvaltuustolle, että se hyväksyy toimitilapalvelujen lautakunnan toimintakatteeseen 600 000 euron lisämäärärahan",
+        "kasittely": "Yhdyskuntatekniikan johtaja Anna-Kaisa Kauppinen esitteli asiaa kokouksessa",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Korjausohjelma 13.10.2023",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231573-7-98745.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Investointiraportti 10.11.2023",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231573-7-98746.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Talouden ja toiminnan seurantaraportti_topa 09_2023",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231573-7-99147.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20231573-8",
+      "ordinal": "8",
+      "title": "Kirkkonummen Vesi -liikelaitoksen johtokunnan lisätalousarvioesitys vuodelle 2023",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231573-8",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus esittää kunnanvaltuustolle, että sitovaa tulostavoitetta muutetaan siten, että Kirkkonummen Veden tulos voi olla 0 euroa. Muutos, 975 853 euroa, tehdään alentamalla talousarvion tuloarviota",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231573-9",
+      "ordinal": "9",
+      "title": "Vastaus valtuustoaloitteisiin 2/2019: Muovinkäytön vähentäminen ja muovin kierrätyksen tehostaminen Kirkkonummella sekä 12/2022: Kirkkonummen liittyminen mukaan Pidä Saaristo Siistinä ry:n Mahanpuruja muovista -kampanjaan",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231573-9",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "initiative": {
+        "ref": "2/2019",
+        "proposer": "elainsäädännön tavoitteena on, että yhdyskuntajätteestä valmistellaan uudelleenkäyttöön ta",
+        "party": null,
+        "name": null
+      },
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Valtuustoaloite_nro_2_2019___Muovin_käytön_vähentäminen_ja_muovin_kierrätyksen_tehostaminen_Kirkkonummella Valtuustoaloite 12-2022 Kirkkonummen liittyminen mukaan Pidä Saaristo Siistinä ryn Mahanpuruja muovi Kunnanvaltuusto 5.9.2022 § 73 - Valtuustoaloite 12-2022 Kirkkonummen liittyminen mukaan Pidä Saaristo Siistinä ry:n Mahanpuruja muovista -kampanjaan Kunnanvaltuusto 28.1.2019 § 10 - valtuustoaloite nro 2-2019, muovin käytön vähentäminen ja muovin kierrätyksen tehostaminen Kirkkonummella Vastaus valtuustoaloitteisiin 2/2019: Muovinkäytön vähentäminen ja muovin kierrätyksen tehostaminen Kirkkonummella sekä 12/2022: Kirkkonummen liittyminen mukaan Pidä Saaristo Siistinä ry:n Mahanpuruja muovista -kampanjaan Kunnanvaltuusto 13.11.2023 § 95 958/00.04.02/2022",
+        "paatosehdotus": "Kunnanhallitus esittää kunnanvaltuustolle seuraavan vastauksen valtuustoaloitteisiin 2/2019 Muovinkäytön vähentäminen ja muovin kierrätyksen tehostaminen Kirkkonummella sekä 12/2022 Kirkkonummen liittyminen mukaan Pidä Saaristo Siistinä ry:n Mahanpuruja muovista -kampanjaan ja ehdottaa, että valtuusto pitää vastausta riittävänä ja aloitteita loppuunkäsiteltyinä",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtuustoaloite_nro_2_2019___Muovin_käytön_vähentäminen_ja_muovin_kierrätyksen_tehostaminen_Kirkkonummella",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231573-9-98323.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtuustoaloite 12-2022 Kirkkonummen liittyminen mukaan Pidä Saaristo Siistinä ryn Mahanpuruja muovi",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231573-9-99003.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Kunnanvaltuusto 5.9.2022 § 73 - Valtuustoaloite 12-2022 Kirkkonummen liittyminen mukaan Pidä Saaristo Siistinä ry:n Mahanpuruja muovista -kampanjaan",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231573-9-99001.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Kunnanvaltuusto 28.1.2019 § 10 - valtuustoaloite nro 2-2019, muovin käytön vähentäminen ja muovin kierrätyksen tehostaminen Kirkkonummella",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231573-9-99000.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20231573-10",
+      "ordinal": "10",
+      "title": "Vastaus valtuustoaloitteeseen 5/2023: ResQ-applikaation käyttöönotto koulujen ylijäämäruuan myymiseksi ja hävikin vähentämiseksi",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231573-10",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "initiative": {
+        "ref": "5/2023",
+        "proposer": "aavassa kokouksessa.   Tiedoksi   Selostus   Kirkkonummen Perussuomalaisten valtuustoryhmä",
+        "party": "ps",
+        "name": null
+      },
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Valtuustoaloite ResQ-applikaation käyttöönotosta koulujen ylijäämäruuan myymiseksi ja hävikin vähent Kv 08.05.2023 § 34, Valtuustoaloite 5-2023, ResQ-applikaation käyttöönotto koulujen ylijäämäruuan myymiseksi ja hävikin vähentämiseksi Vastaus valtuustoaloitteeseen 5/2023: ResQ-applikaation käyttöönotto koulujen ylijäämäruuan myymiseksi ja hävikin vähentämiseksi Kunnanvaltuusto 13.11.2023 § 96 425/10.03.02.06/2023",
+        "paatosehdotus": "Kunnanhallitus antaa selostusosan mukaisen vastauksen valtuustoaloitteeseen 5/2023 ja esittää kunnanvaltuustolle, että valtuusto pitää vastausta riittävänä ja aloitetta loppuun käsiteltynä",
+        "kasittely": "Yhdyskuntatekniikan johtaja Anna-Kaisa Kauppinen esitteli asiaa kokouksessa",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtuustoaloite ResQ-applikaation käyttöönotosta koulujen ylijäämäruuan myymiseksi ja hävikin vähent",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231573-10-96087.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Kv 08.05.2023 § 34, Valtuustoaloite 5-2023, ResQ-applikaation käyttöönotto koulujen ylijäämäruuan myymiseksi ja hävikin vähentämiseksi",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231573-10-98797.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20231573-11",
+      "ordinal": "11",
+      "title": "Eron myöntäminen tarkastuslautakunnan jäsenyydestä ja uuden jäsenen valinta (S.M.)",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231573-11",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Saara Matterolle tarkastuslautakunnan jäsenyydestä 2 valita Sami Sailo uudeksi jäseneksi ja Viveca Lindgren uudeksi varajäseneksi tarkastuslautakuntaan kauden 2025 loppuun",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto 1 myöntää eron Saara Matterolle tarkastuslautakunnan jäsenyydestä 2 valitsee uuden jäsenen tarkastuslautakuntaan Saara Matteron tilalle kauden 2025 loppuun",
+        "kasittely": "Kokoomuksen / Urho Blomin kokouksessa annettu esitys: Esitämme tarkastuslautakunnan varsinaiseksi jäseneksi Sami Sailoa. Tämän lisäksi esitämme, että valtuusto samassa yhteydessä tekisi päätöksen valita uusi varajäsen Sailon vapautuvalle paikalle. Tarkastuslautakunnan varajäseneksi esitämme Viveca Lindgreniä. Esitystä kannatti Matti Kaurila. Esitys hyväksyttiin yksimielisesti",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Saara Matterolle tarkastuslautakunnan jäsenyydestä 2 valita Sami Sailo uudeksi jäseneksi ja Viveca Lindgren uudeksi varajäseneksi tarkastuslautakuntaan kauden 2025 loppuun"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231573-12",
+      "ordinal": "12",
+      "title": "Sidonnaisuusilmoitukset",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231573-12",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Tarkastuslautakunta esittää, että kunnanvaltuusto merkitsee sidonnaisuusrekisterin tiedoksi. Tarkastuslautakunta kehottaa luottamushenkilöitä pitämään rekisterin tiedot ajan tasalla",
+        "kasittely": "Tarkastuslautakunnan puheenjohtaja Ulla Seppälä ja kunnanlakimies Taija Rönnberg esittelivät asiaa kokouksessa",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    }
+  ],
+  "id": "20231573",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20231573"
+}

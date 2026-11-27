@@ -1,0 +1,267 @@
+{
+  "title": "Toimitilapalvelujen lautakunta Pöytäkirja 04.12.2025 klo 17:00 - 19:22 ⁄ Tarkastettu Kirkkonummen kunnantalon kokoushuone Ervast, 1. krs, Ervastintie 2, Kirkkonummi | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Toimitilapalvelujen lautakunta",
+  "doctype": "Pöytäkirja",
+  "date": "2025-12-04",
+  "items": [
+    {
+      "id": "20252216-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252216-1",
+      "decision": null,
+      "votes": [],
+      "sections": {},
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252216-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252216-2",
+      "decision": "Toimitilapalvelujen lautakunta valitsi tämän kokouksen pöytäkirjantarkastajaksi Hannaleena Kuutilon",
+      "votes": [],
+      "sections": {
+        "esittelija": "kuntakehitysjohtaja Anna-Kaisa Kauppinen",
+        "paatosehdotus": "Toimitilapalvelujen lautakunta päättää 1. valita pöytäkirjantarkastaja tarkastamaan tämän kokouksen pöytäkirjan 2. tarkastaa tämän pöytäkirjan sähköisesti seuraavan aikataulun mukaan: Pöytäkirja tarkastetaan tiistaina 9.12.2025. Jos hyväksymisviestiä ei tule sihteerille em. ajankohtaan mennessä, pöytäkirja katsotaan hyväksytyksi. Tarkastettu pöytäkirja asetetaan yleisesti nähtäville kunnan julkiseen tietoverkkoon keskiviikkona 10.12.2025",
+        "paatos": "Toimitilapalvelujen lautakunta valitsi tämän kokouksen pöytäkirjantarkastajaksi Hannaleena Kuutilon"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252216-3",
+      "ordinal": "3",
+      "title": "Kantvikin koulun rakennushankkeen aikaiset väistötilaratkaisut",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252216-3",
+      "decision": "Toimitilapalveluiden lautakunta päätti: 1) järjestää Kantvikin koulun rakennushankkeen väistötilaratkaisut hajautetusti niin, että alkuopetuksen (luokat 1–2) tilat toteutetaan Sepänkannaksen Aurapihan AP-tonteille ja ylempien luokkien (luokat 3–6) osalta väistö toteutetaan keskustan olemassa olevissa väistötilarakennuksissa ensisijaisesti niin kutsutussa Väiskissä. 2) että huoltajien 2.12.2025 järjestetyssä infotilaisuudessa esitettyihin kysymyksiin annetaan vastaukset lautakunnan seuraavaan kokoukseen mennessä. 3) esittää Kantvikin koulun mahdollisesti kiireellisenä tarvittavat väistötilat sivistyksen toimialalle, että ne järjestetään Jokirinteen oppimiskeskuksessa. 4) että vanhoja Kirkkoharjun koulun tiloja käytetään vain ja ainoastaan ruokailuun. Teknisen työn opetus ja liikunta järjestetään alueen toisten oppilaitoksien tiloissa (Lyyra, Wigge, Jokirinne) 5) lähettää päivitetyn väistötilaselvityksen kunnanhallitukselle tiedoksi",
+      "votes": [
+        {
+          "jaa": [
+            "Kaaresvirta-Huhta Pauliina",
+            "Jeremejew Miisa",
+            "Björkqvist Matilda",
+            "Dostinov Tomi",
+            "Hedberg Hans",
+            "Lankinen Arttu"
+          ],
+          "ei": [
+            "Haapaniemi Timo",
+            "Utriainen Elina",
+            "Kuutilo Hannaleena",
+            "Valli Lauri",
+            "Halme Nina"
+          ],
+          "tyhja": [],
+          "named_by": "surname",
+          "totals": {
+            "jaa": 6,
+            "ei": 5,
+            "tyhja": 0
+          },
+          "as_written": {
+            "jaa": [
+              "Kaaresvirta-Huhta",
+              "Jeremejew",
+              "Björkqvist",
+              "Dostinov",
+              "Hedberg",
+              "Lankinen"
+            ],
+            "ei": [
+              "Haapaniemi",
+              "Utriainen",
+              "Kuutilo",
+              "Valli",
+              "Halme"
+            ],
+            "tyhja": []
+          },
+          "names_from": "osallistujat",
+          "unresolved": [],
+          "parties": {
+            "jaa": {
+              "kok": 2,
+              "vihr": 1,
+              "rkp": 2,
+              "ps": 1
+            },
+            "ei": {
+              "kok": 2,
+              "prok": 2,
+              "sdp": 1
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "esittelijän päätösehdotusta",
+            "ei_label": "Elina Utriaisen vastaesitystä järjestää luokkien 1-4 osalta uuden koulun rakennusaikaiset väistöt Kantvikissa",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": "jaa",
+            "source": "parsed",
+            "evidence": "ne, jotka kannattavat esittelijän päätösehdotusta, äänestävät Jaa, ja ne, jotka kannattavat Elina Utriaisen vastaesitystä järjestää luokkien 1-4 osalta uuden koulun rakennusaikaiset väistöt Kantvikissa, äänestävät Ei — Puheenjohtaja päätti äänestyksen ja totesi, että äänet jakautuivat seuraavasti: 6 kpl Jaa-ääntä (Kaaresvirta-Huhta, Jeremejew, Björkqvist, Dostinov, Hedberg ja Lankinen) ja 5 kpl Ei-ääntä (Haapaniemi, Utriainen, Kuutilo, Valli ja Halme)"
+          }
+        },
+        {
+          "jaa": [
+            "Hedberg Hans",
+            "Halme Nina",
+            "Dostinov Tomi"
+          ],
+          "ei": [
+            "Utriainen Elina",
+            "Lankinen Arttu",
+            "Haapaniemi Timo",
+            "Kaaresvirta-Huhta Pauliina",
+            "Kuutilo Hannaleena",
+            "Björkqvist Matilda",
+            "Jeremejew Miisa",
+            "Valli Lauri"
+          ],
+          "tyhja": [],
+          "named_by": "surname",
+          "totals": {
+            "jaa": 3,
+            "ei": 8,
+            "tyhja": 0
+          },
+          "as_written": {
+            "jaa": [
+              "Hedberg",
+              "Halme",
+              "Dostinov"
+            ],
+            "ei": [
+              "Utriainen",
+              "Lankinen",
+              "Haapaniemi",
+              "Kaaresvirta-Huhta",
+              "Kuutilo",
+              "Björkqvist",
+              "Jeremejew",
+              "Valli"
+            ],
+            "tyhja": []
+          },
+          "names_from": "osallistujat",
+          "unresolved": [],
+          "parties": {
+            "jaa": {
+              "rkp": 1,
+              "sdp": 1,
+              "kok": 1
+            },
+            "ei": {
+              "prok": 2,
+              "ps": 1,
+              "kok": 3,
+              "rkp": 1,
+              "vihr": 1
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "esittelijän päätösehdotusta",
+            "ei_label": "Miisa Jeremejewin vastaesitystä käyttää vanhoja Kirkkoharjun koulun tiloja vain ja ainoastaan ruokailuun",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": "ei",
+            "source": "parsed",
+            "evidence": "ne, jotka kannattavat esittelijän päätösehdotusta, äänestävät Jaa ja ne, jotka kannattavat Miisa Jeremejewin vastaesitystä käyttää vanhoja Kirkkoharjun koulun tiloja vain ja ainoastaan ruokailuun, äänestävät Ei — Puheenjohtaja päätti äänestyksen ja totesi, että äänet jakautuivat seuraavasti: 3 kpl Jaa-ääntä (Hedberg, Halme, Dostinov) ja 8 kpl Ei-ääntä (Utriainen, Lankinen, Haapaniemi, Kaaresvirta-Huhta, Kuutilo, Björkqvist, Jeremejew ja Valli)"
+          }
+        }
+      ],
+      "sections": {
+        "liitteet": "Numero Otsikko\n1\n1_Kantvikin koulun sijoitusvaihtoehdot Kantvikissa 4.11.2025 (pdf 598.43 kb)\n2\n3_Kantvikin väistötilavaihtoehtojen kustannusarviot (pdf 40.67 kb)\n3\n_Kantvikin koulun väistötilaselvitys päivitys 10.11.2025 (pdf 317.12 kb)\n4\n2_Toimipalveluiden ja infrapalveluiden selvitys saattoliikenteen ja huoltoliikenteen järjestelyistä Kantvikin koulun väistötiloille 16.9.2025 (pdf 328.52 kb)\n5\n4_Lausunto Kantvikin koulun väistötilaratkaisuista 12.9.2025 (pdf 91.28 kb)\n6\n5_ Kantvikin koulun johtoryhmän näkökulma hajautetusta ratkaisusta 7.11.2025 (pdf 13.53 kb)",
+        "oheismateriaali": "Otsikko\n1 Topa 4.12.2025, Vastaukset toimitilapalvelujen lautakunnan 18.11.2025 evästyksiin (pdf 450.06 kb) Kokousasian teksti Kantvikin koulun rakennushankkeen aikaiset väistötilaratkaisut Toimitilapalvelujen lautakunta 04.12.2025 § 71 730/10.03.02.01/2025",
+        "valmistelija": "rakennuttajapäällikkö Hanne Nylund, kuntakehitysjohtaja Anna-Kaisa Kauppinen etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kuntakehitysjohtaja Kauppinen Anna-Kaisa Toimitilapalveluiden lautakunta päättää: 1) järjestää Kantvikin koulun rakennushankkeen väistötilaratkaisut hajautetusti niin, että alkuopetuksen (luokat 1–2) tilat toteutetaan Sepänkannaksen Aurapihan AP-tonteille ja ylempien luokkien (luokat 3–6) osalta väistö toteutetaan keskustan olemassa olevissa väistötilarakennuksissa ensisijaisesti niin kutsutussa Väiskissä. Vanhoja Kirkkoharjun koulun tiloja on tarkoitus käyttää vain ruokailuun. Teknisen työn opetus ja liikunta voidaan järjestää alueen toisten oppilaitoksen tiloissa (Lyyra, Wigge, Jokirinne). 2) että, Kirkkonummen Liikekeskuksen tilojen vuokrasopimusta osoitteessa Asematie 3 jatketaan toimitilapalvelujen lautakunnan 10.3.2022 § 25 päätöksen mukaisesti, mikäli sivistyksen toimiala esittää osan Kantvikin koulun oppilaista siirtämistä Liikekeskuksen väistötiloihin ennen rakennushankkeen alkamista koulun vanhemman osaan kohdistuvien sisäilmahaasteitten takia, mikä mahdollistaa nykyisen koulun vanhemman osan poistamisen osittain käytöstä. Toimitilajohtaja tai hänen sijaisensa valtuutetaan jatkamaan vuokrasopimusta. 3) lähettää päivitetyn väistötilaselvityksen kunnanhallitukselle tiedoksi",
+        "kasittely": "Puheenjohtaja totesi, että keskustelun aikana on jätetty seuraavat vastaesitykset: Nina Halmen esittämä vastaesitys: Kantvikin koulun 1–6-luokkien väistötilat sijoitetaan Sepänkannaksen Aurapihan AP-tonteille, mikä mahdollistaa turvallisen oppimisympäristön lähelle koteja ja vähentää kuljetustarvetta. Ratkaisu helpottaa myös henkilökunnan työtä. Opettajan tehtävät ovat oppimisen ohjaus, oppilaiden yksilöllinen tukeminen sekä opetuksen suunnittelu, toteutus ja arviointi nykyaikaisin menetelmin. Sepänkannas päiväkodin läheisyys tukee myös lasten siirtymistä tutusta ympäristöstä alakouluun. Elina Utriainen kannatti Nina Halmen esitystä. Miisa Jeremejewin esittämä vastaesitys: 1. Järjestää Kantvikin koulun rakennushankkeen väistötilaratkaisut hajautetusti niin, että alkuopetuksen (luokat 1–2) tilat toteutetaan Sepänkannaksen Aurapihan AP-tonteille ja ylempien luokkien (luokat 3–6) osalta väistö toteutetaan keskustan olemassa olevissa väistötilarakennuksissa ensisijaisesti niin kutsutussa Väiskissä. Vanhoja Kirkkoharjun koulun tiloja käytetään vain ja ainoastaan ruokailuun. Teknisen työn opetus ja liikunta järjestetään alueen toisten oppilaitoksien tiloissa (Lyyra, Wigge, Jokirinne). Pauliina Kaaresvirta-Huhta kannatti Miisa Jeremejewin esitystä. Miisa Jeremejewin esittämä vastaesitys: 2. että, sivistys ja toimitilapalvelut jatkavat edelleen selvityksiä mahdollisuuteen siirtää ainakin 6.-luokkalaisia Jokirinteen tai Wiggen koulun tiloihin, mikäli sivistyksen toimiala esittää osan Kantvikin koulun oppilaista siirtämistä väistötiloihin ennen rakennushankkeen alkamista koulun vanhemman osaan kohdistuvien sisäilmahaasteitten takia, mikä mahdollistaa nykyisen koulun vanhemman osan poistamisen osittain käytöstä. Pauliina Kaaresvirta-Huhta kannatti Miisa Jeremejewin esitystä. Elina Utriaisen esittämä vastaesitys: Toimitilapalvelujen lautakunta päättää : 1.Huoltajien 2.12.2025 järjestetyssä infotilaisuudessa esitettyihin kysymyksiin annetaan vastaukset lautakunnan seuraavaan kokoukseen mennessä. 2.Kantvikin koulun mahdollisesti kiireellisenä tarvittavat väistötilat järjestetään Jokirinteen oppimiskeskuksessa tai Wiggessä tai Väiski - väistötiloissa. 3.Luokkien 1-5 osalta uuden koulun rakennusaikaiset väistöt järjestetään Kantvikissa, ensisijaisesti lähiliikuntapaikan viereisellä pallokentällä 4.Toimitilapalvelujen seuraavaan kokoukseen tuodaan tarkennettu suunnitelma siitä, kuinka kohtien 2. - 3. järjestelyt käytännössä toteutetaan ja aikataulutetaan. 5.Kirkkonummen Liikekeskuksen tilojen vuokrasopimusta osoitteessa Asematie 3 ei jatketa. Timo Haapaniemi, Hannaleena Kuutilo ja Nina Halme kannattivat Elina Utriaisen vastaesitystä. Nina Halmen esittämä vastaesitys: Toimitilapalvelujen lautakunta päättää: Järjestää Kantvikin koulun rakennushankkeen väistötilaratkaisut hajautetusti niin, että alkuopetuksen (luokat 1–4) tilat toteutetaan Sepänkannaksen Aurapihan AP-tonteille ja ylempien luokkien (luokat 5–6) osalta väistö toteutetaan keskustan olemassa olevissa väistötilarakennuksissa ensisijaisesti niin kutsutussa Väiskissä. Lautakunta piti tauon klo 18.20 – 18.47. Puheenjohtaja totesi, että lautakunta hyväksyi yksimielisesti seuraavat Elina Utriaisen esittämät vastaesitykset: Huoltajien 2.12.2025 järjestetyssä infotilaisuudessa esitettyihin kysymyksiin annetaan vastaukset lautakunnan seuraavaan kokoukseen mennessä. Kantvikin koulun mahdollisesti kiireellisenä tarvittavat väistötilat esitetään sivistyksen toimialalle, että ne järjestetään Jokirinteen oppimiskeskuksessa. Puheenjohtaja totesi, että Elina Utriaisen vastaesitystä järjestää luokkien 1-4 osalta uuden koulun rakennusaikaiset väistöt Kantvikissa ei kannatettu yksimielisesti, jolloin asiasta tulee äänestää. Puheenjohtaja käynnisti äänestyksen: ne, jotka kannattavat esittelijän päätösehdotusta, äänestävät Jaa, ja ne, jotka kannattavat Elina Utriaisen vastaesitystä järjestää luokkien 1-4 osalta uuden koulun rakennusaikaiset väistöt Kantvikissa, äänestävät Ei. Puheenjohtaja päätti äänestyksen ja totesi, että äänet jakautuivat seuraavasti: 6 kpl Jaa-ääntä (Kaaresvirta-Huhta, Jeremejew, Björkqvist, Dostinov, Hedberg ja Lankinen) ja 5 kpl Ei-ääntä (Haapaniemi, Utriainen, Kuutilo, Valli ja Halme), jolloin esittelijän päätösehdotus voitti. Puheenjohtaja totesi, että Miisa Jeremejewin vastaesitystä käyttää vanhoja Kirkkoharjun koulun tiloja vain ja ainoastaan ruokailuun ja, että teknisen työn opetus ja liikunta järjestetään alueen toisten oppilaitoksien tiloissa (Lyyra, Wigge, Jokirinne), ei kannatettu yksimielisesti, jolloin asiasta tulee äänestää. Puheenjohtaja käynnisti äänestyksen: ne, jotka kannattavat esittelijän päätösehdotusta, äänestävät Jaa ja ne, jotka kannattavat Miisa Jeremejewin vastaesitystä käyttää vanhoja Kirkkoharjun koulun tiloja vain ja ainoastaan ruokailuun, äänestävät Ei. Puheenjohtaja päätti äänestyksen ja totesi, että äänet jakautuivat seuraavasti: 3 kpl Jaa-ääntä (Hedberg, Halme, Dostinov) ja 8 kpl Ei-ääntä (Utriainen, Lankinen, Haapaniemi, Kaaresvirta-Huhta, Kuutilo, Björkqvist, Jeremejew ja Valli), jolloin Miisa Jeremejewin vastaesitys käyttää vanhoja Kirkkoharjun koulun tiloja vain ja ainoastaan ruokailuun voitti. Lisäksi puheenjohtaja totesi, että lautakunta kannatti yksimielisesti Elina Utriaisen vastaesitystä, että Kirkkonummen Liikekeskuksen tilojen vuokrasopimusta osoitteessa Asematie 3 ei jatketa",
+        "paatos": "Toimitilapalveluiden lautakunta päätti: 1) järjestää Kantvikin koulun rakennushankkeen väistötilaratkaisut hajautetusti niin, että alkuopetuksen (luokat 1–2) tilat toteutetaan Sepänkannaksen Aurapihan AP-tonteille ja ylempien luokkien (luokat 3–6) osalta väistö toteutetaan keskustan olemassa olevissa väistötilarakennuksissa ensisijaisesti niin kutsutussa Väiskissä. 2) että huoltajien 2.12.2025 järjestetyssä infotilaisuudessa esitettyihin kysymyksiin annetaan vastaukset lautakunnan seuraavaan kokoukseen mennessä. 3) esittää Kantvikin koulun mahdollisesti kiireellisenä tarvittavat väistötilat sivistyksen toimialalle, että ne järjestetään Jokirinteen oppimiskeskuksessa. 4) että vanhoja Kirkkoharjun koulun tiloja käytetään vain ja ainoastaan ruokailuun. Teknisen työn opetus ja liikunta järjestetään alueen toisten oppilaitoksien tiloissa (Lyyra, Wigge, Jokirinne) 5) lähettää päivitetyn väistötilaselvityksen kunnanhallitukselle tiedoksi",
+        "tiedoksi": "sivistyksen toimiala, kunnanhallitus",
+        "selostus": "Oheismateriaalina on vastaukset toimitilapalvelujen lautakunnan 18.11.2025 § 59 esittämiin kysymyksiin ja evästyksiin. Toimitilapalvelujen lautakunnan evästysten pohjalta on edelleen selvitetty väistöratkaisuja. Esitettävässä väistötilaratkaisussa on pyritty löytämään kokonaisratkaisuna paras vaihtoehto huomioiden toteuttamiskelpoisuus, turvallisuus, kustannukset sekä asukkailta ja koululta valmisteluvaiheessa saatu palaute. Esityksenä on, että järjestää Kantvikin koulun rakennushankkeen väistötilaratkaisut hajautetusti niin, että alkuopetuksen (luokat 1–2) tilat toteutetaan Sepänkannaksen Aurapihan AP-tonteille ja ylempien luokkien (luokat 3–6) osalta väistö toteutetaan keskustan olemassa olevissa väistötilarakennuksessa (niin kutsutussa Väiskissä). Vanhoja Kirkkoharjun koulun tiloja on tarkoitus käyttää vain ruokailuun. Tiloissa on suoritettu sisäilmakorjauksia ja olosuhteet ovat tavanomaiset. Teknisen työn opetus ja liikunta voidaan järjestää alueen toisten oppilaitoksen tiloissa (Lyyra, Wigge, Jokirinne). Informaatio- ja keskustelutilaisuus Kantvikin koulun väistötilojen valmistelusta järjestetään koulun oppilaiden huoltajille tiistaina 2.12.2025 klo 18.00 Teams-kokouksena"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": "Liite 1",
+          "title": "Liite 1_Kantvikin koulun sijoitusvaihtoehdot Kantvikissa 4.11.2025",
+          "size": "pdf 598.43 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252216-3-133459.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": "Liite 2",
+          "title": "Liite 3_Kantvikin väistötilavaihtoehtojen kustannusarviot",
+          "size": "pdf 40.67 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252216-3-133461.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": "Liite 3",
+          "title": "Liite_Kantvikin koulun väistötilaselvitys päivitys 10.11.2025",
+          "size": "pdf 317.12 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252216-3-133541.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": "Liite 4",
+          "title": "Liite 2_Toimipalveluiden ja infrapalveluiden selvitys saattoliikenteen ja huoltoliikenteen järjestelyistä Kantvikin koulun väistötiloille 16.9.2025",
+          "size": "pdf 328.52 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252216-3-133542.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": "Liite 5",
+          "title": "Liite 4_Lausunto Kantvikin koulun väistötilaratkaisuista 12.9.2025",
+          "size": "pdf 91.28 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252216-3-133543.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": "Liite 6",
+          "title": "Liite 5_ Kantvikin koulun johtoryhmän näkökulma hajautetusta ratkaisusta 7.11.2025",
+          "size": "pdf 13.53 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252216-3-133544.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": "Oheismateriaali 1",
+          "title": "Topa 4.12.2025, Vastaukset toimitilapalvelujen lautakunnan 18.11.2025 evästyksiin",
+          "size": "pdf 450.06 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252216-3-134571.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Elina Utriainen",
+          "kind": "vastaehdotus",
+          "text": null,
+          "source": "order",
+          "party": "prok"
+        },
+        {
+          "proposer": "Miisa Jeremejew",
+          "kind": "vastaehdotus",
+          "text": null,
+          "source": "order",
+          "party": "vihr"
+        }
+      ]
+    }
+  ],
+  "id": "20252216",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20252216"
+}

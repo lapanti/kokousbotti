@@ -1,0 +1,70 @@
+{
+  "title": "Tarkastuslautakunta Pöytäkirja 09.11.2026 klo 16:08 - 16:12 ⁄ Tarkastettu Teams kokous | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Tarkastuslautakunta",
+  "doctype": "Pöytäkirja",
+  "date": "2026-11-09",
+  "items": [
+    {
+      "id": "20262468-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262468-1",
+      "decision": "Tarkastuslautakunta totesi kokouksen lailliseksi ja päätösvaltaiseksi",
+      "sections": {
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Tarkastuslautakunta totesi kokouksen lailliseksi ja päätösvaltaiseksi",
+        "selostus": "Hallintosäännön 162 §:n mukaan avattuaan kokouksen puheenjohtaja toteaa läsnä olevat sekä kokouksen laillisuuden ja päätösvaltaisuuden. Kuntalain 103 §:n mukaan lautakunta on päätösvaltainen, kun enemmän kuin puolet jäsenistä on läsnä"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20262468-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262468-2",
+      "decision": "Tarkastuslautakunta päätti valita pöytäkirjantarkastajiksi Anna Aintilan ja Kati Kaihlarannan",
+      "sections": {
+        "esittelija": "Etunimi Sukunimi",
+        "paatosehdotus": "Tarkastuslautakunta päättää 1 valita kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan 2 tarkastaa tämän pöytäkirjan kokouksessa",
+        "paatos": "Tarkastuslautakunta päätti valita pöytäkirjantarkastajiksi Anna Aintilan ja Kati Kaihlarannan",
+        "selostus": "Hallintosäännön 173 §:n mukaan pöytäkirjan pitämisestä ja sisällöstä vastaa toimielimen puheenjohtaja. Pöytäkirjan allekirjoittaa puheenjohtaja ja sen varmentaa pöytäkirjanpitäjä. Tarkastuslautakunta on 18.9.2025 § 30 päättänyt, että jokaisessa kokouksessa valitaan kaksi pöytäkirjantarkastajaa. Pöytäkirja tarkastetaan ja allekirjoitetaan sähköisesti. Pöytäkirja asetetaan nähtäväksi tarkastuspäivää seuraavana arkipäivänä. Tarkastuslautakunta valitsee tämän kokouksen pöytäkirjantarkastajat. Hallintosäännön 174 §:n mukaan lautakunnan pöytäkirja pidetään tarkastamisen jälkeen nähtävänä kunnan verkkosivuilla siten kuin kuntalain 140 §:ssä säädetään"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20262468-3",
+      "ordinal": "3",
+      "title": "Tarkastuslautakunnan talousarvio 2027 ja taloussuunnitelma 2027–2029",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262468-3",
+      "decision": "Tarkastuslautakunta päätti 1 esittää kunnanhallitukselle ja edelleen kunnanvaltuustolle tarkastuslautakunnan talousarvioehdotuksen vuodelle 2027 ja taloussuunnitelman vuosille 2027–2029 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+      "sections": {
+        "liitteet": "Numero Otsikko\n1\n1 Tarkastuslautakunnan talousarvio 2027 ja taloussuunnitelma 20282029 (pdf 54.07 kb) Kokousasian teksti Tarkastuslautakunnan talousarvio 2027 ja taloussuunnitelma 2027–2029 Tarkastuslautakunta 09.11.2026 § 53 363/02.02.02/2026",
+        "paatosehdotus": "Tarkastuslautakunta päättää 1 esittää kunnanhallitukselle ja edelleen kunnanvaltuustolle tarkastuslautakunnan talousarvioehdotuksen vuodelle 2027 ja taloussuunnitelman vuosille 2027–2029 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "paatos": "Tarkastuslautakunta päätti 1 esittää kunnanhallitukselle ja edelleen kunnanvaltuustolle tarkastuslautakunnan talousarvioehdotuksen vuodelle 2027 ja taloussuunnitelman vuosille 2027–2029 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": "Liite 1",
+          "title": "Liite 1 Tarkastuslautakunnan talousarvio 2027 ja taloussuunnitelma 20282029",
+          "size": "pdf 54.07 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20262468-3-151358.PDF"
+        }
+      ],
+      "votes": [],
+      "proposals": []
+    }
+  ],
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20262468",
+  "id": "20262468"
+}

@@ -1,0 +1,274 @@
+{
+  "title": "Perusturvalautakunta Pöytäkirja 20.10.2022 klo 17:32 - 18:40 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Perusturvalautakunta",
+  "doctype": "Pöytäkirja",
+  "date": "2022-10-20",
+  "items": [
+    {
+      "id": "20221217-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221217-1",
+      "decision": "Puheenjohtaja totesi kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "valmistelija": "hallinnollinen sihteeri Pauli Katainen, etunimi.sukunimi@kirkkonummi.fi",
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Puheenjohtaja totesi kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20221217-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221217-2",
+      "decision": "Pöytäkirjantarkastajiksi valittiin Ari Suoranta ja Johanna Järvinen. Muilta osin hyväksyttiin päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "hallinnollinen sihteeri Pauli Katainen, etunimi.sukunimi@kirkkonummi.fi",
+        "paatosehdotus": "Perusturvalautakunta päättää 1 valita kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan. Tarkastusvuorossa ovat Minna Hakapää ja Johanna Järvinen, varalla ovat Juha Oksanen ja Jani Kähkönen 2 tarkastaa tämän pöytäkirjan sähköisesti seuraavan aikataulun mukaan: Perjantaina 21.10.2022 lähetetään pöytäkirja sähköpostitse pöytäkirjantarkastajille, jotka ilmoittavat hyväksymisestään v iimeistään maanantaina 24.10.2022. Jos hyväksymisviestiä ei tule sihteerille em. ajankohtaan mennessä, pöytäkirja katsotaan hyväksytyksi. Pöytäkirja allekirjoitetaan sähköisesti. Pöytäkirja on nähtävänä tiistaina 25.10.2022 kunnan verkkosivulla. Yleinen o ikaisuvaatimusaika alkaa keskiviikkona 26.10.2022",
+        "paatos": "Pöytäkirjantarkastajiksi valittiin Ari Suoranta ja Johanna Järvinen. Muilta osin hyväksyttiin päätösehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20221217-3",
+      "ordinal": "3",
+      "title": "Hyvinvointikeskuksen ravintolapalvelun hankinta sekä hankintaperiaatteiden hyväksyminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221217-3",
+      "decision": "Hyväksyttiin päätösehdotuksen mukaisesti",
+      "votes": [
+        {
+          "jaa": [
+            "Markus Myllyniemi",
+            "Johanna Järvinen",
+            "Jani Kähkönen",
+            "Ari Suoranta",
+            "Sami Ragnell",
+            "Maija Jäntti",
+            "Kaj Sjöblom"
+          ],
+          "ei": [
+            "Tero Strand",
+            "Sini Felipe"
+          ],
+          "tyhja": [],
+          "parties": {
+            "jaa": {
+              "vihr": 1,
+              "ps": 2,
+              "pro yl": 1,
+              "liik": 1,
+              "kok": 1,
+              "rkp": 1
+            },
+            "ei": {
+              "sdp": 2
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "jatkokäsittelyä",
+            "ei_label": "Strandin ehdotusta pöydälle jättämisestä",
+            "jaa_kind": "jatkokasittely",
+            "ei_kind": "jatkokasittely",
+            "kind": "procedural_substantive",
+            "rationale": "Keskustelujen kuluessa perusturvalautakunnan jäsen Tero Strand teki seuraavan ehdotuksen: Esitän, että asia jätetään pöydälle.",
+            "winner": null,
+            "source": "parsed",
+            "evidence": "ne, jotka kannattavat jatkokäsittelyä, äänestävät JAA, ja ne, jotka kannattavat Strandin ehdotusta pöydälle jättämisestä, ä änestävät EI"
+          }
+        },
+        {
+          "jaa": [
+            "Markus Myllyniemi",
+            "Johanna Järvinen",
+            "Jani Kähkönen",
+            "Ari Suoranta",
+            "Maija Jäntti",
+            "Jani Kähkönen",
+            "Sami Ragnell",
+            "Kaj Sjöblom"
+          ],
+          "ei": [],
+          "tyhja": [],
+          "parties": {
+            "jaa": {
+              "vihr": 1,
+              "ps": 3,
+              "pro yl": 1,
+              "kok": 1,
+              "liik": 1,
+              "rkp": 1
+            },
+            "ei": {},
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "puheenjohtajan pohjaehdotusta",
+            "ei_label": "Sini Felipen hylkäysesitystä",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": null,
+            "source": "parsed",
+            "evidence": "ne, jot ka kannattavat puheenjohtajan pohjaehdotusta, äänestävät JAA, ja ne, jotka kannattavat Sini Felipen hylkäysesitystä, äänestävät EI"
+          }
+        }
+      ],
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Eriävä_mielipide_Sini_Felipe Hyvinvointikeskuksen ravintolapalvelun hankinta sekä hankintaperiaatteiden hyväksyminen Perusturvalautakunta 20.10.2022 § 61 1069/02.08.00.01/2022",
+        "valmistelija": "Controller Ari Hasu, etunimi.sukunimi@kirkkonummi.fi Joulukuun (2022) alussa käynnistyvään Kirkkonummen hyvinvointikeskukseen on varattu tilat ravintolatoiminnan harjoittamista varten (mm. henkilöstön työpaikkaruokailun jä rjestämistä, asiakkaiden ja vierailijoiden ruokailua, kokoustarjoiluj a sekä kahvilatoimintaa varten). Ravintolatoiminnan harjoittajaksi haetaan ulkoista palveluntuottajaa, ja tästä syystä käyttöoikeus ravintolatoiminnan harjoittajan hakemiseksi tulee kilp ailuttaa julkisena hankintana (ns. käyttöoikeussopimuksena). Edellä tarkoitetussa hyvinvointikeskuksessa on suunnitteilla käynnistettäväksi kunnan omana toimintana tuotettava ikäihmisten kuntouttavaa päivätoimintaa koskeva palvelu. Osana edellä tarkoite ttua palvelua tarjotaan asiakkaille aamupala ja välipala. Ikäimisten kuntouttavan päivätoiminnan asiakkaille tarjottavat ateriat on tarkoituksenmukaista hankkia hyvinvointikeskuksen ravintolan tuottamana (ja yhdistää se edellä tarkoitettuihin hankittaviin palveluihin). Toimivalta: perusturvalautakunta 30.01.2020, § 5: perusturvalautakunta hyväksyy hankintaperiaatteet sellaisissa hankinnoissa, joissa hankinnan ennakoitu arvo (alv 0%) ylittää 1.000.000 euroa",
+        "liitteet": "Hankintaperiaatteet/hyvinvointikeskuksen ravintolapalvelu (ei vielä julkinen : laki viranomaisen toiminnan julkisuudesta (621/ 1999 ) 6 §, 1 mom. kohta 2)",
+        "esittelija": "vs. Perusturvajohtaja Pekkarinen-Keto Sirkku",
+        "paatosehdotus": "P erusturvalautakunta hyväksyy liitteen \"Hankintaperiaatteet/ hyvinvointikeskuksen ravintolapalvelu \"",
+        "kasittely": "Keskustelujen kuluessa perusturvalautakunnan jäsen Tero Strand teki seuraavan ehdotuksen: Esitän, että asia jätetään pöydälle. Lautakunta palaa asiaan, kun hyvinvointialueelta on saatu puoltava tai kieltävä vastaus . Perusturvalautakunnan jäsen Sini Felipe kannatti Strandin ehdotusta. Käytiin keskustelua asian pöydälle jättämisestä. Koska kokouksessa oli tehty kannatettu pöydällepanoesitys, josta ei oltu yksimielisiä, oli äänestettävä. Puheenjohtaja ehdotti, että äänestäminen suoritetaan siten, että ne, jotka kannattavat jatkokäsittelyä, äänestävät JAA, ja ne, jotka kannattavat Strandin ehdotusta pöydälle jättämisestä, ä änestävät EI. Suoritettiin äänestys puheenjohtajan ehdotuksen mukaisesti. Äänestyksessä annettiin yhdeksän ääntä. JAA-ääniä annettiin seitsemän ja EI-ääniä kaksi. Jatkokäsittely sai enemmän ääniä. JAA äänestivät Markus Myllyniemi, Johanna Järvinen, Jani Kähkönen, Ari Suoranta, Sami Ragnell, Maija Jäntti ja Kaj Sjöblom. EI äänestivät Tero Strand ja Sini Felipe. Pöydällepanoesityksen hylkäämisen jälkeen jatkettiin asian käsittelyä. Perusturvalautakunnan jäse n Sini Felipe teki seuraavan vastaehdotuksen: Lautakunta ei hyväksy ravintolatoiminnan kilpailutuksen aloittamista. Hankinta koskee jo aikaa, jolloin toiminta on hyvinvointialueella. Tästä syystä hyvinvointialueen tulisi olla hankinnasta vastaava taho. Perusturvalautakunnan jäsen Tero Strand kannatti Sini Felipen vastaehdotusta. Koska oli tehty kannatettu, esittelijän pohjaehdotuksesta poikkeava vastaehdotus, jota ei hyväksytty yksimielisesti, tästä äänestettiin. Puheenjohtaja ehdotti, että ne, jot ka kannattavat puheenjohtajan pohjaehdotusta, äänestävät JAA, ja ne, jotka kannattavat Sini Felipen hylkäysesitystä, äänestävät EI. Äänestyksessä annettiin yhdeksän ääntä. JAA-ääniä annettiin seitsemän ja EI-ääniä kaksi. Esittelijän pohjaehdotus sai ene mmän ääniä. JAA äänestivät Markus Myllyniemi, Johanna Järvinen, Jani Kähkönen, Ari Suoranta, Maija Jäntti, Jani Kähkönen, Sami Ragnell ja Kaj Sjöblom. Sini Felipe ja Tero Strand jättivät kokouksessa eriävän mielipiteen perusturvalautakunnan päätöksestä. Sini Felipen 20.10.2022 toimittamat eriävän mielipiteen kirjalliset perustelut on liitetty pöytäkirjan liitteeksi",
+        "paatos": "Hyväksyttiin päätösehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Eriävä_mielipide_Sini_Felipe",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20221217-3-81621.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Sini Felipe",
+          "kind": "vastaehdotus",
+          "text": "Lautakunta ei hyväksy ravintolatoiminnan kilpailutuksen aloittamista. Hankinta koskee jo aikaa, jolloin toiminta on hyvinvointialueella. Tästä syystä hyvinvointialueen tulisi olla hankinnasta vastaava taho. Perusturvalautakunnan jäsen Tero Strand kannatti Sini Felipen vastaehdotusta. Koska oli tehty kannatettu, esittelijän pohjaehdotuksesta poikkeava vastaehdotus, jota ei hyväksytty yksimielisesti, tästä äänestettiin",
+          "source": "introduction",
+          "party": "sdp"
+        }
+      ]
+    },
+    {
+      "id": "20221217-4",
+      "ordinal": "4",
+      "title": "Aluehallintoviraston selityspyyntö: lastensuojelun määräaikojen valtakunnallinen valvonta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221217-4",
+      "decision": "Hyväksyttiin päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Aluehallintoviraston selityspyyntö Lastensuojelun määräaikojen valtakunnallinen valvonta 1.10.2021- Aluehallintoviraston päätös Lastensuojelun määräaikojen valtakunnallinen valvonta, 1.10.2021-31.3.22 Aluehallintoviraston selityspyyntö: lastensuojelun määräaikojen valtakunnallinen valvonta Perusturvalautakunta 20.10.2022 § 62 419/05.09.00/2022",
+        "valmistelija": "palvelujohtaja, perhepalvelut Maaret Laine ja palvelupäällikkö, perhesosiaalityö Maaret Manninen, etunimi.sukunimi@kirkkonummi.fi Terveyden ja hyvinvoinninlaitos (THL) pyytää lastensuojelulain 27 a §:n perusteella kunnilta tai kuntayhtymiltä kaksi kertaa kalenterivuodessa tiedot lastensuojelulaissa säädettyjen määräaikojen noudattamisesta. THL luovuttaa keräämänsä tiedot Sosiaali- ja terveysalan lupa- ja valvontavirastolle (Valvira), joka siirtää kuntien/kuntayhtymien kyselyyn antamat vastaukset aluehallintovirastolle käsiteltäväksi sosiaalihuoltolain mukaisena valvonta-asiana. Kirkkonummen kunnan lastensuojelun antamat vastaukset on edellä mainitun menettelyn mukaisesti siirretty aluehallintovi rastolle, koska vastausten mukaan laissa säädetyt määräajat ovat ylittyneet. Kirkkonummen kunnan lastensuojelun THL:n kyselyyn ajanjaksolta 1.10.2021-31.3.2022 antamien vastausten perusteella lastensuojelulain edellyttämät määräajat eivät kaikilta osin ole lainmukaiset. Ennen kuin asiassa ryhdytään mahdollisiin edellä mainitun sosiaalihuoltolain 56 tai 57 §:n mukaisii n toimenpiteisiin, Etelä-Suomen aluehallintovirasto varaa Kirkkonummen perusturvalautakunnalle hallintolain 34 §:n mukaisesti tilaisuuden antaa kirjallinen selitys edellä esitetystä. Erityisesti selityksestä tulee käydä ilmi, onko lastensuojelulain mukaise t määräajat saatettu lainmukaisiksi THL:lle toimitettujen vastausten jälkeen ja ne toimenpiteet, joilla kunta tulee korjaamaan tilanteen lainmukaiseksi. Selitys tulee toimittaa aluehallintovirastoon 16.9.2022 mennessä. Selityksenä määräaikojen ylittämis een Kirkkonummen kunnan perusturvalautakunta on lausunut 12.9.2022 päivätyssä vastauksessa seuraavaa: Kirkkonummen perhesosiaalityön ja lastensuojelun palveluyksikössä on valitettavasti ollut työntekijöiden vaihtuvuutta. Ensiarviotiimiin tuli yksi uusi s osiaalityöntekijä ja kaksi uutta sosiaaliohjaajaa elo-syyskuun vaihteessa 2021. Tiimin kokonaisvahvuus on ollut viime vuoden syksystä asti kolme sosiaalityöntekijää ja neljä sosiaaliohjaajaa, joten puolet tiimin jäsenistä olivat uusia. Syksyn 2021 aikana k iireellisiä sijoituksia ja muita akuutteja lastensuojelun asiakasasioita tuli aiempaa enemmän uusien asiakkaiden kohdalla, jotka hoidetaan ensiarviotiimissämme. Ensiarviotiimimme huolehtii myös lapsiperheiden virka-aikaisesta päivystyksestä. Haastavaan til anteeseen suhteutettuna, on lastensuojelulain 26§:ssä säädettyjä määräaikoja kyetty noudattamaan hyvin. Palvelutarpeen aloituksien osalta määräajan ylittäneitä on kaksi: - lastensuojeluilmoitus saapunut 22.9.21 ja käsitelty 11.10.21 - lastensuojeluilmoitus saapunut 3.2.21 ja käsitelty 23.2.1 Helmikuussa myöhästynyt palvelutarpeen aloitus on ollut tilanteessa, missä perheen toinen lapsi on ollut lastensuojelun avohuollon asiakkuudessa. Kyseisen lapsen vastuusosiaalityöntekijä on vaihtu nut ja siksi lastensuojeluilmoituksen käsittely on viivästynyt. Uusi vastuusosiaalityöntekijä on käsitellyt ilmoituksen, koska on ollut perusteltua käsitellä perheen tilannetta kokonaisuutena. Syyskuussa tapahtuneessa viivästyksessä ei ole erityistä yksitt äistä syytä. Yhteydenotto perheeseen ja palvelutarpeen aloitus on viivästynyt syksyn kuormittuneesta työtilanteesta johtuen. Palvelutarpeen arvioinnin kolmen kuukauden määrä aika on ylitt y nyt yhteensä 11 perheen kohdalla. Palvelutarpeen arvioinneista viis i on valmistunut vain muutama päivä määräajan päättymisen jälkeen. Kuudessa palvelutarpeen arvioinnissa ylitys on ollut 1-2 kuukautta. Syyt ovat olleet mm. seuraavia: - aktiivista työskentelyä perheen kanssa palvelutarpeen arvioinnin aikana, olennaista ollu t saada pidettyä verkostoneuvottelut yhteistyötahojen (perheneuvola ja vanhemman hoitotaho) kanssa, jolloin määräaika on ylittynyt - vanhempaa/huoltajaa ei ole tavoitettu useista yrityksistä huolimatta (2 perheen kohdalla) - nuorisopsykiatrian asiakirjojen saaminen viivästynyt. Kahden perheen kohdalla kontaktissa perheen kanssa ollut pitkähkö tauko arvioinnin aikana. Syynä sosiaalityöntekijän poissaolot ja siitä seurannut kuormittunut työtilanne",
+        "esittelija": "vs. Perusturvajohtaja Pekkarinen-Keto Sirkku",
+        "paatosehdotus": "Perusturvalautakunta antaa selostusosan mukaisen lausunnon vastaukseksi aluehallintoviraston selityspyyntöön lastensuojelun määräajoista ajalla 1.10.2021-31.3.202 2",
+        "paatos": "Hyväksyttiin päätösehdotuksen mukaisesti",
+        "tiedoksi": "Asian valmistelijat"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Aluehallintoviraston selityspyyntö Lastensuojelun määräaikojen valtakunnallinen valvonta 1.10.2021-",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20221217-4-80293.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Aluehallintoviraston päätös Lastensuojelun määräaikojen valtakunnallinen valvonta, 1.10.2021-31.3.22",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20221217-4-81525.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20221217-5",
+      "ordinal": "5",
+      "title": "Hyvinvointikeskukseen muuttamisen vuoksi tehtävät toimipisteiden lakkauttamiset ja poikkeavat aukioloajat",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221217-5",
+      "decision": "Hyväksyttiin päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko Hyvinvointikeskukseen muuton vuoksi suljettavat toimipisteet ja niiden sulkemisajankohdat Hyvinvointikeskukseen muuttamisen vuoksi tehtävät toimipisteiden lakkauttamiset ja poikkeavat aukioloajat Perusturvalautakunta 20.10.2022 § 63 533/00.01.02/2021\nHyvinvointikeskukseen muuttamisen vuoksi tehtävät toimipisteiden lakkauttamiset ja poikkeavat aukioloajat",
+        "valmistelija": "Perusturvapalvelujen palveluryhmien vastuuhenkilöt , etunimi.sukunimi@kirkkonummi.fi Perusturvan palvelut siirtyvät uuteen Kirkkonummen hyvinvointikeskukseen loka -joulukuun vaihteessa ja toiminta uus issa tiloissa alkaa 1.12.2022. Perusturvalautakunnalle esitetään muuton myötä vapautuvien perusturvan toimipisteiden lakkauttamista ja muutosta johtuvia poikkeavia aukioloaikoja. Kirkkonummen hallintosäännön 18 §:n mukaan lautakunnan toimivaltaan kuulu u päättää hallinnassaan olevien kiinteistöjen, toimitilojen, laitosten ja alueiden käyttöperiaatteista ja aukiolosta",
+        "esittelija": "vs. Perusturvajohtaja Pekkarinen-Keto Sirkku",
+        "paatosehdotus": "Perusturvalautakunta päättää hyväksyä Kirkkonummen h yvinvointikeskukseen muuttamisen vuoksi tehtävät toimipisteiden lakkauttamiset ja poikkeavat aukioloajat liitteen mukaisesti",
+        "paatos": "Hyväksyttiin päätösehdotuksen mukaisesti",
+        "tiedoksi": "Perusturvan palveluryhmien palvelujohtajat , vt. johtava ylilääkäri , Tua Degerlund, kunnantalon palvelupisteen henkilöstö , kunnan kirjaamo , Kirkkonummen hyvinvointikeskuksen käyttöönottoprojektin valmistelijat"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Hyvinvointikeskukseen muuton vuoksi suljettavat toimipisteet ja niiden sulkemisajankohdat",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20221217-5-80895.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20221217-6",
+      "ordinal": "6",
+      "title": "Eron myöntäminen perusturvajaoston jäsenyydestä ja uuden jäsenen nimeäminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221217-6",
+      "decision": "Perusturvalautakunta päätti 1 myöntää eron Sanna Rautiolle perusturvajaoston varajäsenyydestä 2 nimetä Piia Aallonharjan uudeksi varajäseneksi perusturvajaostoon Sanna Raution tilalle toimikauden loppuun",
+      "votes": [],
+      "sections": {
+        "valmistelija": "Hallinnollinen sihteeri Pauli Katainen , etunimi.sukunimi@kirkkonummi.fi Kirkkonummen kunnan hallintosäännön 7 §:n mukaisesti perusturvalautakunta valitsee perusturvajaoston jäsenet. Perusturvajaoston puheenjohtaja on perusturvalautakunnan jäsen ja varsinainen valtuutettu. Varapuheenjohtaja on varsinainen valtuutettu tai varavaltuutettu. Kuntalain 70 §:n mukaisesti luottamustoimesta voi erota pätevästä syystä. Eron myöntämisestä päättää luottamushenkilön valinnut toimielin. Perusturvalautakunta on nimennyt 16.9.2021 § 120 p erusturvajaoston jäsen et ja varajäsen et kaudelle 2021 - 2025 . Perusturvajaoston vara jäsen Sanna Rautio (ent. Hartikainen ) on pyytänyt 23 . 9 .202 2 eroa perusturvajaostosta paikkakunnalta muuton takia . Perusturvajaoston nykyinen kokoonpano on seuraava: jäsen Johanna Järvinen varajäsen Sanna Rautio jäsen Jen ny Mäkinen varajäsen Kaj Sjöblom jäsen Katja Juuti varajäsen Pekka Oksanen jäsen Lauri Lavanti varajäsen Irja Kekkonen jäsen Mikael Ljungberg varajäsen Maija Jäntti Perusturvajaoston puheenjohtaja on Johanna Järvinen ja varapuheenjohtaja Jenny Mäkinen",
+        "esittelija": "vs . Perusturvajohtaja Pekkarinen-Keto Sirkku",
+        "paatosehdotus": "Perusturvalautakunta päättää 1 myöntää eron Sanna Rautiolle perusturvajaoston varajäsenyydestä 2 nimetä uuden varajäsenen perusturvajaostoon Sanna Raution tilalle toimikauden loppuun",
+        "kasittely": "Perusturvalautakunnan jäsen Johanna Järvinen ehdotti, että perusturvajaoston uudeksi varajäseneksi Sanna Raution tilalle nimetään Piia Aallonharja. Perusturvalautakunnan puheenjohtaja Markus Myllyniemi kannatti Johanna Järvisen ehdotusta. Perusturval autakunta hyväksyi yksimielisesti Johanna Järvisen ehdotuksen",
+        "paatos": "Perusturvalautakunta päätti 1 myöntää eron Sanna Rautiolle perusturvajaoston varajäsenyydestä 2 nimetä Piia Aallonharjan uudeksi varajäseneksi perusturvajaostoon Sanna Raution tilalle toimikauden loppuun",
+        "tiedoksi": "Asianosaiset, perusturvajaoston sihteeri, perusturvajaoston puheenjohtaja, palkkatiimi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20221217-7",
+      "ordinal": "7",
+      "title": "Ilmoitusasioita tiedoksi",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221217-7",
+      "decision": "Hyväksyttiin päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "hallinnollinen sihteeri Pauli Katainen , etunimi.sukunimi@kirkkonummi.fi Aluehallinto virasto Yksityisen terveydenhuollon palvelujen antamista koskevan luvan muuttaminen (Toimipaikan/toimiston osoitteen muutos)",
+        "paatos": "Hyväksyttiin päätösehdotuksen mukaisesti",
+        "paatosehdotus": "Perusturvalautakunta merkitsee ilmoitusasiat tiedokseen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "paatos_labels": 25,
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20221217-8",
+      "ordinal": "8",
+      "title": "Muut asiat",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221217-8",
+      "decision": null,
+      "votes": [],
+      "sections": {},
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    }
+  ],
+  "id": "20221217",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20221217"
+}

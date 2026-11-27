@@ -1,0 +1,721 @@
+{
+  "title": "Kunnanhallitus Pöytäkirja 26.02.2024 klo 16:30 - 20:18 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Kunnanhallitus",
+  "doctype": "Pöytäkirja",
+  "date": "2024-02-26",
+  "items": [
+    {
+      "id": "20241665-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241665-1",
+      "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Kokous todettiin lailliseksi ja päätösvaltaiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241665-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241665-2",
+      "decision": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti. Pöytäkirjantarkastajiksi valittiin Antti Kilappa ja Markus Myllyniemi",
+      "votes": [],
+      "sections": {
+        "valmistelija": "hallinnon asiantuntija Gunnel Ekström, etunimi.sukunimi@kirkkonummi.fi",
+        "paatosehdotus": "Kunnanhallitus päättää 1 valita kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan 2 tarkastaa tämän pöytäkirjan sähköisesti seuraavan aikataulun mukaan: Torstaina 29.2.2024 lähetetään pöytäkirja sähköpostitse pöytäkirjantarkastajille, jotka ilmoittavat hyväksymisestään viimeistään maanantaina 4.3.2024. Jos hyväksymisviestiä ei tule sihteerille em. ajankohtaan mennessä, pöytäkirja katsotaan hyväksytyksi. Pöytäkirja allekirjoitetaan sähköisesti. Pöytäkirja on nähtävänä tiistaina 5.3.2024 kunnan verkkosivulla. Yleinen oikaisuvaatimusaika alkaa keskiviikkona 13.3.2024",
+        "paatos": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti. Pöytäkirjantarkastajiksi valittiin Antti Kilappa ja Markus Myllyniemi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241665-3",
+      "ordinal": "3",
+      "title": "Ostopalvelusopimus yritysneuvontapalveluiden tuottamisesta Kirkkonummen, Vihdin ja Siuntion kuntien kesken",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241665-3",
+      "decision": "Kunnanhallitus päätti ehdotuksen mukaisesti",
+      "votes": [
+        {
+          "jaa": [
+            "Antti Kilappa",
+            "Kim Männikkö",
+            "Saara Huhmarniemi",
+            "Kati Kaihlaranta",
+            "Markus Myllyniemi",
+            "Anna Aintila",
+            "Ulf Kjerin"
+          ],
+          "ei": [
+            "Ari Harinen",
+            "Piia Aallonharja",
+            "Anneli Granström",
+            "Timo Haapaniemi",
+            "Matti Kaurila",
+            "Anna Sahiluoma"
+          ],
+          "tyhja": [],
+          "totals": {
+            "jaa": 7,
+            "ei": 6,
+            "tyhja": 0
+          },
+          "parties": {
+            "jaa": {
+              "pro yl": 1,
+              "rkp": 3,
+              "vihr": 2,
+              "vas": 1
+            },
+            "ei": {
+              "sdp": 1,
+              "ps": 2,
+              "kok": 3
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "päätösehdotusta",
+            "ei_label": "Piia Aallonharjan muutosehdotusta",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": "jaa",
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat päätösehdotusta äänestätävät JAA, ja ne jotka kannattavat Piia Aallonharjan muutosehdotusta äänestävät EI — annettiin 7 JAA ja 6 EI ääntä."
+          }
+        }
+      ],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 1 Sopimusluonnos yritysneuvontapalveluiden yhteistyöstä Vihti-Kirkkonummi-Siuntio 2 LIITE 1 Yritysneuvontapalveluiden kustannusten jako Ostopalvelusopimus yritysneuvontapalveluiden tuottamisesta Kirkkonummen, Vihdin ja Siuntion kuntien kesken Kunnanhallitus 26.02.2024 § 41 860/14.00.01/2023",
+        "valmistelija": "hallintojohtaja Jaana Suihkonen, etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "sai enemmän ääniä ja voitti. JAA äänestivät: Antti Kilappa, Kim Männikkö, Saara Huhmarniemi, Kati Kaihlaranta, Markus Myllyniemi, Anna Aintila ja Ulf Kjerin (antoi äänensä suullisesti) EI äänestivät: Ari Harinen, Piia Aallonharja, Anneli Granström, Timo Haapaniemi, Matti Kaurila ja Anna Sahiluoma",
+        "kasittely": "Vihdin elinvoimapäällikkö Mika Partanen osallistui kokoukseen tämän pykälän aikana teamsin välityksellä ja esitteli asiaa. Hän poistui kokouksesta klo 16.53. Palvelupäällikkö Tony Sandström oli läsnä tämän pykälän aikana. Puheenjohtaja julisti keskustelun päättyneeksi ja totesi, että keskustelun aikana Piia Aallonharja on tehnyt seuraavan muutosehdotuksen: Kunnanhallitus päättää 1 hyväksyä liitteenä olevan ostopalvelusopimuksen yritysneuvontapalveluiden tuottamisesta Kirkkonummen, Siuntion ja Vihdin kesken. Sopimuksen tekeminen edellyttää, että Siuntio ja Vihti omalta osaltaan hyväksyvät sopimuksen. 2 että sopimus irtisanotaan 30.9.2024 mennessä, jolloin se päättyy 31.12.2024. 3 että kunnanjohtajalle myönnetään oikeus tehdä tarvittaessa teknisluontoisia muutoksia ostosopimukseen. 4 kehottaa virkahenkilöstöä viipymättä käynnistämään valmistelun Kirkkonummen yritysneuvontapalveluiden tuottamisesta 1.1.2025 alkaen sekä samalla selvittämään sopimusosapuolten valmiuden osallistua kyseiseen yhteistoimintaan 2025 eteenpäin esimerkiksi työllisyysalueen yhteisen kehitysyhtiön muodossa 5 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa. Muutosehdotusta kannattivat Ari Harinen, Anna Sahiluoma ja Anneli Granström. Muutosehdotusta ei hyväksytty yksimielisesti joten puheenjohtaja ilmoitti, että asiasta on äänestettävä. Puheenjohtaja ehdotti että asiasta äänestetään niin, että ne jotka kannattavat päätösehdotusta äänestätävät JAA, ja ne jotka kannattavat Piia Aallonharjan muutosehdotusta äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 7 JAA ääntä ja 6 EI ääntä",
+        "paatos": "Kunnanhallitus päätti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Sopimusluonnos yritysneuvontapalveluiden yhteistyöstä Vihti-Kirkkonummi-Siuntio",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241665-3-103537.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "LIITE 1 Yritysneuvontapalveluiden kustannusten jako",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241665-3-103536.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Piia Aallonharja",
+          "kind": "vastaehdotus",
+          "text": null,
+          "source": "order",
+          "party": "ps"
+        }
+      ]
+    },
+    {
+      "id": "20241665-4",
+      "ordinal": "4",
+      "title": "Kirkkonummen, Vihdin ja Siuntion kuntien työllisyysalueita koskeva toimivalta (TE2025-uudistus)",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241665-4",
+      "decision": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "kunnanlakimies Hannu Sorvari, etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää 1 antaa Työllisyysalueen palvelut palveluryhmän palvelupäällikölle ja projektipäälliköille vuonna 2024 valtuuden neuvotella sellaisista TE-palveluiden asioista, jotka koskevat työnvälitys- ja yrityspalvelun siirtämistä Kirkkonummen, Vihdin ja Siuntion työllisyysalueelle. 2 valtuuttaa palvelupäällikön ja hallintojohtajan vuonna 2024 päättämään työnvälitys- ja yrityspalvelun siirtämistä Kirkkonummen, Vihdin ja Siuntion työllisyysalueelle koskevista asioista",
+        "kasittely": "Palvelupäällikkö Tony Sandström oli läsnä tämän pykälän aikana ja poistui kokouksesta pykälän jälkeen klo 18.39. Kunnanhallitus piti tauon tämän pykälän jälkeen klo 18.39 - 18.48",
+        "paatos": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+        "selostus": "Kirkkonummen, Vihdin ja Siuntion kuntien TE-uudistuksen sujuva toteutus edellyttää väliaikaista toimivaltaa eräille viranhaltijoille. Tämä toimivalta mahdollistaa tulevan työllisyysalueen valmistelutyön, jonka tavoitteena on turvata palvelutuotanto ja varmistaa lakisääteisten tehtävien hoitaminen. Kuntien yhteisen lautakunnan on tarkoitus aloittaa työnsä keväällä 2024. Kevään 2024 aikana neuvotellaan ja sovitaan valtion ja työllisyysalueiden välillä sopimusten ja henkilöstön siirtämiseen liittyvistä asioita. Nämä asiat koskevat operatiivisia käytännön järjestelyjä sovittujen palvelujen toteuttamiseksi (Kirkkonummen, Vihdin ja Siuntion välinen yhteistoimintasopimus). Nämäkin asiat edellyttävät nopeaa palautetta, jotta valmistelutyö voi edetä paitsi Kirkkonummen myös muiden työllisyysalueiden ja valtion osalta. Hallintosäännön mukaan kunnanhallitus vastaa sopimuksista ja kuntien väliseen yhteistyöhön liittyvistä asioista. Yhteisen työllisyysalueen kuntien välisessä sopimuksessa ei ole otettu kantaa viranhaltijoiden neuvottelu- ja päätösvaltaan vuonna 2024. Lakisääteisten tehtävien hoitamisen varmistamiseksi 1.1.2025 alkaen on tärkeää, että eräille viranhaltijoille myönnetään väliaikainen toimivalta vuonna 2024. Ehdotus toimivallan siirtämiseksi: TE-uudistukseen asiantuntevimmat ja parhaiten perehtyneet viranhaltijat ovat Työllisyysalueen palvelut palveluryhmän palvelupäällikkö ja palveluryhmän projektipäälliköt, joille on sovitun palvelun puitteissa annettava neuvotteluoikeus sopimusten ja resurssien siirtämiseen valtiolta työllisyysalueelle. Päätösvalta delegoidaan palvelupäällikölle ja hallintojohtajalle. Viranhaltijapäätökset lähetetään kunnanhallituksen valvottaviksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241665-5",
+      "ordinal": "5",
+      "title": "Kirkkonummen kuntastrategia 2024-2030, Kv",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241665-5",
+      "decision": "Kunnanhallitus päätti yksimielisesti 1 ehdottaa kunnanvaltuustolle, että valtuusto hyväksyy kunnanhallituksen ehdotuksen Kirkkonummen kuntastrategiaksi vuosille 2024-2030 seuraavin muutoksin: - sivu 3: metropolialueen halutuin ja elinvoimaisin kunta. (ei pikkukaupunki) - sivu 6 ensimmäinen kappale muutetaan muotoon: Kirkkonummi on viihtyisä, turvallinen, luonnonläheinen ja pientalovaltainen kunta kaikenikäisille asukkailleen. Kunta on lapsi-, nuori- ja ikäystävällinen sekä yhteisöllinen asuinpaikka. Kehitämme kunnan keskustaa pienkaupunkimaisesti. Viimeinen kappale seuraavasti: Vahvistamme yhteistyöverkostoja muiden kuntien, elinkeinoelämän sekä kolmannen sektorin kanssa. - sivu 7, neljännen kappaleen loppuun: Maaseutuelinkeinot ovat elinvoimaisia ja edistämme ruoan lähituotantoa. - sivu 7 otsikko: Metropolialueen halutuin, virein ja elinvoimaisin kunta. (ei pikkukaupunki), toinen kappale: Kasvamme suunnitelmallisesti ja hallitusti. Kaavoitamme pientalovaltaisesti luonnonläheisiä, viihtyisiä ja turvallisia asuinalueita. Palvelutarjontamme vastaa kasvavan ja ikääntyvän väestön tarpeisiin. Kuudes kappale: lisätään merellisyyden jälkeen järvet - sivu 9: karttaan valtuutetaan viranhaltijat tekemään tarkoituksenmukaiset muutokset. Esimerkiksi koulut, puolustusvoimat ja hyvinvointikeskus. Upinniemen varuskunta, tärkeä laivastotukikohta Nato Suomessa. - sivu 10: \"Vapaa-ajan asuntojen kehitys\" muutetaan muotoon: Pientaloasuntojen määrän kehitys - sivu 10: \"Palveluyritysten määrä/liikevaihto\" muutetaan muotoon Palveluyritysten määrä ja liikevaihto - sivu 10: \"Verotulot asukasta kohti\" jälkeen uusi kohta: Yhteisöverotulojen kehitys - sivu 10: \"Yritysten lukumäärä/liikevaihto \" muutetaan muotoon: Yritysten määrä ja liikevaihto - sivu 11 sana \"Toimintapaohjeet\" poistetaan - Kirkkonummi 700 vuotta sivistystä -kartan Valtatie 1 kyltti moottoritien oikean reunaan ja kyltin teksti VEIKKOLA 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+      "votes": [],
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Kirkkonummen strategia 2024 Kirkkonummen kuntastrategia 2024-2030, Kv Kunnanhallitus 26.02.2024 § 43 51/00.01.03/2022",
+        "valmistelija": "Kunnanjohtaja Virpi Sailas Hallintojohtaja Jaana Suihkonen Yhdyskuntatekniikan johtaja Anna-Kaisa Kauppinen Sivistysjohtaja Eeva-Kaisa Ikonen Suunnittelija Emilia Tiainen etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää 1 ehdottaa kunnanvaltuustolle, että valtuusto hyväksyy kunnanhallituksen ehdotuksen Kirkkonummen kuntastrategiaksi vuosille 2024-2030. 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "kasittely": "Puheenjohtaja julisti keskustelun päättyneeksi ja totesi, että keskustelun aikana on tehty muutosehdotuksia seuraavasti: Ulf Kjerinin muutosehdotus: Ehdotan seuraavat muutokset kuntastrategiaan: sivu 3 metropolialueen halutuin ja elinvoimaisin kunta. (ei pikkukaupunki) sivu 6 kolmannen kappaleen lisäyksenä, Kirkkonummella maaseutuelinkeinot ovat elinvoimaisia ja edistämme ruoan lähituotantoa. viimeinen kappale kuuluu seuraavasti: Vahvistamme yhteistyöverkostoja muiden kuntien, elinkeinoelämän sekä kolmannen sektorin kanssa. sivu 7 otsikko Metropolialueen halutuin, virein ja elinvoimaisin kunta. (ei pikkukaupunki) toinen kappale: Kasvamme suunnitelmallisesti ja hallitusti. Kaavoitamme pientalovaltaisesti luonnonläheisiä, viihtyisiä ja turvallisia asuinalueita. Palvelutarjontamme vastaa kasvavan ja ikääntyvän väestön tarpeisiin. Kuudes kappale: lisätään merellisyyden jälkeen järvet Muutosehdotusta kannattivat Matti Kaurila, Piia Aallonharja, Anna Aintila, Kim Männikkö, Anneli Granström, Timo Haapaniemi ja Anna Sahiluoma. Timo Haapaniemen muutosehdotus, jossa uusi muotoilu: Sivu 6 alussa, ensimmäinen kappale: Kirkkonummi on pienkaupunkimainen kunta. Kunta on lapsi- ja ikäystävällinen ja yhteisöllinen asuinpaikka, jossa viihtyvyyteen ja turvallisuuteen panostetaan. TUON SIJAAN: Kirkkonummi on viihtyisä, turvallinen, luonnonläheinen ja pientalovaltainen kunta kaikenikäisille asukkailleen. Kehitämme kunnan keskustaa pienkaupunkimaisesti. Muutosehdotusta kannattivat Matti Kaurila, Ulf Kjerin, Kim Männikkö ja Anna Sahiluoma. Timo Haapaniemen muutosehdotus: Sivu 10: Vapaa-ajan asuntojen kehitys SEN SIJAAN Pientaloasuntojen määrän kehitys Muutosehdotusta kannattivat Matti Kaurila, Piia Aallonharja, Ulf Kjerin, Anneli Granström ja Anna Sahiluoma. Timo Haapaniemen muutosehdotus, Pieni muotoilu: Sivu 10: Palveluyritysten määrä/liikevaihto SEN SIJAAN Palveluyritysten määrä ja liikevaihto Muutosehdotusta kannattivat Matti Kaurila, Piia Aallonharja, Ulf Kjerin, Kim Männikkö, Anneli Granström, Ari Harinen ja Anna Sahiluoma. Timo Haapaniemen lisäysehdotus: Sivu 10: Verotulot asukasta kohti SEN JÄLKEEN UUSI KOHTA Yhteisöverotulojen kehitys Lisäysehdotusta kannattivat Matti Kaurila, Piia Aallonharja, Ulf Kjerin, Kim Männikkö, Anneli Granström ja Kati Kaihlaranta. Timo Haapaniemen muutosehdotus, Pieni muotoilu: Sivu 10: Yritysten lukumäärä/liikevaihto SEN SIJAAN Yritysten määrä ja liikevaihto Muutosehdotusta kannattivat Matti Kaurila, Piia Aallonharja, Ulf Kjerin, Kim Männikkö, Anneli Granström, Ari Harinen ja Anna Sahiluoma. Antti Kilapan muutosehdotus muutosesitys sivu 6: Kunta on lapsi, nuori- ja ikäystävällinen sekä yhteisöllinen asuinpaikka, jossa viihtyvyyteen ja turvallisuuteen panostetaan. Muutosehdotusta kannattivat Ari Harinen, Matti Kaurila, Kati Kaihlaranta ja Saara Huhmarniemi. Matti Kaurilan muutosehdotus: Kirkkonummi 700 vuotta sivistystä -kartan Valtatie 1 kyltti moottoritien oikean reunaan ja kyltin teksti VEIKKOLA > Muutosehdotusta kannattivat Piia Aallonharja, Anna Sahiluoma, Markus Myllyniemi, Anneli Granström ja Anna Aintila. Saara Huhmarniemen lisäysesitys: Valtuutetaan viranhaltijat tekemään s. 9 karttaan kokouksessa esille tuodut tarkoituksenmukaiset muutokset. Esimerkiksi koulut, puolustusvoimat ja hyvinvointikeskus. Lisäysehdotusta kannattivat Markus Myllyniemi, Piia Aallonharja, Kati Kaihlaranta, Timo Haapaniemi, Anna Aintila ja Anneli Granström. Ulf Kjerinin lisäysehdotus Karttaan Upinniemen varuskunta: Upinniemen varuskunta, tärkeä laivastotukikohta Nato Suomessa. Lisäysehdotusta kannattivat Timo Haapaniemi, Anna Aintila, Piia Aallonharja ja Anneli Granström. Timo Haapaniemen ja Antti Kilapan muutosehdotukset yhdistettynä, uusi muotoilu: sivu 6 ensimmäinen kappale: Kirkkonummi on viihtyisä, turvallinen, luonnonläheinen ja pientalovaltainen kunta kaikenikäisille asukkailleen. Kunta on lapsi-, nuori- ja ikäystävällinen sekä yhteisöllinen asuinpaikka. Kehitämme kunnan keskustaa pienkaupunkimaisesti. Muutosehdotusta kannattivat Matti Kaurila ja Anna Sahiluoma. Timo Haapaniemen muutosesitys: Poistetaan sivulta 11 sana Toimintapaohjeet Muutosehdotusta kannattivat Matti Kaurila ja Ari Harinen. Puheenjohtajan tiedustellessa kaikki yllämainitut muutos- ja lisäysehdotukset hyväksyttiin yksimielisesti",
+        "paatos": "Kunnanhallitus päätti yksimielisesti 1 ehdottaa kunnanvaltuustolle, että valtuusto hyväksyy kunnanhallituksen ehdotuksen Kirkkonummen kuntastrategiaksi vuosille 2024-2030 seuraavin muutoksin: - sivu 3: metropolialueen halutuin ja elinvoimaisin kunta. (ei pikkukaupunki) - sivu 6 ensimmäinen kappale muutetaan muotoon: Kirkkonummi on viihtyisä, turvallinen, luonnonläheinen ja pientalovaltainen kunta kaikenikäisille asukkailleen. Kunta on lapsi-, nuori- ja ikäystävällinen sekä yhteisöllinen asuinpaikka. Kehitämme kunnan keskustaa pienkaupunkimaisesti. Viimeinen kappale seuraavasti: Vahvistamme yhteistyöverkostoja muiden kuntien, elinkeinoelämän sekä kolmannen sektorin kanssa. - sivu 7, neljännen kappaleen loppuun: Maaseutuelinkeinot ovat elinvoimaisia ja edistämme ruoan lähituotantoa. - sivu 7 otsikko: Metropolialueen halutuin, virein ja elinvoimaisin kunta. (ei pikkukaupunki), toinen kappale: Kasvamme suunnitelmallisesti ja hallitusti. Kaavoitamme pientalovaltaisesti luonnonläheisiä, viihtyisiä ja turvallisia asuinalueita. Palvelutarjontamme vastaa kasvavan ja ikääntyvän väestön tarpeisiin. Kuudes kappale: lisätään merellisyyden jälkeen järvet - sivu 9: karttaan valtuutetaan viranhaltijat tekemään tarkoituksenmukaiset muutokset. Esimerkiksi koulut, puolustusvoimat ja hyvinvointikeskus. Upinniemen varuskunta, tärkeä laivastotukikohta Nato Suomessa. - sivu 10: \"Vapaa-ajan asuntojen kehitys\" muutetaan muotoon: Pientaloasuntojen määrän kehitys - sivu 10: \"Palveluyritysten määrä/liikevaihto\" muutetaan muotoon Palveluyritysten määrä ja liikevaihto - sivu 10: \"Verotulot asukasta kohti\" jälkeen uusi kohta: Yhteisöverotulojen kehitys - sivu 10: \"Yritysten lukumäärä/liikevaihto \" muutetaan muotoon: Yritysten määrä ja liikevaihto - sivu 11 sana \"Toimintapaohjeet\" poistetaan - Kirkkonummi 700 vuotta sivistystä -kartan Valtatie 1 kyltti moottoritien oikean reunaan ja kyltin teksti VEIKKOLA 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "selostus": "Kuntastrategia on kunnan toimintaa ja päätöksentekoa ohjaava suunnitelma, jossa määritellään kunnan suunta sekä sen tärkeimmät pidemmän aikavälin tavoitteet. Kuntalain 37§ mukaisesti kunnassa on oltava kuntastrategia, josta kunnan keskeisin päätöksenteko, suunnittelu ja kehittäminen johdetaan. Uuden kuntastrategian on tarkoitus selkeyttää, tiivistää ja tarkentaa nykyistä strategiaa. Strategiassa on huomioitu tulevat toimintaympäristön muutokset, kuten työvoima- ja elinkeinopalveluiden siirtyminen kunnan vastuulle vuonna 2025. Hyvinvointialueuudistuksen myötä kunnan vastuualueet ovat muuttuneet merkittävästi. Edellisen kerran Kirkkonummen kuntastrategiaa on päivitetty vuonna 2021, jolloin uusi kuntastrategia tehtiin kahdeksi vuodeksi. Kuntalain mukaan kuntastrategia on päivitettävä kerran valtuustokauden aikana. Vuoden 2023 talousarvion yhteydessä kunnanvaltuusto on päättänyt, että uuden kuntastrategian valmistelu aloitetaan vuoden 2023 alkupuolella ja kuntalaiset osallistetaan sen valmisteluun (12.12.2022, § 91). Nyt laadimme strategian pidemmälle jaksolle vuoteen 2030 saakka, johon tulevat valtuustot tekevät tarvittavia muutoksia. Kunnan strategiakumppaniksi valikoitui toimi MDI Oy, joka on osa FCG Groupia. Asiantuntijapalveluun sisältyi työn ohjauksen ja taustatyön lisäksi osallistavaa sisältöjen työstäminen ja strategian muotoilua eri sidosryhmissä. Kuntastrategiauudistus on tehty laajasti eri sidosryhmiä osallistaen vuoden 2023 aikana. Ensin laadimme kuntalaiskyselyn, jonka tulokset saimme toukokuussa 2023. Kuntalaisilta kysyimme heidän näkemyksiään kunnan palveluista, toiminnoista sekä kehittämistarpeista. Strategiatyöskentelyyn osallistuivat kunnanvaltuusto kahdessa iltakoulussa. Luonnosta on esitelty valmistelun aikana kunnanhallituksessa. Valtuustoryhmät antoivat kommentteja sekä strategialuonnokseen että strategiamittareihin. Kunnan henkilöstö käsitteli strategialuonnosta työpajassa ja henkilöstön oli mahdollista vastata avoimeen kyselyyn. Kunnan johtoryhmien yhteiskokous käsitteli kuntastrategiaa kahdessa kehittämispäivässä. Strategiapajat pidimme kaikille vaikuttamistoimielimille sekä järjestimme tilaisuuden asukasyhdistyksille. Kirkkonummen Businessforumissa yritykset osallistuivat strategiatyöhön arvioimalla elinvoimalupausta. Teimme kyselyn oppilas- ja opiskelijakunnille ja varhaiskasvatusikäiset osallistuivat strategiatyöhön piirroksin. Uusi kuntastrategiamme koostuu visiosta, kolmesta päämäärästä, joiden alle on asetettu yhteensä 19 strategiakauden tavoitetta sekä läpileikkaavista teemoista että strategiamittareista. Yhdessä, tillsammans toimintatapaohjeet täydentävät kuntastrategiaa ja ne hyväksytään erikseen. Visio: Kirkkonummi, lähellä ihmistä ja luontoa Porkkalasta Nuuksioon. Kirkkonummi, metropolialueen halutuin ja elinvoimaisin pikkukaupunki Kirkkonummi, kestävä, kaksikielinen ja kansainvälinen sivistyskunta 700 vuotta. Kirkkonummen kuntastrategiassa on kolme päämäärää: Yhteisöllinen ja elävä Kirkkonummi - Porkkalasta Nuuksioon Kestävä ja kasvava Kirkkonummi - Metropolialueen halutuin ja elinvoimaisin pikkukaupunki Osaava ja oppiva Kirkkonummi - Sivistystä 700 vuotta Yhteisöllinen ja elävä Kirkkonummi pitää sisällään tavoitteemme olla lapsi- ja ikäystävällinen sekä yhteisöllinen asuinpaikka, jossa viihtyvyyteen ja turvallisuuteen panostetaan. Haluamme, että kuntakeskuksemme on kohtaamispaikka, joka houkuttelee viihtymään ja, joka tunnetaan tapahtumista ja laajasta palvelutarjonnasta. Näemme, että pientalovaltaisessa kunnassamme veto- ja pitovoimatekijöinämme ovat omaleimaiset kylät ja alueet, joiden oma identiteetti on vahva. Haluamme edistää kuntalaisten hyvää elämää ja arjen sujuvuutta Innostamme kuntalaisia aktiiviseen elämäntapaan ja kulttuuri- ja liikuntapalveluiden pariin Vahvistamamme yhteistyöverkostoja muiden kuntien sekä kolmannen sektorin kanssa. Kestävä ja kasvava Kirkkonummi tarkoittaa, että tarjoamme monipuolista ja korkealaatuista asumista kaikenikäisille - lähellä luontoa, merta ja järviä. Kasvumme on suunnitelmallista ja hallittua. Meidän on tärkeää kehittyä siten, että palvelutarjontamme vastaa kasvavan ja ikääntyvän väestön tarpeisiin. Taloutemme on pitkäjänteisessä tasapainossa, investoimme kestävästi, toimimme kustannustehokkaasti ja kasvatamme tulopohjaa. Kunta haluaa myös vahvistaa yrittäjä- ja yritysmyönteisyyttään. Houkuttelemme aktiivisesti ja määrätietoisesti uusia yrityksiä asettumaan Kirkkonummelle ja varmistamme elinkeinojen elinvoimaisuuden. Jotta kasvu tehdään kestävästi, tulee meidän huolehtia vastuullisuudesta ja toimia aktiivisesti ilmastotavoitteiden saavuttamiseksi ja vaalia luonnon monimuotoisuutta. Valttikorttejamme ovat merellisyys ja luonnonläheisyys. Kirkkonummella tulisi olla helppo liikkua eri kulkumuodoin. Kehitämme julkisen liikenteen yhteyksiä ja kevyen liikenteen verkostoa aktiivisessa yhteistyössä liikenteen toimijoiden ja käyttäjien kanssa. Osaava ja oppiva Kirkkonummi on vahva sivistyskunta. Toteutamme korkealaatuista varhaiskasvatusta ja opetusta lapsille ja nuorille ja tuemme elinikäisen oppimisen kulttuuria, joka innostaa ja haastaa kehittymään sekä uudistumaan turvallisissa ja terveellisissä oppimisympäristöissä. Voimavaramme ja rikkautemme on elävä kaksikielisyys, jonka otamme huomioon palvelutarjonnassamme. Olemme kansainvälinen ja moninaisuutta arvostava kunta, joka houkuttelee kansainvälisiä osaajia. Kirkkonummi haluaa olla vetovoimainen työnantaja, joka tarjoaa houkuttelevan ja viihtyisän työpaikan. Huolehdimme henkilöstön hyvinvoinnista, johtamisesta ja tulevaisuustietoisesta osaamisen kehittämisestä. Varmistamme osaavan työvoiman saatavuuden ja luomme mahdollisuuksia työnhakijoille ja työnantajille Kirkkonummella ja työllisyysalueella. Jotta onnistumme, meidän tulisi rohkeasti uudistaa toimintatapojamme, aina vahvistaen asiakaslähtöisyyttä. Digitalisaatio luo meille paljon mahdollisuuksia. Läpileikkaavat teemat: Kuntastrategian läpileikkaavina teemoina on hyvinvoinnin edistäminen, viestintä ja tiedolla johtaminen. Edistämme kuntalaisten ja kunnan työntekijöiden hyvinvointia, terveyttä ja koettua elämänlaatua. Viestimme ennakoivasti, suunnitelmallisesti, oikea-aikaisesti, avoimesti ja monipuolisesti kohderyhmille sekä sisäisesti että ulkoisesti. Teemme päätökset proaktiivisesti korkealuokkaisen valmistelun, laadukkaan tiedon ja ennakkoarviointien pohjalta. Kuntastrategian mittarit Strategiaan on määritelty mittareita, joilla strategian toteutumista voidaan seurata ja arvioida. Tämän lisäksi asetamme vuosittain tarkempia mittareita talousarvion yhteydessä. Yhdessä - Tillsammans -toimintatapaohjeet Toimintatapaohjeet hyväksytään kuntastrategian yhteydessä erillisenä pykälänä. Kuntastrategian toimeenpano Kun valtuusto on hyväksynyt kuntastrategian, alkaa sen jalkauttaminen käytännön työhön. Täytäntöönpanoon tarvitsemme henkilöstön aktiivista osallistumista sekä strategiasta johdettavia, poikkihallinnollisia ohjelmia ja suunnitelmia. Strategiaa tukevien ohjelmien, kuten esimerkiksi palveluverkkosuunnitelman ja hyvinvointisuunnitelman päivitystyöt ovat myös käynnissä"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Kirkkonummen strategia 2024",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241665-5-104417.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Ulf Kjerin",
+          "kind": "vastaehdotus",
+          "text": null,
+          "source": "order",
+          "party": "rkp"
+        },
+        {
+          "proposer": "Timo Haapaniemi",
+          "kind": "vastaehdotus",
+          "text": null,
+          "source": "order",
+          "party": "kok"
+        },
+        {
+          "proposer": "Matti Kaurila",
+          "kind": "vastaehdotus",
+          "text": null,
+          "source": "order",
+          "party": "kok"
+        }
+      ]
+    },
+    {
+      "id": "20241665-6",
+      "ordinal": "6",
+      "title": "Kirkkonummen kunnan Yhdessä - Tillsammans, kuntastrategiaa tukeva toimintatapaohje, Kv",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241665-6",
+      "decision": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 3 Yhdessä - tillsammans toimintatapaohje Kirkkonummen kunnan Yhdessä - Tillsammans, kuntastrategiaa tukeva toimintatapaohje, Kv Kunnanhallitus 26.02.2024 § 44 840/00.01.02/2023",
+        "valmistelija": "Kunnanjohtaja Virpi Sailas etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää 1 ehdottaa kunnanvaltuustolle, että valtuusto hyväksyy kuntastrategian tueksi liitteen mukaiset Yhdessä - Tillsammans -toimintatapaohjeet 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "paatos": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+        "selostus": "Kirkkonummen kunnan Yhdessä - Tillsammans -toimintatapaohjeet on laadittu kunnan johtamisen, päätöksenteon ja yhteistyön tueksi sekä lisäämään avoimuutta yhteisistä toimintatavoista. Valmistelu on osa kunnan strategian uudistamista ja sen toimeenpanoa. Toimintatapaohjeet on määrä hyväksyä Kirkkonummen kuntastrategian hyväksynnän yhteydessä alkuvuodesta 2024. Valtuuston hyväksymät ohjeet ovat samalla myös strategian?toimintatapaohje, joka linjaa kunnassa toimivien luottamushenkilöiden ja?viranhaltijoiden toimintaa ja yhteistyötä. ? Laadinta käynnistyi lokakuussa valtuuston iltakoulussa Ohjeiston luonnos laadittiin valtuuston 9.10.2023 pitämän iltakoulun ennakkotehtävän ja iltakoulussa käytyjen Erätauko-dialogien aineiston pohjalta. Dialogeja käytiin yhteensä yhdeksän, joista kolme käytiin ruotsiksi ja kuusi suomeksi. Ennakkotehtävällä ja dialogeilla haettiin?luottamushenkilöiden ajatuksia ja näkemyksiä ohjeiden pohjaksi. Keskustelujen kautta ohjeistoon on noussut Kirkkonummen luottamushenkilöille merkityksellisiä asioita. Lisäksi kokonaisuutta täydennettiin ohjeistuksella epäasiallisen käytöksen käsittelemiseen luottamustoimielimissä. Yhdessä - Tillsammans -toimintatapaohjeen osa-alueet Toimintatapaohjeet rakentuvat viidestä eri osa-alueesta ja niiden keskeisimmät nostot on koottu huoneentauluksi: Arvostava käytös ja rakentava keskustelukulttuuri Arvostava käytös ja kunnioitus luovat toiminnan perustan Rakentava keskustelukulttuuri ja dialogisuus ovat vuorovaikutuksen keskiössä Vastuullinen ja johdonmukainen tiedolla johtaminen Strategia ohjaa päätöksentekoa Toimimme vastuullisesti ja demokraattisesti Valmistaudumme huolella Johdamme tiedolla ja sitoudumme päätöksiin Osallisuuden ja avoimen hallinnon kehittäminen Osallisuus on edellytys demokratialle Hallinnon avoimuus on johdon vastuulla Luottamushenkilöiden yhteistyön vahvistaminen ja puheenjohtajien rooli Valtuustoryhmien puheenjohtajien rooli on keskeinen Valtuustoryhmien yhteistyö on vuorovaikutteista Valtuustoryhmien välinen yhteistyö on rakentavaa ? Yhteisiin toimintatapoihin sitoutuminen ja arviointi Eettiset ohjeet luovat yhteistä toimintatapaa Annamme palautetta kunnioittavasti Puutumme epäasialliseen käytökseen matalalla kynnyksellä Arvioimme ohjeiston toteutumista säännöllisesti ? Epäasiallisen käytöksen käsitteleminen luottamustoimielimissä Toimintatapaohjeen valmistelun aikana nähtiin tärkeäksi ottaa epäasiallisen käytöksen puheeksi ottaminen sekä yhdessä sovitut käsittelytavat mahdollisten tilanteiden ratkaisemiseksi. Epäasiallisen käytöksen käsittelemisen ohjeisto haluttiin laatia?mahdollisia esiin nousevia tilanteita ennakoiden ja niitä ennaltaehkäisten. Kunkin valtuustoryhmän, toimielimen ja työryhmän puheenjohtajistolla (puheenjohtaja, varapuheenjohtajat) on?erityinen vastuu ja velvollisuus toisia kunnioittavan, avoimen ja osallistavan ilmapiirin luomisessa. Kokouksissa puheenjohtaja huolehtii siitä, että kaikki osalliset tulevat kuulluiksi ja huomioiduksi. Puheenjohtajistot koulutetaan muun perehdytyksen ohella. Kuntaan nimetään häirintäyhdyshenkilö/t, joihin voi olla yhteydessä kohdatessa epäasiallista käytöstä. Ohjeen luonnoksen käsittely lautakunnissa, yhteistoimintaryhmässä ?ja jaostoissa Kirkkonummen kunnan lautakunnat ja jaostot sekä Kirkkonummen veden johtokunta käsittelivät toimintatapaohjeiden luonnosta kokouksissaan?marraskuun 2023 ja tammikuun 2024 välisenä aikana. Luonnos oli käsittelyssä nimellä eettiset ohjeet. Luonnos käsiteltiin myös kunnan?yhteistoimintaryhmässä (YTR). Lautakuntien evästysten ja keskustelujen pohjalta luonnosta muokattiin. Evästykset koskivat mm. epäasiallisen käytöksen ohjeen laajentamista koskevaan myös viranhaltijoita, ohjeiden tiivistämistä ja tarkentamista sekä ohjeiden nimeä. Ohjeisiin tullaan lisäämään turvallisen tilan periaatteet. Lautakunnissa käsittelyssä olleessa luonnoksesta poistettiin suorat lainaukset erätaukodialogeista. ?"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Yhdessä - tillsammans toimintatapaohje",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241665-6-104400.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20241665-7",
+      "ordinal": "7",
+      "title": "Hallintosäännön muuttaminen - työllisyys- ja elinkeinoasioiden lautakunnan asettaminen, Kv",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241665-7",
+      "decision": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 4 Hallintosääntö korjaus 26.2.24 luku 21 Hallintosäännön muuttaminen - työllisyys- ja elinkeinoasioiden lautakunnan asettaminen, Kv Kunnanhallitus 26.02.2024 § 45 233/00.01.01/2023",
+        "valmistelija": "Kunnanlakimies Hannu Sorvari etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää 1 hyväksyä ja esittää valtuustolle hyväksyttäväksi 1.1.2023 voimaan astuneen ja 9.10.2023 muutetun Kirkkonummen kunnan hallintosäännön loppuun lisättäväksi uudeksi luvuksi liitteen mukaista lukua 21: \"Työllisyys- ja elinkeinoasiat\". Esitettävä luku sisältää pykälän 173 otsikoltaan \"Työllisyys- ja elinkeinoasioiden lautakunta, tehtävät ja toimivalta\" sekä pykälän 174 otsikoltaan \"Ohjausryhmä, tehtävät ja toimivalta\". 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "paatos": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+        "selostus": "Kirkkonummen kunta on päättänyt muodostaa työvoimapalveluiden järjestämistä koskevan lain (380/2023) mukaisesti sopimusteitse yhdessä Siuntion ja Vihdin kuntien kanssa työvoimapalveluiden järjestämisen yhteistoiminta-alueen, eli työllisyysalueen. Sopimuksen mukaisia tehtäviä hoitaessaan Kirkkonummen kunta toimii tässä yhteistyössä kuntalain mukaisena vastuukuntana. Kirkkonummen kunnan tulee järjestää hallintosäännössään työllisyysalueeseen kuuluvat viranomaistehtävät. Keskeisenä uutena viranomaisena toimii osakaskuntien valtuustojen asettama työllisyys- ja elinkeinoasioiden lautakunta. Operatiivista koordinointia varten perustetaan myös lautakunnan alaisuuteen viranhaltijoista ohjausryhmä. Kirkkonummen hallintosääntöön on tarpeen kirjata uutta Kirkkonummen kunnan yhteydessä toimivia toimielimiä koskevat säännökset. Ne määrittelevät mm. toimielinten kokoonpanoa, tehtäviä ja toimivaltaa. Esitys näistä määräyksistä on oheisessa liitteessä. Kirkkonummen kunnassa on menossa hallintosäännön laajempi uudistustyö. Koska uudistustyön valmistuminen kuitenkin ajoittuu myöhempään ajankohtaan, esitetään, että hallintosääntö muutetaan tältä osin erillisenä prosessina. Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Hallintosääntö korjaus 26.2.24 luku 21",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241665-7-104329.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20241665-8",
+      "ordinal": "8",
+      "title": "Sisäisen tarkastajan viran haettavaksi julistaminen (vakanssi 0000993063, yhteiset palvelut)",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241665-8",
+      "decision": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "Hallintojohtaja Jaana Suihkonen ja talousjohtaja Esa Lindell, etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää, että 1 sisäisen tarkastajan virka julistetaan haettavaksi maaliskuun 2024 aikana. Hakuaika on kolme viikkoa. 2 sisäisen tarkastajan virka pyritään täyttämään 1.8.2024 alkaen. 3 haastatteluryhmään kuuluvat kunnanjohtaja ja talousjohtaja, kunnanhallituksen puheenjohtajisto sekä MPS Career Oy:n rekrytointikonsultti",
+        "paatos": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+        "selostus": "Tausta Kirkkonummen kunnanhallitus päätti 18.12.2023 § 444 perustaa sisäisen tarkastajan viran. Virka sisältyi vuoden 2024 talousarvioon, jonka kunnanvaltuuston hyväksyi 13.11.2023. Sisäisen tarkastajan viran haettavaksi julistaminen Sisäinen tarkastaja on viranhaltijaorganisaatiosta riippumaton ja hän toimii kunnanhallituksen ja ylimmän johdon tukena ja hän tekee yhteistyötä kunnan tilintarkastusyhteisön ja tarkastuslautakunnan kanssa. Sisäinen tarkastaja tukee organisaation kehittämistä ja tavoitteiden saavuttamista objektiivisella arviointi- ja varmistus- sekä konsultointitoiminnallaan. Hänen työnsä kohdistuu koko organisaation toiminnan sisäiseen valvontaan, riskienhallintaan sekä johtamis- ja hallintoprosesseihin. Kirkkonummen kunnan yhteiset palvelut on neuvotellut Vihdin kunnan edustajien kanssa siitä, että Vihdin kunta voi mahdollisesti ostaa sisäisen tarkastajan palveluja Kirkkonummen kunnalta. Rekrytoitava henkilö olisi tässä tapauksessa kuitenkin virkasuhteessa vain Kirkkonummen kuntaan. Sisäisen tarkastajan tehtäviin kuuluu mm. arvioida organisaation toimintaprosessien ja -tapojen tehokkuutta ja tarkoituksenmukaisuutta arvioida lainsäädännön ja organisaation omien ohjeiden noudattamista tukea eettisten toimintatapojen kehittämistä ja arvioi niiden toteuttamista arvioida, onko toimintaan ja talouteen liittyvä tieto riittävää, luotettavaa ja ajantasaista arvioida riskejä ja analysoida uusia mahdollisuuksia tehdä konkreettisia kehittämisehdotuksia ja seurata sovittujen kehittämistoimenpiteiden toteuttamista arvioida taloudellisen tehokkuuden osalta poikkeamia organisaatioiden sisällä ja välillä arvioida strategisten ja toiminnallisten tavoitteiden määrittelyä, toimenpiteitä ja tavoitteiden toteutumista Haettavalta henkilöltä vaaditaan itsenäistä työskentelyotetta ja virassa menestyminen vaatii ammattitaitoa, huolellisuutta, objektiivisuutta, rehellisyyttä sekä riippumattomuutta. Tehtävän menestyksekäs hoitaminen edellyttää yhteistyökyvykkyyttä sekä hyviä viestintä- ja kommunikaatiotaitoja. Lisäksi kunta arvostaa ruotsinkielentaitoa hyvän suullisen ja kirjallisen suomenkielentaidon lisäksi. Sisäisen tarkastajan viran kelpoisuusehtona on ylempi korkeakoulututkinto. Sisäisen tarkastajan ammattitutkinto sekä kokemus julkishallinnon asiantuntija, tarkastus- tai johtotehtävistä luetaan eduksi. Sisäisen tarkastajan tehtäväkohtainen palkka on 5?366,82 (hinnoittelemattomat, ryhmä 1, taso 240). Rekrytoinnin tukena toimii MPS Career Oy, joka on kunnan sopimustoimittaja"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241665-9",
+      "ordinal": "9",
+      "title": "Yhteisten palvelujen ja muiden kunnan toimielinten vuoden 2024 talousarvion käyttösuunnitelmat",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241665-9",
+      "decision": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 5 KS2024 KH 26022024 Yhteisten palvelujen ja muiden kunnan toimielinten vuoden 2024 talousarvion käyttösuunnitelmat Kunnanhallitus 26.02.2024 § 47 158/02.02.02/2024",
+        "valmistelija": "hallintojohtaja Jaana Suihkonen ja talousjohtaja Esa Lindell, etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää 1 hyväksyä yhteisten palvelujen talousarvion käyttösuunnitelman vuodelle 2024 liitteen mukaisesti 2 merkitä tiedokseen oheismateriaalina olevat toimielinten vuoden 2024 talousarvion käyttösuunnitelmat",
+        "paatos": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+        "selostus": "Kunnanvaltuusto on hyväksynyt vuoden 2024 talousarvion ja vuosien 2025-2026 taloussuunnitelman kokouksessaan 13.12.2023 § 91. Talousarvion sitovuus on määritelty siten, että toimielimen ulkoisten toimintatulojen ja -menojen erotus eli toimintakate on valtuuston nähden sitova lukuun ottamatta joukkoliikenteen (HSL) määrärahoja, jotka ovat erikseen sitovia. Kunnanhallitus on 4.12.2023 § 426 päättänyt talousarvion täytäntöönpano-ohjeet. Käyttösuunnitelmassa kukin toimielin merkitsee tiedokseen talousarviorakenteen mukaisesti toimielimen tilivelvolliset vastuuhenkilöt sekä käyttötalous- että investointiosan osalta. Tilivelvollinen vastuuhenkilö vastaa palveluryhmänsä tai palveluyksikkönsä tavoitteiden saavuttamisesta, osamäärärahojen edelleen jakamisesta ja käytöstä talousarvion täytäntöönpano-ohjeiden mukaisesti. Kunnanvaltuusto päätti toimielinten ja viranhaltijoiden hankintavaltuuksista 16.12.2019 § 127 siten, että ne ovat toistaiseksi voimassa"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "KS2024 KH 26022024",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241665-9-104448.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20241665-10",
+      "ordinal": "10",
+      "title": "Rahoitus- ja sijoitustoiminnan raportointi",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241665-10",
+      "decision": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 6 Rahoitusraportti 31122023 vain kunta 7 Handelsbanken_0112-31122023 Rahoitus- ja sijoitustoiminnan raportointi Kunnanhallitus 26.02.2024 § 48 379/02.05.05/2022",
+        "valmistelija": "talousjohtaja Esa Lindell, etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää merkitä rahoitus- ja sijoitustoiminnan raportin tiedokseen",
+        "kasittely": "Talousjohtaja Esa Lindell esitteli asiaa kokouksessa",
+        "paatos": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+        "selostus": "Kuntalain 14 §:n mukaan valtuusto päättää kunnan varallisuuden hoidon ja sijoitustoiminnan perusteista sekä takaussitoumuksen tai muun vakuuden antamisesta toisen velasta. Kunnanvaltuusto päättää lainan ottamisesta sekä lainan antamista ja muuta sijoitustoimintaa koskevista periaatteista. Talousarvion ja -suunnitelman hyväksymisen yhteydessä kunnanvaltuusto päättää antolainojen ja vieraan pääoman muutoksista. Muutoin kunnan rahatoimesta vastaa kunnanhallitus, ellei hallintosäännössä toisin määrätä. Rahatoimen käytännön hoitamisesta vastaa talousjohtaja. Kirkkonummen kunnan hallintosäännön 53 pykälässä määritellään talousjohtajan toimivaltaan kuuluvaksi päättää lainan ottamisesta valtuuston talousarviossa tai erikseen tekemän päätöksen asettamissa rajoissa ja kunnanhallituksen vuosittain tekemän lainanottosuunnitelman puitteissa sekä kunnan kassavarojen tilapäisestä sijoittamisesta kunnanvaltuuston päättämien sijoitustoiminnan perusteiden puitteissa. Kunnanhallituksen tehtävänä on johtaa ja valvoa rahoitus- ja sijoitustoimintaa osana talouden hoitoa. Kirkkonummen kunnanvaltuusto 21.9.2020 § 69 hyväksyi kunnan rahoitus-, sijoitus- ja takaustoiminnan periaatteet. Periaatteiden mukaan rahoitus- ja sijoitustoiminnan toteutumisesta raportoidaan kunnanhallitukselle osavuosikatsausten ja tilinpäätöksen yhteydessä. Kunnan rahoituksen ja maksuvalmiuden hoito on keskitetty kunnan taloushallintoon. Ohessa liitteenä on salkkuraportti kunnan lainanhoitojärjestelmä Apollosta sekä testamentti- ja lahjoitusrahastojenvarojen sijoitusraportti Handelsbankenista 31.12.2023. Maaliskuussa 2023 sijoitettiin kassavaroja 30 milj. euroa määräaikaistileille, josta puolet kuudeksi kuukaudeksi ja puolet vuodeksi. Joulukuussa sijoitettiin 7 milj. euroa kolmen kuukauden ajaksi"
+      },
+      "lang": "fi",
+      "text_encoding": "repaired",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Rahoitusraportti 31122023 vain kunta",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241665-10-104269.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Handelsbanken_0112-31122023",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241665-10-104270.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20241665-11",
+      "ordinal": "11",
+      "title": "Kunnan etuosto-oikeuden käyttämättä jättäminen kiinteistökaupoissa 1.10.2023-11.2.2024",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241665-11",
+      "decision": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 8 Kohteiden sijainnit_kaikki kohteet 9 Kohde nro 1_kartta 10 Kohde nro 2_kartta 11 Kohde nro 3_kartta 12 Kohde nro 4_kartta 13 Kohde nro 5_kartta 14 Kohde nro 6_kartta 15 Kohde nro 7_kartta 16 Kohde nro 8_kartta 17 Kohde nro 9_kartta Kunnan etuosto-oikeuden käyttämättä jättäminen kiinteistökaupoissa 1.10.2023-11.2.2024 Kunnanhallitus 26.02.2024 § 49 164/10.00.00/2024",
+        "valmistelija": "Maankäyttöinsinööri Aija Aunio etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää, että kunta ei käytä etuostolain mukaista etuosto-oikeutta esityslistan liitteen kiinteistökaupoissa numerot 1 - 9",
+        "paatos": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+        "selostus": "Kunnalla on etuostolain mukainen etuosto-oikeus kunnan alueella tehdyissä kiinteistökaupoissa. Etuosto-oikeutta voidaan käyttää maan hankkimiseksi yhdyskuntarakentamista sekä virkistys- ja suojelutarkoituksia varten. Liitteenä on tiedot aikavälillä 1.10.2023 -11.2.2024 kunnan tietoon tulleista pinta-alaltaan 2 hehtaaria tai sitä suuremmista kiinteistökaupoista, joissa päätöksen etuosto-oikeuden käyttämättä jättämisestä tekee kunnanhallitus. Ajalla 1.10.-30.11.2023 ei tehty etuostolain mukaisia, pinta-alaltaan vähintään 2 ha:n kiinteistöjen kauppoja. Esityslistan liite: - Lista kiinteistökaupoista aikavälillä 1.10.2023- 11.2.2024 (liite julkaistaan kokoukseen osallistuvien luettavaksi)",
+        "oheismateriaali": "- Kohteet opaskartalla - Kartat kiinteistökaupoista"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kohteiden sijainnit_kaikki kohteet",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241665-11-104264.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kohde nro 1_kartta",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241665-11-104251.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kohde nro 2_kartta",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241665-11-104253.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kohde nro 3_kartta",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241665-11-104254.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kohde nro 4_kartta",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241665-11-104252.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kohde nro 5_kartta",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241665-11-104258.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kohde nro 6_kartta",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241665-11-104259.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kohde nro 7_kartta",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241665-11-104257.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kohde nro 8_kartta",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241665-11-104255.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kohde nro 9_kartta",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241665-11-104256.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20241665-12",
+      "ordinal": "12",
+      "title": "Yhtiökokousedustajien nimeäminen kunnan kokonaan tai osittain omistamiin yhtiöihin kaudelle 2024-2025",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241665-12",
+      "decision": "Kunnanhallitus päätti yksimielisesti jättää asian pöydälle. Asia käsitellään kunnanhallituksen seuraavassa kokouksessa 11.3.2024",
+      "votes": [],
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Kunnanhallituksen päätös 25.4.2022 § 134, yhtiökokousedustajat kaudelle 2022-2023 Yhtiökokousedustajien nimeäminen kunnan kokonaan tai osittain omistamiin yhtiöihin kaudelle 2024-2025 Kunnanhallitus 26.02.2024 § 50 1231/00.00.01/2021",
+        "valmistelija": "hallintojohtaja Jaana Suihkonen ja hallinnon asiantuntija Gunnel Ekström, etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää 1 valita yhtiökokousedustajat kaudelle 2024-2025 seuraaviin yhtiöihin: Kirkkonummen Huolto Oy Kirkkonummen Monitoimihalli Oy Kuntarahoitus Oy Technopolis Oyj (Innopoli) VVO-yhtymä Oy Laurea -ammattikorkeakoulu Oy Metropolia Ammattikorkeakoulu Oy Svenska Framtidsskolan i Helsingforsregionen Ab Ab Det finlandssvenska Kompetenscentret inom det sociala området Pääkaupunkiseudun Vesi Oy Kuntien Tiera Oy Sarastia Oy 2 valita kunnan edustajaksi yhdyskuntatekniikan johtajan tai hänen määräämänsä seuraavien yhtiöiden yhtiökokouksiin As Oy Masalanhovi As Oy Matinmäki As Oy Masalantupa Kiint. Oy Kirkkonummen Keskustapysäköinti Kiint. Oy Kirkkonummen Pankkitalo Kiint. Oy Kirkkonummen Kunnantalo 3 valita Kirkkonummen Vuokra-asunnot Oy:n yhtiökokouksiin kunnan edustajaksi talousjohtajan tai hänen määräämänsä 4 että kunnan yhtiökokousedustajan tulee raportoida kunnanhallitukselle yhtiöiden tilasta ja mahdollisista tilintarkastajien huomautuksista",
+        "paatos": "Kunnanhallitus päätti yksimielisesti jättää asian pöydälle. Asia käsitellään kunnanhallituksen seuraavassa kokouksessa 11.3.2024",
+        "selostus": "Hallintosäännön § 4 mukaan kunnanhallitus päättää kunnan ehdokkaat tytäryhtiöiden, osakkuusyhtiöiden ja säätiöiden hallintoelimiin sekä antaa ohjeet kunnan yhteisöjen ja säätiöiden hallintoelimissä edustaville henkilöille kunnan kannan ottamisesta käsiteltäviin asioihin (antaa kunnan ennakkokannan). Lisäksi kunnanhallitus päättää kunnan edustajan tytäryhtiöiden, osakkuusyhtiöiden ja säätiöiden yhtiö- ja vuosikokouksiin ja vastaaviin sekä antaa edustajille omistajaohjauksen edellyttämät toimintaohjeet ja ohjeistaa kuntayhtymissä toimivia edustajia. Kunnanhallitus voi siirtää edellä mainittuja tehtäviä edelleen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Kunnanhallituksen päätös 25.4.2022 § 134, yhtiökokousedustajat kaudelle 2022-2023",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241665-12-102561.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20241665-13",
+      "ordinal": "13",
+      "title": "Sydkustens landskapsförbund r.f., kunnan edustajien valinta vuosikokoukseen 17.4.2024",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241665-13",
+      "decision": "Kunnanhallitus päätti yksimielisesti 1 valita Kirkkonummen kunnan edustajat ja varaedustajat Sydkustens landskapsförbund r.f.:n vuosikokoukseen 17.4.2024 seuraavasti: Stefan Gustafsson, varalle Josephine Frimodig Linda Basilier, varalle Tony Björk Thorolf Sjölund, varalle Kim Åström Mikael Korkman, ei varaedustajaa 2 evästää kunnan edustajia, että Thorolf Sjölund valitaan hallitukseen",
+      "votes": [],
+      "sections": {
+        "valmistelija": "hallinnon erityisasiantuntija Pia Bergström etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää 1 valita Kirkkonummen kunnan edustajat ja varaedustajat Sydkustens landskapsförbund r.f.:n vuosikokoukseen 17.4.2024. 2 mahdollisen evästyksen antamisesta kunnan edustajille",
+        "kasittely": "Matti Kaurila: Ehdotan Thorolf Sjölundin nimeämistä kunnan edustajaksi liittokokoukseen sekä evästän sitä, että Sjölund valitaan myös hallitukseen. Ehdotus hyväksyttiin yksimielisesti",
+        "paatos": "Kunnanhallitus päätti yksimielisesti 1 valita Kirkkonummen kunnan edustajat ja varaedustajat Sydkustens landskapsförbund r.f.:n vuosikokoukseen 17.4.2024 seuraavasti: Stefan Gustafsson, varalle Josephine Frimodig Linda Basilier, varalle Tony Björk Thorolf Sjölund, varalle Kim Åström Mikael Korkman, ei varaedustajaa 2 evästää kunnan edustajia, että Thorolf Sjölund valitaan hallitukseen",
+        "selostus": "Sydkustens landskapsförbund r.f.:n vuosikokous pidetään 17.4.2024 klo 14 Helsingin kaupungin valtuustosalissa. Jäsenkuntia on pyydetty valitsemaan kokousedustajansa mahdollisimman pian. Jäsenkunnat valitsevat enintään yhden varsinaisen edustajan jokaista tuhatta ruotsinkielistä asukasta kohti, yhteensä kuitenkin enintään 10 edustajaa sekä heille henkilökohtaiset varaedustajat. Äänestyksessä jokaisella kunnalla on yksi ääni jokaista tuhatta ruotsinkielistä asukasta kohti, kuitenkin enintään 10 ääntä. Kokouskutsun liitteenä olevan vaaliluettelon mukaan 31.12.2022 Kirkkonummella asui 6239 ruotsinkielistä, joten Kirkkonummi saa nimetä enintään seitsemän edustajaa. Kunnanhallitus päätti nimetä kunnan edustajat ja varaedustajat 19.4.2023 pidettyyn liittokokoukseen seuraavasti: Josephine Frimodig, varalle Stefan Gustafsson Tony Björk, varalle Linda Basilier Thorolf Sjölund, varalle Kim Åström Mikael Korkman, ei varaedustajaa Vuosikokouksessa käsitellään sääntömääräisten asioiden lisäksi muun muassa vuoden 2024 palkkioita ja korvauksia (palkkiosääntö) sekä valitaan liiton hallitukseen uudet varsinaiset jäsenet ja henkilökohtaiset varajäsenet niiden tilalle, jotka ovat vuorossa erota. Kirkkonummen kunnan edustaja Thorolf Sjölund on vuorossa erota, joten hänen tilalle on valittava uusi hallitusjäsen. Esityslistan mukaan yhtiökokouksessa käsitellään seuraavat asiat: Kokouksen avaus Kokouksen puheenjohtajan, varapuheenjohtajan ja sihteerin valinta Nimenhuuto ja vaaliluettelon vahvistaminen Laillisuuden ja päätösvaltaisuuden toteaminen Esityslistan hyväksyminen Pöytäkirjantarkastajien ja ääntenlaskijoiden valinta Äänestysvalmisteluvaliokunnan valinta Tilinpäätös, toimintakertomus ja tilintarkastajan lausunto vuodesta 2023 Tilinpäätöksen vahvistaminen ja vastuuvapauden myöntäminen hallitukselle ja muille tilivelvollisille Vuosiraportti 2023 Vuoden 2024 jäsenmaksujen vahvistaminen Toimintasuunnitelma vuodelle 2024 Palkkiot ja korvaukset vuonna 2024 Vuoden 2024 talousarvio Sydkustens landskapsförbundin puheenjohtajan valinta Hallituksen varsinaisten jäsenten ja henkilökohtaisten varajäsenten valinta Tilintarkastajan ja varatilitarkastajan valinta vuodelle 2024 Muut asiat Kokouksen päättäminen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241665-14",
+      "ordinal": "14",
+      "title": "Eron myöntäminen valtuutetulle ja varavaltuutetun kutsuminen (M.H.), Kv",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241665-14",
+      "decision": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "hallinnon asiantuntija Gunnel Ekström, etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää 1 ehdottaa kunnanvaltuustolle, että valtuusto 1.1 myöntää eron Martin Honkaselle valtuutetun tehtävästä 1.2 päättää todeta, että valtuuston puheenjohtaja kutsuu Martin Honkasen sijaan jäljellä olevaksi toimikaudeksi asianomaisen puolueen järjestyksessä ensimmäisen varavaltuutetun 1.3 päättää merkitä tiedokseen, että keskusvaalilautakunta arvioi tarpeen määrätä uuden varavaltuutetun 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "paatos": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+        "selostus": "Valtuutettu Martin Honkanen (Kirkkonummen Vapauden Liitto) on pyytänyt eroa kunnanvaltuutetun tehtävästä paikkakunnalta muuton takia. Kuntalain 10 luvun 70 §:n mukaan luottamustoimesta voi erota pätevästä syystä. Eron myöntämisestä päättää luottamushenkilön valinnut toimielin. Valtuusto myöntää eron valtuutetulle ja varavaltuutetulle. Varavaltuutetun kutsuminen Kuntalain 4 luvun 17 §:n mukaan valtuuston puheenjohtaja kutsuu jäljellä olevaksi toimikaudeksi asianomaisen puolueen järjestyksessä ensimmäisen varavaltuutetun. Perussuomalaisten ensimmäinen varavaltuutettu on Arttu Lankinen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241665-15",
+      "ordinal": "15",
+      "title": "Eron myöntäminen yhdyskuntatekniikan lautakunnan varajäsenyydestä (M.H.) sekä uuden varajäsenen valinta, Kv",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241665-15",
+      "decision": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "hallinnon asiantuntija Gunnel Ekström, etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää 1 ehdottaa kunnanvaltuustolle, että valtuusto 1.1 myöntää eron Martin Honkaselle yhdyskuntatekniikan lautakunnan varajäsenyydestä 1.2 valita uuden varajäsenen Martin Honkasen tilalle toimikauden loppuun 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "paatos": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+        "selostus": "Martin Honkanen on pyytänyt eroa yhdyskuntatekniikan lautakunnan varajäsenyydestä paikkakunnalta muuton takia. Kuntalain 10 luvun 70 §:n mukaan luottamustoimesta voi erota pätevästä syystä. Eron myöntämisestä päättää luottamushenkilön valinnut toimielin. Yhdyskuntatekniikan lautakunnan kokoonpano 2021-2025: Jäsen/varajäsen: Pj. Kim Åström, Kok. / Leena Virkki, Kok. Vpj. Jenny Snellman, RKP / Michaela Lindholm, RKP Pekka Jäppinen, SDP / Tarja Glans, SDP Antti Salonen, Pro Kirkkonummi / Aku Leijala, Maltillinen Oikeisto Sanni Jäppinen, Vihr. / Tarja Ketola, Vihr. Ronja Karkinen, Vihr. / Henry Scheinin, Vihr. Aleksander Polkko, Kirnu ry / Martin Honkanen, Vapauden Liitto rp. Teemu Kelkka, Kesk. / Reijo Munther, Kesk. Josephine Frimodig, RKP / Ann-Christine Sved, RKP Kim Liljequist, RKP / Peter Sundelin, RKP Saara Brax, Kok. / Hannu Valtanen, Kok"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241665-16",
+      "ordinal": "16",
+      "title": "Eron myöntäminen toimitilapalvelujen lautakunnan jäsenyydestä ja uuden jäsenen valinta (M.H.), Kv",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241665-16",
+      "decision": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "hallinnon asiantuntija Gunnel Ekström, etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää 1 ehdottaa kunnanvaltuustolle, että valtuusto 1.1 myöntää eron Martin Honkaselle toimitilapalvelujen lautakunnan jäsenyydestä 1.2 valitsee uuden jäsenen Martin Honkasen tilalle toimitilapalvelujen lautakuntaan toimikauden loppuun 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "paatos": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+        "selostus": "Martin Honkanen on pyytänyt eroa toimitilapalvelujen lautakunnan varajäsenyydestä paikkakunnalta muuton takia. Kuntalain 10 luvun 70 §:n mukaan luottamustoimesta voi erota pätevästä syystä. Eron myöntämisestä päättää luottamushenkilön valinnut toimielin. Toimitilapalvelujen lautakunnan kokoonpano 2021-2025 on seuraavanlainen: Noora Piili, Pro Kirkkonummi / Jan Nordström, Pro Kirkkonummi Jani Ekman Kok. / Jukka Malila, Kok. Pekka Oksanen, SDP / Tuovi Ronkainen, SDP Marko Kari, Kok. / Carita Vilén, Kok. Elina Utriainen, Pro Kirkkonummi / Mikkko Tahko, Pro Kirkkonummi Elina Kärkimaa, Vihr. / Lauri Lavanti, Vihr. Miisa Jeremejew, Vihr. / Sea Eklund, Vihr. Martin Honkanen, Vapauden Liitto rp. / Ritva Närhi, Vapauden Liitto rp. Johanna Järvinen, PS / Jani Kähkönen, PS Hans Hedberg, RKP / Ann-Britt Romar, RKP Matilda Björkqvist, RKP / Kent Jensen von Schulmann, RKP Noora Piili (Pro Kirkkonummi) valittiin puheenjohtajaksi ja Jani Ekman (Kok.) varapuheenjohtajaksi toimitilapalvelujen lautakuntaan kaudeksi 2021-2025"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241665-17",
+      "ordinal": "17",
+      "title": "Eron myöntäminen suomenkielisen kasvatus- ja koulutuslautakunnan varajäsenen tehtävästä (M.H) ja uuden varajäsenen valitseminen, Kv",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241665-17",
+      "decision": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "hallinnon asiantuntija Gunnel Ekström, etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää 1 ehdottaa kunnanvaltuustolle, että valtuusto päättää 1.1 myöntää eron Martin Honkaselle suomenkielisen kasvatus- ja koulutuslautakunnan varajäsenyydestä 1.2 valita uuden varajäsenen Martin Honkasen tilalle toimikauden loppuun 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "paatos": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+        "selostus": "Martin Honkanen on pyytänyt eroa suomenkielisen kasvatus- ja koulutuslautakunnan varajäsenyydestä paikkakunnalta muuton takia. Kuntalain 10 luvun 70 §:n mukaan luottamustoimesta voi erota pätevästä syystä. Eron myöntämisestä päättää luottamushenkilön valinnut toimielin. Suomenkielisen kasvatus- ja koulutuslautakunnan kokoonpano kaudelle 2021-2025 on seuraavanlainen: Tuovi Ronkainen SDP / Ulvija Jabbarova, SDP Pekka Sinisalo, Pro Kirkkonummi / Saara Ketola, Pro Kirkkonummi Johanna Fleming, Vihr. / Tero Strand, SDP Nina Bogatenko, Vihr. / Anna-Mari Toikka, Vihr. Irja Tamm, Vihr, / Lauri Lavanti, Vihr. Juha Oksanen, Kok. / Carita Vilén, Kok. Vesa Tarkkanen, Kok. / Tuomas Wass, Kok. Heljä Järä-Isotalo, KD / Pirjo Salmi, KD Aleksander Polkko, Kirnu Ry / Arttu Lankinen, PS Heikki Nurmela, Kirnu Ry / Martin Honkanen, KVL Sari Haapasaari, Kesk. / Marjaana Munther, Kesk. Tuovi Ronkainen on valittu puheenjohtajaksi ja Pekka Sinisalo varapuheenjohtajaksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241665-18",
+      "ordinal": "18",
+      "title": "Eron myöntäminen ruotsinkielisen kasvatus- ja koulutuslautakunnan jäsenyydestä (S-J.N.) ja uuden jäsenen valitseminen, Kv",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241665-18",
+      "decision": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "hallinnon asiantuntija Gunnel Ekström, etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää 1 ehdottaa kunnanvaltuustolle, että valtuusto 1.1 myöntää eron Stig-Johan Nybergille ruotsinkielisen kasvatus- ja koulutuslautakunnan jäsenyydestä 1.2 valita uusi jäsen ruotsinkieliseen kasvatus- ja koulutuslautakuntaan Stig-Johan Nybergin tilalle toimikauden loppuun. 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "paatos": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+        "selostus": "Stig-Johan Nyberg on pyytänyt eroa ruotsinkielisen kasvatus- ja koulutuslautakunnan jäsenen tehtävästä henkilökohtaisista syistä. Ruotsinkielisen kasvatus- ja koulutuslautakunnan kokoonpano on seuraavanlainen: puheenjohtaja Linda Basilier, RKP / Rea-Susan Isotupa, RKP varapuheenjohtaja Stefan Törnqvist, Kok. / Sessi Skutnabb, Kok. jäsenet / varajäsenet: Stig-Johan Nyberg, SDP / Johanna Fleming, Vihr Outi Saloranta-Eriksson, Pro Kirkkonummi / Michaela Kartano, Pro Kirkkonummi Paula Oittinen, Vihr. / Jens Gellin, Vihr. Mikael Korkman, Liike Nyt / Jukka Hyvönen, Liike Nyt Magnus Hagelstam, KVL / Antti Reiman, PS Stefan Gustafsson, RKP / Sören Petersen, RKP Petra Ekberg-Kontula, RKP / Marcus Söderström, RKP Kuntalain 10 luvun 70 §:n mukaan luottamustoimesta voi erota pätevästä syystä. Eron myöntämisestä päättää luottamushenkilön valinnut toimielin. Hallintosäännön 7 §:n mukaan ruotsinkielisessä kasvatus- ja koulutuslautakunnassa on yhdeksän jäsentä ja varajäsentä. Lautakunnan enemmistön on oltava valtuutettuja tai varavaltuutettuja. Muut jäsenet voivat olla muita valtuustoryhmien nimeämiä henkilöitä. Lautakunnan puheenjohtajan ja varapuheenjohtajan on oltava varsinainen valtuutettu tai varavaltuutettu"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241665-19",
+      "ordinal": "19",
+      "title": "Eron myöntäminen Uudenmaan liiton maakuntavaltuuston jäsenyydestä ja uuden jäsenen valinta, M.H. (kv)",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241665-19",
+      "decision": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "hallinnon erityisasiantuntija Pia Bergström etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää 1 ehdottaa kunnanvaltuustolle, että valtuusto valitsee uuden jäsenen Uudenmaan liiton maakuntavaltuustoon Martin Honkasen tilalle. 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "paatos": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+        "selostus": "Uudenmaan liiton maakuntavaltuuston jäsen Martin Honkanen on 5.2.2024 saapuneella sähköpostilla pyytänyt eroa luottamushenkilön tehtävästään paikkakunnalta muuton vuoksi. Uudenmaan liiton perussopimuksen 12 §:n mukaan kuntaa edustavien valtuutettujen lukumäärä ja kunnan ääniosuus määräytyy kunnallisvaaleja edeltävän vuodenvaihteen tietojen perusteella asukasluvun pohjalta niin, että jäsenkunnista maakuntavaltuustossa on valtuutettu jokaista alkavaa 25 000 kunnan asukasta kohden. Uudenmaan liitto on edustajainkokouksessaan 14.9.2021 valinnut Kirkkonummen nimeämät edustajat ja heille henkilökohtaiset varajäsenet edustamaan kuntaa maakuntavaltuustossa ja maakuntahallituksessa. Maakuntavaltuuston jäseniä ja varajäseniä nimettäessä huomioidaan, että heidän tulee olla jäsenkuntien valtuutettuja ja valtuustossa edustettuina olevien poliittisten ryhmien ääniosuuksien tulee vastata jäsenkuntien valtuustoissa edustettuina olevien eri ryhmien kunnallisvaaleissa saamaa ääniosuutta maakunnan alueella vaalilaissa säädetyn suhteellisuusperiaatteen mukaisesti. Jäsenvalinnassa on otettava huomioon myös tasa-arvolain vaatimus: kuntien välisen yhteistoiminnan toimielimissä tulee olla sekä naisia että miehiä kumpiakin vähintään 40 prosenttia. Vaalikauden aikana maakuntavaltuuston jäsenet ja varajäsenet nimeää asianomainen kunta. Eronneen tilalle valittavan uuden henkilön täytyy edustaa samaa puoluetta ja olla samaa sukupuolta kuin eroavan henkilön. Lisäksi on huomioitava, että maakuntavaltuuston jäsenten ja varajäsenten on oltava varsinaisia kunnanvaltuutettuja"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241665-20",
+      "ordinal": "20",
+      "title": "Laitosäänestyspaikat europarlamenttivaaleissa 2024",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241665-20",
+      "decision": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "keskusvaalilautakunnan sihteeri Rasmus Beck, etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää 1 hyväksyä seuraavia laitosäänestyspaikkoja europarlamenttivaaleja 2024 varten: Ikäihmisten palvelujen toimintayksiköt Hyvinvointialueen toiminta Palvelutalo Lehmuskartano Valkokulta Yksityiset hoivakodit Villa Kaskimäki Villa Amanda Sepänrinne Kehitysvammaisten asumispalvelu Sepänkoti Villa Sipriina Mielenterveyskuntoutujien asumispalvelu Valkeala 2 että keskusvaalilautakunnan sihteeri ja puheenjohtaja sekä vaalitoimikunnan puheenjohtaja sopivat Upinniemen varuskunnan yhteyshenkilöiden kanssa laitosäänestyksen käytännön järjestelyistä 3 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "paatos": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+        "tiedoksi": "keskusvaalilautakunnan puheenjohtajalle ja sihteerille, ao. laitoksille"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241665-21",
+      "ordinal": "21",
+      "title": "Vireillä olevat valtuustoaloitteet, Kv",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241665-21",
+      "decision": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "initiative": {
+        "ref": null,
+        "proposer": "nnanhallituksen on vuosittain maaliskuun ja lokakuun loppuun mennessä esitettävä valtuusto",
+        "party": null,
+        "name": null
+      },
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 18 Vireillä olevat valtuustoaloitteet, kh 26.2.2024 Vireillä olevat valtuustoaloitteet, Kv Kunnanhallitus 26.02.2024 § 59 1308/00.01.02/2019",
+        "valmistelija": "hallinnon asiantuntija Gunnel Ekström, etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää 1 ehdottaa kunnanvaltuustolle, että valtuusto merkitsee liitteenä olevan luettelon vireillä olevista valtuustoaloitteista tiedoksi. 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "paatos": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+        "selostus": "Hallintosäännön 140 §:n mukaisesti kunnanhallituksen on vuosittain maaliskuun ja lokakuun loppuun mennessä esitettävä valtuustolle luettelo valtuutettujen tekemistä ja kunnanhallitukselle lähetetyistä aloitteista, joita valtuusto ei ole lopullisesti käsitellyt. Samalla on ilmoitettava, mihin toimenpiteisiin niiden johdosta on ryhdytty"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Vireillä olevat valtuustoaloitteet, kh 26.2.2024",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241665-21-104213.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20241665-22",
+      "ordinal": "22",
+      "title": "Kunnanvaltuuston 5.2.2024 tekemien päätösten laillisuus ja täytäntöönpano",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241665-22",
+      "decision": "on toimitettu asianosaisille, toimitilapalvelujenlautakunnan puheenjohtajalle ja sihteerille ja palkka-tiimille § 11 Valtuustoaloite 1/2024: Monikulttuurisuusneuvoston perustaminen Kirkkonummelle Aloite valmistellaan yhteisissä palveluissa Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "hallinnon asiantuntija Gunnel Ekström, etunimi.sukunimi@kirkkonummi.fi Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+        "esittelija": "Kunnanjohtaja Virpi Sailas, etunimi.sukunimi@kirkkonummi.fi",
+        "paatosehdotus": "Kunnanhallitus toteaa kuntalain 96 §:n tarkoittamassa mielessä, että kunnanvaltuuston 5.2.2024 tekemät päätökset ovat syntyneet oikein eivätkä ole muutenkaan lain eivätkä asetuksen vastaisia, joten ne voidaan esteettä panna täytäntöön. Lisäksi kunnanhallitus tekee erilliset täytäntöönpanopäätökset seuraavasti: § 3 Omavelkaisen takauksen antaminen Kyrkslätt FBK rf. - Kirkkonummen VPK ry:lle paloaseman uudisrakennuksen rakentamiseen",
+        "paatos": "on toimitettu asianosaisille, toimitilapalvelujenlautakunnan puheenjohtajalle ja sihteerille ja palkka-tiimille § 11 Valtuustoaloite 1/2024: Monikulttuurisuusneuvoston perustaminen Kirkkonummelle Aloite valmistellaan yhteisissä palveluissa Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "paatos_labels": 9,
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241665-23",
+      "ordinal": "23",
+      "title": "Kunnanjohtajan ajankohtaiset asiat",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241665-23",
+      "decision": "Kunnanhallitus päätti merkitä ajankohtaiskatsauksen tiedoksi",
+      "votes": [],
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Työttömyystilanteen ja toimien ajankohtaiskatsaus 26.2.2024 Kunnanjohtajan ajankohtaiset asiat Kunnanhallitus 26.02.2024 § 61 47/00.01.02/2024",
+        "valmistelija": "kunnanjohtaja Virpi Sailas, etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää merkitä kunnanjohtajan ajankohtaiskatsauksen tiedoksi",
+        "kasittely": "Esityslistan tämä pykälä käsiteltiin §:n 41 jälkeen. Palvelupäällikkö Tony Sandström esitteli ajankohtaiskatsauksen työllisyysasioihin",
+        "paatos": "Kunnanhallitus päätti merkitä ajankohtaiskatsauksen tiedoksi",
+        "selostus": "Kunnanjohtaja esittelee ajankohtaisia valmisteluissa olevia asioita: - ajankohtaiskatsaus työllisyysasioihin - ajankohtaista avustuksista Hyvinvointialueuudistuksen myötä perusturvan avustusmäärärahat siirtyivät Länsi-Uudenmaan hyvinvointialueelle. Järjestöt, jotka ovat aiemmin saaneet perusturvan avustuksia hakivat vuoden 2024 avustuksia hyvinvointialueen avustushaussa. Iso osa kirkkonummelaisia yhdistyksiä eivät täyttäneet hyvinvointialueen asettamia kriteerejä ja ne jäivät näin ollen ilman avustuksia. Koska mainitut hyvinvointia edistävät yhdistykset eivät myöskään pääosin tule täyttämään kunnan eri lautakuntien kautta jaettavien avustusten kriteerejä, on tarkoituksenmukaista valmistella ylimääräinen avustus elinvoimajaoston päätettäväksi. Määrärahat tähän osoitetaan kunnanhallituksen ennalta arvaamattomiin avustuskohteisiin varatusta määrärahasta (40.000€)"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Työttömyystilanteen ja toimien ajankohtaiskatsaus 26.2.2024",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241665-23-104409.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20241665-24",
+      "ordinal": "24",
+      "title": "Kuntalain 92 §:n mukaista otto-oikeusmenettelyä varten saapuneet päätökset",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241665-24",
+      "decision": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 19 Päätösluettelo, 9.-22.2.2024 (julkinen) Kuntalain 92 §:n mukaista otto-oikeusmenettelyä varten saapuneet päätökset Kunnanhallitus 26.02.2024 § 62 Toimielinten pöytäkirjoja Keskusvaalilautakunta 9.2.2024 Elinvoimajaosto 14.2.2024 Yhdyskuntatekniikan lautakunta 14.2.2024 Toimitilapalvelujen lautakunta 15.2.2024 Viranhaltijapäätöksiä Luettelo valvottavista viranhaltijapäätökset on liitteenä. Viranhaltijapäätökset ovat kokonaisuudessaan liitteineen luettavissa kokousjärjestelmässä: (tiedostot / kunnanhallitus / viranhaltijapäätökset)",
+        "esittelija": "Kunnanjohtaja Virpi Sailas, etunimi.sukunimi@kirkkonummi.fi",
+        "paatosehdotus": "Kunnanhallitus merkitsee tiedokseen edellä mainitut kuntalain 92 §:n nojalla otto-oikeuden käyttämistä varten esitetyt päätökset ja päättää, että Kunnanhallitus ei ota asioita käsiteltäväkseen",
+        "paatos": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Päätösluettelo, 9.-22.2.2024 (julkinen)",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241665-24-104432.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20241665-25",
+      "ordinal": "25",
+      "title": "Muut asiat",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241665-25",
+      "decision": null,
+      "votes": [],
+      "sections": {},
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    }
+  ],
+  "id": "20241665",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20241665"
+}

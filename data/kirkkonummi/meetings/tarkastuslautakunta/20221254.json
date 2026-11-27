@@ -1,0 +1,75 @@
+{
+  "title": "Tarkastuslautakunta Pöytäkirja 13.12.2022 klo 17:30 - 20:02 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Tarkastuslautakunta",
+  "doctype": "Pöytäkirja",
+  "date": "2022-12-13",
+  "items": [
+    {
+      "id": "20221254-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221254-1",
+      "decision": "Tarkastuslautakunta totesi kokouksen lailliseksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Tarkastuslautakunta toteaa kokouksen lailliseksi ja päätösvaltaiseksi",
+        "paatos": "Tarkastuslautakunta totesi kokouksen lailliseksi ja päätösvaltaiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20221254-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan laatiminen ja tarkastaminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221254-2",
+      "decision": "Pöytäkirjantarkastajiksi valittiin Jerri Kämpe-Hellenius ja Sami Sailo",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Tarkastuslautakunta valitsee kaksi pöytäkirjantarkastajaa",
+        "paatos": "Pöytäkirjantarkastajiksi valittiin Jerri Kämpe-Hellenius ja Sami Sailo"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20221254-3",
+      "ordinal": "3",
+      "title": "Kirkkonummen Vesi-liikelaitoksen arviointi",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221254-3",
+      "decision": "Liikelaitoksen johtajan antama selvitys sekä siitä käyty keskustelu merkittiin tiedoksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Liikelaitoksen johtajan antama selvitys sekä siitä käyty keskustelu merkitään tiedoksi",
+        "kasittely": "Merkittiin, että Sea Eklund ei esteellisenä osallistunut arviointiin ja poistui kokouksesta päätöksenteon ajaksi, klo 18.46 - 18.48",
+        "paatos": "Liikelaitoksen johtajan antama selvitys sekä siitä käyty keskustelu merkittiin tiedoksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20221254-4",
+      "ordinal": "4",
+      "title": "Yhdyskuntatekniikan palvelualueen arviointi",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221254-4",
+      "decision": "Yhdyskuntatekniikan johtajan antama selvitys sekä siitä käyty keskustelu merkittiin tiedoksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Yhdyskuntatekniikan johtajan antama selvitys sekä asiasta käyty keskustelu merkitään tiedoksi",
+        "paatos": "Yhdyskuntatekniikan johtajan antama selvitys sekä siitä käyty keskustelu merkittiin tiedoksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    }
+  ],
+  "id": "20221254",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20221254"
+}

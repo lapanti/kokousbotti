@@ -1,0 +1,85 @@
+{
+  "title": "Kuntakehitysjaosto Pöytäkirja 08.10.2019 klo 17:00 - 19:41 / Ei tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Kuntakehitysjaosto",
+  "doctype": "Pöytäkirja",
+  "date": "2019-10-08",
+  "items": [
+    {
+      "id": "2019189-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2019189-1",
+      "decision": null,
+      "votes": [],
+      "sections": {},
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "2019189-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2019189-2",
+      "decision": null,
+      "votes": [],
+      "sections": {},
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "2019189-3",
+      "ordinal": "3",
+      "title": "Kirkkonummen kunnan työllistämistoimenpiteiden tilannekatsaus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2019189-3",
+      "decision": null,
+      "votes": [],
+      "sections": {
+        "oheismateriaali": "KUNTAOSUUSLASKUN SISÄLTÖ_KKJ TyöllisyyskatsausKirkkonummi08_2019, työllistämistoimenpiteet, kuntaosuuslista Edellinen asia | Seuraava asia Kokousasia PDF-muodossa <div"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "2019189-4",
+      "ordinal": "4",
+      "title": "EKE-Rakennus Oy:n kaavoitusaloite datakeskuksen asemakaavoittamisen Sundsbergin alueelle (kh, kv)",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2019189-4",
+      "decision": null,
+      "votes": [],
+      "initiative": {
+        "ref": null,
+        "proposer": null,
+        "party": null,
+        "name": null
+      },
+      "sections": {
+        "oheismateriaali": "Kaavamuutosaloite, Sundsbergin Datakeskus, EKE-Rakennus Sundsbergin datakeskus alustava asemakaavan alue Edellinen asia | Seuraava asia Kokousasia PDF-muodossa <div"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "2019189-5",
+      "ordinal": "5",
+      "title": "Muut asiat",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2019189-5",
+      "decision": null,
+      "votes": [],
+      "sections": {},
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    }
+  ],
+  "id": "2019189",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2019189"
+}

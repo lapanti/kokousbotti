@@ -1,0 +1,206 @@
+{
+  "title": "Vammaisneuvosto Pöytäkirja 07.03.2024 klo 12:05 - 14:20 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Vammaisneuvosto",
+  "doctype": "Pöytäkirja",
+  "date": "2024-03-07",
+  "items": [
+    {
+      "id": "20241685-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241685-1",
+      "decision": "Puheenjohtaja totesi kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+      "sections": {
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Puheenjohtaja totesi kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20241685-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241685-2",
+      "decision": "Vammaisneuvosto päätti valita Hellevi Varpion ja Helena Paimelan pöytäkirjantarkastajiksi",
+      "sections": {
+        "valmistelija": "hallinnon erityisasiantuntija Pia Bergström, etunimi.sukunimi@kirkkonummi.fi",
+        "paatosehdotus": "Vammaisneuvosto päättää valita kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan. Tarkastusvuorossa jäsenet Tarja Piili ja Hellevi Varpio",
+        "paatos": "Vammaisneuvosto päätti valita Hellevi Varpion ja Helena Paimelan pöytäkirjantarkastajiksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20241685-3",
+      "ordinal": "3",
+      "title": "Fyyrin esteettömyyskartoituksen esittely",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241685-3",
+      "decision": "Vammaisneuvosto päätti siirtää asian käsittelyn vammaisneuvoston seuraavaan kokoukseen 9.4.2024 esittelijöiden osallistumisesteen vuoksi",
+      "sections": {
+        "valmistelija": "hallinnon erityisasiantuntija Pia Bergström etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Vammaisneuvosto merkitsee Fyyrin esteettömyyskartoitusta koskevan selostuksen sekä asiasta käydyn keskustelun tiedoksi",
+        "paatos": "Vammaisneuvosto päätti siirtää asian käsittelyn vammaisneuvoston seuraavaan kokoukseen 9.4.2024 esittelijöiden osallistumisesteen vuoksi",
+        "selostus": "Kirkkonummen kunnan rakennusinsinööri Joni Skog on kutsuttu vammaisneuvoston kokoukseen esittelemään Fyyrin esteettömyyskartoitus"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20241685-4",
+      "ordinal": "4",
+      "title": "Syväjärven kehittämishankkeen suunnittelun nykytilanteesta lausuminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241685-4",
+      "decision": "Vammaisneuvosto päätti hyväksyä lausunnon ja toimittaa sen hanketta valmisteleville viranhaltijoille",
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko Lausuma_Syväjärvi07032024 Syväjärven kehittämishankkeen suunnittelun nykytilanteesta lausuminen Vammaisneuvosto 07.03.2024 § 15 105/00.01.02/2024",
+        "valmistelija": "hallinnon erityisasiantuntija Pia Bergström etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Vammaisneuvosto päättää antaa lausunnon Syväjärven kehittämishankkeen suunnittelun nykytilanteesta",
+        "kasittely": "Puheenjohtaja Juha-Matti Koskinen esitteli asiaa ja lausuntoluonnoksen kokouksessa. Vammaisneuvosto keskusteli luonnoksesta ja lausuntoon tehtiin keskustelussa esille nostetut tarvittavat täydennykset",
+        "paatos": "Vammaisneuvosto päätti hyväksyä lausunnon ja toimittaa sen hanketta valmisteleville viranhaltijoille",
+        "tiedoksi": "Syväjärven hanketta valmistelevat viranhaltijat",
+        "selostus": "Vammaisneuvosto keskustelee Syväjärven kehittämishankkeen suunnittelun nykytilanteesta ja antaa lausuntonsa siitä"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Lausuma_Syväjärvi07032024",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241685-4-105779.PDF"
+        }
+      ],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20241685-5",
+      "ordinal": "5",
+      "title": "Vammaisneuvoston vuoden 2023 toimintakertomus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241685-5",
+      "decision": "Vammaisneuvosto hyväksyi vuoden 2023 toimintakertomuksen liitteen mukaisesti esitettäväksi ja tietoon otettavaksi asianomaisille luottamustoimi- ja hallintoelimille",
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko Kirkkonummen vammaisneuvosto_toimintakertomus07032024 Vammaisneuvoston vuoden 2023 toimintakertomus Vammaisneuvosto 07.03.2024 § 16 105/00.01.02/2024",
+        "valmistelija": "hallinnon erityisasiantuntija Pia Bergström etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Vammaisneuvosto hyväksyy vuoden 2023 toimintakertomuksen",
+        "kasittely": "Puheenjohtaja Juha-Matti Koskinen esitteli asiaa kokouksessa. Vammaisneuvosto keskusteli toimintakertomuksesta ja teki siihen keskustelussa esille nousseet tarvittavat täydennykset ja muutokset",
+        "paatos": "Vammaisneuvosto hyväksyi vuoden 2023 toimintakertomuksen liitteen mukaisesti esitettäväksi ja tietoon otettavaksi asianomaisille luottamustoimi- ja hallintoelimille",
+        "selostus": "Vammaisneuvosto keskustelee vuoden 2023 toimintakertomuksesta sekä tekee siihen tarvittavat täydennykset"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kirkkonummen vammaisneuvosto_toimintakertomus07032024",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241685-5-105364.PDF"
+        }
+      ],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20241685-6",
+      "ordinal": "6",
+      "title": "Vammaisneuvoston vuoden 2024 toimintasuunnitelman päivittäminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241685-6",
+      "decision": "Vammaisneuvosto hyväksyi päivitetyn toimintasuunnitelman vuodelle 2024",
+      "sections": {
+        "valmistelija": "hallinnon erityisasiantuntija Pia Bergström etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Vammaisneuvosto hyväksyy päivitetyn toimintasuunnitelman",
+        "kasittely": "Puheenjohtaja Juha-Matti Koskinen esitteli asiaa kokouksessa. Vammaisneuvosto keskusteli vuoden 2024 toimintasuunnitelmasta ja täydensi suunnitelmaa käydyn keskustelun perusteella",
+        "paatos": "Vammaisneuvosto hyväksyi päivitetyn toimintasuunnitelman vuodelle 2024",
+        "selostus": "Vammaisneuvosto keskustelee vuoden 2024 toimintasuunnitelmasta ja tekee suunnitelmaan tarvittavat täydennykset"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20241685-7",
+      "ordinal": "7",
+      "title": "Länsi-Uudenmaan hyvinvointialueen kuulumiset ja mahdolliset vaikutukset vammaisneuvoston toimintaan",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241685-7",
+      "decision": "Vammaisneuvosto merkitsi keskustelun tiedoksi",
+      "sections": {
+        "valmistelija": "hallinnon erityisasiantuntija Pia Bergström etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Vammaisneuvosto merkitsee keskustelun tiedoksi",
+        "kasittely": "Vammaisneuvosto keskusteli seuraavista asioista: - Esitys kuljetuspalveluiden toimintaohjeeksi palautettiin valmisteluun. Aiheesta järjestettiin työpaja tiistaina 5.3.2024. - Hyvinvointialueen vammaisneuvosto kokoontuu seuraavan kerran 13.3.2024. Esityslistaan voi tutustua täällä: https://luhva-d10julk.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2024308",
+        "paatos": "Vammaisneuvosto merkitsi keskustelun tiedoksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20241685-8",
+      "ordinal": "8",
+      "title": "Vammaisneuvoston jäsenten tulevat osallistumiset",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241685-8",
+      "decision": "Vammaisneuvosto päätti tulevista osallistumisista seuraavan mukaisesti: - Vanhusneuvosto 25.3.: Hannele Rauhanen - Nuorisovaltuusto 17.4.: Inger Karlsson - Kunnanvaltuusto 15.4.: Juha-Matti Koskinen, varalla Helena Paimela",
+      "sections": {
+        "valmistelija": "hallinnon erityisasiantuntija Pia Bergström etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Vammaisneuvosto merkitsee tulevat osallistumiset tiedoksi",
+        "paatos": "Vammaisneuvosto päätti tulevista osallistumisista seuraavan mukaisesti: - Vanhusneuvosto 25.3.: Hannele Rauhanen - Nuorisovaltuusto 17.4.: Inger Karlsson - Kunnanvaltuusto 15.4.: Juha-Matti Koskinen, varalla Helena Paimela",
+        "tiedoksi": "vanhusneuvoston, nuorisovaltuuston ja kunnanvaltuuston sihteerit",
+        "selostus": "Vammaisneuvosto päättää edustajista seuraavissa kokouksissa: - Vanhusneuvosto 25.3. - Nuorisovaltuusto 9.4. - Kunnanvaltuusto 15.4"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20241685-9",
+      "ordinal": "9",
+      "title": "Vammaisneuvoston jäsenten osallistumisraportit",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241685-9",
+      "decision": "Vammaisneuvosto merkitsi jäsenten osallistumisraportit tiedoksi",
+      "sections": {
+        "valmistelija": "hallinnon erityisasiantuntija Pia Bergström etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Vammaisneuvosto merkitsee tiedoksi jäsenten osallistumisraportit",
+        "kasittely": "Inger Karlsson selosti nuorisovaltuuston kokouksessa 27.2.2024 käsitellyistä asioista. Kokouksen pöytäkirjaan voi tutustua täällä: https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20241663 Muissa asioissa Inger Karlsson oli nostanut esille kunnan kesätyöpaikat ja sen, miten vammaisten kesätyöllistäminen tulisi mahdollistaa. Inger oli muun muassa ehdottanut, että jatkossa muutama kunnan kesätyöpaikka korvamerkittäisiin vammaisille. Toistaiseksi ei ole päätetty, miten asiassa tullaan etenemään, joten Inger Karlsson palaa asiaan nuorisovaltuuston seuraavassa kokouksessa 19.4.2024. Helena Paimela selosti kunnanvaltuustossa 4.3.2024 käsitellyistä asioista. Kokouksessa oli muun muassa hyväksytty kuntastrategia sekä toimintatapaohje. Kunnanvaltuuston pöytäkirjaan voi tutustua täällä: https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=1",
+        "paatos": "Vammaisneuvosto merkitsi jäsenten osallistumisraportit tiedoksi",
+        "selostus": "Vammaisneuvoston jäsenet kertovat muissa kokouksissa käsitellyistä vammaisneuvostoa koskevista asioista"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20241685-10",
+      "ordinal": "10",
+      "title": "Muut asiat",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241685-10",
+      "decision": null,
+      "sections": {},
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    }
+  ],
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20241685",
+  "id": "20241685"
+}

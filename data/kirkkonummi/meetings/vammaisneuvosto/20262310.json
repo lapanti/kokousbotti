@@ -1,0 +1,180 @@
+{
+  "title": "Vammaisneuvosto Pöytäkirja 26.02.2026 klo 17:00 - 19:15 ⁄ Tarkastettu Teams | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Vammaisneuvosto",
+  "doctype": "Pöytäkirja",
+  "date": "2026-02-26",
+  "items": [
+    {
+      "id": "20262310-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262310-1",
+      "decision": "Puheenjohtaja totesi kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+      "sections": {
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Puheenjohtaja totesi kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20262310-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262310-2",
+      "decision": "Vammaisneuvosto päätti valita Irja Bergholmin pöytäkirjantarkastajaksi",
+      "sections": {
+        "paatosehdotus": "Vammaisneuvosto päättää valita yhden pöytäkirjantarkastajan tarkastamaan tämän kokouksen pöytäkirjan sähköisesti. Tarkastettu pöytäkirja julkaistaan kunnan verkkosivulla. Tarkastusvuorossa on Kenneth Eriksson",
+        "paatos": "Vammaisneuvosto päätti valita Irja Bergholmin pöytäkirjantarkastajaksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20262310-3",
+      "ordinal": "3",
+      "title": "Vammaisneuvoston vuoden 2025 toimintakertomus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262310-3",
+      "decision": "Vammaisneuvosto hyväksyi vuoden 2025 toimintakertomuksen ja valtuutti sihteerin tekemään siihen kokouksessa sovitut tekniset korjaukset",
+      "sections": {
+        "liitteet": "Numero Otsikko\n1 KVane_toimintakertomus2025 (pdf 190.04 kb) Kokousasian teksti Vammaisneuvoston vuoden 2025 toimintakertomus Vammaisneuvosto 26.02.2026 § 15 738/00.01.02/2025",
+        "valmistelija": "Kielenkääntäjä Harriet Hagelberg etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Vammaisneuvosto hyväksyy vuoden 2025 toimintakertomuksen",
+        "paatos": "Vammaisneuvosto hyväksyi vuoden 2025 toimintakertomuksen ja valtuutti sihteerin tekemään siihen kokouksessa sovitut tekniset korjaukset",
+        "selostus": "Puheenjohtaja ja varapuheenjohtaja ovat laatineet toimintakertomusluonnoksen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": "Liite 1",
+          "title": "KVane_toimintakertomus2025",
+          "size": "pdf 190.04 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20262310-3-139122.PDF"
+        }
+      ],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20262310-4",
+      "ordinal": "4",
+      "title": "Vammaisneuvoston vuoden 2026 toimintasuunnitelman seuranta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262310-4",
+      "decision": "Vammaisneuvosto keskusteli vuoden 2026 toimintasuunnitelmaan liittyvistä asioista ja teki toimintasuunnitelmaan tarvittavat täydennykset",
+      "sections": {
+        "valmistelija": "Kielenkääntäjä Harriet Hagelberg etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Vammaisneuvosto keskustelee vuoden 2026 toimintasuunnitelmaan liittyvistä asioista ja tekee toimintasuunnitelmaan tarvittavat täydennykset",
+        "kasittely": "Vammaisneuvosto teki teknisiä korjauksia toimintasuunnitelmaan. Neuvosto suuunittelee mm. käyntiä Wiggeen kevään aikana kokouksen yhteydessä",
+        "paatos": "Vammaisneuvosto keskusteli vuoden 2026 toimintasuunnitelmaan liittyvistä asioista ja teki toimintasuunnitelmaan tarvittavat täydennykset",
+        "selostus": "Vammaisneuvosto keskustelee vuoden 2026 toimintasuunnitelmaan liittyvistä asioista ja tekee toimintasuunnitelmaan tarvittavat täydennykset"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20262310-5",
+      "ordinal": "5",
+      "title": "Ajankohtaista toimialoilta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262310-5",
+      "decision": "Vammaisneuvosto merkitsi toimialojen ajankohtaiset asiat tiedoksi ja antoi palautetta reunakivistä suojateillä, puutteellisista suojatiemerkinnöistä rakennustyömailla sekä epätasaisesta pinnasta kevyen liikenteen väylällä uimhallille",
+      "sections": {
+        "valmistelija": "Kielenkääntäjä Harriet Hagelberg etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Vammaisneuvosto merkitsee toimialojen ajankohtaiset asiat tiedoksi",
+        "kasittely": "Kuntakehityksen toimialan edustaja Hannu Ruhanen kertoi että palautetta voi antaa Kirkkonummentien urakasta suoraan turvallisuushavaintopalvelun kautta. Linkki siihen löytyy viikkotiedotteesta: https://kirkkonummi.fi/louhintahiekka-kirkkonummentien-ja-overbyntien-perusparannuksen-tyomaatiedot… Lisäksi voi antaa palautetta suoraan kunnalle s-postitse: infrarakentaminen@kirkkonummi.fi sekä infrasuunnittelu@kirkkonummi.fi Sivistyksen toimialan edustaja Janina Orjasniemi kertoi että lasten ja nuorten hyvinvointisuunnitelmaa päivitetään viimeistä kertaa. Jatkossa kaikki osasuunnitelmat sisällytetään yhteen laajaan hyvinvointisuunnitelmaan. Lasten ja nuorten hyvinvointisuunnitelma tuodaan neuvostolle kommentoitavaksi keväällä ja lausunnoille syksyllä",
+        "paatos": "Vammaisneuvosto merkitsi toimialojen ajankohtaiset asiat tiedoksi ja antoi palautetta reunakivistä suojateillä, puutteellisista suojatiemerkinnöistä rakennustyömailla sekä epätasaisesta pinnasta kevyen liikenteen väylällä uimhallille",
+        "selostus": "Toimialan edustajat esittelevät ajankohtaisia asioita ja hankkeita sekä vastaavat neuvoston kysymyksiin"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20262310-6",
+      "ordinal": "6",
+      "title": "Länsi-Uudenmaan hyvinvointialueen kuulumiset ja mahdolliset vaikutukset vammaisneuvoston toimintaan",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262310-6",
+      "decision": "Vammaisneuvosto merkitsi asiasta käydyn keskustelun tiedoksi",
+      "sections": {
+        "valmistelija": "Kielenkääntäjä Harriet Hagelberg etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Vammaisneuvosto merkitsee asiasta käydyn keskustelun tiedoksi",
+        "kasittely": "Inger Karlsson ja Stefan Taubert kertoivat LUVNin vammaisneuvoston ajankohtaisista asioista, mm. kehitysvammaisten nuorten asuntojen puute ja iltapäivätoimintahaasteet",
+        "paatos": "Vammaisneuvosto merkitsi asiasta käydyn keskustelun tiedoksi",
+        "selostus": "LUVNin vammaisneuvosto kokoontui 5.2.2026. Pöytäkirja on luettavissa LUVNin verkkosivuilta: Dynasty tietopalvelu : Länsi-Uudenmaan hyvinvointialue - Västra Nylands välfärdsområde Seuraava kokous pidetään 5.3.2026"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20262310-7",
+      "ordinal": "7",
+      "title": "Vammaisneuvoston jäsenten osallistumisraportit",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262310-7",
+      "decision": "Vammaisneuvosto merkitsee jäsenten osallistumisraportit tiedoksi",
+      "sections": {
+        "valmistelija": "Kielenkääntäjä Harriet Hagelberg etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Vammaisneuvosto merkitsee jäsenten osallistumisraportit tiedoksi",
+        "kasittely": "Kuultiin Hellevi Varpion raportin vanhusneuvoston kokouksesta. Pöytäkirjat ovat luettavissa kunnan verkkosivuilla: Kunnanvaltuusto 2.2.2026: Kunnanvaltuusto Pöytäkirja 02.02.2026 klo 18:00 - 19:36 ⁄ Tarkastettu Kirkkonummen kunnantalo, Kirkkonummi-sali | Dynasty tietopalvelu : Kirkkonummen kunta Nuorisovaltuusto 3.2.2026: Nuorisovaltuusto Pöytäkirja 03.02.2026 klo 17:35 - 18:51 ⁄ Tarkastettu Kokoushuone Ervast, kunnantalo 1krs. | Dynasty tietopalvelu : Kirkkonummen kunta Sivistys- ja hyvinvointilautakunta 29.1.2026: Sivistys- ja hyvinvointilautakunta Pöytäkirja 29.01.2026 klo 17:28 - 20:06 ⁄ Tarkastettu Gesterbyn koulukeskus Wigge, auditorio | Dynasty tietopalvelu : Kirkkonummen kunta Kuntakehityksen lautakunta 25.2.2026: Kuntakehityksen lautakunta Pöytäkirja 25.02.2026 klo 17:00 - 19:59 ⁄ Tarkastettu Kirkkonummen kunnantalo, Kirkkonummi-sali | Dynasty tietopalvelu : Kirkkonummen kunta Vanhusneuvosto 23.2.2026: Vanhusneuvosto Pöytäkirja 23.02.2026 klo 09:35 - 11:47 ⁄ Tarkastettu Kirkkonummen kunnantalo, kokoushuone Ervast 1. krs. | Dynasty tietopalvelu : Kirkkonummen kunta",
+        "paatos": "Vammaisneuvosto merkitsee jäsenten osallistumisraportit tiedoksi",
+        "selostus": "Vammaisneuvoston jäsenet kertovat muissa kokouksissa käsitellyistä vammaisneuvostoa koskevista asioista. Kunnanvaltuusto 2.2.2026: Juha-Matti Koskinen Nuorisovaltuusto 3.2.2026: - Sivistys- ja hyvinvointilautakunta 29.1.2026: - Kuntakehityksen lautakunta 25.2.2026: - Vanhusneuvosto 23.2.2026: Hellevi Varpio"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20262310-8",
+      "ordinal": "8",
+      "title": "Ilmoitusasioita tiedoksi",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262310-8",
+      "decision": "Vammaisneuvosto merkitsi ilmoitusasiat tiedokseen. - Invalidiliiton kannanotto kunnille ja hyvinvointialueille 9.2.2026, liitetään pöytäkirjaan. - Vammaisneuvoston seuraava kokous pidetään 15.4.2026 - Kunnan kunnossapitoyksikön vastaus neuvoston kysymykseen Kirkkolaaksopuiston senioriliikuntapaikan talvikunnossapidosta: puistoissa ja liikuntapaikoilla ei ole talvikunnossapitoa, ainoastaan muutamia väyliä pidetään kunnossa. Tuon tyyppisiä toiminnallisia kohteita on lähes mahdoton pitää talvella siinä kunnossa, että ne olisivat turvallisia käyttää, eli ei ole mahdollisuutta talvikunnossapitoon. - Kunnanvaltuuston iltakoulussa 12.1.2026 pyydettiin kirjaamaan tärkeimpiä keskustan kehittämiseen liittyviä teemoja. Vammaisneuvoston teemat: Keskustan pitää olla yhdenvertaisesti esteetön, saavutettava ja turvallinen kaikkien yhteyksien osalta. Keskusta on kaikille tuloluokille viihtyisä ja turvallinen asuinympäristö. Keskustassa on mahdollista toimia myös pien- ja keskisuurena yrittäjänä. - KirVas Kirkkonummen Seudun Invalidit ry:n kävely keskustassa 7.3.2026 klo 13 Fyyrin takaovelta",
+      "sections": {
+        "paatosehdotus": "Vammaisneuvosto merkitsee ilmoitusasiat tiedokseen",
+        "paatos": "Vammaisneuvosto merkitsi ilmoitusasiat tiedokseen. - Invalidiliiton kannanotto kunnille ja hyvinvointialueille 9.2.2026, liitetään pöytäkirjaan. - Vammaisneuvoston seuraava kokous pidetään 15.4.2026 - Kunnan kunnossapitoyksikön vastaus neuvoston kysymykseen Kirkkolaaksopuiston senioriliikuntapaikan talvikunnossapidosta: puistoissa ja liikuntapaikoilla ei ole talvikunnossapitoa, ainoastaan muutamia väyliä pidetään kunnossa. Tuon tyyppisiä toiminnallisia kohteita on lähes mahdoton pitää talvella siinä kunnossa, että ne olisivat turvallisia käyttää, eli ei ole mahdollisuutta talvikunnossapitoon. - Kunnanvaltuuston iltakoulussa 12.1.2026 pyydettiin kirjaamaan tärkeimpiä keskustan kehittämiseen liittyviä teemoja. Vammaisneuvoston teemat: Keskustan pitää olla yhdenvertaisesti esteetön, saavutettava ja turvallinen kaikkien yhteyksien osalta. Keskusta on kaikille tuloluokille viihtyisä ja turvallinen asuinympäristö. Keskustassa on mahdollista toimia myös pien- ja keskisuurena yrittäjänä. - KirVas Kirkkonummen Seudun Invalidit ry:n kävely keskustassa 7.3.2026 klo 13 Fyyrin takaovelta"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20262310-9",
+      "ordinal": "9",
+      "title": "Vammaisneuvoston edustajien valinta, kunnanvaltuusto 9.3.2026 ja kuntakehityksen lautakunta 19.3.2026",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262310-9",
+      "decision": "Vammaisneuvosto päätti ottaa lisäasian käsittelyyn ja valita Paula Tokoin edustajaksi ja Pekka Fredrikssonin varaedustajaksi kuntakehityksen lautakunnan kokoukseen 19.3.2026. Neuvosto ei valinnut ylimääräistä varaedustajaa kunnanvaltuuston kokoukseen 9.3.2026",
+      "sections": {
+        "valmistelija": "Kielenkääntäjä Harriet Hagelberg etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "annetaan kokouksessa",
+        "paatos": "Vammaisneuvosto päätti ottaa lisäasian käsittelyyn ja valita Paula Tokoin edustajaksi ja Pekka Fredrikssonin varaedustajaksi kuntakehityksen lautakunnan kokoukseen 19.3.2026. Neuvosto ei valinnut ylimääräistä varaedustajaa kunnanvaltuuston kokoukseen 9.3.2026",
+        "tiedoksi": "Kuken sihteeri",
+        "selostus": "On ilmennyt tarve valita ylimääräinen varaedustaja kunnanvaltuuston kokoukseen 9.3.2026 sekä edustajaa ja varaedustajaa kuntakehityksen lautakunnan kokoukseen 19.3.2026"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    }
+  ],
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20262310",
+  "id": "20262310"
+}

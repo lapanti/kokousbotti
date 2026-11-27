@@ -1,0 +1,61 @@
+{
+  "title": "Tarkastuslautakunta Pöytäkirja 24.04.2025 klo 17:30 - 20:38 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Tarkastuslautakunta",
+  "doctype": "Pöytäkirja",
+  "date": "2025-04-24",
+  "items": [
+    {
+      "id": "20252020-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252020-1",
+      "decision": "Tarkastuslautakunta totesi kokouksen lailliseksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Tarkastuslautakunta toteaa kokouksen lailliseksi ja päätösvaltaiseksi",
+        "paatos": "Tarkastuslautakunta totesi kokouksen lailliseksi ja päätösvaltaiseksi",
+        "selostus": "Hallintosäännön 162 §:n mukaan avattuaan kokouksen puheenjohtaja toteaa läsnä olevat sekä kokouksen laillisuuden ja päätösvaltaisuuden. Kuntalain 103 §:n mukaan lautakunta on päätösvaltainen, kun enemmän kuin puolet jäsenistä on läsnä"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252020-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan laatiminen ja tarkastaminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252020-2",
+      "decision": "Pöytäkirjantarkastajiksi valittiin Sami Sailo ja Maija Lounamaa",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Tarkastuslautakunta valitsee kaksi pöytäkirjantarkastajaa",
+        "paatos": "Pöytäkirjantarkastajiksi valittiin Sami Sailo ja Maija Lounamaa",
+        "selostus": "Hallintosäännön 173 §:n mukaan pöytäkirjan pitämisestä ja sisällöstä vastaa toimielimen puheenjohtaja. Pöytäkirjan allekirjoittaa puheenjohtaja ja sen varmentaa pöytäkirjanpitäjä. Tarkastuslautakunta on 16.9.2021 § 44 päättänyt, että jokaisessa kokouksessa valitaan kaksi pöytäkirjantarkastajaa. Pöytäkirja tarkastetaan ja allekirjoitetaan sähköisesti. Pöytäkirja asetetaan nähtäväksi tarkastuspäivää seuraavana arkipäivänä. Hallintosäännön 174 §:n mukaan lautakunnan pöytäkirja pidetään tarkastamisen jälkeen nähtävänä kunnan verkkosivuilla siten kuin kuntalain 140 §:ssä säädetään"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252020-3",
+      "ordinal": "3",
+      "title": "Arviointikertomus 2024",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252020-3",
+      "decision": "Tarkastuslautakunta valmisteli arviointikertomusta vuodelta 2024. Valmistelua jatketaan seuraavassa kokouksessa",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Tarkastuslautakunta valmistelee arviointikertomusta vuodelta 2024",
+        "paatos": "Tarkastuslautakunta valmisteli arviointikertomusta vuodelta 2024. Valmistelua jatketaan seuraavassa kokouksessa",
+        "selostus": "Kuntalain 121 §:n mukaan tarkastuslautakunnan tehtävänä on arvioida, ovatko valtuuston asettamat toiminnan ja talouden tavoitteet kunnassa ja kuntakonsernissa toteutuneet ja onko toiminta järjestetty tuloksellisella ja tarkoituksenmukaisella tavalla. Arvioinnin tulokset esitetään arviointikertomuksessa. Arviointikertomus käsitellään valtuustossa tilinpäätöksen yhteydessä. Kunnanhallitus antaa valtuustolle lausunnon toimenpiteistä, joihin arviointikertomus antaa aihetta.’"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    }
+  ],
+  "id": "20252020",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20252020"
+}

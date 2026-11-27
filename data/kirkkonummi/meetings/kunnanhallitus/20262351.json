@@ -1,0 +1,470 @@
+{
+  "title": "Kunnanhallitus Pöytäkirja 08.06.2026 klo 16:30 - 21:09 ⁄ Tarkastettu Kirkkonummen kunnantalo, Ervast -kokoustila | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Kunnanhallitus",
+  "doctype": "Pöytäkirja",
+  "date": "2026-06-08",
+  "items": [
+    {
+      "id": "20262351-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262351-1",
+      "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Kokous todettiin lailliseksi ja päätösvaltaiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20262351-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262351-2",
+      "decision": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti. Pöytäkirjantarkastajiksi valittiin Martin Valtonen ja Sanni Jäppinen",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus päättää 1 valita kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan 2 tarkastaa tämän pöytäkirjan sähköisesti seuraavan aikataulun mukaan: Torstaina 11.6.2026 lähetetään pöytäkirja sähköpostitse pöytäkirjantarkastajille, jotka ilmoittavat hyväksymisestään viimeistään maanantaina 15.6.2026. Jos hyväksymisviestiä ei tule sihteerille em. ajankohtaan mennessä, pöytäkirja katsotaan hyväksytyksi. Pöytäkirja allekirjoitetaan sähköisesti. Tarkastettu pöytäkirja julkaistaan tiistaina 16.6.2026 kunnan verkkosivulla",
+        "paatos": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti. Pöytäkirjantarkastajiksi valittiin Martin Valtonen ja Sanni Jäppinen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20262351-3",
+      "ordinal": "3",
+      "title": "Perustietotekniikkaprojektin tarjouskilpailun käynnistäminen (laki viranomaisen toiminnan julkisuudesta 1999⁄621: 6 § mom. kohta 2)",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262351-3",
+      "decision": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "Tietohallintojohtaja Hannu-Pekka Poikonen IT-suunnittelija Sami Juntunen IT-suunnittelija Mika Helisten IT-suunnittelija Lassi Yli-Mäyry IT-suunnittelija Juha Näppi IT-suunnittelija Janne Tapper, hankinta-asiantuntija Taina Väre etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtajan poissa ollessa hallintojohtaja Jaana Suihkonen Kunnanhallitus päättää: 1 käynnistää perustietotekniikkahankinnan tarjouskilpailun 2 valtuuttaa tietohallintojohtajan valmistelemaan ja julkaisemaan tarjouspyynnön sekä tekemään siihen vähäisiä tarkennuksia ja teknisiä korjauksia 3 että hankintapäätös tuodaan kunnanhallituksen päätettäväksi erikseen 4 tarkastaa pöytäkirjan tämän asian osalta kokouksessa",
+        "kasittely": "Tietohallintojohtaja Hannu-Pekka Poikonen oli läsnä tämän pykälän aikana ja esitteli asiaa, klo 16.35 – 17.22",
+        "paatos": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti",
+        "selostus": "1. Tausta ja tavoitteet Kirkkonummen kunnan ICT-palveluiden toteutustapaa on arvioitu ulkoisen asiantuntijan tuella vuonna 2025. Selvityksessä todetaan, että ICT-palveluiden resurssointi on pitkään ollut riittämättömällä tasolla, toiminnan jatkuvuuteen kohdistuu merkittäviä riskejä ja kehittämiskyvykkyyksissä on puutteita. Selvityksen keskeisenä johtopäätöksenä on ollut, että kunnan tulee siirtyä nykyisestä ICT-palveluiden tuotantomallista kohti palveluiden järjestäjäroolia, jossa perustietotekniikkapalvelujen tuotantoa siirretään ulkoisille palveluntuottajille. Tavoitteena on: • vapauttaa resursseja operatiivisesta työstä digitalisaation kehittämiseen toimialojen tarpeiden mukaisesti • parantaa palveluiden laatua ja toimintavarmuutta hyödyntämällä valitun toimittajan organisaation osaamista ja resursseja ICT-palveluiden oman henkilöstön kanssa on käyty tarvittavat tulevaa muutosta koskevat keskustelut kunnan henkilöstöpalveluiden antamien ohjeiden mukaisesti 2.3.2026 ja 28.5.2026. 2. Hankinnan kohde Hankinnan kohteena on perustietotekniikkapalvelujen kokonaisuus, joka muodostuu useista toisiinsa liittyvistä osista. Hankinnan keskeiset osa-alueet ovat: • käyttäjätuki (IT Service Desk ja lähituki) • päätelaiteympäristön elinkaaripalvelut (laitteiden toimitus optiona) • langallinen ja langaton verkko kunnan toimitiloissa (kunnantalo, koulut, päiväkodit, jne.) • kunnan oman, teknisen elinkaarensa päässä olevan IT-konesalin korvaaminen palvelutoimittajan käyttö- ja kapasiteettipalveluilla • teknisen ympäristön ylläpitoon liittyvät asiantuntijapalvelut Kyseessä on laaja muutoskokonaisuus, jossa merkittävä osa nykyisestä ICT-palvelutuotannosta siirtyy valitun ulkoisen toimittajan tuotettavaksi. Hankinta koskee kunnan perustietotekniikan ydintoimintoja ja on yksi kunnan ICT-toiminnan keskeisimmistä strategisista hankinnoista. Hankinnan kautta: • uudistetaan ICT-palvelujen tuotantomalli • rakennetaan moderni IT-palvelunhallinta alan parhaiden käytäntöjen mukaisesti • varmistetaan palveluiden jatkuvuus ja kehitettävyys • luodaan perustaa kunnan digitalisaatiokehittämiselle Hankinnan tarkempi laajuus ja sisältö kuvataan tarjouspyynnössä sekä sen liitteissä (mm. hankinnan kohteen kuvaus ja vaatimusmäärittely). 3. Hankintamenettely Perustietotekniikkauudistuksen toteuttaminen edellyttää palveluiden kilpailuttamista julkisena hankintana, jolloin hankinnasta tulee, sen ennakoidun arvon ylittäessä tavara- ja palveluhankintoihin sovellettavan EU-kynnysarvon 221.000 euroa, julkaista hankintailmoitus julkisten hankintojen sähköisessä ilmoituskanavassa (HILMA) ja edelleen Euroopan unionin virallisen lehden täydennysosassa (S-sarja) sekä TED-tietokannassa (Tenders Electronic Daily). Hankintailmoitukseen liittyvässä tarjouspyynnössä ja sen liitteissä ilmoitetaan hankinnan kohteen keskeiset vaatimukset. Hankinta toteutetaan avoimella menettelyllä. Hankinnan keskeiset ehdot määritellään tarjouspyynnössä ja sen liitteissä. Kilpailutuksen perusteella saaduista tarjouksista valitaan kokonaistaloudellisesti edullisin tarjous. Kokonaistaloudellisesti edullisin on tarjous, joka on hinta-laatusuhteeltaan paras. Laadun osalta arviointiperusteina ovat mm. pisteytettävät V2- ja V3-vaatimukset, palveluun osallistuvien avainhenkilöiden osaaminen ja kokemus, käyttöönottoprojektin kuvaus ja kirjallinen selvitys Liitteen XXX Vaatimuslomake mukaisesti. 4. Aikataulu (arvio) • tarjouskilpailun käynnistäminen: 8.6.2026 alkavalla viikolla • tarjousten jättöaika: 24.8.2026 (päivämäärä tarkentuu käynnistysajankohdan mukaan) • hankintapäätöksen käsittely kunnanhallituksessa: syyskuu 2026 • sopimuksen solmiminen valitun toimittajan kanssa: syyskuu 2026 • käyttöönottoprojekti: syksy 2026 – kevät 2027 (tarkennetaan yhteistyössä valitun toimittajan kanssa) 5. Taloudelliset vaikutukset Hankinnan tavoitteena on parantaa kustannusten ennakoitavuutta sekä mahdollistaa ICT-toiminnan pitkäjänteinen kehittäminen. Käydyn markkinavuoropuhelun perusteella hankinnan kokonaisarvo on n. 8 000 000 € laskettuna neljän vuoden elinkaarelle ja sisältäen käyttöönottovaiheen kertakustannukset. Kustannukset tarkentuvat lopullisen kilpailutuksen voittavan tarjouksen hintojen perusteella. Hankinnan ennakoidussa arvossa on huomioitu mahdollinen laajennustarve tulevina vuosina, todellinen laskutus perustuu kunnan omiin tarpeisiin. 6. Henkilöstövaikutukset Hankinta muuttaa ICT-palveluiden tuotantomallia siten, että kunnan rooli painottuu palveluiden johtamiseen ja kehittämiseen. Operatiivista tuotantoa siirtyy osin valitulle palveluntarjoajalle. Toimivalta: Kirkkonummen hallintosääntö 96 § (kunnanhallituksen toimivalta kunnan yhteisessä hankinnassa, jonka ennakoitu arvo ylittää 500 000 euroa)",
+        "liitteet": "Tarjouspyyntö liitteineen on esitetty esityslistan liitteinä. Tarjouspyyntö ja sen liitteet eivät ole vielä julkisia (laki viranomaisen toiminnan julkisuudesta 1999/ 621: 6 § 1 mom. kohta 2). Tarjouspyyntö liitteineen tulee julkisiksi vasta, kun se on allekirjoitettu tai se on vastaavalla tavalla varmennettu. Luettelo tarjouspyynnön liitteistä\n1 Hankinnan kohteen kuvaus\n2 Referenssi- ja alihankkijalomake\n3 Vaatimusmäärittely\n4 Hintalomake\n5 Tarjousohjeet\n6 Sopimusluonnos omine alaliitteineen\n7 Liikkeenluovutusta koskevat liitteet"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20262351-4",
+      "ordinal": "4",
+      "title": "Rakennusvalvonnan viranhaltijoita koskevan hallintokanteluasian ratkaiseminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262351-4",
+      "decision": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Numero Otsikko 1\n1 Johtavan rakennustarkastajan vastine (pdf 645.05 kb) 2\n2 Neuvontainsinöörin vastine (pdf 279.25 kb) 3\n3 Rakennustarkastajan vastine (pdf 258.95 kb) 4\n4 Selvitys virheellisestä kirjauksesta (pdf 168.16 kb)\nHallintokantelu liitteineen Johtavan rakennustarkastajan vastine hallintokanteluun Rakennustarkastajan vastine hallintokanteluun Neuvontainsinöörin vastine hallintokanteluun Kantelijan vastaselitys viranhaltijoiden vastineisiin Selvitys virheellisestä kirjauksesta",
+        "oheismateriaali": "Otsikko\n1 Pöytäkirjanote §80, rakennus- ja ympäristölautakunta 28.8.2025 (pdf 128.75 kb) Kokousasian teksti Rakennusvalvonnan viranhaltijoita koskevan hallintokanteluasian ratkaiseminen Kunnanhallitus 08.06.2026 § 168 678/10.03.00.02/2025\nRakennus- ja ympäristölautakunta 28.8.2025 § 80",
+        "valmistelija": "Kunnanlakimies Hannu Sorvari etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtajan poissa ollessa hallintojohtaja Jaana Suihkonen Kunnanhallitus päättää, että hallintokantelu jätetään tutkimatta niiltä osin, kuin se on vanhentunut ja hylätään muilta osin",
+        "kasittely": "Kuntakehitysjohtaja Anna-Kaisa Kauppinen ja kunnanlakimies Hannu Sorvari esittelivät asiaa",
+        "paatos": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti",
+        "tiedoksi": "Hallintokantelun tekijä",
+        "selostus": "Asiallinen toimivalta Hallintokantelu on ylemmälle viranomaiselle osoitettu ilmoitus tai ilmianto virkatoimen virheellisyydestä tai viranomaisen toimintaa koskevasta laiminlyönnistä. Käsiteltävästä kantelusta itsestään ei käy ilmi, mille viranomaiselle se on osoitettu. Hallintokantelu on kuitenkin lähetetty sähköpostitse kunnanhallituksen jäsenille, joten se voidaan tulkita osoitetun kunnanhallitukselle. Kirkkonummen kunnanhallituksen yleiseen toimivaltaan kuuluu valvoa kunnan hallinnon lainmukaisuutta. Nyt puheena oleva asia otetaan kunnahallituksen käsittelyyn. Vaaditun vahingonkorvauksen osalta asiaa ei oteta käsittelyyn, vaan vahingonkorvausvelvollisuuden arvioiminen kuuluu riita-asiana yleiseen tuomioistuimeen. Ajallinen toimivalta Hallintolain (434/2003) 53b §:n 3 momentin mukaan kahta vuotta vanhemmasta asiasta tehtyä hallintokantelua ei tutkita, ellei siihen ole erityistä syytä. Asian ratkaisun ajankohtana on pidettävä liitteestä 2 ilmenevää päivämäärää 4.7.2022, jolloin rakennuslupa on myönnetty. Tämän jälkeen käyty kirjeenvaihto ei pidennä vanhenemisaikaa. Myöskään erityisiä syitä määräajan pidentämiseen ei ole. Niiltä osin, kuin kysymys on rakennusluvan myöntämisen perusteista, kunnanhallitus jättää kantelun tutkimatta liian myöhään tehtynä Nyt käsiteltävänä oleva hallintokantelu koskee myös rakennusluvan voimassaolon pidentämisen myöntämistä. Hallintokantelu on saapunut kirjaamoon 31.3.2026 ja rakennusluvan voimassaolon jatkamista koskeva lupapäätös on tehty 30.6.2025 ja lupapäätöksestä tehty oikaisuvaatimus on ratkaistu 28.8.2025. Hallintokantelu tulee ottaa kunnanhallituksen käsittelyyn, jos siinä on virheitä rakennusluvan jatkamiseen liittyvässä prosessissa. Pääasian osalta oikeus hakea oikaisua on vanhentunut 5.7.2024. Rakennusluvan jatkoaika, tausta Asian taustalla on asuntokauppaan liittyvä riita-asia, jota on käsitelty Länsi-Uudenmaan käräjäoikeudessa sekä Helsingin hovioikeudessa (kantelun liite 5). Riita johtuu siitä, että kantelijan ostamaan rakennukseen ei ole tehty loppukatselmusta. Jotta loppukatselmus voitaisiin tehdä, on kantelija hakenut rakennukselle uuden rakennusluvan. Kyseiselle rakennusluvalle haettiin jatkoaikaa vuonna 2025. Jatkoaika myönnettiin. Jatkoajan myöntämisen jälkeen kantelun tekijä toimitti Lupapisteeseen asiakirjan, joka oli merkitty oikaisuvaatimukseksi. Oikaisuvaatimus hylättiin, sillä siitä ei käynyt ilmi, mihin myönnetyn lupapäätöksen kohtiin haettiin muutosta eikä perusteita muutoksille. Oikaisuvaatimuksen käsittelyn yhteydessä rakennus- ja ympäristölautakunnan kanta on ollut, että loppukatselmuksen toimittaminen ei edellytä rakentamisen nykyvaatimusten noudattamista, vaan loppukatselmus toimitetaan ulkopuolisen tarkastuksen perusteella rakennusluvan ehtojen mukaisesti. Hankkeeseen sovelletaan alkuperäisen rakentamisluvan myöntämisajankohdan lainsäädäntöä ja tuolloin rakennuksille asetettuja vaatimuksia. Olisi kohtuutonta vaatia, että vuosikymmeniä sitten rakennettuihin rakennuksiin, joiden omistajuus on voinut vaihtua, sovellettaisiin nykyhetken vaatimuksia. Kantelija on 25.1.2024 ja 21.2.2024 lähettänyt Lupapisteen viestikenttään seuraavan viestejä. Näihin viesteihin ei ole vastattu Lupapisteessä. Hallintokantelussa on pyydetty selvitystä siitä, miksi viesteihin ei ole vastattu. Lupapisteen viestikenttää ei käytetä rakennusaikaiseen yhteydenpitoon, sillä Lupapisteeseen toimitetuista viesteistä ei tule herätteitä luvan käsittelijälle. Rakennusaikainen yhteydenpito tulee hoitaa sähköpostitse tai puhelimitse suoraan luvan käsittelijän kanssa. Rakennusvalvonnan viranhaltijat ovat olleet rakentamisluvan myöntämisen jälkeen hakijan kanssa yhteydessä sähköpostitse, kuten hallintokantelun liitteistä 3 ja 4 ilmenee, sekä puhelimitse. Rakennusluvan jatkaminen Rakennusluvan jatkaminen on tehty alkuperäisen luvan ehdoin ja edellytyksin. Tämä on lain mukainen menettely, eikä lupaehtojen oikeudellisia edellytyksiä tällöin muuteta. Sanottakoon, että kantelija on väittänyt, että rakennusvalvonnan linjaukset loppukatselmusten suhteen olisivat muuttuneet hänen asuntokauppariitaansa koskevan tuomion jälkeen. Hän perustaa väittteensä siihen, että rakennusvalvonnan verkkosivustolla olevaa ohjeistusta aiheeseen liittyen on muokattu. Kunta toteaa tähän, että muokkauksilla ei ole muutettu rakennusvalvonnan linjaa. Linja on ollut ja o n edelleen, että rakennushankkeisiin sovelletaan alkuperäisen rakennusluvan myöntämisajankohtana voimassa olleita säännöksiä. Muutokset on tehty ainoastan ohjeen selkeyttämiseksi. Tapauskohtaisuus, johon kantelija viittaa, ei tarkoita sitä, että tapauskohtaisesti arvioitaisiin, mitä lainsäädäntöä hankkeeseen sovelletaan. Kyseinen ohjeen kohta kokonaisuudessaan kuuluu: ”Uusi lupa edellyttää pääsuunnittelijaa ja siitä haetaan päivitetyllä suunnitelmilla. Mahdolliset jälkikäteen tehdyt muutokset ja niihin liittyvät määräykset käsitellään tapauskohtaisesti.” Tapauskohtaisuus koskee siis nimenomaan jälkikäteen tehtyjä muutoksia verrattuna alkuperäisen rakennusluvan suunnitelmiin. Kyseinen lause sisältyi myös ohjeen aiempaan versioon. Virheellinen kirjaus loppukatselmuksesta, johon hakija vastaselityksessään viittaa, johtuu inhimillisestä virheestä. Virheellinen merkintä on poistettu välittömästi virheen tultua ilmi ja asiasta on ilmoitettu asianosaiselle Lupapisteen viestikentästä. Virheellä ei ole ollut merkitystä nyt käsiteltävän asian lopputulemaan. Asianosainen on virheen tultua ilmi nimenomaisesti saanut jatkoajan rakennuslupaansa. Muutoksenhaku Tähän päätökseen ei saa hakea muutosta valittamalla (hallintolaki 53d §)",
+        "oikeusohjeet": "Hallintolaki (434/2003) 53b ja 53d §"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": "Liite 1",
+          "title": "Johtavan rakennustarkastajan vastine",
+          "size": "pdf 645.05 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20262351-4-143463.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": "Liite 2",
+          "title": "Neuvontainsinöörin vastine",
+          "size": "pdf 279.25 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20262351-4-143461.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": "Liite 3",
+          "title": "Rakennustarkastajan vastine",
+          "size": "pdf 258.95 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20262351-4-143462.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": "Liite 4",
+          "title": "Selvitys virheellisestä kirjauksesta",
+          "size": "pdf 168.16 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20262351-4-143835.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": "Oheismateriaali 1",
+          "title": "Pöytäkirjanote §80, rakennus- ja ympäristölautakunta 28.8.2025",
+          "size": "pdf 128.75 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20262351-4-144033.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20262351-5",
+      "ordinal": "5",
+      "title": "Uusittu yhteisjärjestelysopimus Vesitorninmäen asemakaavan kortteliin 451",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262351-5",
+      "decision": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Numero Otsikko 5\n1 Yhteisjärjestelysopimus Vesitorninmäki K451 (pdf 6.91 mb)",
+        "oheismateriaali": "Otsikko\n1 karttaesitys Vesitorninmäen korttelin 451 tonteista (pdf 1.00 mb) Kokousasian teksti Uusittu yhteisjärjestelysopimus Vesitorninmäen asemakaavan kortteliin 451 Kunnanhallitus 08.06.2026 § 169 23/10.00.02/2021",
+        "valmistelija": "kunnangeodeetti Otso Kärkkäinen etunimi.sukunimi@kirkkonummi.fi, puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtajan poissa ollessa hallintojohtaja Jaana Suihkonen Kunnanhallitus päättää 1 hyväksyä liitteenä olevan yhteisjärjestelysopimuksen koskien Vesitorninmäen asemakaavan korttelia 451. 2 oikeuttaa kunnanjohtajan tekemään sopimukseen vähäisiä tarkistuksia ja valtuuttaa kunnanjohtajan allekirjoittamaan sopimuksen. 3 että päätös voidaan panna täytäntöön odottamatta sen lainvoimaisuutta (kuntalaki 143 §)",
+        "kasittely": "Kuntakehitysjohtaja Anna-Kaisa Kauppinen esitteli asiaa",
+        "paatos": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti",
+        "tiedoksi": "sopijaosapuolet",
+        "selostus": "Taustaa Vesitorninmäen asemakaavan korttelissa 451 on kolme asuinkerrostalojen korttelialueen tonttia (jäljempänä ”AK-tontti”), asumista palveleva yhteiskäyttöisen korttelialueen tontti (AH) sekä autopaikkojen korttelialue (LPA), joka on jaettu kahdeksi tontiksi. Kunta omistaa AK-tontin nro 1 ja toisen autopaikkatonteista (LPA-tontti nro 6). Korttelin autopaikkatonttien (LPA) ja yhteiskäyttöisen tontin (AH) toteuttaminen ja muut korttelijärjestelyt edellyttävät yhteisjärjestelystä sopimista asuinkerrostalotonttien omistajien ja haltijoiden kesken. Kunta on allekirjoittanut 28.1.2021 yhteisjärjestelysopimuksen korttelin silloisten tontinomistajien kanssa. Tämän jälkeen tonttien omistusjärjestelyihin on tullut muutoksia ja AK-tonteille nro 4 ja 5 on tullut omistajaksi tonttirahasto Suomen Osatontti II Ky. AK-tonttien nro 4 ja 5 asuinkerrostalojen, pysäköintialueiden ja yhteiskäyttöisen tontin suunnitelmia on muutettu ja niille on haettu uudet rakentamisluvat tai muutosluvat. Talosuunnitelmien päivityksen johdosta myös autopaikkatarpeet ovat muuttuneet. Nyt tehtävällä yhteisjärjestelysopimuksella korvataan ja päätetään em. vuonna 2021 allekirjoitettu yhteisjärjestelysopimus. Nykyisin kiinteistöjen yhteisjärjestelystä säädetään 1.1.2025 voimaan tulleen rakentamislain 135 §:ssä. Rakennusvalvontaviranomainen määrää yhteisjärjestelystä tai päättää siitä yhteisjärjestelysopimuksen perusteella. Yhteisjärjestelysopimuksen sisältö Yhteisjärjestelysopimuksessa sovitaan mm. seuraavista korttelia 451 koskevista asioista: autopaikkajärjestelyt (LPA-tonteilla) sekä asuinkerrostalotonttien yhteiset vieraspaikat (4 kpl), yhteispiha (AH-tontti), yhteinen jätteenkeräyspiste (AH-tontilla), huolto- ja pelastusajo, ajoyhteydet ja jalankulkuyhteydet (mukaan lukien yhteydet lähivirkistysalueen reiteille), johtojen ja putkien sijoittaminen, lumen läjittäminen ja hulevesijärjestelyt, yhteisten alueiden rakentaminen, rakennuskustannusten jakoperuste (tonttien rakennusoikeuksien mukaisessa suhteessa), yhteisjärjestelyn edellyttämän rakennusurakan toteutus- ja kustannusvastuu, yhteisten alueiden käytön, hoidon, ylläpidon sekä tarpeen mukaan perusparantamisen ja uusimisen kustannusvastuu, kustannusten laskuttaminen ja maksaminen, vakuuttamisvelvollisuus, sopimuksen käytönaikaisista asioita huolehtiva hoitokunta (edustajina yksi henkilö per asuinkerrostalotontti), sekä sopimuksen siirtämiseen, muuttamiseen ja erimielisyyksien ratkaisemiseen liittyvät ehdot. Yhteisjärjestelyn edellyttämä rakentaminen on sovittu toteuttavaksi omakustannushintaan. Rakentamiskustannusten periminen edellyttää, että kustannukset perivän kerrostalotontin asuinrakennus on rakennusvalvontaviranomaisen toimesta hyväksytysti käyttöönotettu. Yhteisjärjestelysopimuksessa sovitaan myös LPA-korttelialueen vähäisestä jatkamisesta (jatkeen pinta-ala noin 180 m 2 ) ja luiskaamisesta VL-alueen puolelle (sopimuksen liitteinä 3 ja 4 olevien piirustusten mukaisesti). Sopijaosapuolet valtuuttavat toisensa hakemaan rakentamislupaa LPA- ja AH-tonteille yhteisjärjestelyn mukaiselle hankkeelle. Yhteisjärjestelysopimukseen tehdyt muutokset Alla on listattu yhteisjärjestelysopimukseen tehdyt muutokset: Sopijaosapuolet (omistajat ja vuokraoikeuden haltijat) on muutettu vastaamaan ajantasaista tilannetta. Tonttirahaston osalta sopimukseen on lisätty vastuunrajoitusehto uutena kohtana 3. Tonttirahasto hyväksyy AK-tonttien nro 4 ja 5 osaomistajana yhteisjärjestelyiden ja rasitteiden perustamisen, mutta sopimuksesta aiheutuvista vastuista, velvollisuuksista ja kustannuksista vastaavat kyseisten tonttien vuokraoikeuksien haltijat. Autopaikkatonteille sijoittuvat autopaikkamäärät ovat muuttuneet 114:stä 107:ään. Autopaikkatonteille tulee erillinen hulevesiliittymä, joten kohdasta 6 on poistettu tarpeettomat kirjaukset asuinkerrostalotonttien hulevesijärjestelmistä. LPA-tontin kustannusjaon kirjausta on selvennetty kohdassa 6. Kohtaan 10 on tarkennettu autopaikkatonttien pinnoite (asfaltin ja betonikiveyksen lisäksi myös ruohokiveys). Kohtaan 14 on lisätty maininnat AK-tonttien nro 4 ja 5 yhteisestä saunasta ja harrastetilasta. Kohdasta 17 on poistettu tavoiteaikataulu kunnan tontinluovutukselle. Liitekartat 1, 2 ja 3 on päivitetty. Lisäksi sopimukseen on tehty muita vähäisempiä tarkennuksia. Esityslistan liite: yhteisjärjestelysopimus Esityslistan oheismateriaali: karttaesitys Vesitorninmäen korttelin 451 tonteista"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": "Liite 1",
+          "title": "Yhteisjärjestelysopimus Vesitorninmäki K451",
+          "size": "pdf 6.91 mb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20262351-5-144137.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": "Oheismateriaali 1",
+          "title": "karttaesitys Vesitorninmäen korttelin 451 tonteista",
+          "size": "pdf 1.00 mb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20262351-5-144138.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20262351-6",
+      "ordinal": "6",
+      "title": "Sitoutumispäätös Numera Palvelut Oy:n yhteishankintaan, IT- ja medical-laitteiden sekä muun irtaimiston rahoitus- ja elinkaarihallinnan palvelu 2025",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262351-6",
+      "decision": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "Talousjohtaja Esa Lindell Tietohallintojohtaja Hannu-Pekka Poikonen Hankinta-asiantuntija Taina Väre etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtajan poissa ollessa hallintojohtaja Jaana Suihkonen Kunnanhallitus päättää 1 että Kirkkonummen kunta sitoutuu Numera Palvelut Oy:n IT- ja medical-laitteiden sekä muun irtaimiston rahoitus- ja elinkaarihallinnan palvelu 2025 puitejärjestelynä toteutettavaan yhteishankintaan 2 valtuuttaa hankintapäällikön tekemään sitoutumisilmoituksen kohdan 1. mukaiseen yhteishankintaan sitoutumisen 3 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa. Kirkkonummen kunta ei liity hankintaan tällä päätöksellä, vaan vasta myöhemmin tehtävällä sitoutumisilmoituksella",
+        "kasittely": "Talousjohtaja Esa Lindell esitteli asiaa",
+        "paatos": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti",
+        "tiedoksi": "Numera Palvelut Oy, talousjohtaja E.L, tietohallintojohtaja H-P P, hankintapäällikkö A.H, hankinta-asiantuntija T.V",
+        "selostus": "Hankinnan kohteen kuvaus Numera Palvelut Oy on yhteishankintayksikkö, joka kilpailutti IT- ja medical-laitteiden sekä muun irtaimiston rahoitus- ja elinkaarihallinnan palvelu 2025. Hankinta sisältää seuraavat osakokonaisuudet:  Rahoitettavien vuokrakohteiden leasingrahoitusratkaisut,  Vuokrakauden aikaisen kattavan ja monipuolisen laitehallintapalvelun,  Vuokrakauden päättymiseen liittyvät palvelut, kuten laitteiden nouto ja asianmukainen kierrättäminen sekä vuokrasopimusten uusiminen jatkovuokrakausille. Yhteishankinnan sopimuskausi on 1.5.2026-30.4.2030, josta Kirkkonummen kunnan sopimuskausi on 3.2.2027 – 30.4.2030. Kirkkonummen kunnan liittyminen edellä mainittuun yhteishankintaan on tarkoituksenmukaista, koska liittymisen myötä kunnalla on mahdollisuus hankkia IT- ja medical-laitteiden sekä muun sopimukseen soveltuvan irtaimiston elinkaarenhallintapalvelut valmiiksi kilpailutettuina ja kustannustehokkaasti. Julkisista hankinnoista ja käyttöoikeussopimuksista annetun lain 20 §:n mukaan hankintayksikkö voi hankkia tavaroita ja palveluita yhteishankintayksiköltä käyttäen yhteishankintayksikön tekemää hankintasopimusta, 42 §:ssä tarkoitettua puitejärjestelyä taikka 49 §:ssä tarkoitettua dynaamista hankintajärjestelmää. Hankintayksikön katsotaan täyttäneen hankintalain mukaiset velvoitteensa, kun se hankkii tavaroita tai palveluja yhteishankintayksiköltä taikka hankkii tavaroita, palveluja taikka rakennusurakoita käyttäen yhteishankintayksikön tekemää hankintasopimusta, 42 §:ssä tarkoitettua puitejärjestelyä taikka 49 §:ssä tarkoitettua dynaamista hankintajärjestelmää. Numera Palvelut Oy on yllä mainitun lain mukainen yhteishankintayksikkö. Hankintayksikkö ei sitoudu mihinkään minimiostomääriin, vaan hankintoja tehdään tarpeen mukaan ja kulloisten määrärahojen puitteissa. Sitoutumisen arvo sopimuskaudelle on noin 2.500.000,00 euroa (alv 0 %). Kirkkonummen kunta ei liity hankintaan tällä päätöksellä, vaan vasta myöhemmin tehtävällä sitoutumisilmoituksella. Toimivalta: Kirkkonummen kunnan hallintosäännöstä 16.6.2025 § 96"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20262351-7",
+      "ordinal": "7",
+      "title": "Kirkkonummen kunnan vuoden 2026 I osavuosikatsaus, Kv",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262351-7",
+      "decision": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Numero Otsikko 6\n1 Osavuosikatsaus I 2026 (pdf 7.55 mb) 7\n2 TA muutosesitykset_2026 korjattu, Kh ja Kv 6-2026 (pdf 277.17 kb) Kokousasian teksti Kirkkonummen kunnan vuoden 2026 I osavuosikatsaus, Kv Kunnanhallitus 08.06.2026 § 171 379/02.02.00/2025",
+        "valmistelija": "talousjohtaja Esa Lindell etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtajan poissa ollessa hallintojohtaja Jaana Suihkonen Kunnanhallitus päättää 1 hyväksyä osavuosikatsauksen yleishallinon osuuden 2 merkitä tiedoksi muiden toimielinten taloudellisen tuloksen ja toiminnallisten tavoitteiden ja tunnuslukujen toteutumisen ajalla 1.1.- 30.4.2026 3 antaa osavuosikatsauksen edelleen kunnanvaltuustolle tiedoksi 4 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "kasittely": "Talousjohtaja Esa Lindell esitteli asiaa",
+        "paatos": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti",
+        "selostus": "Talousarvion toteutumista seurataan raportoinnilla, joka toteutetaan kuntatasolla, toimielintasolla ja meno- ja tulolajitasolla. Raportoinnissa seurataan taloudellisen tuloksen, toiminnallisten tavoitteiden ja tunnuslukujen toteutumista. Kuntatason raportoinnista vastaa kunnanhallitus, joka lautakuntien ja johtokunnan raporttien perusteella laatii osavuosikatsauksen kunnanvaltuustolle, vuoden 2026 osalta tilanteesta 30.4. ja 31.8. sekä tilinpäätökseen kuuluvan toimintakertomuksen. Kunnanhallitus päättää, miten kunnan toimielimet raportoivat sille. Vuoden 2025 lopullinen Kirkkonummen asukasluku on 41 635 henkeä. Vuoden 2026 huhtikuun lopussa kunnan asukasluku on 41 663 henkeä eli laskua tammi-huhtikuun aikana on 201 henkeä (-0,3 %). Kirkkonummen kunnassa työttömyysaste huhtikuun 2026 lopussa oli 10,1 %, 2022 henkilöä, vuoden 2025 lopussa työttömänä oli 2277 henkilöä. Koko maan työttömyysaste oli 10,1 %. Työttömyysaste Uudenmaan ELY- keskuksen alueella oli huhtikuun 2026 lopussa 12,2 %. Käyttötalouden ulkoiset tulot huhtikuun lopussa ovat toteutuneet 26,4 % ja ulkoiset menot 31,1 %. Edellisvuoteen verrattuna ulkoisia tuloja on toteutunut 8,6 % eli 0,9 milj. euroa edellisen vuoden vastaavaa aikaa enemmän ja ulkoisia menoja 0,1 milj. euroa eli 0,1 % vähemmän. Liitteenä on erittely, johon sisältyy talousarvion muutosesitykset palkankorotusten ajoituksen osalta, joka vähentää menoja kaikilla toimielimillä. Lisäksi muutosesitys sisältää HSL:n kuntayhtymäosuuden vähentymisen sekä verotuloarvion alentamisen. Nämä muutokset eivät vaikuta tulokseen, mutta talouden seurantaan. Muut muutosesitykset tuodaan syksyn osavuosikatsauksen yhteydessä päätettäviksi. Muutosesitykset eivät ole mukana toimielinten osavuosikatsausten raportoinnissa mukana. Huhtikuun toimintakate on 0,9 milj. euroa edellisvuotta parempi. Toimintakatteen toteutumisprosentti on 32,5 %. Verotulot ovat toteutuneet 32,2 % talousarvioon nähden. Jo saadut tiedot toukokuun verotuloista kasvoivat huomattavasti kunnallisverojen osalta, joka vaikuttaa toteumaennusteeseen positiivisesti. Valtionosuudet toteutuvat talousarvion mukaisina. Toimielimet ovat laatineet osavuosikatsaukset ajalta 1.1.-30.4.2026. Suomen- ja ruotsinkieliset lautakunnat käsittelevät osavuosikatsauksensa juuri ennen kuin kunnanhallituksen esityslista julkaistaan. Tavoitteena on saada katsaus valtuustolle kesäkuun kokoukseen. Katsaukset sisältävät muun muassa koko toimialan tuloslaskelman sekä toimielimittäin määrärahojen sekä raportoitavissa olevien toiminnallisten mittarien toteutumatilanteen samalta ajanjaksolta. Yhteiset palvelut Yhteisten palveluiden erikseen sitovat työmarkkinatuen kuntaosuudet ylittyvät noin 0,7 milj. euroa. Muun toiminnan osalta pysytään budjetissa. Toimintatuottojen toteuma on 38,3 % ja -menojen on 35 %, jossa on mukana työmarkkinatuen makuosuus. Toimintakatteen toteuma on 35,9 %. Rakennus- ja ympäristölautakunta 19.5.2026 Ensimmäisen neljän kuukauden aikana (1.1.–30.4.2026) on myönnetty rakentamisluvat yhteensä 27 uudelle pientalolle ja yhdelle paritalolle sekä kolmelle uudelle vapaa-ajan asunnolle sekä kahdelle kerrostalolle. Talousarvion mukaisten tuotto-odotukset jäävät edellisen vuoden toteumasta selvästi. Muutos edellisen vuoden vastaavaan aikaan on 45,4 % toteumaprosentin ollessa 17,3. Tuloja vähentää rakennuslain muutos, joka mahdollistaa kevennetyn lupamenettelyn takia, joka vähentää maksutuottoja. Tuloarvio tullee alittumaan. Menojen toteumaprosentti on 26,4 ja kasvua edelliseen vuoteen on 15,3 %. Kuntakehityksen lautakunta 27.5.2026 Tilanteessa 30.4.2026 kuntakehityksen lautakunnan toimintakate on yhteensä -4 313 658 euroa (toteuma 28,7 %), joten toimintakate on toteutunut kokonaisuutena talousarviota alempana. Muutos edelliseen vuoden huhtikuuhun on -13,5 %. HSL on arvioinut ensimmäisen osavuosikatsauksensa yhteydessä, että Kirkkonummen kuntaosuus 2026 toteutuisi jonkin verran talousarviota alempana. Korjattu kuntaosuusennuste on 7,1 milj. euroa, kun talousarviossa on varattu 8,1 milj. euroa. Joukkoliikenteen osalta toteuma on muutettavan talousarvion mukainen (vähennysesitys 992 000 €), -2 770 602 (34,2 %). Kirkkonummen Vesi-liikelaitoksen johtokunta 25.5.2026 Veden perusmaksujen toteuma tammi-huhtikuussa 2026 on 21,9 % budjetoidusta. Huhtikuun 2026 alusta voimaan tullut perusmaksujen 15 % korotus kasvattaa perusmaksujen tuottoa loppuvuonna. Arvio koko vuoden toteumasta on 10,3 milj. euroa eli talousarvion mukainen. Liittymismaksujen kertymä on tammi-huhtikuussa 2026 alhainen, 139 288 euroa, mikä on ainoastaan 17,4 % koko tilikaudelle budjetoidusta kertymästä (1,7 milj. euroa). Rakentaminen ei ole lähtenyt elpymään, joten arviota liittymismaksujen kertymisestä on ehkä pudotettava. Tässä vaiheessa tilikautta arvio on, että Kirkkonummen Veden toimintatuotot (liikevaihto) tilikaudella 2025 ovat yhteensä 12,9 milj. euroa eli talousarvion mukaiset. Toimintamenot ovat vähentyneet edellisen vuoden huhtikuuhun nähden 12,4 % ja toimintakate 223,6 %, johtuen siitä, ettei vastavana aikana laskutustuottoja ei vielä peritty. Toimitilapalvelujen lautakunta 19.5.2026 Toimintakate toteutuu käyttötaloudessa talousarvion mukaisesti. Investoinneissa Papinmäen koulun muutos ja peruskorjaushanketta sekä Nissnikun päiväkodin, Prästgårdsbackens daghemin ja Ravallsin päiväkodin peruskorjauksia on edistetty yhteisenä hankkeena, jonka kustannukset on kirjautuneet projektille 9309 Tarve- ym. selvitykset, mutta osavuosikatsauksen yhteydessä on tarkoitus jakaa kustannukset kohteittain talousarvion mukaisesti. Korjausinvestoinnit eivät kaikilta osin ole edenneet aikataulun mukaisiesti. Hankkeita on edistetty resurssitilanteen ja prioriteetin mukaisesti. Jonkin verran myös hankekohtaisia kustannusylityksiä on ennustettavissa. Sivistys- ja hyvinvointilautakunta 28.5.2026 Sivistys- ja hyvinvointilautakunnan käyttötalousmenojen ja -tulojen tavoitetaso on ko. ajankohtana 33,3 %. Toimintatuottojen osalta toteutuma on 45,6 % eli on parempi kuin tavoitetaso. Menojen toteutuma 31,9 % alittaa tavoitetason. Toimintakatteen toteuma on 29,5 % ja alittaa tavoitetason noin neljä prosenttiyksikköä. Vuoden ensimmäisen neljän kuukauden toimintakate on -2,53 milj. euroa, jossa kasvua edellisen vuoden vastaavaan aikaan on 5,4 %. Toimielimen ennuste koko vuoden tilanteesta osoittaa noin talousarvion mukaista noin 8,62 miljoonan euron alijäämää . Ennusteeseen sisältyy merkittäviä epävarmuustekijöitä sekä positiiviseen että negatiiviseen suuntaan, mutta talouden tilanne on kaikissa arvioiduissa skenaarioissa tällä hetkellä vakaa. Suomenkielinen kasvatus- ja koulutuslautakunta 2.6.2026 Suomenkielisen kasvatus- ja koulutuslautakunnan käyttötalousmenojen ja -tulojen tavoitetaso on ko. ajankohtana 33,3 %. Toimintatuottojen osalta toteutuma ylittää ajankohdan tavoitetason ja on 39,8 %. Menojen toteutuma on ajankohdan tavoitetta parempi eli 31,4 %. Toimintakate on -18,9 milj. euroa ja alittaa tavoitetason. Toimintakate on kasvanut 1,9 % edelliseen vuoden huhtikuuhun verrattuna. Ennuste koko vuoden toimintakatteen tilanteesta on noin 61,6 miljoonaa euroa eli talousarvion mukainen. Ennusteeseen sisältyy merkittäviä epävarmuustekijöitä sekä positiiviseen että negatiiviseen suuntaan, mutta talouden tilanne on kaikissa arvioiduissa skenaarioissa tällä hetkellä vakaa. Ruotsinkielinen kasvatus- ja koulutuslautakunta 3.6.2026 Ruotsinkielisen kasvatus- ja koulutuslautakunnan käyttötalousmenojen ja - tulojen tavoitetaso on huhtikuun tilanteessa 33,3 %. Toimintatuottojen osalta toteutuma ylittää tavoitetason ollen 44,5 %. Menojen toteutuma on 30,1 % ja on parempi kuin tavoitetaso. Toimintakatteen toteuma on 29,4 % ollen -4,3 milj. euroa. Siinä on kasvua edelliseen vuoteen 1,8 %. Ennuste lautakunnan koko vuoden tilanteesta on -14,9 milj. euroa, joka on talousarvion mukainen. Ennusteeseen sisältyy merkittäviä epävarmuustekijöitä sekä positiiviseen että negatiiviseen suuntaan, mutta talouden tilanne on kaikissa arvioiduissa skenaarioissa tällä hetkellä vakaa"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": "Liite 1",
+          "title": "Osavuosikatsaus I 2026",
+          "size": "pdf 7.55 mb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20262351-7-144831.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": "Liite 2",
+          "title": "TA muutosesitykset_2026 korjattu, Kh ja Kv 6-2026",
+          "size": "pdf 277.17 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20262351-7-145360.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20262351-8",
+      "ordinal": "8",
+      "title": "Jorvaksen Kalmerin kiinteistöjen purku, toimitilapalvelujen lautakunnan lisämäärärahaesitys, Kv",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262351-8",
+      "decision": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "vt. toimitilajohtaja Hanne Nylund etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtajan poissa ollessa hallintojohtaja Jaana Suihkonen Kunnanhallitus päättää 1 esittää kunnanvaltuustolle, että se myöntää toimitilapalvelujen lautakunnan talousarvioon kiinteistöjen purulle lisämäärärahan 200 000 € 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "kasittely": "Varajäsen Henri Taussi saapui kokoukseen tämän pykälän alussa klo 18.05. Kuntakehitysjohtaja Anna-Kaisa Kauppinen esitteli asiaa",
+        "paatos": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20262351-9",
+      "ordinal": "9",
+      "title": "Määrärahojen muutokset vuoden 2026 talousarvioon (kv)",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262351-9",
+      "decision": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Numero Otsikko 8\n1 TA muutosesitykset_2026 korjattu, Kh ja Kv 6-2026 (pdf 277.17 kb) Kokousasian teksti Määrärahojen muutokset vuoden 2026 talousarvioon (kv) Kunnanhallitus 08.06.2026 § 173 379/02.02.00/2025",
+        "valmistelija": "Talousjohtaja Esa Lindell etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtajan poissa ollessa hallintojohtaja Jaana Suihkonen Kunnanhallitus päättää 1 esittää kunnanvaltuustolle, että valtuusto päättää vähentää henkilöstömäärärahoja 934 018 eurolla ja HSL:n kuntaosuutta 992 000 eurolla. Näillä katetaan Kalmarin kiinteistön purkamisen 200 000 euron lisämäärärahatarve sekä verotuloarvion vähentäminen 1 726 018 eurolla 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "kasittely": "Talousjohtaja Esa Lindell esitteli asiaa",
+        "paatos": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti",
+        "selostus": "Helmikuun kuukausiraportissa kunnanhallitukselle raportoitiin, että palkkamäärärahoihin on tehty liian suuret varaukset, sillä korotukset tulevat voimaan kevään sijasta kesän jälkeen. Näin ollen voidaan vähentää henkilöstömenoja talousarviossa 934 018 eurolla. Muutos koskee kaikkia toimielimiä, joista kertyy noin miljoonan eurojen menojen vähennykset. Liitteessä on todettu vaikutukset toimielimittäin. Lisäksi HSL:n yhtymäkokous korjasi kuntaosuuslaskelmissa olleen virheensä, joten Kirkkonummen osuuden vähennys on 992 000 euroa. Verotuloihin on varattu liian pieni menomääräraha, johon tarvitaan tämän hetken tilanteen mukaan 2,8 milj. euroa lisää määrärahaa. Tässä esityksessä verotuloarviota vähennetään edellä mainittuja säästyviä määrärahoja vastaavalla 1 726 018 eurolla ja lopulliseen muutostarpeeseen palataan kun on saatu pidemmän aikavälin dataa verotulojen kehityksestä. Osavuosikatsauksessa on todettu muutostarpeet muiden erien, kuten verotulojen alittuminen sekä työmarkkinatuen kuntaosuuden ylittyminen. Näistä tuodaan määrärahaesitykset valtuustolle kesän jälkeen, kun arviot muutostarpeista ovat tarkentuneet. Tavoitteeksi toimialoille on annettu löytää säästökohteita tälle vuodelle niin, että tulos pysyy positiivisena,"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": "Liite 1",
+          "title": "TA muutosesitykset_2026 korjattu, Kh ja Kv 6-2026",
+          "size": "pdf 277.17 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20262351-9-145360.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20262351-10",
+      "ordinal": "10",
+      "title": "Kirkkonummen kunnantalon tilojen ulkopuolisen käytön periaatteet ja käyttökorvaukset",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262351-10",
+      "decision": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti evästyksellä, että vartiointipalveluiden kanssa koetetaan jatkossa saada ratkaisuja, jotka tekisivät vartioinnin tilaamisesta yhdistyksille edullisempaa",
+      "votes": [],
+      "sections": {
+        "valmistelija": "Hallintojohtaja Jaana Suihkonen Työturvallisuus- ja riskienhallintapäällikkö Lasse Kammonen etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtajan poissa ollessa hallintojohtaja Jaana Suihkonen Kunnanhallitus päättää kunnantalon ulkopuolisen käytön periaatteista ja käyttökorvauksista selostusosan mukaisesti",
+        "paatos": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti evästyksellä, että vartiointipalveluiden kanssa koetetaan jatkossa saada ratkaisuja, jotka tekisivät vartioinnin tilaamisesta yhdistyksille edullisempaa",
+        "kasittely": "Hallintojohtaja Jaana Suihkonen esitteli asiaa. Puheenjohtaja julisti keskustelun päättyneeksi ja totesi, että keskustelun aikana Ronja Karkinen on jättänyt seuraavan evästysehdotuksen: Vartiointipalveluiden kanssa koetetaan jatkossa saada ratkaisuja, jotka tekisivät vartioinnin tilaamisesta yhdistyksille edullisempaa. Evästysehdotusta kannatti Henri Taussi. Puheenjohtajan tiedustellessa, evästysehdotus hyväksyttiin yksimielisesti",
+        "selostus": "Kunnantalon tilojen ulkopuolista käyttöä koskevaa ohjeistusta ja hinnoittelua on vuosien varrella täsmennetty useilla päätöksillä ja linjauksilla. Viimeisin päätös on tehty kunnanhallituksessa 24.2.2020 § 64. Kokonaisuutta on tarpeen tarkastella uudelleen, jotta kunnantalon tilojen käytöstä perittävät maksut ovat yhtenäisiä, läpinäkyviä ja tasapuolisia eri käyttäjäryhmille. Ulkopuolisille toimijoille voidaan luovuttaa seuraavia kunnantalon tiloja: - Kirkkonummi-sali - Kunnantalon aula - Kajanus - Kajanus + sauna Tilat voidaan luovuttaa maksutta Kirkkonummella toimiville yleishyödyllisille ja voittoa tavoittelemattomille yhteisöille, kuten järjestöille ja yhdistyksille. Vastikkeeton käyttö koskee myös viranomaistoimintaa, kuten Puolustusvoimia ja Länsi-Uudenmaan hyvinvointialuetta. Tämä koskee myös kunnan kanssa yhteistyössä järjestettäviä tilaisuuksia. Tilojen käyttö on maksullista kaupallisille toimijoille sekä muille edellä mainituille toimijoille silloin, jos tilaisuuden osallistujilta peritään osallistumismaksu. Tila ovat varattavissa kaikille käyttäjäryhmille päivittäin klo 7–24 välisenä aikana. Edellä mainituista ajoista voidaan poiketa perustelluista syistä ja niistä sovitaan erikseen. Kunnantalon aukioloaikojen ulkopuolinen tilankäyttö edellyttää aina vahtimestari- tai vartiointipalvelun käyttöä. Nämä kustannukset peritään käyttäjältä myös silloin, kun tilan käyttö muuten on maksutonta. Tilojen käytöstä perittävät maksut ovat seuraavat: - Kirkkonummi-sali: 400 € (enintään 3 tuntia), lisätunnit 90 €/h - Kunnantalon aula: 400 € (enintään 3 tuntia), lisätunnit 90 €/h - Kajanus: 400 € (enintään 3 tuntia), lisätunnit 90 €/h - Kaksi edellä mainittua tilaa: 600 € (enintään 3 tuntia), lisätunnit 90 €/h - Kolme edellä mainittua tilaa: 800 € (enintään 3 tuntia), lisätunnit 90 €/h - Saunan käyttömaksu on 100 € ja edellyttää lisäksi Kajanus -tilan varausta Tilojen varaaja tilaa vahtimestari- / vartiointipalvelun kunnan sopimuskumppanilta ja ne veloitetaan kulloinkin voimassa olevan hinnaston mukaisesti. Tilojen käyttömaksuun sisältyy sähkö, vesi ja normaali siivous. Mikäli tila jätetään siivottomaan kuntoon, on kunnalla oikeus periä erillinen siivousmaksu. Kirkkonummi-salissa ja Kajanuksessa on käytettävissä tietokone ja esitystekniikka. Kunnan työyhteisöjen sekä valtuustoryhmien sisäiset tilaisuudet ovat maksuttomia ajankohdasta riippumatta. Aukioloaikojen ulkopuoliseen käyttöön tulee kuitenkin nimetä tilaisuudessa paikalla oleva vastuuhenkilö. Jos tilaisuuteen osallistuu ulkopuolisia henkilöitä, peritään vahtimestari- tai vartiointikulut. Hallintojohtaja ja kunnantalon turvallisuuspäällikkö voivat perustellusta syystä hylätä tilavaraus tai poiketa tästä päätöksestä"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "paatos_labels": 2,
+      "attachments": [],
+      "proposals": [
+        {
+          "proposer": "Ronja Karkinen",
+          "kind": "evastysehdotus",
+          "text": "Vartiointipalveluiden kanssa koetetaan jatkossa saada ratkaisuja, jotka tekisivät vartioinnin tilaamisesta yhdistyksille edullisempaa. Evästysehdotusta kannatti Henri Taussi",
+          "source": "introduction",
+          "party": "vihr"
+        }
+      ]
+    },
+    {
+      "id": "20262351-11",
+      "ordinal": "11",
+      "title": "Eron myöntäminen varavaltuutetun tehtävästä (V.S), Kv",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262351-11",
+      "decision": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "hallinnon asiantuntija Gunnel Ekström etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtajan poissa ollessa hallintojohtaja Jaana Suihkonen Kunnanhallitus päättää 1 ehdottaa kunnanvaltuustolle, että valtuusto 1.1 myöntää eron Ville Salmiselle varavaltuutetun tehtävästä 1.2 merkitsee tiedokseen, että keskusvaalilautakunta arvioi tarpeen määrätä uuden varavaltuutetun 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "paatos": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti",
+        "selostus": "Ville Salminen on pyytänyt ero kunnanvaltuuston varavaltuutetun tehtävästä paikkakunnalta muuton takia. Kuntalain 10 luvun 70 §:n mukaan luottamustoimesta voi erota pätevästä syystä. Eron myöntämisestä päättää luottamushenkilön valinnut toimielin. Valtuusto myöntää eron valtuutetulle ja varavaltuutetulle"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20262351-12",
+      "ordinal": "12",
+      "title": "Eron myöntäminen tarkastuslautakunnan jäsenyydestä (V.S) ja uuden jäsenen valinta, Kv",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262351-12",
+      "decision": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "hallinnon asiantuntija Gunnel Ekström etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtajan poissa ollessa hallintojohtaja Jaana Suihkonen Kunnanhallitus päättää 1 ehdotta kunnanvaltuustolle, että valtuusto 1.1 myöntää eron Ville Salmiselle tarkastuslautakunnan jäsenyydestä 1.2 valitsee uuden jäsenen tarkastuslautakuntaan Ville Salmisen tilalle toimikauden loppuun 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "paatos": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti",
+        "selostus": "Ville Salminen on pyytänyt eroa tarkastuslautakunnan jäsenyydestä paikkakunnalta muuton takia. Kuntalain 10 luvun 70 §:n mukaan luottamustoimesta voi erota pätevästä syystä. Eron myöntämisestä päättää luottamushenkilön valinnut toimielin. Tarkastuslautakunnan kokoonpano 2025-2027: Jäsenet / varajäsenet: pj. Miika Engström (KOK) / Tuomas Holm (KOK) vpj. Anna Aintila (RKP) / Siv Ahlberg (RKP) Kimmo Collander (Keskusta) / Marjut Frantsi-Lankia (Keskusta) Mikael Gerkman (SDP) / Roope Rasi (SDP) Jyki Grönlund (ProK) / Ramon Dibbets (ProK) Kati Kaihlaranta (Vas) / Annu Ituarte (Vas) Maiju Kiukas (KD) / Marko Repo (KOK) Maarit Orko (Vihreät) / Mervi Somervuori (Vihreät) Ville Salminen (PS) / Tuomo Loiviola (PS)"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20262351-13",
+      "ordinal": "13",
+      "title": "Kirkkonummen Vuokra-asunnot Oy:n varsinainen yhtiökokous 15.6.2026",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262351-13",
+      "decision": "Kunnanhallitus päätti yksimielisesti 1 nimetä kunnanjohtaja Virpi Sailaksen kunnan yhtiökokousedustajaksi 15.6.2026 pidettävään Kirkkonummen Vuokra-asunnot Oy:n yhtiökokoukseen 2 antaa liitteen mukaisen toimiohjeen yhtiökokousedustajalle 15.6.2026 pidettävää yhtiökokousta varten 3 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+      "votes": [],
+      "sections": {
+        "liitteet": "Numero Otsikko 9\n1 Kh 8.6.2026, KVA yhiökokous_toimiohje (pdf 508.94 kb) Kokousasian teksti Kirkkonummen Vuokra-asunnot Oy:n varsinainen yhtiökokous 15.6.2026 Kunnanhallitus 08.06.2026 § 177 193/00.04.02/2026",
+        "valmistelija": "kunnanlakimies Hannu Sorvari etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtajan poissa ollessa hallintojohtaja Jaana Suihkonen Kunnanhallitus päättää 1 nimetä kunnan yhtiökokousedustajan 15.6.2026 pidettävään Kirkkonummen Vuokra-asunnot Oy:n yhtiökokoukseen 2 mahdollisen toimiohjeen antamisesta yhtiökokousedustajalle 15.6.2026 pidettävää yhtiökokousta varten 3 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "kasittely": "Jäsen Jani Kähkönen, varajäsen Kim Liljequist, kuntakehitysjohtaja Anna-Kaisa Kauppinen ja talousjohtaja Esa Lindell ilmoittivat olevansa esteellisiä ja poistuivat kokouksesta tämän pykälän käsittelyn ja päätöksenteon ajaksi. Varajäsen Anneli Granström oli läsnä tämän pykälän aikana klo 19.03 – 20.24. Hallintojohtaja Jaana Suihkonen ja kunnanlakimies Hannu Sorvari esittelivät asiaa kokouksessa",
+        "paatos": "Kunnanhallitus päätti yksimielisesti 1 nimetä kunnanjohtaja Virpi Sailaksen kunnan yhtiökokousedustajaksi 15.6.2026 pidettävään Kirkkonummen Vuokra-asunnot Oy:n yhtiökokoukseen 2 antaa liitteen mukaisen toimiohjeen yhtiökokousedustajalle 15.6.2026 pidettävää yhtiökokousta varten 3 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "selostus": "Kirkkonummen Vuokra-asunnot Oy:n osakkaat kutsutaan varsinaiseen yhtiökokoukseen, joka pidetään maanantaina 15.6.2026 klo 11.00, Kirkkonummen Vuokra-asunnot Oy:n toimistossa, Kirkkotallintie 2, Kirkkonummi. Yhtiökokouksen 15.6.2026 esityslistalla on seuraavat asiat: Kokouksen avaus Kokouksen järjestäytyminen (valitaan kokoukselle puheenjohtaja, sihteeri ja pöytäkirjantarkastaja sekä ääntenlaskijat) Todetaan kokouksen osanottajat Todetaan kokouksen laillisuus ja päätösvaltaisuus Hyväksytään työjärjestys Esitetään tilinpäätös 31.12.2025 päättyneeltä tilikaudelta ja tilintarkastuskertomus Päätetään tuloslaskelman ja taseen vahvistamisesta Päätetään toimenpiteistä, joihin vahvistetun taseen mukainen tulos antaa aihetta Päätetään vastuuvapauden myöntämisestä hallituksen jäsenille ja toimitusjohtajalle Vahvistetaan talousarvio vuodelle 2026 Päätetään hallituksen jäsenten ja tilintarkastajien palkkioista Valitaan hallituksen jäsenet sekä puheenjohtaja ja varapuheenjohtaja vuodelle 2026 Valitaan tilintarkastajat vuodelle 2026 ja asukasvalvojat Kokouksen päättäminen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": "Liite 1",
+          "title": "Kh 8.6.2026, KVA yhiökokous_toimiohje",
+          "size": "pdf 508.94 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20262351-13-145103.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20262351-14",
+      "ordinal": "14",
+      "title": "Kiinteistö Oy Kirkkonummen Kunnantalon varsinainen kevätyhtiökokous 9.6.2026",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262351-14",
+      "decision": "Kunnanhallitus päätti yksimielisesti 1 olla antamatta erityistä evästystä kunnan yhtiökokousedustajalle kuntakehitysjohtajalle 9.6.2026 pidettävää yhtiökokousta varten 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+      "votes": [],
+      "sections": {
+        "valmistelija": "hallinnon asiantuntija Gunnel Ekström etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtajan poissa ollessa hallintojohtaja Jaana Suihkonen Kunnanhallitus päättää 1 mahdollisen evästyksen antamisesta kunnan yhtiökokousedustajalle kuntakehitysjohtajalle 9.6.2026 pidettävää yhtiökokousta varten 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "kasittely": "Jäsen Antti Kilappa poistui kokouksesta tämän pykälän alussa klo 20.24",
+        "paatos": "Kunnanhallitus päätti yksimielisesti 1 olla antamatta erityistä evästystä kunnan yhtiökokousedustajalle kuntakehitysjohtajalle 9.6.2026 pidettävää yhtiökokousta varten 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "selostus": "Kiinteistö Oy Kirkkonummen Kunnantalon varsinainen yhtiökokous pidetään 9.6.2026 klo 10.00 teams-kokouksena. Kunnanhallitus on päätöksellään 18.8.2026 § 256 valinnut kuntakehitysjohtajan tai hänen määräämänsä kunnan yhtiökokousedustajaksi. Kokouksessa käsiteltävät asiat: Kokouksen avaus Puheenjohtajan ja sihteerin valinta Todetaan kokouksen osanottajat ja tarkistetaan valtakirjat Todetaan kokouksen laillisuus ja päätösvaltaisuus Hyväksytään esityslista kokouksen työjärjestykseksi Esitetään tilinpäätös ja toimintakertomus sekä tilintarkastuskertomus, liite Päätetään tilinpäätöksen vahvistamisesta Päätetään taseen osoittaman voiton käyttämisestä Päätetään vastuuvapauden myöntämisestä hallituksen jäsenille ja toimitusjohtajalle Päätetään hallituksen jäsenten ja tilintarkastajien palkkiot Valitaan hallituksen jäsenet (3) ja henkilökohtaiset varajäsenet Valitaan tilintarkastaja Päätetään pysäköintitalon (os. Asemankaari 5) kuntoarvion rahoittamisesta ylimääräisellä hoitovastikkeella Hallituksen esitys (6.2.2026) ylimääräisen hoitovastikkeen perimisestä, yhteensä 4 393,50 €, sis. alv 25,5 %. Ylimääräinen hoitovastike osakkaittain: Keva 4 304,20 €, sis. alv 25,5 % Kirkkonummen kunta 89,30 €, sis. alv 25,5 % Muut esille tulevat asiat Kokouksen päättäminen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20262351-15",
+      "ordinal": "15",
+      "title": "Luksia, Länsi-Uudenmaan koulutuskuntayhtymän yhtymäkokous 16.6.2026",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262351-15",
+      "decision": "Kunnanhallitus päätti yksimielisesti 1 nimetä Anna Sahiluoman Kirkkonummen kunnan yhtymäkokousedustajaksi ja Viveca Lindgrenin varaedustajaksi Luksian yhtymäkokoukseen 16.6.2026 2 olla antamatta erityistä evästystä yhtymäkokousedustajalle 3 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+      "votes": [],
+      "sections": {
+        "valmistelija": "hallinnon asiantuntija Gunnel Ekström etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtajan poissa ollessa hallintojohtaja Jaana Suihkonen Kunnanhallitus päättää 1 nimetä Kirkkonummen kunnan yhtymäkokousedustajan ja varaedustajan Luksian yhtymäkokoukseen 16.6.2026 2 mahdollisen evästyksen antamisesta yhtymäkokousedustajalle 3 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "kasittely": "Nimeämisesitys (Kok / Urho Blom): Esitämme varsinaiseksi yhtymäkokousedustajaksi Anna Sahiluomaa ja varaedustajaksi Viveca Lindgreniä. Esitystä kannatti Henri Taussi ja se hyväksyttiin yksimielisesti",
+        "paatos": "Kunnanhallitus päätti yksimielisesti 1 nimetä Anna Sahiluoman Kirkkonummen kunnan yhtymäkokousedustajaksi ja Viveca Lindgrenin varaedustajaksi Luksian yhtymäkokoukseen 16.6.2026 2 olla antamatta erityistä evästystä yhtymäkokousedustajalle 3 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "tiedoksi": "Luksian kirjaamo",
+        "selostus": "Luksia, Länsi-Uudenmaan koulutuskuntayhtymän yhtymäkokous pidetään 16.6.2026 klo 13.00 Lohjalla / Teamsilla. Luksian yhtymäkokoukseen 31.3.2026 kunnanhallitus nimesi Anna Sahiluoman kunnan edustajaksi ja Urho Blomin varaedustajaksi. Yhtymäkokouksen esityslistalla 16.6.2026 olevat asiat: Kokouksen avaus Läsnäolijoiden toteaminen ja päätösvaltaisuus Kokouksen laillisuus ja ääniluettelon vahvistaminen Kokouksen puheenjohtajan valinta Pöytäkirjantarkastajien valinta Tiedotettavat asiat Tilinpäätöksen 2025 hyväksyminen ja vastuuvapauden myöntäminen Henkilöstökertomus 2025 Tarkastuslautakunnan arviointikertomus 2025 ja hallituksen vastineet Henkilöstö- ja hallintojohtajan ja talousjohtajan päätösvaltuudet talousarviossa 2026 Kiinteistö Oy Luksian Opiskelija-asuntojen Eloniemenkatu 27:n kiinteistön myynnin valmistelu Yhtymäkokouksen pöytäkirjan nähtävänä pitäminen Kokouksen päättäminen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20262351-16",
+      "ordinal": "16",
+      "title": "Svenska Framtidsskolan i Helsingforsregionen Ab:n yhtiökokous 16.6.2026",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262351-16",
+      "decision": "Kunnanhallitus päätti yksimielisesti 1 olla antamatta erityistä evästystä kunnan yhtiökokousedustajalle Linda Basilierille 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+      "votes": [],
+      "sections": {
+        "valmistelija": "hallinnon asiantuntija Gunnel Ekström etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtajan poissa ollessa hallintojohtaja Jaana Suihkonen Kunnanhallitus päättää 1 mahdollisen evästyksen antamisesta kunnan yhtiökokousedustajalle Linda Basilierille 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "paatos": "Kunnanhallitus päätti yksimielisesti 1 olla antamatta erityistä evästystä kunnan yhtiökokousedustajalle Linda Basilierille 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "tiedoksi": "Svenska Framtidsskolan i Helsingforsregionen Ab, kunnan yhtiökokousedustajalle",
+        "selostus": "Svenska Framtidsskolan i Helsingforsregionen Ab:n varsinainen yhtiökokous pidetään 16.6.2026 klo 13.00, kokous pidetään teams-kokouksena. Kunnanhallitus on kokouksessaan 18.8.2025 valinnut Linda Basilierin kunnan yhtiökokousedustajaksi vuosiksi 2025-2027. Kokouksessa käsiteltävät asiat: Kokouksen avaus Läsnäolon toteaminen Kokouksen laillisuus ja päätösvaltaisuus Puheenjohtajan valinta Sihteerin ja kahden pöytäkirjantarkastajan valinta Toimintakertomus, tilinpäätös ja tilintarkastuskertomus Voitosta/tappiosta aiheutuvat toimenpiteet Vastuuvapauden myöntäminen Tilintarkastajien valinta Hallituksen jäsenten määrän vahvistaminen Hallituksen jäsenten valinta Hallituksen ja tilintarkastajien palkkioiden vahvistaminen Toimitusjohtaja/rehtori kertoo ammattikoulutuksen ja Yrkesinstitutet Prakticumin ajankohtaisista asioista Kokouksen päättäminen Yhtiön hallitukseen valitaan 10 jäsentä, ja hallituspaikat jaetaan seuraavasti: - Viisi paikkaa on Folkhälsanilla, joista yksi on hallituksen puheenjohtaja, ja yksi paikoista voidaan yhteisellä sopimuksella antaa Sydkustens landskapsförbund rf:lle - Yksi paikka on Helsingin kaupungilla - Yksi paikka on Espoon kaupungilla - Yksi paikka on Porvoon kaupungilla - Yksi paikka on Vantaalla, Kirkkonummella ja Kauniaisilla siten, että paikka on Vantaalla joka toinen vuosi, ja joka toinen vuosi se jaetaan Kirkkonummen ja Kauniaisten kesken. Kirkkonummi ja Kauniainen jakavat paikan niin, että Kirkkonummella on paikka 2/3 ajasta ja Kauniaisilla 1/3 ajasta. - Yksi paikka on Loviisan, Sipoon ja Lapinjärven yhteinen, ja jaetaan yhteisen keskinäisen sopimuksen mukaisesti. Koska Kauniaisten edustaja on istunut hallituksessa kuluvana kautena, Vantaan kaupungin tulee nimetä ehdokas hallituksen jäseneksi tulevalle kaudelle"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20262351-17",
+      "ordinal": "17",
+      "title": "Esittelijän ajankohtaiset asiat",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262351-17",
+      "decision": "Kunnanhallitus päätti yksimielisesti merkitä ajankohtaiskatsauksen tiedoksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus päättää merkitä ajankohtaiskatsauksen tiedoksi",
+        "kasittely": "Kuntakehitysjohtaja Anna-Kaisa Kauppinen esitteli hallitusohjelmatavoitteita. Viveca Lindgren poistui kokouksesta tämän pykälän aikana klo 20.32",
+        "paatos": "Kunnanhallitus päätti yksimielisesti merkitä ajankohtaiskatsauksen tiedoksi",
+        "selostus": "Kokouksessa esitellään ajankohtaisia valmistelussa olevia asioita: - hallitusohjelmatavoitteet"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20262351-18",
+      "ordinal": "18",
+      "title": "Kuntalain 92 §:n mukaista otto-oikeusmenettelyä varten saapuneet päätökset",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262351-18",
+      "decision": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Numero Otsikko 10\n1 Päätösluettelo, 25.5.-4.6.2026 (pdf 67.49 kb) Kokousasian teksti Kuntalain 92 §:n mukaista otto-oikeusmenettelyä varten saapuneet päätökset Kunnanhallitus 08.06.2026 § 182 Toimielinten pöytäkirjoja Toimitilapalvelujen lautakunta 19.5.2026 Rakennus- ja ympäristölautakunta 19.5.2026 Kirkkonummen Vesi -liikelaitoksen johtokunta 25.5.2026 Työllisyys- ja elinkeinoasioiden lautakunta 26.5.2026 Kuntakehityksen lautakunta 27.5.2026 Sivistys- ja hyvinvointilautakunta 28.5.2026 Viranhaltijapäätöksiä Viranhaltijapäätökset ovat kokonaisuudessaan liitteineen luettavissa kokousjärjestelmässä: (tiedostot / kunnanhallitus / viranhaltijapäätökset)",
+        "esittelija": "Kunnanjohtajan poissa ollessa hallintojohtaja Jaana Suihkonen",
+        "paatosehdotus": "Kunnanhallitus merkitsee tiedokseen edellä mainitut kuntalain 92 §:n nojalla otto-oikeuden käyttämistä varten esitetyt päätökset ja päättää, että Kunnanhallitus ei ota asioita käsiteltäväkseen",
+        "paatos": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": "Liite 1",
+          "title": "Päätösluettelo, 25.5.-4.6.2026",
+          "size": "pdf 67.49 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20262351-18-144799.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20262351-19",
+      "ordinal": "19",
+      "title": "Pöytäkirjoja tiedoksi",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262351-19",
+      "decision": "Kunnanhallitus päätti yksimielisesti merkitä pöytäkirjat tiedoksi",
+      "votes": [],
+      "sections": {
+        "esittelija": "Kunnanjohtajan poissa ollessa hallintojohtaja Jaana Suihkonen",
+        "paatosehdotus": "Kunnanhallitus merkitsee pöytäkirjat tiedokseen",
+        "paatos": "Kunnanhallitus päätti yksimielisesti merkitä pöytäkirjat tiedoksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    }
+  ],
+  "id": "20262351",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20262351"
+}

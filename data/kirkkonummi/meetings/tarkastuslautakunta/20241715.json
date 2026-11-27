@@ -1,0 +1,58 @@
+{
+  "title": "Tarkastuslautakunta Pöytäkirja 10.04.2024 klo 17:30 - 20:18 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Tarkastuslautakunta",
+  "doctype": "Pöytäkirja",
+  "date": "2024-04-10",
+  "items": [
+    {
+      "id": "20241715-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241715-1",
+      "decision": "Tarkastuslautakunta totesi kokouksen lailliseksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Tarkastuslautakunta toteaa kokouksen lailliseksi ja päätösvaltaiseksi",
+        "paatos": "Tarkastuslautakunta totesi kokouksen lailliseksi ja päätösvaltaiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241715-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan laatiminen ja tarkastaminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241715-2",
+      "decision": "Pöytäkirjantarkastajiksi valittiin Maija Lounamaa ja Tuomo Tiitinen",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Tarkastuslautakunta valitsee kaksi pöytäkirjantarkastajaa",
+        "paatos": "Pöytäkirjantarkastajiksi valittiin Maija Lounamaa ja Tuomo Tiitinen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241715-3",
+      "ordinal": "3",
+      "title": "Arviointikertomus 2023",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241715-3",
+      "decision": "Tarkastuslautakunta valmisteli arviointikertomusta vuodelta 2023. Valmistelua jatketaan seuraavassa kokouksessa",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Tarkastuslautakunta valmistelee arviointikertomusta vuodelta 2023",
+        "paatos": "Tarkastuslautakunta valmisteli arviointikertomusta vuodelta 2023. Valmistelua jatketaan seuraavassa kokouksessa"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    }
+  ],
+  "id": "20241715",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20241715"
+}

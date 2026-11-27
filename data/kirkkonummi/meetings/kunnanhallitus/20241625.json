@@ -1,0 +1,437 @@
+{
+  "title": "Kunnanhallitus Pöytäkirja 22.01.2024 klo 16:30 - 19:35 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Kunnanhallitus",
+  "doctype": "Pöytäkirja",
+  "date": "2024-01-22",
+  "items": [
+    {
+      "id": "20241625-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241625-1",
+      "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Kokous todettiin lailliseksi ja päätösvaltaiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241625-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241625-2",
+      "decision": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti. Pöytäkirjantarkastajiksi valittiin Anneli Granström ja Ari Harinen",
+      "votes": [],
+      "sections": {
+        "valmistelija": "hallinnon asiantuntija Gunnel Ekström, etunimi.sukunimi@kirkkonummi.fi",
+        "paatosehdotus": "Kunnanhallitus päättää 1 valita kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan 2 tarkastaa tämän pöytäkirjan sähköisesti seuraavan aikataulun mukaan: Torstaina 25.1.2024 lähetetään pöytäkirja sähköpostitse pöytäkirjantarkastajille, jotka ilmoittavat hyväksymisestään viimeistään maanantaina 29.1.2024. Jos hyväksymisviestiä ei tule sihteerille em. ajankohtaan mennessä, pöytäkirja katsotaan hyväksytyksi. Pöytäkirja allekirjoitetaan sähköisesti. Pöytäkirja on nähtävänä tiistaina 30.1.2024 kunnan verkkosivulla. Yleinen oikaisuvaatimusaika alkaa keskiviikkona 7.2.2024",
+        "paatos": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti. Pöytäkirjantarkastajiksi valittiin Anneli Granström ja Ari Harinen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241625-3",
+      "ordinal": "3",
+      "title": "Kunnanhallituksen otto-oikeuden käyttäminen toimitilapalvelujen lautakunnan 8.1.2024 § 3 päätökseen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241625-3",
+      "decision": "Kunnanhallitus päätti pitää voimassa toimitilapalvelujen lautakunnan 8.1.2024 § 3 päätöksen lisäyksellä, että vuokrasopimukseen lisätään seuraava ehto: vuokrakohteeseen saa perustaa yhden, enintään 21 henkilön alaikäisten vastaanottokeskuksen",
+      "votes": [
+        {
+          "jaa": [
+            "Anna Sahiluoma",
+            "Antti Kilappa",
+            "Saara Huhmarniemi",
+            "Anna Aintila",
+            "Carl-Johan Kajanti",
+            "Sanni Jäppinen",
+            "Kati Kaihlaranta",
+            "Timo Haapaniemi",
+            "Ulf Kjerin",
+            "Ari Harinen"
+          ],
+          "ei": [
+            "Matti Kaurila",
+            "Piia Aallonharja",
+            "Anneli Granström"
+          ],
+          "tyhja": [],
+          "totals": {
+            "jaa": 10,
+            "ei": 3,
+            "tyhja": 0
+          },
+          "parties": {
+            "jaa": {
+              "kok": 2,
+              "pro yl": 1,
+              "vihr": 2,
+              "rkp": 3,
+              "vas": 1,
+              "sdp": 1
+            },
+            "ei": {
+              "kok": 1,
+              "ps": 2
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "asian jatkokäsittelyä",
+            "ei_label": "asian palauttamista",
+            "jaa_kind": "jatkokasittely",
+            "ei_kind": "jatkokasittely",
+            "kind": "procedural_substantive",
+            "rationale": "Puheenjohtaja päätti keskustelun ja ilmoitti että käsittelyn aikana Piia Aallonharja on tehnyt seuraavan palautusehdotuksen: Palautetaan takaisin valmisteluun.",
+            "winner": null,
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat asian jatkokäsittelyä äänestävät JAA, ja ne jotka kannattavat asian palauttamista äänestetävät EI — annettiin 10 JAA ja 3 EI ääntä."
+          }
+        },
+        {
+          "jaa": [
+            "Saara Huhmarniemi",
+            "Sanni Jäppinen",
+            "Antti Kilappa",
+            "Carl-Johan Kajanti",
+            "Anna Sahiluoma",
+            "Kati Kailaranta",
+            "Ulf Kjerin",
+            "Anna Aintila"
+          ],
+          "ei": [
+            "Ari Harinen",
+            "Timo Haapaniemi",
+            "Anneli Granström",
+            "Matti Kaurila",
+            "Piia Aallonharja"
+          ],
+          "tyhja": [],
+          "totals": {
+            "jaa": 8,
+            "ei": 5,
+            "tyhja": 0
+          },
+          "parties": {
+            "jaa": {
+              "vihr": 2,
+              "pro yl": 1,
+              "rkp": 3,
+              "kok": 1,
+              "tuntematon": 1
+            },
+            "ei": {
+              "sdp": 1,
+              "kok": 2,
+              "ps": 2
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "kunnanjohtajan muutettua päätösehdotusta",
+            "ei_label": "puheenjohtajan muutosehdotusta",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": "jaa",
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat kunnanjohtajan muutettua päätösehdotusta äänestävät JAA, ja ne jotka kannattavat puheenjohtajan muutosehdotusta äänestätävät EI — annettiin 8 JAA ja 5 EI ääntä."
+          }
+        }
+      ],
+      "sections": {
+        "valmistelija": "yhdyskuntatekniikan johtaja Anna-Kaisa Kauppinen etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää pitää voimassa toimitilapalvelujen lautakunnan 8.1.2024 § 3 päätöksen",
+        "kasittely": "Suomenkielisen opetuksen opetusjohtaja Astrid Kauber ja toimitilajohtaja Kari Toikka esittelivät asiaa kokouksessa. Yhdyskuntatekniikan johtaja Anna-Kaisa Kauppinen oli myös läsnä. Varajäsen Sanni Jäppinen saapui kokoukseen tämän pykälän käsittelyn aikana klo 16.50. Suomenkielisen opetuksen opetusjohtaja Astrid Kauber poistui kokouksesta klo 16.55. Esittelijän kokouksessa antama uusi päätösehdotus: Kunnanhallitus päättää pitää voimassa toimitilapalvelujen lautakunnan 8.1.2024 § 3 päätöksen lisäyksellä, että vuokrasopimukseen lisätään seuraava ehto: vuokrakohteeseen saa perustaa yhden, enintään 21 henkilön alaikäisten vastaanottokeskuksen. Puheenjohtaja päätti keskustelun ja ilmoitti että käsittelyn aikana Piia Aallonharja on tehnyt seuraavan palautusehdotuksen: Palautetaan takaisin valmisteluun. Kunta ei vuokraa kiinteistöä vaan jatkaa c-salkussa olevien kiinteistöjen, kuin myös Volskodin myymistä. Palautuksen aikana valmistellaan suunnitelma Volskodin myymisestä. Palautusehdotusta kannattivat Matti Kaurila ja Anneli Granström. Puheenjohtaja ilmoitti, että palautusehdotusta ei hyväksytty yksimielisesti, joten asiasta on äänestettävä. Puheenjohtaja ehdotti, että asiasta äänestetään niin, että ne jotka kannattavat asian jatkokäsittelyä äänestävät JAA, ja ne jotka kannattavat asian palauttamista äänestetävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 10 JAA ääntä ja 3 EI ääntä. Asian jatkokäsittely sai enemmän ääniä, joten asian käsittelyä päätettiin jatkaa. JAA äänestivät Anna Sahiluoma, Antti Kilappa, Saara Huhmarniemi, Anna Aintila, Carl-Johan Kajanti, Sanni Jäppinen, Kati Kaihlaranta, Timo Haapaniemi, Ulf Kjerin ja Ari Harinen. EI äänestivät Matti Kaurila, Piia Aallonharja ja Anneli Granström. Keskustelun aikana puheenjohtaja on jättänyt seuraavan muutosehdotuksen: 1. Kumota toimitilapalvelujen lautakunnan päätöksen 08.01.2024 § 3 ja palauttaa Volskodin vuokrauksen toimitilajohtajalle neuvoteltavaksi ja käsiteltäväksi uudelleen hallintosäännön mukaisesti seuraaviin evästyksin. 2. Lämmitys ja vesi eivät sisälly vuokraan. 3. Vuokrasopimukseen lisätään se, että kiinteistöön saa perustaa yhden, enintään 21 henkilön, alaikäisten yksin maahan saapuvien turvapaikanhakijoiden ja tilapäistä suojelua hakevien ryhmäkotitoimintaa varten. 4. Kiinteistö sijoittuu kunnan kiinteistösalkussa C-luokkaan, eikä kunta tule tekemään merkittäviä investointeja kiinteistöön. Muutosehdotusta kannattivat Matti Kaurila ja Ari Harinen. Muutosehdotusta ei hyväksytty yksimielisesti, joten puheenjohtaja ilmoitti että asiasta on äänestettävä. Puheenjohtaja ehdotti, että asiasta äänestetään niin, että ne jotka kannattavat kunnanjohtajan muutettua päätösehdotusta äänestävät JAA, ja ne jotka kannattavat puheenjohtajan muutosehdotusta äänestätävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 8 JAA ääntä ja 5 EI ääntä. Kunnanjohtajan muutettu päätösehdotus sai enemmän ääniä ja voitti. JAA äänestivät Saara Huhmarniemi, Sanni Jäppinen, Antti Kilappa, Carl-Johan Kajanti, Anna Sahiluoma, Kati Kailaranta, Ulf Kjerin ja Anna Aintila. EI äänestivät Ari Harinen, Timo Haapaniemi, Anneli Granström, Matti Kaurila ja Piia Aallonharja. Toimitilajohtaja Kari Toikka poistui tämän pykälän jälkeen klo 17.25",
+        "paatos": "Kunnanhallitus päätti pitää voimassa toimitilapalvelujen lautakunnan 8.1.2024 § 3 päätöksen lisäyksellä, että vuokrasopimukseen lisätään seuraava ehto: vuokrakohteeseen saa perustaa yhden, enintään 21 henkilön alaikäisten vastaanottokeskuksen",
+        "selostus": "Kunnanhallituksen 1. varapuheenjohtaja Piia Aallonharja on ilmoittanut 15.1.2024 käyttävänsä puheenjohtajan ollessa estynyt puheenjohtajan otto-oikeutta toimitilapalvelujen lautakunnan 8.1.2024 § 3 päätökseen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": [
+        {
+          "proposer": "Piia Aallonharja",
+          "kind": "palautusehdotus",
+          "text": "Palautetaan takaisin valmisteluun. Kunta ei vuokraa kiinteistöä vaan jatkaa c-salkussa olevien kiinteistöjen, kuin myös Volskodin myymistä. Palautuksen aikana valmistellaan suunnitelma Volskodin myymisestä. Palautusehdotusta kannattivat Matti Kaurila ja Anneli Granström",
+          "source": "introduction",
+          "party": "ps"
+        }
+      ]
+    },
+    {
+      "id": "20241625-4",
+      "ordinal": "4",
+      "title": "Kunnan lausunto Vihdin ympäristölautakunnalle Vihdin kunnan luonnon monimuotoisuusohjelmasta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241625-4",
+      "decision": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Lausuntopyyntö Vihdin kunnan LUMO-ohjelma 2024-2030",
+        "liitteet": "Vihdin LUMO-ohjelma 2024-2030\note pöytäkirjasta, Vihdin kunnan ympäristölautakunta 22.11.2023 § 53 LUMO-ohjelma 2024-2030 Kunnan lausunto Vihdin ympäristölautakunnalle Vihdin kunnan luonnon monimuotoisuusohjelmasta Kunnanhallitus 22.01.2024 § 4 901/11.00.02/2023",
+        "valmistelija": "Ympäristösuunnittelija Merja Puromies etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus antaa Vihdin kunnalle selostusosassa olevan lausunnon",
+        "paatos": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+        "tiedoksi": "Vihdin kunnan ympäristölautakunta",
+        "selostus": "Vihdin ympäristölautakunta on pyytänyt lausuntoa Vihdin kunnan luonnon monimuotoisuusohjelmasta, joka on nähtävillä 1.12.2023-31.1.2024. Lausunto pyydetään toimittamaan 31.1.2023 klo 15 mennessä osoitteeseen Vihdin ympäristölautakunta, Asemantie 30, PL 13, 03101 Nummela tai sähköpostilla osoitteeseen kunnanvirasto@vihti.fi . Vihdin kunnan luonnon monimuotoisuusohjelman tarkoitus on kuntastrategian 2022-2025 mukaisesti edistää luonnon ja ympäristön hyvinvointia sekä mahdollistaa luonnon monimuotoisuuden säilyminen. Tavoitteena on konkreettinen ja käytännönläheinen toimintaohjelma, jonka avulla edistetään luonnon monimuotoisuuden eteen tehtävää työtä. Ohjelman toimintakaudeksi on asetettu vuodet 2024-2030. Kirkkonummen kunnan lausunto Kirkkonummen kunta kiittää lausuntopyynnöstä ja arvostaa sitä, että Vihdin kunta on ryhtynyt laatimaan luonnon monimuotoisuusohjelmaa, jonka avulla edistetään luonnon monimuotoisuuden eteen tehtävää työtä. Ohjelmassa tuodaan hyvin esiin, että monet merkittävät ratkaisut luonnon monimuotoisuuden turvaamiseksi tehdään paikallisella tasolla ja kunnilla on merkittävä rooli luonnon monimuotoisuuden turvaamisessa. Vihdin kunnan luonnon monimuotoisuusohjelmaan on kirjattu tavoitteita ja toimenpiteitä, jotka edistävät hyvin luonnon monimuotoisuuden säilymistä. Tavoitteiden ja toimenpiteiden määrittely jo sinällään auttaa ratkaisemaan haasteita, joita luonnon monimuotoisuustyössä on. Vihdin kunnan luonnon monimuotoisuusohjelman sisältämä vastuutahojen ja aikataulujen määrittely varmistaa toimenpiteiden toteutumista. Kunnissa tehtävät ratkaisut ja päätökset voivat vaikuttaa luonnon hyvinvointiin ja monimuotoisuuteen naapurikunnissa ja kaukaisemmissakin kunnissa, joten vaikutuksia ja toimia on syytä tarkastella kuntaa laajemmallakin alueella. Tämä tulee esiin ko. ohjelman vesistöjä koskevissa toimenpiteissä. Hyvä esimerkki alueellisesta yhteistyöstä on Länsi-Uudenmaan vesi ja ympäristö ry:n vetämä hanke Elinvoimainen ja esteetön Siuntionjoki - vesistövisio 2030. Ajankohtainen tarkastelukohde on Vihdin ja Kirkkonummen rajaseudulla Veikkolan luoteispuolella oleva maakunnallisesti merkittävä ekologinen yhteys, joka yhdistää Meikon ja Nuuksion luontokokonaisuudet. Kirkkonummen kunta esittää, että tarve tämän yhteyden tarkemman sijainnin selvittelyyn osayleiskaavatasolla tuodaan selkeästi esiin Vihdin luonnon monimuotoisuusohjelmassa. Sisällysluettelosta Kirkkonummen kunta huomauttaa, että siitä puuttuu luku \"Tavoitteet ja toimenpiteet\""
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Lausuntopyyntö Vihdin kunnan LUMO-ohjelma 2024-2030",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241625-4-102574.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Liite Vihdin LUMO-ohjelma 2024-2030",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241625-4-102576.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Liite ote pöytäkirjasta, Vihdin kunnan ympäristölautakunta 22.11.2023 § 53 LUMO-ohjelma 2024-2030",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241625-4-102575.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20241625-5",
+      "ordinal": "5",
+      "title": "Tahtotila Länsirata Oy:n rakentamisvaiheen rahoittamisesta, Kv",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241625-5",
+      "decision": "Kunnanhallitus päätti yksimielisesti 1 valtuuttaa kunnanjohtajan hyväksymään liitteenä olevan alustavan tahdonilmauksen Salo - Hajala sekä Espoo - Hista yhteysvälien rakentamissuunnittelun sekä rakentamisen ja yhtiön toimialaan kuuluvien muiden ratayhteyksien rakentamissuunnittelun rahoittamisesta. Tahtotilan ilmaus ei velvoita Kirkkonummen kuntaa osallistumaan rahoitukseen, ja rahoittaminen on ehdollinen kunnan toimivaltaisten päätöksentekoelinten myöhemmille päätöksille. Hankeyhtiön osakkaiden kesken neuvotellaan tarkemmista osakaskohtaisista rahoitusosuuksista kevään 2024 aikana 2 Asiakirjaan voidaan tehdä ennen allekirjoitusta muutoksia, jotka eivät heikennä Kirkkonummen kunnan asemaa sopijaosapuolena. 3 todeta evästyksenä jatkoneuvotteluihin, että - kuntien yhteenlasketun rahoitusosuuden tulisi olla rakentamisvaiheessa selkeästi pienempi kuin ratasuunnitteluvaiheessa on ollut - ensisijaisena rahoitusmallina tulisi käyttää hankeyhtiön lainoitusta ja sille annettavaa kuntien ja valtion takausta - mahdollisesti myönnettävä CEF - tuki tulee kirjautua kaikkien omistajien hyväksi eli sen tulee vähentää kaikkien omistajien rahoitusosuuksia - yhtiön rahoitus tulee suunnitella siten, että se ei aiheuta yhtiön omistajille myöhemmissä vaiheissa merkittäviä alaskirjauksia - Mikäli Länsirata ei toteutunut 2040 mennessä valtio sitoutuu palauttamaan muille osakkaille niiden hankkeeseen sijoittaman pääoman - Kirkkonummen maksuosuus ei voi olla nykyistä omistusosuutta suurempi, ja tulee silloinkin rajautua Veikkolan seisakkeen välittömiin toteuttamiskustannuksiin - Kirkkonummen on lopulliseen rakentamis- ja maksuosuuspäätökseen asti voitava milloin tahansa vetäytyä hankkeesta ja sen myötä kaikista tulevista maksusitoumuksista. - kunta ei tässä vaiheessa myönnä lainatakauksia hankeyhtiölle 4 esittää kunnanvaltuustolle päätöksen merkitsemistä tiedoksi",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 1 Tahtotila Länsirata Oy Tahtotila Länsirata Oy:n rakentamisvaiheen rahoittamisesta, Kv Kunnanhallitus 22.01.2024 § 5 74/08.01.00/2024",
+        "valmistelija": "yhdyskuntatekniikan johtaja Anna-Kaisa Kauppinen etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää 1 valtuuttaa kunnanjohtajan hyväksymään liitteenä olevan alustavan tahdonilmauksen Salo - Hajala sekä Espoo - Hista yhteysvälien rakentamissuunnittelun sekä rakentamisen ja yhtiön toimialaan kuuluvien muiden ratayhteyksien rakentamissuunnittelun rahoittamisesta. Tahtotilan ilmaus ei velvoita Kirkkonummen kuntaa osallistumaan rahoitukseen, ja rahoittaminen on ehdollinen kunnan toimivaltaisten päätöksentekoelinten myöhemmille päätöksille. Hankeyhtiön osakkaiden kesken neuvotellaan tarkemmista osakaskohtaisista rahoitusosuuksista kevään 2024 aikana 2 Asiakirjaan voidaan tehdä ennen allekirjoitusta muutoksia, jotka eivät heikennä Kirkkonummen kunnan asemaa sopijaosapuolena. 3 todeta evästyksenä jatkoneuvotteluihin, että - kuntien yhteenlasketun rahoitusosuuden tulisi olla rakentamisvaiheessa selkeästi pienempi kuin ratasuunnitteluvaiheessa on ollut - ensisijaisena rahoitusmallina tulisi käyttää hankeyhtiön lainoitusta ja sille annettavaa kuntien ja valtion takausta - mahdollisesti myönnettävä CEF - tuki tulee kirjautua kaikkien omistajien hyväksi eli sen tulee vähentää kaikkien omistajien rahoitusosuuksia - yhtiön rahoitus tulee suunnitella siten, että se ei aiheuta yhtiön omistajille myöhemmissä vaiheissa merkittäviä alaskirjauksia - Mikäli Länsirata ei toteutunut 2040 mennessä valtio sitoutuu palauttamaan muille osakkaille niiden hankkeeseen sijoittaman pääoman. 4 esittää kunnanvaltuustolle päätöksen merkitsemistä tiedoksi",
+        "kasittely": "Yhdyskuntatekniikan johtaja Anna-Kaisa Kauppinen esitteli asian kokouksessa. Puheenjohtaja päätti keskustelun ja ilmoitti, että keskustelun aikana Matti Kaurila on tehnyt seuraavan evästysehdotuksen: Lisäys kohtaan 3, todeta evästyksenä jatkoneuvotteluihin, että - Kirkkonummen maksuosuus ei voi olla nykyistä omistusosuutta suurempi, ja tulee silloinkin rajautua Veikkolan seisakkeen välittömiin toteuttamiskustannuksiin - Kirkkonummen on lopulliseen rakentamis- ja maksuosuuspäätökseen asti voitava milloin tahansa vetäytyä hankkeesta ja sen myötä kaikista tulevista maksusitoumuksista. - kunta ei tässä vaiheessa myönnä lainatakauksia hankeyhtiölle Evästysehdotusta kannattivat Piia Aallonharja, Anneli Granström ja Timo Haapaniemi. Puheenjohtaja tiedustellessa, evätysehdotus hyväksyttiin yksimielisesti",
+        "paatos": "Kunnanhallitus päätti yksimielisesti 1 valtuuttaa kunnanjohtajan hyväksymään liitteenä olevan alustavan tahdonilmauksen Salo - Hajala sekä Espoo - Hista yhteysvälien rakentamissuunnittelun sekä rakentamisen ja yhtiön toimialaan kuuluvien muiden ratayhteyksien rakentamissuunnittelun rahoittamisesta. Tahtotilan ilmaus ei velvoita Kirkkonummen kuntaa osallistumaan rahoitukseen, ja rahoittaminen on ehdollinen kunnan toimivaltaisten päätöksentekoelinten myöhemmille päätöksille. Hankeyhtiön osakkaiden kesken neuvotellaan tarkemmista osakaskohtaisista rahoitusosuuksista kevään 2024 aikana 2 Asiakirjaan voidaan tehdä ennen allekirjoitusta muutoksia, jotka eivät heikennä Kirkkonummen kunnan asemaa sopijaosapuolena. 3 todeta evästyksenä jatkoneuvotteluihin, että - kuntien yhteenlasketun rahoitusosuuden tulisi olla rakentamisvaiheessa selkeästi pienempi kuin ratasuunnitteluvaiheessa on ollut - ensisijaisena rahoitusmallina tulisi käyttää hankeyhtiön lainoitusta ja sille annettavaa kuntien ja valtion takausta - mahdollisesti myönnettävä CEF - tuki tulee kirjautua kaikkien omistajien hyväksi eli sen tulee vähentää kaikkien omistajien rahoitusosuuksia - yhtiön rahoitus tulee suunnitella siten, että se ei aiheuta yhtiön omistajille myöhemmissä vaiheissa merkittäviä alaskirjauksia - Mikäli Länsirata ei toteutunut 2040 mennessä valtio sitoutuu palauttamaan muille osakkaille niiden hankkeeseen sijoittaman pääoman - Kirkkonummen maksuosuus ei voi olla nykyistä omistusosuutta suurempi, ja tulee silloinkin rajautua Veikkolan seisakkeen välittömiin toteuttamiskustannuksiin - Kirkkonummen on lopulliseen rakentamis- ja maksuosuuspäätökseen asti voitava milloin tahansa vetäytyä hankkeesta ja sen myötä kaikista tulevista maksusitoumuksista. - kunta ei tässä vaiheessa myönnä lainatakauksia hankeyhtiölle 4 esittää kunnanvaltuustolle päätöksen merkitsemistä tiedoksi",
+        "selostus": "Länsirata Oy:n (ent. Turun tunnin juna Oy) tarkoituksena on hakea Euroopan Unionin Verkkojen Eurooppa (Connecting Europe Facility,CEF)- rahoitusta tammikuussa 2024 päättyvässä haussa Salo - Hajala sekä Espoo - Hista yhteysvälien rakentamissuunnitteluun sekä rakentamiseen ja yhtiön toimialaan kuuluvien muiden ratayhteyksien rakentamissuunnitteluun. CEF-rahoitus tarjoaa rahoitustukea mm. liikenneverkkojen kehittämiseen. 2023 CEF Liikenne -haku avautui 26.9.2023 ja haku sulkeutuu 30.1.2024 kello 17.00 Keski-Euroopan aikaa. Haussa rahoitetaan projekteja, jotka tähtäävät Euroopan liikenneinfrastruktuurin rakentamiseen ja modernisointiin sekä auttavat edistämään Euroopan liikenneverkon vihreää siirtymää. Valtioneuvoston Talouspoliittinen ministerivaliokunta puolsi 19.12.2023 kokouksessaan sitä, että Turun Tunnin Juna Oy hakee CEF-tukea tammikuussa 2024 päättyvässä haussa Salo-Hajala- sekä Espoo-Histayhteysvälien rakentamissuunnitteluun sekä rakentamiseen ja yhtiön toimialaan kuuluvien muiden ratayhteyksien rakentamissuunnitteluun. CEF-tukihakemukseen tarvitaan vielä raha-asiainvaliokunnan hyväksyntä. Myös hankeyhtiön yhtiökokous päätti 20.12.2023, että yhtiö hakee CEFtukea Talouspoliittisen ministerivaliokunnan kirjauksen mukaisesti, eli Salo-Hajala ja Espoo-Hista yhteysvälin rakentamissuunnitteluun sekä rakentamiseen ja yhtiön toimialaan kuuluvien muiden ratayhteyksien rakentamissuunnitteluun. Hankeyhtiön yhtiökokous päätti samalla yhtiön nimenmuutoksesta Länsirata Oy:ksi. Länsiradan edistämisestä on järjestetty Liikenne- ja viestintäministeriön, Valtiovarainministeriön, hankeyhtiön sekä kuntien edustajien kanssa viisi tapaamista (13.12.2023, 28.11.2023, 17.11.2023, 13.11.2023, 8.11.2023). Ministeriön edustajat ovat edellyttäneet CEF-hakemuksen liitteeksi hankeyhtiön osakkailta alustavaa rahoitussitoumusta siitä, että osakkaat ovat mukana hankkeen kansallisen rahoituksen toteuttamisessa. Alustavan rahoitussitoumuksen tarkoituksena on mahdollistaa CEF-tukihakemuksen jättäminen tammikuun 2024 aikana. Turun Tunnin Juna Oy:n perustamisasiakirjan mukaan omistusosuudet yhtiöstä ovat tällä hetkellä seuraavat; Suomen valtio 51 %, Turun kaupunki 13,25 %, Espoon kaupunki 13,25 %, Helsingin kaupunki 7,50 %, Salon kaupunki 4,84 %, Lohjan kaupunki 4,84 %, Vihdin kunta 4,84 ja Kirkkonummen kunta 0,48 %. Osakkaat ovat sitoutuneet osakassopimuksessa rahoittamaan yhtiötä ratasuunnitteluvaiheen ajan omistusosuuksiensa suhteessa noin 77,35 miljoonalla eurolla ja rahoitus on toteutettu pääomittamalla yhtiötä vuosittain sille muodostuvia suunnittelukustannuksia vastaavasti. Yhtiö on saanut ratasuunnitteluun 50 % Euroopan Unionin CEF-rahoitusta ja suunnittelu on edennyt sille asetetussa aikataulussa kustannusarvion mukaisesti. Yhtiön voimassa olevassa osakassopimuksessa on kirjattu mahdollisen rakentamisvaiheen jatkorahoituksen osalta, että osakkaiden neuvotteluiden tuloksena yhtiö voi kerätä tarvittavan rahoituksen osakkailta ja/tai kolmansilta osapuolilta erikseen päätettävällä tavalla. Selvyyden vuoksi on lisäksi todettu, että osakassopimuksen mukaiset aiemmat rahoitussitoumukset tai niiden keskinäiset suhteelliset osuudet eivät luo olettamaa mahdolliseen myöhempään rakentamisvaiheen rahoitukseen, rahoitussitoumuksiin, niiden suhteellisiin osuuksiin tai muihin rahoituksen ehtoihin. Jatkorahoitus edellyttää yhtiön omistus- ja rahoitusrakenteen uudelleenjärjestelemistä sekä uudistettua osakassopimusta. Yhtiön rahoitussitoumuksen suhteellinen jakautuma määräytyy siten neuvotteluissa sovittavalla tavalla, eikä se ole johdettavissa suoraan yhtiön nykyisistä omistusosuuksista. Myöskään rahoituksen muotoa ei ole aiemmilla päätöksillä sidottu oman pääoman ehtoiseen rahoitukseen, vaan osakkailla on vapaus sopia rahoituksen järjestelystä osakkaiden ja yhtiön kannalta tarkoituksenmukaisimmalla tavalla. Selkeyden vuoksi todetaan, että tahtotila ei velvoita osakkaita osallistumaan rahoitukseen ja rahoittaminen on ehdollinen kunkin osakkaan toimivaltaisten päätöksentekoelinten myöhemmille päätöksille. Hankeyhtiön osakkaiden tarkoituksena on jatkaa keväällä 2024 tarkempia keskusteluita mainittujen hankkeiden rahoittamiseen sitoutumisesta ja kunkin osakkaan osuudesta rahoittamiseen. Tulevien Länsiradan rahoitusneuvottelujen aikana kunnan päätöksentekoa varten laaditaan arvio hankkeen ja sen rahoittamisen vaikutuksista Kirkkonummen kunnan kehitykseen ja talouteen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Tahtotila Länsirata Oy",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241625-5-102837.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Matti Kaurila",
+          "kind": "evastysehdotus",
+          "text": "Lisäys kohtaan 3, todeta evästyksenä jatkoneuvotteluihin, että - Kirkkonummen maksuosuus ei voi olla nykyistä omistusosuutta suurempi, ja tulee silloinkin rajautua Veikkolan seisakkeen välittömiin toteuttamiskustannuksiin - Kirkkonummen on lopulliseen rakentamis- ja maksuosuuspäätökseen asti voitava milloin tahansa vetäytyä hankkeesta ja sen myötä kaikista tulevista maksusitoumuksista. - kunta ei tässä vaiheessa myönnä lainatakauksia hankeyhtiölle Evästysehdotusta kannattivat Piia Aallonharja, Anneli Granström ja Timo Haapaniemi",
+          "source": "introduction",
+          "party": "kok"
+        }
+      ]
+    },
+    {
+      "id": "20241625-6",
+      "ordinal": "6",
+      "title": "Vuoden 2024 valtionosuuspäätökset",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241625-6",
+      "decision": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 2 OIKAISUVAATIMUSOHJEET_eisaanti 3 Maksuerittely2024 4",
+        "paatos": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+        "valmistelija": "Talousjohtaja Esa Lindell, etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää 1 merkitä ministeriöiden päätökset tiedoksi 2 ettei päätöksiin haeta muutosta",
+        "kasittely": "Talousjohtaja Esa Lindell esitteli asian",
+        "selostus": "Valtiovarainministeriö sekä Opetus- ja kulttuuriministeriö ovat vahvistaneet vuoden 2024 valtionosuudet. Päätökset toimitetaan kunnanhallitukselle tiedoksi muutoksenhakua varten. Vuodelle 2024 valtionosuudet ovat päätöksen mukaisesti yhteensä 35 821 053 euroa. Tässä luvussa on mukana opetuspalvelujen kotikuntakorvaukset. Valtionosuudessa on mukana Opetus- ja kulttuuritoimen rahoituksesta annetussa laissa sekä vapaasta sivistystyöstä annetussa laissa tarkoitettu rahoitus -2 617 706 euroa. Tämä valtionosuuden vähennys on kasvanut 0,9 milj. eurolla vuoteen 2023 verrattuna. Kunnan peruspalvelujen valtionosuus (sisältää verotuloihin perustuvan valtionosuuden tasauksen) vuodelle 2024 on 34 488 840 euroa, joka sisältää verotuloihin perustuvan valtionosuuden tasauksen - 957 594 euroa. Tämä valtionosuuden vähennys on kasvanut 0,3 milj. eurolla vuoteen 2023 verrattuna. Lisäksi vuodelle 2024 myönnetään veroperustemuutoksista johtuvien veromenetysten korvausta 4 500 388 euroa. Kotikuntakorvaustulot ja kotikuntakorvausmenot suoritetaan kunnalle valtionosuuksien yhteydessä, mutta ne eivät ole valtionosuuksia. Vuodelle 2024 kotikuntakorvaustulot ovat 1 218 021 euroa ja kotikuntakorvausmenot ovat - 1 761 490 euroa (netto - 550 469 euroa). Rahoitusosan valtionosuuskohtaan kirjautuu päätöksen perusteella 37 220 738 euroa. Talousarvioon on varattu 1,3 milj. euroa suurempi tuloarvio"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "paatos_labels": 3,
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "OIKAISUVAATIMUSOHJEET_eisaanti",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241625-6-102737.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Maksuerittely2024",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241625-6-102738.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Päätös kotikuntakorvauksen_perusosasta_2024",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241625-6-102739.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Päätös kunnan_peruspalvelujen_valtionosuudesta_2024",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241625-6-102740.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20241625-7",
+      "ordinal": "7",
+      "title": "Vastaus valtuustoaloitteeseen 8/2021: Walkers-nuorisokahvilan perustaminen Kirkkonummelle, Kv",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241625-7",
+      "decision": "Kunnanhallitus päätti yksimielisesti palauttaa asian uudelleen valmisteltavaksi",
+      "votes": [],
+      "initiative": {
+        "ref": "8/2021",
+        "proposer": "Vihreä valtuustoryhmä",
+        "party": "vihr",
+        "name": null
+      },
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Valtuustoaloite: Walkers-nuorisokahvilan perustaminen Vastaus valtuustoaloitteeseen 8/2021: Walkers-nuorisokahvilan perustaminen Kirkkonummelle, Kv Kunnanhallitus 22.01.2024 § 7 328/12.05.02/2021",
+        "valmistelija": "Nuoriso- ja liikuntapäällikkö Päivi Sorvari etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää antaa selostusosan mukaisen vastauksen valtuustoaloitteeseen 8/2021: Walkers-nuorisokahvilan perustaminen Kirkkonummelle ja esittää kunnanvaltuustolle, että valtuusto pitää vastausta riittävänä ja aloitetta loppuun käsiteltynä",
+        "kasittely": "Puheenjohtaja ilmoitti keskustelin päättyneeksi ja totesi, että Saara Huhmarniemi on tehnyt seuraavan palautusehdotuksen: Valmistelun aikana selvitetään tarkemmin nuorisokahvilan toiminnan edellytykset ja tarkemmat kustannukset käyttämällä vertailukohtana kuntia, joissa vastaavaa toimintaa jo järjestetään. Kirkkonummen viime vuosien kouluterveyskyselyistä käy ilmi, että nuorten huonovointisuus on kasvussa ja päihteiden käyttö yleistä. Aloitteen vastauksessa esitelty alueellinen ja paikallinen nuorisotyö ei riitä vastaamaan nykyiseen tilanteeseen. Palautusehdotusta kannattivat Sanni Jäppinen, Kati Kaihlaranta, Piia Aallonharja, Timo Haapaniemi, Anna Aintila, Ulf Kjerin, Anneli Granström ja Carl-Johan Kajanti. Puheenjohtajan tiedustellessa Saara Huhmarniemen palautusehdotus hyväksyttiin yksimielisesti",
+        "paatos": "Kunnanhallitus päätti yksimielisesti palauttaa asian uudelleen valmisteltavaksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtuustoaloite: Walkers-nuorisokahvilan perustaminen",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241625-7-47615.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Saara Huhmarniemi",
+          "kind": "palautusehdotus",
+          "text": "Valmistelun aikana selvitetään tarkemmin nuorisokahvilan toiminnan edellytykset ja tarkemmat kustannukset käyttämällä vertailukohtana kuntia, joissa vastaavaa toimintaa jo järjestetään. Kirkkonummen viime vuosien kouluterveyskyselyistä käy ilmi, että nuorten huonovointisuus on kasvussa ja päihteiden käyttö yleistä. Aloitteen vastauksessa esitelty alueellinen ja paikallinen nuorisotyö ei riitä vastaamaan nykyiseen tilanteeseen. Palautusehdotusta kannattivat Sanni Jäppinen, Kati Kaihlaranta, Piia Aallonharja, Timo Haapaniemi, Anna Aintila, Ulf Kjerin, Anneli Granström ja Carl-Johan Kajanti",
+          "source": "introduction",
+          "party": "vihr"
+        }
+      ]
+    },
+    {
+      "id": "20241625-8",
+      "ordinal": "8",
+      "title": "Eron myöntäminen rakennus-ja ympäristölautakunnan varajäsenyydestä ja uuden varajäsenen valinta (A.L.), Kv",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241625-8",
+      "decision": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "hallinnon asiantuntija Gunnel Ekström, etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää ehdottaa kunnanvaltuustolle, että valtuusto päättää 1 myöntää eron Ari Liuhdalle rakennus- ja ympäristölautakunnan varajäsenyydestä 2 valita uuden varajäsenen rakennus- ja ympäristölautakuntaan Ari Liuhdan tilalle toimikauden 2025 loppuun",
+        "paatos": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+        "selostus": "Ari Liuhta on pyytänyt eroa rakennus- ja ympäristölautakunnan varajäsenyydestä paikkakunnalta poismuuton takia. Kuntalain 10 luvun 70 §:n mukaan luottamustoimesta voi erota pätevästä syystä. Eron myöntämisestä päättää luottamushenkilön valinnut toimielin. Rakennus- ja ympäristölautakunnan kokoonpano 2021-2025: Jäsen/varajäsen Saara Huhmarniemi, Vihr. / Ronja Karkinen, Vihr. Kim Männikkö, RKP / Pia Furu, RKP Pertti Panula, Pro Kirkkonummi / Ari Liuhta, Pro Kirkkonummi Henry Scheinin, Vihr. / Tarja Ketola, Vihr. Leena Virkki, Kok. / Sami Sailo, Kok. Tommi Saranpää, Kok. / Eetu Lindgren, Kok. Mikko Elfving, Kirnu / Suvi Rauhala, PS Edla Niemi, Vas. / Ralf Björklund, Vas. Kerstin Grönqvist, RKP / Johnny Sved, RKP Saara Huhmarniemi (Vihr.) valittiin puheenjohtajaksi ja Kim Männikkö (RKP) varapuheenjohtajaksi rakennus- ja ympäristölautakuntaan kaudeksi 2021-2025"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241625-9",
+      "ordinal": "9",
+      "title": "Eron myöntäminen toimitilapalvelujen lautakunnan varajäsenyydestä ja uuden varajäsenen valinta (A.L.), Kv",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241625-9",
+      "decision": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "hallinnon asiantuntija Gunnel Ekström, etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto 1 myöntää eron Ari Liuhdalle toimitilapalvelujen lautakunnan varajäsenyydestä 2 valitsee uuden varajäsenen Ari Liuhdan tilalle toimitilapalvelujen lautakuntaan toimikauden loppuun",
+        "paatos": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+        "selostus": "Ari Liuhta on pyytänyt eroa toimitilapalvelujen lautakunnan varajäsenyydestä paikkakunnalta muuton takia. Kuntalain 10 luvun 70 §:n mukaan luottamustoimesta voi erota pätevästä syystä. Eron myöntämisestä päättää luottamushenkilön valinnut toimielin. Toimitilapalvelujen lautakunnan kokoonpano 2021-2025 on seuraavanlainen: Noora Piili, Pro Kirkkonummi / Jan Nordström, Pro Kirkkonummi Jani Ekman Kok. / Jukka Malila, Kok. Pekka Oksanen, SDP / Tuovi Ronkainen, SDP Marko Kari, Kok. / Carita Vilén, Kok. Elina Utriainen, Pro Kirkkonummi / Ari Liuhta, Pro Kirkkonummi Elina Kärkimaa, Vihr. / Lauri Lavanti, Vihr. Miisa Jeremejew, Vihr. / Sea Eklund, Vihr. Martin Honkanen, Vapauden Liitto rp. / Ritva Närhi, Vapauden Liitto rp. Johanna Järvinen, PS / Jani Kähkönen, PS Hans Hedberg, RKP / Ann-Britt Romar, RKP Matilda Björkqvist, RKP / Kent Jensen von Schulmann, RKP Noora Piili (Pro Kirkkonummi) valittiin puheenjohtajaksi ja Jani Ekman (Kok.) varapuheenjohtajaksi toimitilapalvelujen lautakuntaan kaudeksi 2021-2025"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241625-10",
+      "ordinal": "10",
+      "title": "Kunnanjohtajan ajankohtaiset asiat",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241625-10",
+      "decision": "Kunnanhallitus päätti merkitä kunnanjohtajan ajankohtaiskatsauksen tiedoksi",
+      "votes": [],
+      "sections": {
+        "valmistelija": "Kunnanjohtaja Virpi Sailas, etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää merkitä kunnanjohtajan ajankohtaiskatsauksen tiedoksi",
+        "kasittely": "Kunnanvaltuuston puheenjohtaja Tony Björk poistui kokouksesta tämän pykälän alussa klo 17.52. Kylmälän vesiosuuskunnan tilannekatsaus otettiin käsittelyyn pykälän 5 jälkeen, klo 17.52. Kirkkonummen vesi -liikelaitoksen johtokunnan puheenjohtaja Urho Blom oli läsnä teamsin välityksellä tämän asian käsittelyn aikana klo 17.52 - 18.34. Talousjohtaja Esa Lindell esitteli asiaa kokouksessa. Myös yhdyskuntatekniikan johtaja Anna-Kaisa Kauppinen oli läsnä ja hän poistui kokouksesta tämän asian käsittelyn jälkeen klo 18.34. Tämän pykälän käsittely jatkui klo 19.34. Kunnanjohtaja Virpi Sailas esitteli kuntastrategialuonnosta. Hallintojohtaja Jaana Suihkonen esitteli hallintosäännön valmistelutilannetta",
+        "paatos": "Kunnanhallitus päätti merkitä kunnanjohtajan ajankohtaiskatsauksen tiedoksi",
+        "selostus": "Kunnanjohtaja esittelee ajankohtaisia valmisteluissa olevia asioita: - kuntastrategia -luonnoksen esittely - hallintosäännön valmistelutilanne - Kylmälän vesiosuuskunnan tilannekatsaus Kirkkonummen kunta kunnanvaltuuston päätöksen mukaisesti taannut osuuskunnan lainoja ja antanut osuuskunnalle avustusta 320 000. Kunnanhallituksen päätöksen mukaisesti avustus on maksettu kokonaisuudessaan osuuskunnan maksuvalmiuden varmistamiseksi. Kirkkonummen Vesi on tehnyt osuuskunnan kanssa sopimuksen talousveden myynnistä ja jätevesien vastaanottamisesta. Kunta on käynnistänyt ulkopuolisen konsultin kanssa selvityksen Kylmälän Vesiosuuskunnan tilanteesta ja vaihtoehdoista. Selvitys on tarkoitus saada valmiiksi helmikuun loppuun mennessä. Osuuskunnalta saadun tiedon mukaan osuuskunnalla on alkuvuoden aikana haasteita hoitaa erääntyviä maksujaan. Kunta käy tilannetta osuuskunnan kanssa"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241625-11",
+      "ordinal": "11",
+      "title": "Kuntalain 92 §:n mukaista otto-oikeusmenettelyä varten saapuneet päätökset",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241625-11",
+      "decision": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti. Toimielinten pöytäkirjoja Toimitilapalvelujen lautakunta 8.1.2024 Elinvoimajaosto 9.1.2024 Viranhaltijapäätöksiä Luettelo valvottavista viranhaltijapäätökset on liitteenä. Viranhaltijapäätökset ovat kokonaisuudessaan liitteineen luettavissa kokousjärjestelmässä: (tiedostot / kunnanhallitus / viranhaltijapäätökset)",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 6 Julkinen päätösluettelo, 1.-18.1.2024 Kuntalain 92 §:n mukaista otto-oikeusmenettelyä varten saapuneet päätökset Kunnanhallitus 22.01.2024 § 11",
+        "esittelija": "Kunnanjohtaja Virpi Sailas, etunimi.sukunimi@kirkkonummi.fi",
+        "paatosehdotus": "Kunnanhallitus merkitsee tiedokseen alla mainitut kuntalain 92 §:n nojalla otto-oikeuden käyttämistä varten esitetyt päätökset ja päättää, että Kunnanhallitus ei ota asioita käsiteltäväkseen",
+        "paatos": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti. Toimielinten pöytäkirjoja Toimitilapalvelujen lautakunta 8.1.2024 Elinvoimajaosto 9.1.2024 Viranhaltijapäätöksiä Luettelo valvottavista viranhaltijapäätökset on liitteenä. Viranhaltijapäätökset ovat kokonaisuudessaan liitteineen luettavissa kokousjärjestelmässä: (tiedostot / kunnanhallitus / viranhaltijapäätökset)"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Julkinen päätösluettelo, 1.-18.1.2024",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241625-11-102819.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20241625-12",
+      "ordinal": "12",
+      "title": "Muut asiat",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241625-12",
+      "decision": null,
+      "votes": [],
+      "sections": {},
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    }
+  ],
+  "id": "20241625",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20241625"
+}

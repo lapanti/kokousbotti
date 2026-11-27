@@ -1,0 +1,287 @@
+{
+  "title": "Toimitilapalvelujen lautakunta Pöytäkirja 25.01.2023 klo 17:00 - 21:20 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Toimitilapalvelujen lautakunta",
+  "doctype": "Pöytäkirja",
+  "date": "2023-01-25",
+  "items": [
+    {
+      "id": "20231317-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231317-1",
+      "decision": "Puheenjohtaja totesi kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi. Esittelijänä kokouksessa on yhdyskuntatekniikan johtajan sijainen toimitilajohtaja Ville Könönen (kunnanjohtajan päätös 15.12.2022 § 14)",
+        "paatos": "Puheenjohtaja totesi kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231317-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastaminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231317-2",
+      "decision": "Toimitilapalvelujen lautakunta valitsi tämän kokouksen pöytäkirjantarkastajiksi Johanna Järvisen ja Pekka Oksasen",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa :n varahenkilö: toimitilajohtaja Ville Könönen Toimitilapalvelujen lautakunta valitsee kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan sähköisesti. Pöytäkirja tarkastetaan tiistaina 31.1.2023 ja se asetetaan yleisesti nähtäville kunnan julkiseen tietoverkkoon keskiviikkona 1.2.2023",
+        "paatos": "Toimitilapalvelujen lautakunta valitsi tämän kokouksen pöytäkirjantarkastajiksi Johanna Järvisen ja Pekka Oksasen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231317-3",
+      "ordinal": "3",
+      "title": "Kirkkonummen kunnan liittäminen Hansel Oy:n puitejärjestelyyn Elintarvikkeet ja non-food -tuotteet 2023-2027",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231317-3",
+      "decision": "Toimitilapalvelujen lautakunta päätti päätösesityksen mukaisesti seuraavin evästyksin: Jatketaan lähtökohtaisesti valmistautumista Hansel Oy:n puitejärjestelyyn liittymiseksi. Tuodaan kuitenkin seuraavaan lautakunnan kokoukseen sopimusehdot ja mahdollisuuksien mukaan Hanselin esittelijä, jotta avoimiin kysymyksiin saadaan vastaukset. 1) Mihin sitoudutaan? 2) Miten sopimuksesta pääsee eroon niin halutessamme?",
+      "votes": [
+        {
+          "jaa": [
+            "Kari Marko",
+            "Jeremejew Miisa",
+            "Järvinen Johanna",
+            "Hedberg Hans",
+            "Ekman Jani",
+            "Kärkimaa Elina",
+            "Björkqvist Matilda"
+          ],
+          "ei": [
+            "Piili Noora",
+            "Utriainen Elina",
+            "Oksanen Pekka",
+            "Honkanen Martin"
+          ],
+          "tyhja": [],
+          "named_by": "surname",
+          "totals": {
+            "jaa": 7,
+            "ei": 4,
+            "tyhja": 0
+          },
+          "as_written": {
+            "jaa": [
+              "Kari",
+              "Jeremejew",
+              "Järvinen",
+              "Hedberg",
+              "Ekman",
+              "Kärkimaa",
+              "Björkqvist"
+            ],
+            "ei": [
+              "Piili",
+              "Utriainen",
+              "Oksanen",
+              "Honkanen"
+            ],
+            "tyhja": []
+          },
+          "names_from": "osallistujat",
+          "unresolved": [],
+          "parties": {
+            "jaa": {
+              "kok": 2,
+              "vihr": 2,
+              "ps": 1,
+              "rkp": 2
+            },
+            "ei": {
+              "pro yl": 2,
+              "sdp": 1,
+              "ps": 1
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "asian käsittelyn jatkamista",
+            "ei_label": "palautusesitystä",
+            "jaa_kind": "other",
+            "ei_kind": "jatkokasittely",
+            "kind": "procedural_substantive",
+            "rationale": "Keskustelun aikana puheenjohtaja Noora Piili esitti seuraavan palautusesityksen: Palautetaan lisätietoja varten.",
+            "winner": "jaa",
+            "source": "parsed",
+            "evidence": "ne, jotka kannattavat asian käsittelyn jatkamista, äänestävät Jaa ja ne, jotka kannattavat palautusesitystä, äänestävät Ei — Puheenjohtaja päätti äänestyksen ja totesi, että äänet jakautuivat seuraavasti: 7 Jaa -ääntä (Kari, Jeremejew, Järvinen, Hedberg, Ekman, Kärkimaa ja Björkqvist) ja 4 Ei- ääntä (Piili, Utriainen, Oksanen ja Honkanen)"
+          }
+        }
+      ],
+      "sections": {
+        "valmistelija": "hankinta-asiantuntija Jari Mulari, etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa :n varahenkilö toimitilajohtaja Ville Könönen Toimitilapalvelujen lautakunta päättää, että: 1) Kirkkonummen kunta liitetään Hansel Oy:n puitejärjestelyyn Elintarvikkeet ja non-food tuotteet 2023-2027 2) Kirkkonummen talousyksikköön kuuluvan hankintaryhmän jäsenet valtuutetaan allekirjoittamaan ja toimittamaan Hansel Oy:lle liittymispäätöksen toteutukseen tarvittavat asiakirjat ja tiedot tavalla, joka sitoo kunnan juridisesti puheena olevaan puitejärjestelyyn",
+        "kasittely": "Keskustelun aikana puheenjohtaja Noora Piili esitti seuraavan palautusesityksen: Palautetaan lisätietoja varten. 1. Tarkempi tieto mihin sitoudutaan? Onko esim euromäärärajoja? 2. Mitä keinoja olisi vaikuttaa jatkossa kilpailutuksen sisältöön ja onko niitä? 3. Voiko kunta kilpailuttaa elintarvikkeita myös itse sopimusaikana? Elina Utriainen kannatti Noora Piilin palautusesitystä. Puheenjohtaja totesi, että palautusesitystä ei kannatettu yksimielisesti, jolloin asiasta tulee äänestää. Äänestys Puheenjohtaja aloitti äänestyksen: ne, jotka kannattavat asian käsittelyn jatkamista, äänestävät Jaa ja ne, jotka kannattavat palautusesitystä, äänestävät Ei. Puheenjohtaja päätti äänestyksen ja totesi, että äänet jakautuivat seuraavasti: 7 Jaa -ääntä (Kari, Jeremejew, Järvinen, Hedberg, Ekman, Kärkimaa ja Björkqvist) ja 4 Ei- ääntä (Piili, Utriainen, Oksanen ja Honkanen), jolloin asian käsittelyä jatketaan. Elina Kärkimaan esitti seuraavan evästyksen: Jatketaan lähtökohtaisesti valmistautumista Hansel Oy:n puitejärjestelyyn liittymiseksi. Tuodaan kuitenkin seuraavaan lautakunnan kokoukseen sopimusehdot ja mahdollisuuksien mukaan Hanselin esittelijä, jotta avoimiin kysymyksiin saadaan vastaukset. 1) Mihin sitoudutaan? 2) Miten sopimuksesta pääsee eroon niin halutessamme? Miisa Jeremejew ja Jani Ekman kannattivat Elina Kärkimaan evästystä. Puheenjohtaja totesi, että lautakunta kannatti evästystä yksimielisesti. Hankinta-asiantuntija Taina Väre ja controller Ari Hasu poistuivat kokouksesta tämän kokousasian käsittelyn jälkeen klo 18.21",
+        "paatos": "Toimitilapalvelujen lautakunta päätti päätösesityksen mukaisesti seuraavin evästyksin: Jatketaan lähtökohtaisesti valmistautumista Hansel Oy:n puitejärjestelyyn liittymiseksi. Tuodaan kuitenkin seuraavaan lautakunnan kokoukseen sopimusehdot ja mahdollisuuksien mukaan Hanselin esittelijä, jotta avoimiin kysymyksiin saadaan vastaukset. 1) Mihin sitoudutaan? 2) Miten sopimuksesta pääsee eroon niin halutessamme?",
+        "selostus": "Hansel Oy:n puitejärjetelyllä Elintarvikkeet ja non-food tuotteet 2023-2027 voi hankkia tukkutoimittajilta elintarvikkeita ja ammattikeittiöön tarkoitettuja käyttötarvikkeita. Näitä ovat esim. maitotuotteet, lihatuotteet, kalatuotteet, valmisruoka, leipomotuotteet, kasvikset, säilykkeet, mehut, pakasteet, kuivatarvikkeet ja kertakäyttö-astiat. Lisätietoa puitejärjestelyn yksityiskohdista on saatavissa osoitteesta www.hansel.fi. Hansel Oy:n puitejärjestelyn suunniteltu sopimuskausi puheena olevassa hankinnassa on 1.10.2023 - 31.12.2027 ollen kestoltaan yhteensä 51 kk. Kirkkonummen kunnan arvioitu hankinnan euromääräinen suuruus tuona aikana on 6,9 MEUR. Tästä summasta tällä päätöksellä Hansel Oy:n puistesopimuksella Kirkkonummen kunnan sopimuksen mukaisien tuotteiden arvioitu hankintahinta on 6,2 MEUR. Päätösehdotukseen sisältyy, että puheena olevat hankinnat tehdään kahden puitejärjestelyn sopimuksilla: - olemassa olevilla elintarvike ja non-food sopimuksilla, joiden sopimuskaudet päättyvät eri aikoina hankinnan osa-alueittain ja toimittajittain sekä - tulevilla Hanel Oy:n puitejärjestelyn Elintarvikkeet ja non-food tuotteet 2023-2027 -sopimuksilla. Näitä sopimuksia siirrytään käyttämään olemassa olevien sopimusten sopimuskausien päättyessä. Vuositasolle jaettuna hankinnat jakautuvat alla olevan taulukon mukaisesti. Hansel Oy -rivit kuvaavat sitä summaa, jolla on tarkoitus ostaa kyseessä olevia tuotteita kyseisenä vuonna perustuen Hansel Oy:n tekemiin sopimuksiin. Euromääräiset summat ovat tuhansia euroja. Päivämäärät ovat sopimusten viimeisiä voimassaolopäiviä. Päivät on kirjattu ISO 8601 -standardin mukaisesti muotoon vvvv-kk-pp. 2023 -vuoden osalta luvut edustavat vuoden viimeistä neljännestä. Sopimus / Vuosi Q4 2023 2024 2025 2026 2027 Yhteensä Maito- ja maataloustuotteet 50 200 200 200 200 850 Nykyiset sopimukset päättyvät 2024-04-08 2024-03-30 50 50 0 0 0 100 Hansel Oy 0 150 200 200 200 750 Liha- ja lihavalmisteet 70 280 280 280 280 1190 Nykyiset sopimukset päättyvät 2024-02-27 ja 2024-03-02 70 46 0 0 0 116 Hansel OY 0 234 280 280 280 1074 Kalatuotteet 28 110 110 110 110 468 Nykyiset sopimukset päättyvät 2024-04-08 28 30 0 0 0 58 Hansel Oy 0 80 110 110 110 410 Teolliset ja non-food 138 650 650 650 650 2738 Nykyiset sopimukset päättyvät 2024-02-27 138 92 0 0 0 230 Hansel Oy 0 558 650 650 650 2508 Leipätuotteet 30 120 120 120 120 510 Nykyiset sopimukset päättyvät 2024-04-08 30 30 0 0 0 60 Hansel Oy 0 90 120 120 120 450 Perunat ja vihannekset 75 300 300 300 300 1275 Nykyiset sopimukset päättyvät 2024-03-30 ja 2024-04-08 75 75 0 0 0 150 Hansel Oy 0 225 300 300 300 1125 Einekset 17 68 68 68 68 289 Nykyinen sopimus päättyy 2024-04-08 17 17 0 0 0 34 Hansel Oy 0 51 68 68 68 255 Hansel Oy:n puitesopimuseksella tehtävät hankinnat yhteensä vuosittain 0 1238 1628 1628 1628 6572 Elinytarvikehankinnat yhteensä vuosittain 408 1728 1728 1728 1728 7320 Päätöshetkellä Kirkkonummen kunta hankkii puheena olevan puitejärjes-telyn sisältämiä tuotteita itse kilpailuttamillaan sopimuksilla. Näiden sopimusten sopimuskauden loputtua kunta on näiden tuotteiden osalta sopimuksettomassa tilassa, ellei asiaa ratkaista hankintalain mukaisella tavalla. Mahdolliset tavat/keinot ratkaista elintarvikkeiden ja non-food tuotteiden hankintalain mukainen hankinta nykyisten sopimusten sopimuskauden päättyessä ovat: - kilpailuttaa puheena olevat tuotteet kunnan omana hankintana. Kunta ei saisi vastaavia alennuksia kuin liittymällä Hansel Oy:n puitejärjestelyyn. Perusteena tällä näkemykselle on Hansel Oy:n yhdistämät useiden eri hankintayksiköíden volymit. - kilpailuttaa tuotteet yhteishankintana jonkin toisen kunnan kanssa. Tällaista vaihtoehtoa ja sen toteutettavuutta ei nähdä tarpeelliseksi selvittää tarkemmin, koska Hansel Oy:n puitejärjestelyllä on puolellaan etunsa. Näitä ovat isompien volymien tuomat mittakaava- ja siten hintaedut. - liittyminen yhteishankintayksikön tekemään puitejärjestelyyn. Näitä vaihtoehtoja on kaksi: Hansel Oy:n ja Sarastia Oy:n tekemät puitejärjestelyt. Näistä vaihtoehdoista Kirkkonummen kunnna Toimitilapalveluihin kuuluvan ruokapalvelun edustajat näkevät Hansel Oy:n valmistelussa olevan puitejärjestelyn soveltuvan paremmin kunnan tarpeisiin. Suurimmat syyt ovat: Hansel Oy:n puitejärjestelyn tuotevalikoima on laajempi ja siten soveltuvampi kunnan tarpeisiin Sarastia Oy:n hankintasopimusten ollessa voimassa kunnan mahdollisuus liittyä Sarastia Oy:n puitejärjestelyyn on epävarma. Toimivalta Tämän päätöksen toimivalta perustuu kunnanvaltuuston 2019-12-02 tekemään päätökseen § 401"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": [
+        {
+          "proposer": "Noora Piili",
+          "kind": "palautusehdotus",
+          "text": "Palautetaan lisätietoja varten. 1. Tarkempi tieto mihin sitoudutaan? Onko esim euromäärärajoja? 2. Mitä keinoja olisi vaikuttaa jatkossa kilpailutuksen sisältöön ja onko niitä? 3. Voiko kunta kilpailuttaa elintarvikkeita myös itse sopimusaikana? Elina Utriainen kannatti Noora Piilin palautusesitystä",
+          "source": "introduction",
+          "party": "pro yl"
+        },
+        {
+          "proposer": "Elina Kärkimaa",
+          "kind": "evastysehdotus",
+          "text": null,
+          "source": "order",
+          "party": "vihr"
+        }
+      ]
+    },
+    {
+      "id": "20231317-4",
+      "ordinal": "4",
+      "title": "Ruokapalvelujen asiakastyytyväisyyskysely",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231317-4",
+      "decision": "Toimitilapalvelujen lautakunta päätti 1. merkitä ruokapalvelujen asiakastyytyväisyyskyselyn tulokset tiedoksi 2. että kysely tehdään uudestaan kevään 2023 aikana ja siitä tiedotetaan niin, että kaikki tahot ovat ennakkoon tietoisia. Lisäksi tulee varmistaa, että myös oppilaat pystyvät vastaamaan koulussa siihen. Lisäksi päivähoidon vanhemmilla tulee olla tieto kyselystä sekä mahdollisuus vastaamiseen",
+      "votes": [],
+      "sections": {
+        "valmistelija": "palvelujohtaja Johanna Tuppurainen etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa : n varahenkilö: toimitilajohtaja Ville Könönen Toimitilapalvelujen lautakunta päättää merkitä ruokapalvelujen asiakastyytyväisyyskyselyn tulokset tiedoksi",
+        "kasittely": "Puheenjohtaja Noora Piili esitti seuraavan lisäyksen päätösehdotukseen: Esitän, että kysely tehdään uudestaan kevään 2023 aikana ja siitä tiedotetaan niin, että kaikki tahot ovat ennakkoon tietoisia. Lisäksi tulee varmistaa, että myös oppilaat pystyvät vastaamaan koulussa siihen. Lisäksi päivähoidon vanhemmilla tulee olla tieto kyselystä sekä mahdollisuus vastaamiseen. Puheenjohtaja totesi, että lautakunta kannatti lisäystä yksimielisesti",
+        "paatos": "Toimitilapalvelujen lautakunta päätti 1. merkitä ruokapalvelujen asiakastyytyväisyyskyselyn tulokset tiedoksi 2. että kysely tehdään uudestaan kevään 2023 aikana ja siitä tiedotetaan niin, että kaikki tahot ovat ennakkoon tietoisia. Lisäksi tulee varmistaa, että myös oppilaat pystyvät vastaamaan koulussa siihen. Lisäksi päivähoidon vanhemmilla tulee olla tieto kyselystä sekä mahdollisuus vastaamiseen",
+        "selostus": "Ruokapalveluiden asiakastyytyväisyyskysely toteutettiin 31.10-13.11.2022 JAMIX-järjestelmällä. Kyselyn tavoitteena oli selvittää ruokailijoiden mielipide ruokapalveluista ja aterioista ja saada kehitysehdotuksia tulevaisuuteen. Kyselyyn osallistui 194 vastaajaa, kuten oppilaita, huoltajia sekä työpaikkaruokailjoita (opettajat ja varhaiskasvatuksen henkilökunta). Vastauksia, mielipiteitä ja toiveita tuli antaa yhteensä seitsemään kysymykseen. Missä yksikössä ruokailet? Mitä pidät nauttimastasi ateriasta? Mitä ruokia haluaisit lisätä tulevaan ruokalistaan? Mitä ruokia haluaisit poistaa nykyiseltä ruokalistalta? Nimeä neljä (4) mieluisinta ruokaa Ruokapalveluhenkilöstö on ystävällistä ja palvelualtista? Toiveita ja kehitysehdotuksia Vastauksista 21 koski päiväkotiruokailua ja 172 kouluruokailua. Yksi vastaus koski Terveyskeskuksen henkilöstöruokailua. Vastaajista 73,8% pitivät nauttimastaan ateriasta ja 93,4% koki ruokapalveluhenkilöstön ystävällisenä ja palvelualttiina. Vastausten perusteella neljä mieluisinta ruokaa ovat wrap/tortillat, makkara-perunapannu, lihapullat ja kalapuikot. Poistettavista ruuista eniten vastauksia saivat kasvissosekeitto, hernekeitto, kalakeitto ja suurimopuuro. Tulevaan ruokalistaan toivottiin mm. pizzaa, hampurilaisia, kananuggetteja, pinaattilettuja mutta myös hyvänmakuista kasvisruokaa ja nuudeliruokia. Kehitysehdotuksia tuli monipuolisesti; mm. toivottiin enemmän oppilaiden osallistamista ruokalistan suunnitteluun, ehdotettiin uusia tarjottavia ruokia, toivottiin pidempää ruokailuaikaa ja kommentoitiin ruuan koostumusta, ulkonäköä, makua ja lämpötilaa. Kasvisruokaa kommentoitiin runsaasti ja osa halusi vähentää ja osa lisätä kasvisruokavalikoimaa. Kyselyn tulokset antavat arvokasta tietoa ruokapalveluille ja tuloksia hyödynnetään toiminnan kehittämisessä ja mm. ruokalistasuunnittelussa. Suosituimmat ruuat ovat vuosittain hyvin samanlaiset mutta uusillekin ruuille ja mauille on kysyntää. Monikulttuurisuus ja uudenlaiset makutottumukset näkyvät kyselyn tuloksissa ja osasta perinneruuista halutaan luopua. Kaikkia ruokaan liittyviä toiveita ei kuitenkaan ole mahdollista toteuttaa, sillä koulu- ja päiväkotiruuan on oltava ravitsemuksellisesti täysipainoista, ravitsemissuositusten mukaisia ja oikeisiin ruokatottumuksiin opettavaa"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231317-5",
+      "ordinal": "5",
+      "title": "Nissnikun alakoulun väistötilojen hankintapäätös",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231317-5",
+      "decision": "Toimitilapalvelujen lautakunta päätti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "projektipäällikkö Hanne Nylund etunimi.sukunimi@kirkkonummi.f i , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa : n varahenkilö: toimitilajohtaja Ville Könönen Toimitilapalvelujen lautakunta päättää 1. valita Nissnikun alakoulun väistötilatoimittajaksi Novorent Moduuli Oy 2. että hankinnan kustannukset kirjataan käyttötalouteen 3. tarkastaa pöytäkirjan tämän kokousasian osalta tässä kokouksessa. Hankintasopimus ei synny tällä päätöksellä vaan erillisten sopimusten allekirjoituksin. Hankintasopimus voidaan allekirjoittaa aikaisintaan, kun kunnanvaltuusto on tehnyt päätöksen lisämäärärahasta ja päätös on lainvoimainen",
+        "paatos": "Toimitilapalvelujen lautakunta päätti päätösehdotuksen mukaisesti",
+        "selostus": "Nissnikun alakoulun väistötilojen toimittajaksi esitetään Novorent Moduuli Oy:tä. Aikaisempi käsittely Toimitilapalvelujen lautakunta 16.02.2022 § 11 Toimitilapalvelujen lautakunta 22.09.2022 § 73 Toimitilapalvelujen lautakunta 06.10.2022 § 81 Oheismat. Topa 6.10.2022 § 81 Tilaselvitys Masalan alue 30.9.2022 Toimitilapalvelujen lautakunta 14.12.2022 § 95 Hankinnan kohde Hankinta koskee Masalan koulun tontille vuokralle hankittavia siirtokelpoisia väistötiloja, jotka ovat tarkoitettu Nissnikun alakoulun käyttöön. Hankinta sisältää kohteen suunnittelun ja lupamenettely, tarvittavat maanrakennus ja liitostyöt, tilojen pystyttämisen ja vuokra-ajan päättyessä tilojen purkamisen. Vuokra-aika on 4,5 vuotta, jonka jälkeen tilaajalla on oikeus jatkaa vuokra-aikaa kaksi kertaa vuoden mittaisissa jaksoissa. Hankintamenettely Toimitilapalveluiden lautakunnan kokouksessa on esitelty tarjouspyyntömateriaali 22.9.2022 § 73. Tarjouspyyntö on tehty näiden materiaalien mukaisesti, pieniä teknisiä korjauksia lukuun ottamatta. Tarjouspyyntö julkaistiin Hilma-palvelussa 15.12.2022 (2022-115487), jonka jälkeen ilmoitusta on korjattu kahteen kertaan 16.12.2022 (2022 115520) ja 5.1.2023 (2023-116881). Tarjoukset vastaanottamisen määräaika oli 13.1.2023 klo 12. Määräaikaan mennessä kunta vastaanotti tarjoukset seuraavilta tarjoajilta: - Ab Heikius Hus-Talo Oy - Adapteo Finland Oy - Expandia Moduulit Oy - Koskirent Oy - Novorent Moduuli Oy - Parmaco Oy Tarjousten vertailu Tarjoajien soveltuvuus tarkastettiin tarjouspyynnössä asetettujen vaatimusten perusteella. Parmaco Oy ei täyttänyt soveltuvuusvaatimusta liittyen tarjoajan luottoluokitukseen. Tarjouspyynnössä oli edellytetty Suomen Asiakastieto Oy:n raportin perusteella yrityksen taso vähintään hyvä AA. Muut tarjoukset täyttivät soveltuvuusehdot. Tarjousten vertailuperusteena on edullisin vertailuhinta. Tarjousten vertailutaulukko on kokousasian liitteenä 1. Tarjousten Vertailuhinnaltaan halvimman tarjouksen antoi Novorent Moduuli Oy"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231317-6",
+      "ordinal": "6",
+      "title": "Toimitilapalvelujen lautakunnan käyttösuunnitelma vuodelle 2023",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231317-6",
+      "decision": "Toimitilapalvelujen lautakunta päätti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko Toimitilapalvelujen lautakunnan käyttösuunnitelma 2023 Toimitilapalvelujen lautakunnan käyttösuunnitelma vuodelle 2023 Toimitilapalvelujen lautakunta 25.01.2023 § 6 4/02.02.02/2023\nToimitilapalvelujen lautakunnan käyttösuunnitelma 2023",
+        "valmistelija": "Talousjohtaja Esa Lindell, yhdyskuntatekniikan johtaja Anna-Kaisa Kauppinen, toimitilajohtaja Ville Könönen, hallintopäällikkö Sirpa Salminen, etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa : n varahenkilö toimitilajohtaja Ville Könönen Toimitilapalvelujen lautakunta päättää 1 hyväksyä toimitilapalvelujen lautakunnan käyttösuunnitelman vuodelle 2023 liitteiden mukaisesti 2 että lautakunnan käyttösuunnitelman investointiosaan sisältyvän \"korjausohjelma\" -hankkeen määrärahaa kohdennetaan liitteen mukaisesti 3 että lautakunnan käyttösuunnitelman investointiosaan sisältyvän \"energiatehokkuushankkeet\" -hankkeen määrärahaa kohdennetaan liitteen mukaisesti 4 että lautakunnan käyttösuunnitelman investointiosaan sisältyvän \"koulujen ja päiväkotien pihojen perusparannushankkeet\" -hankkeen määrärahaa kohdennetaan liitteen mukaisesti 5 oikeuttaa yhdyskuntatekniikan palvelualueen johtajan tekemään talousarviovuoden aikana tarvittavia muutoksia esityslistan liitteenä olevaan luetteloon vastuuhenkilöistä 6 lautakunta myöntää investointien vastuuhenkilöille käyttösuunnitelmassa kuvattujen investointien osalta ostolaskujen hyväksymisoikeuden ko. investoinnin kokonaiskustannusten puitteissa 7 että käyttötalouden rakennusprojektien osalta projektien vetäjät toimivat turvallisuuskoordinaattorina, ellei sopimusasiakirjoissa ole muuta mainittu",
+        "kasittely": "Jäsen Martin Honkanen poistui tämän kokousasian esittelyn aikana klo 19.21 ja rakennuttajapäällikkö Hanne Nylund ja palvelujohtaja Johanna Tuppurainen tämän kokousasian käsittelyn jälkeen klo 20.00. Lautakunta piti tauon klo 20.00 - 20.10",
+        "paatos": "Toimitilapalvelujen lautakunta päätti päätösehdotuksen mukaisesti",
+        "tiedoksi": "määrärahojen käytöstä vastuussa oleville henkilöille tiedoksi ja noudatettavaksi",
+        "selostus": "Kunnanvaltuusto hyväksyi vuoden 2023 talousarvion ja vuosien 2024-2025 taloussuunnitelman kokouksessaan 12.12.2022 § 109. Talousarvion sitovuus on määritelty pääsääntöisesti siten, että käyttötalousosan?kunkin toimielimen tehtävien yhteenlaskettu ulkoisten toimintatulojen ja -menojen erotus eli toimintakate on valtuuston nähden sitova. Kunnanhallitus on 19.12.2022 § 438 päättänyt talousarvion täytäntöönpano-ohjeet. Kunnanvaltuusto päätti toimielinten ja viranhaltijoiden hankintavaltuuksista 16.12.2019 § 127 siten, että ne ovat toistaiseksi voimassa. Käyttösuunnitelmassa toimielin merkitsee tiedokseen tilivelvolliset vastuuhenkilöt.?Tilivelvollinen vastuuhenkilö vastaa alueensa tai -yksikkönsä tavoitteiden saavuttamisesta, osamäärärahojen edelleen jakamisesta ja käytöstä talousarvion täytäntöönpano -ohjeiden mukaisesti. Vastuuhenkilöt määritellään myös investoinneille. Palvelualuejohtaja tai tilivelvollinen vastuuhenkilö voi jatkodelegoida toimivaltaa edelleen alaisilleen viranhaltijoille. Täytäntöönpano-ohjeiden mukaan palvelualuejohtaja tai käyttösuunnitelman tilivelvollinen vastuuhenkilö voi siirtää osamäärärahoja toimielimen sitovuuden puitteissa sekä määritellä ja muuttaa talousvastuussa olevia henkilöitä. Kunnanvaltuuston 16.5.2022 § 43 hyväksymän riskienhallinnan ja sisäisen valvonnan ohjeen mukaan toimielinten tulee vuosittain laatia käyttösuunnitelmaan perustuva sisäisen valvonnan painopiste- ja kehittämisalueet sekä toimenpiteet sisältävä suunnitelma, jotka on johdettu toimielimelle esitettyjen riskien pohjalta. Toimitilapalvelujen lautakunta päättää käyttösuunnitelmansa yhteydessä lautakunnan talousarvion investointiosaan sisältyvien hankkeiden\"korjausohjelma\", \"koulujen ja päiväkotien pihojen perusparannushankkeet\" ja \"energiatehokkuushankkeet\" määrärahojen jakamisesta kohteille. Hankkeet ovat käyttösuunnitelman liitteenä"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Toimitilapalvelujen lautakunnan käyttösuunnitelma 2023",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231317-6-86214.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20231317-7",
+      "ordinal": "7",
+      "title": "Liittyminen Hanselin sähkönhankinnan puitejärjestelyyn 2024-2028",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231317-7",
+      "decision": "Toimitilapalvelujen lautakunta päätti muutetun päätösehdotuksen mukaisesti: 1. että kunta liittyy Hanselin sähkönhankinnan puitejärjestelyyn sekä sähkösalkun hallintaan ja salkunhoitoon 2024-2028 2. Kirkkonummen talousyksikköön kuuluvan hankintaryhmän jäsenet valtuutetaan allekirjoittamaan ja toimittamaan Hansel Oy:lle liittymispäätöksen toteutukseen tarvittavat asiakirjat ja tiedot tavalla, joka sitoo kunnan juridisesti puheena olevaan puitejärjestelyyn. Lisäksi lautakunta päätti evästää seuraavasti: Sähkösopimuksissa pyritään ennustettavaan edulliseen hintaan järkevän suojauksen avulla ja suositaan hiilidioksidivapaata sähköä",
+      "votes": [],
+      "sections": {
+        "valmistelija": "toimitilajohtaja Ville Könönen etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa sijainen: toimitilajohtaja Ville Könönen Toimitilapalvelujen lautakunta päättää 1. liittyä Hanselin sähkönhankinnan puitejärjestelyyn 2024-2028 2. Kirkkonummen talousyksikköön kuuluvan hankintaryhmän jäsenet valtuutetaan allekirjoittamaan ja toimittamaan Hansel Oy:lle liittymispäätöksen toteutukseen tarvittavat asiakirjat ja tiedot tavalla, joka sitoo kunnan juridisesti puheena olevaan puitejärjestelyyn",
+        "esittelija": "teki seuraavan muutetun päätösehdotuksen: Toimitilapalvelujen lautakunta päättää 1. että kunta liittyy Hanselin sähkönhankinnan puitejärjestelyyn sekä sähkösalkun hallintaan ja salkunhoitoon 2024-2028 2. Kirkkonummen talousyksikköön kuuluvan hankintaryhmän jäsenet valtuutetaan allekirjoittamaan ja toimittamaan Hansel Oy:lle liittymispäätöksen toteutukseen tarvittavat asiakirjat ja tiedot tavalla, joka sitoo kunnan juridisesti puheena olevaan puitejärjestelyyn. Keskustelun aikana Elina Kärkimaa esitti seuraavan evästyksen: Sähkösopimuksissa pyritään ennustettavaan edulliseen hintaan järkevän suojauksen avulla ja suositaan hiilidioksidivapaata sähköä. Puheenjohtaja totesi, että lautakunta kannatti Elina Kärkimaan evästystä yksimielisesti",
+        "paatos": "Toimitilapalvelujen lautakunta päätti muutetun päätösehdotuksen mukaisesti: 1. että kunta liittyy Hanselin sähkönhankinnan puitejärjestelyyn sekä sähkösalkun hallintaan ja salkunhoitoon 2024-2028 2. Kirkkonummen talousyksikköön kuuluvan hankintaryhmän jäsenet valtuutetaan allekirjoittamaan ja toimittamaan Hansel Oy:lle liittymispäätöksen toteutukseen tarvittavat asiakirjat ja tiedot tavalla, joka sitoo kunnan juridisesti puheena olevaan puitejärjestelyyn. Lisäksi lautakunta päätti evästää seuraavasti: Sähkösopimuksissa pyritään ennustettavaan edulliseen hintaan järkevän suojauksen avulla ja suositaan hiilidioksidivapaata sähköä",
+        "selostus": "Toimitilahallinto oli yhteydessä Hanseliin kuntaryhmän toimijoiden osalta. Hansel pyysi täyttämään selvitykset yhteisöistä, jotka eivät ole sille ennestään tunnettuja. Toimitilahallinto ohjasi selvityspyynnöt suoraan Kirkkonummen Monitoimihalli Oy:lle ja Kirkkonummen Vuokra-asunnot Oy:lle. Hansel Oy:n asiakkaita voivat olla: kunnat ja kuntayhtymät valtion virastot ja laitokset valtion liikelaitokset valtion talousarvion ulkopuoliset rahastot eduskunta sekä sen alaisuudessa, valvonnassa ja yhteydessä toimivat yksiköt evankelis-luterilainen kirkko, ortodoksinen kirkko sekä näiden seurakunnat hyvinvointialueet yliopistot ja korkeakoulut (mukaan lukien ammattikorkeakoulut) Hanselin asiakkaita voivat olla myös julkisoikeudelliset laitokset, jotka ovat hankintayksiköitä ja joihin valtio, kunta, kuntayhtymä tai evankelis-luterilainen kirkko tai ortodoksinen kirkko käyttävät määräysvaltaa joko rahoituksen tai nimittämisoikeuden kautta. Hanselin asiakkaita ovat suoraan julkisomisteiset liikuntahallit sekä vuokrasuntoyhtiöt. Luettelo Hansel Oy asiakkaista on nähtävillä web-sivuilla https://www.hansel.fi/meista/hansel-yrityksena/ Kunnalla on pääomavuokrasopimus Kiinteistö Oy Kirkkonummen Kunnantalon kanssa, kunta vastaa ylläpidosta ja yhtiön sähkölaskut tulevat suoraan kunnalle eivätkä kierrä kiinteistöyhtiön kautta. Hansel Oy:n hankintavolyymissä ovat kaikki yhteisöt, jotka ovat liittyneet mukaan. Erillisen Kirkkonummi-ryhmän muodostamisella ei saavuteta mitään lisäarvoa, vaikutuksena voi olla vain byrokratian lisääntyminen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231317-8",
+      "ordinal": "8",
+      "title": "Toimitilapalvelujen lautakunnan hankinta- ja tilausvaltuuksien delegointi",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231317-8",
+      "decision": "Toimitilapalvelujen lautakunta päätti palauttaa asian valmisteluun ja selvittää hallintosääntöön soveltuvuus",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko Hankintavaltuudet ja tilausoikeudet_ Toimitilapalvelujen lautakunta 25.1.20231 Toimitilapalvelujen lautakunnan hankinta- ja tilausvaltuuksien delegointi Toimitilapalvelujen lautakunta 25.01.2023 § 8 860/00.01.01/2021",
+        "valmistelija": "hallintopäällikkö Sirpa Salminen etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa :n varahenkilö toimitilajohtaja Ville Könönen Toimitilapalvelujen lautakunta päättää 1 delegoida hankintavaltuuttaan yhdyskuntatekniikan johtajalle 1 000 000 € asti 2 delegoida hankintavaltuuttaan yksiköiden johtajille eli toimitilajohtajalle ja palvelujohtaja, puhtaus- ja ruokapalvelut 300 000 € asti 3 delegoida hankintavaltuuttaan ylläpitopäällikölle, rakennuttajapäällikölle, kunnanpuutarhurille, kunnossapitopäällikölle ja hallintopäällikölle 150 000 € asti 4 delegoida hankintavaltuutta talotekniikka-asiantuntijalle 60 000 € asti 5 sekä tilausvaltuudet kustannuspaikoittain liitteen mukaisesti 6 että, valtuudet ovat voimassa toistaiseksi 7 että, päätös tarkastetaan kokouksessa",
+        "kasittely": "Puheenjohtaja Noora Piili esitti seuraavan palautusesityksen: Palautetaan valmisteluun ja selvitetään hallintosääntöön soveltuvuus. Puheenjohtaja totesi, että lautakunta kannatti palautusesitystä yksimielisesti",
+        "paatos": "Toimitilapalvelujen lautakunta päätti palauttaa asian valmisteluun ja selvittää hallintosääntöön soveltuvuus",
+        "tiedoksi": "yhdyskuntatekniikan johtaja, yhdyskuntatekniikan lautakunnan alaiset palveluyksiköiden johtajat, ylläpitopäällikkö, kunnanpuutarhuri, kunnossapitopäällikkö, hallintopäällikkö, talotekniikka-asiantuntija, rakennusinsinöörit",
+        "selostus": "Kirkkonummen kunnan hallintosäännön 89 §:n mukaisesti kunnanvaltuusto vahvistaa toimielinten ja viranhaltijoiden hankintavaltuudet. Kunnanvaltuusto on 16.12.2019 § 127 vahvistanut toimielinten ja viranhaltijoiden hankintavaltuudet toistaiseksi voimassaolevana. Hankintavaltuudella tarkoitetaan toimielimen tai viranhaltijan toimivaltaa tehdä hankintapäätös, allekirjoittaa hankintasopimus sekä tehdä muu hankintaa koskeva ratkaisu (kuten päättää hankintasopimus tai päättää sopimukseen kuuluvan option käyttämisestä). Hankintavaltuuteen sisältyy tilausvaltuus (toimivalta tehdä tilaus sopimustoimittajalta). Kunnanvaltuuston hankintavaltuuksista tekemän päätöksen mukaisesti toimielin päättää hankinnasta, jonka ennakoitu arvo ilman arvonlisäveroa ylittää 300 000 euroa, toimialajohtaja päättää hankinnasta, jonka ennakoitu arvo ilman arvonlisäveroa on enintään 300 000 euroa ja tulosalueen vastuuhenkilö päättää hankinnasta, jonka ennakoitu arvo ilman arvonlisäveroa on enintään 100 000 euroa. Valtuuston hyväksymien hankintavaltuuksien mukaan toimielimet ja viranhaltijat voivat siirtää hankintavaltuuttaan koskevaa toimivaltaansa edelleen alaisilleen viranhaltijoille. Viranhaltija, jolle toimielin tai viranhaltija on edellä sanotulla menettelyllä siirtänyt (delegoinut) hankintavaltuuttaan, ei voi edelleen siirtää (subdelegoida) hankintaa koskevaa toimivaltaansa muulle viranhaltijalle (tai toimenhaltijalle). Kunnanvaltuusto on 8.3.2021 § 7 päättänyt hallintosäännön uudistamisesta 16.8.2021 alkaen, jonka myötä toimialat ovat muuttuneet palvelualueiksi, toimialojen johtajat palvelualueiden johtajiksi ja tulosalueiden vastuuhenkilöt palveluyksiköiden johtajiksi. Hankinta- ja tilausvaltuuksien ohjeen mukaisesti yhdyskuntatekniikan palvelualue ylläpitää ajantasaista luetteloa hankinta- ja tilausvaltuuksistaan"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Hankintavaltuudet ja tilausoikeudet_ Toimitilapalvelujen lautakunta 25.1.20231",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231317-8-85769.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Noora Piili",
+          "kind": "palautusehdotus",
+          "text": "Palautetaan valmisteluun ja selvitetään hallintosääntöön soveltuvuus",
+          "source": "introduction",
+          "party": "pro yl"
+        }
+      ]
+    },
+    {
+      "id": "20231317-9",
+      "ordinal": "9",
+      "title": "Toimitilapalvelujen lautakunnan otto-oikeus ja otto-oikeuden käyttäminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231317-9",
+      "decision": "Toimitilapalvelujen lautakunta päätti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "hallintopäällikkö Sirpa Salminen etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa Toimitilapalvelujen lautakunta päättää 1 että toimitilapalvelujen lautakunnan alaisten viranhaltijoiden tekemät päätökset lähetetään lautakunnalle, puheenjohtajalle ja esittelijälle mahdollista otto-oikeuden käyttämistä varten viimeistään neljän arkipäivän kuluessa viranhaltijapäätöksen tekemisestä tai pöytäkirjan tarkastamisesta 2 että toimitilapalvelujen lautakunnan alaisten viranhaltijoiden tekemät päätökset julkaistaan pääsääntöisesti kunnan verkkosivuilla. 3 oikeuttaa toimitilapalvelujen lautakunnan puheenjohtajan tai hänen estyneenä ollessa varapuheenjohtajan ilmoittamaan lautakunnan otto-oikeuden käyttämisestä lautakunnan alaisten toimielimen ja viranhaltijoiden toimivallassa oleviin asioihin 4 toteaa, että toimitilapalvelujen lautakunnan puheenjohtaja tai hänen estyneenä ollessaan varapuheenjohtaja ilmoittaa puheenjohtajan otto-oikeuden käyttämisestä lautakunnan alaisten toimielimen ja viranhaltijoiden toimivallassa oleviin asioihin 5 todeta, että toimitilapalvelujen lautakunnan esittelijä ilmoittaa muutoksenhakuaikana kirjallisesti otto-oikeuden käyttämisestä lautakunnan alaisten toimielimen ja viranhaltijoiden toimivallassa oleviin asioihin 6 todeta, että ilmoitus otto-oikeuden käyttämisestä tehdään sähköisesti toimielimen puheenjohtajalle ja esittelijälle viimeistään oikaisuvaatimusajan sisällä 7 todeta, että hallintosäännön 24 §:n mukaisesti lautakunta ei voi käyttää otto-oikeuttaan hallintosäännön 31 §, 33 § ja 34 § mainittuihin asioihin, eikä 29 §:ssä määrättyihin muihin kuin vakituisen henkilöstön asioihin 8 todeta, että toimitilapalvelujen lautakunnan ei voi käyttää otto-oikeutta kuntalain 92 pykälässä mainituissa asioissa - lain tai asetuksen mukaisia lupa-, ilmoitus-, valvonta- tai toimitusmenettelyä koskevia asioita; - 51 §:ssä tarkoitetulle kuntien yhteiselle toimielimelle siirrettyjä asioita, jos asianomaiset kunnat niin sopivat. 9 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "paatos": "Toimitilapalvelujen lautakunta päätti päätösehdotuksen mukaisesti",
+        "tiedoksi": "Toimitilapalvelujen lautakunnan jäsenet ja varajäsenet, Toimitilapalvelut - palveluryhmän esimiehet ja sihteerit",
+        "selostus": "Kirkkonummen kunnan hallintosääntöön on tehty teknisiä ja lakipäivityksistä johtuvia korjauksia kunnanvaltuuston kokouksessa 12.12.2022 § 110. Uusi hallintosääntö on tullut voimaan 1.1.2023. Hallintosäännön muutoksen vuoksi delegointipäätökset tulee uudistaa. Hallintösäännnön 24 § on tullut lisäys. Lautakunnalla ei ole otto-oikeutta hallintosäännössä mainittuihin 31 §, 33 § ja 34 §:n päätöksiin sekä lisäyksenä ei myöskään 29 §:ssä määrättyihin muihin kuin vakituisen henkilöstön asioihin. Lautakunnalle esitetään, että muutoin otto-oikeus ja sen käyttäminen vastaa jatkossakin sisällöltään tilannetta sellaisena kuin valtuustokauden alussa on päätetty"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    }
+  ],
+  "id": "20231317",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20231317"
+}

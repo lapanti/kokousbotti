@@ -1,0 +1,443 @@
+{
+  "title": "Kunnanhallitus Pöytäkirja 08.09.2025 klo 16:30 - 19:19 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Kunnanhallitus",
+  "doctype": "Pöytäkirja",
+  "date": "2025-09-08",
+  "items": [
+    {
+      "id": "20252127-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252127-1",
+      "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Kokous todettiin lailliseksi ja päätösvaltaiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252127-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252127-2",
+      "decision": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti. Pöytäkirjantarkastajiksi valittiin Ulf Kjerin ja Jani Kähkönen",
+      "votes": [],
+      "sections": {
+        "valmistelija": "hallinnon asiantuntija Gunnel Ekström, etunimi.sukunimi@kirkkonummi.fi",
+        "paatosehdotus": "Kunnanhallitus päättää 1 valita kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan 2 tarkastaa tämän pöytäkirjan sähköisesti seuraavan aikataulun mukaan: Torstaina 11.9.2025 lähetetään pöytäkirja sähköpostitse pöytäkirjantarkastajille, jotka ilmoittavat hyväksymisestään viimeistään maanantaina 15.9.2025. Jos hyväksymisviestiä ei tule sihteerille em. ajankohtaan mennessä, pöytäkirja katsotaan hyväksytyksi. Pöytäkirja allekirjoitetaan sähköisesti. Tarkastettu pöytäkirja julkaistaan tiistaina 16.9.2025 kunnan verkkosivulla",
+        "paatos": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti. Pöytäkirjantarkastajiksi valittiin Ulf Kjerin ja Jani Kähkönen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252127-3",
+      "ordinal": "3",
+      "title": "Kirkkonummen kunnan lausunto Helsingin seudun liikenne -kuntayhtymän toiminta- ja taloussuunnitelmaehdotuksesta vuosille 2026–2028",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252127-3",
+      "decision": "Kunnanhallitus päätti 1 antaa liitteenä olevan lausunnon HSL:n alustavasta toiminta- ja taloussuunnitelmaehdotuksesta 2026 – 2028. Lausuntoon on tehty seuraava kunnanhallituksen hyväksymä muutos: Muutetaan vastaus kysymykseen a) muodosta: \"Kirkkonummen kunta pitää tärkeänä lipputavoitteen nostamista ja kuntaosuuksien pienentämistä. Kirkkonummi kannattaa esitetyn 6,4% lippujen hintojen korotuksia ja siten, että vähintään vastaavan verran nostetaan Kirkkonummelta käytettävien ABCD, BCD, BD ja D-vyöhykkeiden hintoja. Lippujen hintojen korotukset tulisi kohdistaa kaikkien vyöhykkeiden lippujen hintoihin\" muotoon: Kirkkonummen kunta pitää tärkeänä lipputavoitteen nostamista ja kuntaosuuksien pienentämistä. Kirkkonummi hyväksyy esitetyn 6,4% lippujen hintojen korotuksen, mikäli se on välttämätöntä ja edellyttää, että keskustelu palvelutason parantamisesta Kirkkonummella käynnistetään välittömästi. 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+      "votes": [
+        {
+          "jaa": [
+            "Urho Blom",
+            "Antti Kilappa",
+            "Anna Sahiluoma",
+            "Sari Haapasaari",
+            "Sini Felipe",
+            "Viveca Lindgren",
+            "Martin Valtonen",
+            "Ulf Kjerin",
+            "Josephine Frimodig",
+            "Jani Kähkönen",
+            "Kim Åström"
+          ],
+          "ei": [
+            "Ronja Karkinen",
+            "Sanni Jäppinen"
+          ],
+          "tyhja": [],
+          "totals": {
+            "jaa": 11,
+            "ei": 2,
+            "tyhja": 0
+          },
+          "parties": {
+            "jaa": {
+              "kok": 4,
+              "prok": 1,
+              "kesk": 1,
+              "sdp": 1,
+              "rkp": 3,
+              "ps": 1
+            },
+            "ei": {
+              "vihr": 2
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "Sini Felipen muutosesitystä",
+            "ei_label": "Ronja Karkisen muutosesitystä",
+            "jaa_kind": "vastaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": null,
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat Sini Felipen muutosesitystä äänestävät JAA ja ne jotka kannattavat Ronja Karkisen muutosesitystä äänestävät EI — annettiin 11 JAA ja 2 EI ääntä."
+          }
+        },
+        {
+          "jaa": [
+            "Jani Kähkönen",
+            "Kim Åström",
+            "Sari Haapasaari",
+            "Ulf Kjerin",
+            "Anna Sahiluoma",
+            "Urho Blom",
+            "Viveca Lindgren",
+            "Josephine Frimodig"
+          ],
+          "ei": [
+            "Antti Kilappa",
+            "Ronja Karkinen",
+            "Sanni Jäppinen",
+            "Martin Valtonen",
+            "Sini Felipe"
+          ],
+          "tyhja": [],
+          "totals": {
+            "jaa": 8,
+            "ei": 5,
+            "tyhja": 0
+          },
+          "parties": {
+            "jaa": {
+              "ps": 1,
+              "kok": 4,
+              "kesk": 1,
+              "rkp": 2
+            },
+            "ei": {
+              "prok": 1,
+              "vihr": 2,
+              "rkp": 1,
+              "sdp": 1
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta",
+            "ei_label": "Ronja Karkisen muutosesitystä",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": "jaa",
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat pohjaehdotusta äänestävät JAA ja ne jotka kannattavat Ronja Karkisen muutosesitystä äänestävät EI — annettiin 8 JAA ja 5 EI ääntä."
+          }
+        }
+      ],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 1 Kirkkonummen kunnan lausunto_HSL TTS-ehdotus 2026-2028, kunnanhallituksen hyväksymä 8.9.2025\n, alustava Toiminta- ja taloussuunnitelma 2026-2028\n, ote pöytäkirjasta § 58 Kirkkonummen kunnan lausunto Helsingin seudun liikenne -kuntayhtymän toiminta- ja taloussuunnitelmaehdotuksesta vuosille 2026–2028 Kunnanhallitus 08.09.2025 § 281 375/00.04.02/2025",
+        "oheismateriaali": "Kuvake Otsikko Saatekirje, lausuntopyyntö Helsingin seudun liikenne -kuntayhtymän toiminta- ja taloussuunnitelmaehdotuksesta vuosille 2026-2028",
+        "valmistelija": "Liikennesuunnittelija Marko Suni Infrapalvelujohtaja Toni Keski-Lusa Kuntakehitysjohtaja Anna-Kaisa Kauppinen etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää 1 antaa esityslistan liitteenä olevan lausunnon HSL:n alustavasta toiminta- ja taloussuunnitelmaehdotuksesta 2026 – 2028 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "kasittely": "Kunnanvaltuuston II varapuheenjohtaja Piia Aallonharja toi HSL:n hallituksen varajäsenenä tervehdyksen HSL:n perehdyttämisseminaarista. Kuntakehitysjohtaja Anna-Kaisa Kauppinen ja liikennesuunnittelija Marko Suni esittelivät asiaa kokouksessa. Puheenjohtaja julisti keskustelun päättyneeksi ja totesi, että keskustelun aikana on jätetty muutosesityksiä seuraavasti: Muutosesitys (Karkinen Ronja): Korvataan kunnan vastaus kysymykseen a. seuraavaksi: \"Toimiva joukkoliikenne on Kirkkonummelle tärkeä osa kehittyvää yhdyskuntarakennetta ja kohtuuhintainen palvelu on merkittävä osa kuntalaisten toimivaa arkea. Kirkkonummi pitää HSL:n strategista tavoitetta käyttäjämäärien kasvattamisesta hyvänä ja se on kunnan hiilineutraalisuustavoitteen mukainen. Kirkkonummi pitää lipunhintojen korotuksia vahingollisena tavoitteen toteutumiselle, eikä kannata korotuksia.\" Muutosesitystä kannatti Sanni Jäppinen. Muutosesitys (Felipe Sini): Muutetaan vastaus kysymykseen a) muodosta: \"Kirkkonummen kunta pitää tärkeänä lipputavoitteen nostamista ja kuntaosuuksien pienentämistä. Kirkkonummi kannattaa esitetyn 6,4% lippujen hintojen korotuksia ja siten, että vähintään vastaavan verran nostetaan Kirkkonummelta käytettävien ABCD, BCD, BD ja D-vyöhykkeiden hintoja. Lippujen hintojen korotukset tulisi kohdistaa kaikkien vyöhykkeiden lippujen hintoihin\" muotoon: Kirkkonummen kunta pitää tärkeänä lipputavoitteen nostamista ja kuntaosuuksien pienentämistä. Kirkkonummi hyväksyy esitetyn 6,4% lippujen hintojen korotuksen, mikäli se on välttämätöntä ja edellyttää, että keskustelu palvelutason parantamisesta Kirkkonummella käynnistetään välittömästi. Muutosesitystä kannattivat Sanni Jäppinen, Ulf Kjerin, Urho Blom, Kim Åström, Viveca Lindgren, Martin Valtonen, Josephine Frimodig, Jani Kähkönen ja Antti Kilappa. Koska Ronja Karkisen ja Sini Felipen muutosesitykset olivat samankaltaisia, puheenjohtaja ehdotti, että ne yhdistettäisiin. Kunnanhallitus ei hyväksynyt muutosesitysten yhdistämistä eikä niitä hyväksytty yksimielisesti, joten puheenjohtaja ilmoitti, että asiasta on äänestettävä. Puheenjohtaja ehdotti, että asiasta äänestetään niin, että ne jotka kannattavat Sini Felipen muutosesitystä äänestävät JAA ja ne jotka kannattavat Ronja Karkisen muutosesitystä äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 11 JAA ääntä ja 2 EI ääntä. JAA äänestivät Urho Blom, Antti Kilappa, Anna Sahiluoma, Sari Haapasaari, Sini Felipe, Viveca Lindgren, Martin Valtonen, Ulf Kjerin, Josephine Frimodig, Jani Kähkönen ja Kim Åström. EI äänestivät Ronja Karkinen ja Sanni Jäppinen. Sini Felipen muutosesitys sai enemmän ääniä ja voitti. Puheenjohtajan tiedustellessa Sini Felipen muutosesitys hyväksyttiin yksimielisesti. Muutoesitys (Karkinen Ronja): Muutetaan kohta: \"Kirkkonummen kunta ei näe vaihtoehtona infrakorvausten eriyttämisestä lippujen hinnoista niin kauan kuin infrakorvaus- malli on voimassa.\" Lukemaan: \"Kirkkonummen kunta katsoo, että subventioprosentin laskentatapaa tulisi muuttaa ja infrakorvaukset tulisi eriyttää lippujen hinnoista. Samalla tulee tarkastella myös muita infrakorvausjärjestelmään liittyviä kysymyksiä, kuten infrakorvauksen osana perittävien korkojen tasoa.” Muutosesitystä kannatti Sanni Jäppinen. Muutosesitystä ei hyväksytty yksimielisesti, joten puheenjohtaja ilmoitti että asiasta on äänestettävä. Puheenjohtaja ehdotti, että asiasta äänestetään niin, että ne jotka kannattavat pohjaehdotusta äänestävät JAA ja ne jotka kannattavat Ronja Karkisen muutosesitystä äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 8 JAA ääntä ja 5 EI ääntä. Pohjaehdotus sai enemmän ääniä ja voitti. JAA äänestivät Jani Kähkönen, Kim Åström, Sari Haapasaari, Ulf Kjerin, Anna Sahiluoma, Urho Blom, Viveca Lindgren ja Josephine Frimodig. EI äänestivät Antti Kilappa, Ronja Karkinen, Sanni Jäppinen, Martin Valtonen ja Sini Felipe. Liikennesuunnittelija Marko Suni poistui kokouksesta tämän pykälän jälkeen klo 18.34",
+        "paatos": "Kunnanhallitus päätti 1 antaa liitteenä olevan lausunnon HSL:n alustavasta toiminta- ja taloussuunnitelmaehdotuksesta 2026 – 2028. Lausuntoon on tehty seuraava kunnanhallituksen hyväksymä muutos: Muutetaan vastaus kysymykseen a) muodosta: \"Kirkkonummen kunta pitää tärkeänä lipputavoitteen nostamista ja kuntaosuuksien pienentämistä. Kirkkonummi kannattaa esitetyn 6,4% lippujen hintojen korotuksia ja siten, että vähintään vastaavan verran nostetaan Kirkkonummelta käytettävien ABCD, BCD, BD ja D-vyöhykkeiden hintoja. Lippujen hintojen korotukset tulisi kohdistaa kaikkien vyöhykkeiden lippujen hintoihin\" muotoon: Kirkkonummen kunta pitää tärkeänä lipputavoitteen nostamista ja kuntaosuuksien pienentämistä. Kirkkonummi hyväksyy esitetyn 6,4% lippujen hintojen korotuksen, mikäli se on välttämätöntä ja edellyttää, että keskustelu palvelutason parantamisesta Kirkkonummella käynnistetään välittömästi. 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kirkkonummen kunnan lausunto_HSL TTS-ehdotus 2026-2028, kunnanhallituksen hyväksymä 8.9.2025",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252127-3-130198.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Saatekirje, lausuntopyyntö Helsingin seudun liikenne -kuntayhtymän toiminta- ja taloussuunnitelmaehdotuksesta vuosille 2026-2028",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252127-3-127767.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Liite, alustava Toiminta- ja taloussuunnitelma 2026-2028",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252127-3-127768.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Liite, ote pöytäkirjasta § 58",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252127-3-127769.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Sini Felipe",
+          "kind": "vastaehdotus",
+          "text": null,
+          "source": "order",
+          "party": "sdp"
+        },
+        {
+          "proposer": "Ronja Karkinen",
+          "kind": "vastaehdotus",
+          "text": null,
+          "source": "order",
+          "party": "vihr"
+        }
+      ]
+    },
+    {
+      "id": "20252127-4",
+      "ordinal": "4",
+      "title": "Veikkola K126 asemakaavamuutoksen käynnistämissopimus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252127-4",
+      "decision": "Kunnanhallitus päättää 1 hyväksyä liitteenä olevan Veikkolan korttelin 126 asemakaavamuutoksen käynnistämissopimuksen, jonka sopijaosapuolina ovat Kirkkonummen kunta, Veikkolan Teollisuuskiinteistö Oy V (y-tunnus 0586763-1) ja Osuuskauppa Varuboden-Osla Handelslag (y-tunnus 2364515-1) seuraavalla muutoksella käynnistämissopimuksen kohtaan 4: 3. kappaleen toinen lause tarkennetaan muotoon: “Tavoitteena on myös tutkia mahdollisuutta muuttaa olemassa olevan marketin tontti muuhun käyttöön, esimerkiksi…” 2 oikeuttaa ja valtuuttaa kunnanjohtajan tekemään sopimukseen vähäisiä tarkistuksia ja allekirjoittamaan sopimuksen. 3 että päätös voidaan panna täytäntöön odottamatta sen lainvoimaisuutta (kuntalaki 143 §). Lisäksi kunnanhallitus hyväksyi seuraavat evästykset: - Veikkolan Koskentien alueen kaupallisista palveluista on pidettävä huolta mahdollistamalla tilat usealle palvelun tarjoajalle. Asuintalojen rakentaminen K-tontille ja LPA-tontille Koskentien alueelle vähentää kaupallisten palveluiden tiloja ja tämän takia kaavamerkintää ei tulisi muuttaa A-alueeksi. - korttelin 126 tarkemman suunnittelun yhteydessä on kiinnitettävä huomiota kävelyreittien turvallisuuteen Veikkolantien yli ja näistä eritoten reittiin Veikkolan koululta alueelle Turuntietä pitkin sekä kävelytietä Vartiontieltä Teollisuustielle. - S-marketin nykyisen sijainnin LPA ja K tontit on osana laadittavaa maankäyttösopimusta pyrittävä saamaan kunnan omistukseen",
+      "votes": [
+        {
+          "jaa": [
+            "Sanni Jäppinen",
+            "Sini Felipe",
+            "Antti Kilappa"
+          ],
+          "ei": [
+            "Ulf Kjerin",
+            "Martin Valtonen",
+            "Jani Kähkönen",
+            "Kim Åström",
+            "Ronja Karkinen",
+            "Josephine Frimodig",
+            "Anna Sahiluoma",
+            "Urho Blom",
+            "Viveca Lindgren"
+          ],
+          "tyhja": [
+            "Sari Haapasaari"
+          ],
+          "parties": {
+            "jaa": {
+              "vihr": 1,
+              "sdp": 1,
+              "prok": 1
+            },
+            "ei": {
+              "rkp": 3,
+              "ps": 1,
+              "kok": 4,
+              "vihr": 1
+            },
+            "tyhja": {
+              "kesk": 1
+            }
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta",
+            "ei_label": "Jani Kähkösen evästysehdotusta",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "evastys",
+            "kind": "procedural_substantive",
+            "rationale": "Puheenjohtaja julisti keskustelun päättyneeksi ja totesi että keskustelun aikana on jätetty muutosesitys ja evästysehdotuksia seuraavasti: Evästysehdotus (Kähkönen Jani): Kunnanhallitus evästää, että Veikkolan Koskentien alueen kaupallisista palveluista on pidettävä huolta mahdollistamalla tilat usealle palvelun tarjoajalle.",
+            "winner": "ei",
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat pohjaehdotusta äänestävät JAA ja ne jotka kannattavat Jani Kähkösen evästysehdotusta äänestävät EI — annettiin 3 JAA ja 9 EI ääntä."
+          }
+        }
+      ],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 2\n1 Veikkola K126 asemakaavamuutoksen käynnistämissopimus Kunnanhallitus 08.09.2025 § 282 681/10.00.00/2025",
+        "valmistelija": "maankäyttöneuvottelija Tuula Raitaniemi etunimi.sukunimi@kirkkonummi.fi, puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää 1 hyväksyä liitteenä olevan Veikkolan korttelin 126 asemakaavamuutoksen käynnistämissopimuksen, jonka sopijaosapuolina ovat Kirkkonummen kunta, Veikkolan Teollisuuskiinteistö Oy V (y-tunnus 0586763-1) ja Osuuskauppa Varuboden-Osla Handelslag (y-tunnus 2364515-1). 2 oikeuttaa ja valtuuttaa kunnanjohtajan tekemään sopimukseen vähäisiä tarkistuksia ja allekirjoittamaan sopimuksen. 3 että päätös voidaan panna täytäntöön odottamatta sen lainvoimaisuutta (kuntalaki 143 §)",
+        "kasittely": "Kuntakehitysjohtaja Anna-Kaisa Kauppinen esitteli asiaa kokouksessa. Puheenjohtaja julisti keskustelun päättyneeksi ja totesi että keskustelun aikana on jätetty muutosesitys ja evästysehdotuksia seuraavasti: Evästysehdotus (Kähkönen Jani): Kunnanhallitus evästää, että Veikkolan Koskentien alueen kaupallisista palveluista on pidettävä huolta mahdollistamalla tilat usealle palvelun tarjoajalle. Asuintalojen rakentaminen K-tontille ja LPA-tontille Koskentien alueelle vähentää kaupallisten palveluiden tiloja ja tämän takia kaavamerkintää ei tulisi muuttaa A-alueeksi. Evästysehdotusta kannattivat Ulf Kjerin, Ronja Karkinen, Martin Valtonen, Urho Blom ja Kim Åström. Evästysehdotusta ei hyväksytty yksimielisesti, joten puheenjohtaja ilmoitti että asiasta on äänestettävä. Puheenjohtaja ehdotti, että asiasta äänestetään niin, että ne jotka kannattavat pohjaehdotusta äänestävät JAA ja ne jotka kannattavat Jani Kähkösen evästysehdotusta äänestävät EI. Äänestysjärjestys hyväksyttin. Äänestyksessä annettiin 3 JAA äntä, 9 EI ääntä ja 1 tyhjä ääni. Jani Kähkösen evästysehdotus sai enemmän ääniä ja voitti. JAA äänestivät Sanni Jäppinen, Sini Felipe ja Antti Kilappa. EI äänestivät Ulf Kjerin, Martin Valtonen, Jani Kähkönen, Kim Åström, Ronja Karkinen, Josephine Frimodig, Anna Sahiluoma, Urho Blom ja Viveca Lindgren. Tyhjää äänesti Sari Haapasaari. Evästysehdotus (Kähkönen Jani): Kunnanhallitus evästää, että korttelin 126 tarkemman suunnittelun yhteydessä on kiinnitettävä huomiota kävelyreittien turvallisuuteen Veikkolantien yli ja näistä eritoten reittiin Veikkolan koululta alueelle Turuntietä pitkin sekä kävelytietä Vartiontieltä Teollisuustielle. Evästysehdotusta kannattivat Ulf Kjerin, Sari Haapasaari, Ronja Karkinen, Sini Felipe, Josephine Frimodig, Antti Kilappa, Anna Sahiluoma, Sanni Jäppinen, Viveca Lindgren, Urho Blom ja Kim Åström. Puheenjohtajan tiedustellessa Jani Kähkösen evästysehdotus hyväksyttiin yksimielisesti. Evästysehdotus (Kjerin Ulf): Kunnanhallitus evästää että S-marketin nykyisen sijainnin LPA ja K tontit on osana laadittavaa maankäyttösopimusta pyrittävä saamaan kunnan omistukseen. Evästysehdotusta kannattivat Josephine Frimodig ja Jani Kähkönen. Puheenjohtajan tiedustellessa Ulf Kjerinin evästysehdotus hyväksyttiin yksimielisesti. Muutosehdotus (Åström Kim): Muutos käynnistämissopimuksen kohtaan 4. Kohdan 3. kappaleen toinen lause tarkennetaan muotoon: “Tavoitteena on myös tutkia mahdollisuutta muuttaa olemassa olevan marketin tontti muuhun käyttöön, esimerkiksi…” Muutosehdotusta kannattivat Anna Sahiluoma, Ronja Karkinen, Viveca Lindgren, Urho Blom, Antti Kilappa, Sari Haapasaari ja Josephine Frimodig. Puheenjohtajan tiedustellessa Kim Åströmin muutosehdotus hyväksyttiin yksimielisesti. Kuntakehitysjohtaja Anna-Kaisa Kauppinen poistui kokouksesta tämän pykälän jälkeen klo 19.01",
+        "paatos": "Kunnanhallitus päättää 1 hyväksyä liitteenä olevan Veikkolan korttelin 126 asemakaavamuutoksen käynnistämissopimuksen, jonka sopijaosapuolina ovat Kirkkonummen kunta, Veikkolan Teollisuuskiinteistö Oy V (y-tunnus 0586763-1) ja Osuuskauppa Varuboden-Osla Handelslag (y-tunnus 2364515-1) seuraavalla muutoksella käynnistämissopimuksen kohtaan 4: 3. kappaleen toinen lause tarkennetaan muotoon: “Tavoitteena on myös tutkia mahdollisuutta muuttaa olemassa olevan marketin tontti muuhun käyttöön, esimerkiksi…” 2 oikeuttaa ja valtuuttaa kunnanjohtajan tekemään sopimukseen vähäisiä tarkistuksia ja allekirjoittamaan sopimuksen. 3 että päätös voidaan panna täytäntöön odottamatta sen lainvoimaisuutta (kuntalaki 143 §). Lisäksi kunnanhallitus hyväksyi seuraavat evästykset: - Veikkolan Koskentien alueen kaupallisista palveluista on pidettävä huolta mahdollistamalla tilat usealle palvelun tarjoajalle. Asuintalojen rakentaminen K-tontille ja LPA-tontille Koskentien alueelle vähentää kaupallisten palveluiden tiloja ja tämän takia kaavamerkintää ei tulisi muuttaa A-alueeksi. - korttelin 126 tarkemman suunnittelun yhteydessä on kiinnitettävä huomiota kävelyreittien turvallisuuteen Veikkolantien yli ja näistä eritoten reittiin Veikkolan koululta alueelle Turuntietä pitkin sekä kävelytietä Vartiontieltä Teollisuustielle. - S-marketin nykyisen sijainnin LPA ja K tontit on osana laadittavaa maankäyttösopimusta pyrittävä saamaan kunnan omistukseen",
+        "tiedoksi": "sopijaosapuolet",
+        "selostus": "Osuuskauppa Varuboden-Osla Handelslag omasta ja valtakirjalla Veikkolan Teollisuuskiinteistö Oy V:n puolesta tavoittelee asemakaavamuutosta, jolla Veikkolan Teollisuuskiinteistö Oy V:n omistuksessa oleva KTY-alue ja kunnan omistamat EV- ja LT-alueet kaavoitetaan uuden marketin, polttoaineenjakelun ja autopesulan toiminnoille. Edelleen Osuuskauppa Varuboden-Osla Handelslag tavoittelee omistuksessaan olevan K-tontin ja kunnan omistaman LPA-tontin uudelleenkaavoitusta muuhun, esimerkiksi asumisen käyttöön, marketin muuttaessa K-tontilta pois. Kyseessä on KTY-alueen osalta kaavoitusohjelmassa oleva kaavahanke ja asemakaavamuutos edistää maakuntakaavan toteutumista. Hankkeella pyritään edistämään alueen tuomista tiiviimmin osaksi nykyistä Veikkolan keskustaa. Asemakaavaehdotuksen valmistuttua kaavan toteuttamiseksi neuvotellaan maanomistajan kanssa maankäyttösopimus. Esityslistan liitteet: - kaavamuutoksen käynnistämissopimus - sopimuksen karttaliite"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite 1",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252127-4-129695.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Jani Kähkönen",
+          "kind": "evastysehdotus",
+          "text": null,
+          "source": "order",
+          "party": "ps"
+        },
+        {
+          "proposer": "Ulf Kjerin",
+          "kind": "evastysehdotus",
+          "text": null,
+          "source": "order",
+          "party": "rkp"
+        },
+        {
+          "proposer": "Kim Åström",
+          "kind": "vastaehdotus",
+          "text": null,
+          "source": "order",
+          "party": "kok"
+        }
+      ]
+    },
+    {
+      "id": "20252127-5",
+      "ordinal": "5",
+      "title": "Optiopäätös, Kirkkonummen kunnan jätevesijärjestelmien ajoneuvotöiden hankinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252127-5",
+      "decision": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "Verkostopäällikkö Lampola Tiia ja hankinta-asiantuntija Väre Taina etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää 1. hyväksyä hankintasopimuksessa olevan option käytön siten, että - Osa-alue 1) Jätevesijärjestelmien ajoneuvotyöt 1. Sjöbloms Tankservice Ab Oy:n 2. Delete Finland Oy – Puhdistuspalvelut 3. Eerola-Yhtiöt Oy:n - Osa-alue 2) Jäte- tai hulevesiviemäreiden kuntotutkimukset läpiajettavalla kameralla 1. Sjöbloms Tankservice Ab Oy:n 2. Suomen Viemärihuolto Oy:n 3. Delete Finland Oy - Puhdistuspalvelut - Osa-alue 3) Jäte- tai hulevesiviemäreiden kuntotutkimukset digitaalisella läpiajettavalla kameralla (DigiSewer tai vastaava) 1. Sjöbloms Tankservice Ab Oy:n 2. Suomen Viemärihuolto Oy:n 3. Eerola-Yhtiöt Oy:n - Osa-alue 4) Jäte- tai hulevesiviemäreiden kuntotutkimukset zoom-kameralla. 1. Sjöbloms Tankservice Ab Oy:n 2. Suomen Viemärihuolto Oy:n 3. Delete Finland Oy – Puhdistuspalveluiden kanssa tehtyjen hankintasopimusten voimassaoloa jatketaan nykyisin sopimusehdoin ajalle 1.1.2026-31.12.2026. 2. että Palveluntuottaja esittää tarjouspyynnössä vaadittavat asiakirjat ennen hankintasopimuksen voimassaolon jatkamisesta 3. että sopimuksia jatketaan alkuperäisen sopimuksen ehtojen mukaisesti 4. että hankintasopimuksen voimassaolo ei jatku tällä option käyttöä koskevalla päätöksellä vaan vasta myöhemmin Palveluntuottajalle tehtävällä kirjallisella ilmoituksella hankintasopimuksen voimassaolon jatkamisesta 5. valtuuttaa kunnanjohtajan allekirjoittamaan kirjallisen ilmoituksen hankintasopimuksen voimassaolon jatkamisesta",
+        "paatos": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti",
+        "tiedoksi": "Palveluntuottajat, verkostopäällikkö T.L., liikelaitoksen johtaja T.K., hankinta-asiantuntija T.V. ja kunnanhallitus",
+        "selostus": "Hankinnan kohde Kunnanhallitus on päätöksellään 2.10.2023 § 319 (asianro 600/2023) valinnut kunnan jätevesijärjestelmien ajoneuvotöiden suorittamiseen seuraavat puitesopimustoimittajat: - Osa-alue 1) Jätevesijärjestelmien ajoneuvotyöt 1. Sjöbloms Tankservice Ab Oy:n 2. Delete Finland Oy – Puhdistuspalvelut 3. Eerola-Yhtiöt Oy:n - Osa-alue 2) Jäte- tai hulevesiviemäreiden kuntotutkimukset läpiajettavalla kameralla. 1. Sjöbloms Tankservice Ab Oy:n 2. Suomen Viemärihuolto Oy:n 3. Delete Finland Oy - Puhdistuspalvelut - Osa-alue 3) Jäte- tai hulevesiviemäreiden kuntotutkimukset digitaalisella läpiajettavalla kameralla (DigiSewer tai vastaava) 1. Sjöbloms Tankservice Ab Oy:n 2. Suomen Viemärihuolto Oy:n 3. Eerola-Yhtiöt Oy:n - Osa-alue 4) Jäte- tai hulevesiviemäreiden kuntotutkimukset zoom-kameralla. 1. Sjöbloms Tankservice Ab Oy:n 2. Suomen Viemärihuolto Oy:n 3. Delete Finland Oy – Puhdistuspalvelut Sopimus tuli voimaan, kun sopijapuolet olivat sen allekirjoittaneet. Sopimus on voimassa 31.12.2025 asti. Sopimusta voidaan jatkaa sopimuskauden päättyessä Tilaajan päätöksellä enintään kahdentoista (12) kuukauden optiolla alkuperäisin ehdoin. Tämä päätös koskee optiovuotta 1.1.2026-31.12.2026. Optiokauden ennakoitu arvo on noin 250.000,00 euroa (Alv 0 %). Hankintalain 3 § 1 momentin mukaan Markkinaoikeuden käsiteltäväksi ei voida saattaa hankintayksikön sellaista päätöstä tai muuta ratkaisua, joka koskee hankintasopimukseen kuuluvan optiokauden käyttämisestä"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252127-6",
+      "ordinal": "6",
+      "title": "Espoon seudun koulutuskuntayhtymä Omnian yhtymäkokous 30.9.2025",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252127-6",
+      "decision": "Kunnanhallitus päätti yksimielisesti jättää asian pöydälle",
+      "votes": [],
+      "sections": {
+        "valmistelija": "hallinnon asiantuntija Gunnel Ekström, etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää 1 nimetä Kirkkonummen kunnan yhtymäkokousedustajan ja varaedustajan Espoon seudun koulutuskuntayhtymä Omnian yhtymäkokoukseen 30.9.2025 2 antaa yhtymäkokousedustajalle evästykseksi ketkä ehdotetaan Kirkkonummen kunnan edustajiksi ja varaedustajiksi Omnian hallitukseen sekä Omnian tarkastuslautakuntaan",
+        "kasittely": "Kim Åström poistui kokouksesta tämän pykälän jälkeen klo 19.03",
+        "paatos": "Kunnanhallitus päätti yksimielisesti jättää asian pöydälle",
+        "tiedoksi": "Omnian kirjaamo, valituille edustajille",
+        "selostus": "Espoon seudun koulutuskuntayhtymä Omnian yhtymäkokous pidetään 30.9.2025 klo 11.00 Teams-kokouksena. Linkki kokoukseen osallistumista varten lähetetään kokousedustajille sähköpostitse ennen kokousta. Kokouksessa käsitellään esityslistassa luetellut asiat: Yhtymäkokouksen puheenjohtajan ja varapuheenjohtajan valinta Kokouksen laillisuus ja päätösvaltaisuus Pöytäkirjantarkastajien valinta Espoon seudun koulutuskuntayhtymä Omnian tarkastuslautakunnan valinta Espoon seudun koulutuskuntayhtymä Omnian yhtymähallituksen valinta"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252127-7",
+      "ordinal": "7",
+      "title": "Pääkaupunkiseudun Vesi Oy:n ylimääräinen yhtiökokous 2.10.2025",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252127-7",
+      "decision": "Kunnanhallitus päätti yksimielisesti olla antamatta erityistä evästystä yhtiökokousedustajalle",
+      "votes": [],
+      "sections": {
+        "valmistelija": "hallinnon asiantuntija Gunnel Ekström, etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää mahdollisen evästyksen antamisesta yhtiökokousedustajalle",
+        "paatos": "Kunnanhallitus päätti yksimielisesti olla antamatta erityistä evästystä yhtiökokousedustajalle",
+        "tiedoksi": "Pääkaupunkiseudun Vesi Oy, yhtiökokousedustaja",
+        "selostus": "Pääkaupunkiseudun Vesi Oy:n vuoden 2025 1. ylimääräinen yhtiökokous pidetään torstaina 2.10.2025 alkaen klo 11 :00 HSY Helsingin seudun ympäristöpalvelut -kuntayhtymän 1 krs. kokoushuoneessa Kaupungin vesijohtokonttori, osoitteessa Ilmalankuja 2 A, 00240 Helsinki. Esityslista on seuraava: 1. Kokouksen avaus 2. Puheenjohtajan, sihteerin ja pöytäkirjan tarkastajien valinta 3. Kokouksen osanottajien ja laillisuuden toteaminen 4. Työjärjestyksen hyväksyminen 5. Hallituksen jäsenten valinta 6. Hallituksen puheenjohtajan vaali 7. Ilmoitusasiat 8. Kokouksen päättäminen Kunnanhallitus päätti 18.8.2025 § 256 kaudelle 2025-2027 nimetä Janne Laitisen Pääkaupunkiseudun Vesi Oy:n kunnan yhtiökokousedustajaksi, varalle valittiin Ville Karttunen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252127-8",
+      "ordinal": "8",
+      "title": "Esittelijän ajankohtaiset asiat",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252127-8",
+      "decision": "Kunnanhallitus päätti yksimielisesti merkitä ajankohtaiskatsauksen tiedoksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää merkitä ajankohtaiskatsauksen tiedoksi",
+        "paatos": "Kunnanhallitus päätti yksimielisesti merkitä ajankohtaiskatsauksen tiedoksi",
+        "selostus": "Kunnanjohtaja Sailas Virpi esittelee ajankohtaisia valmisteluissa olevia asioita. - Fortum, kaukolämmön tuotanto Fortumin edustajat Mika Lehtonen ja Kristian Rehnström olivat läsnä ja esittelivät kaukolämmön tuotantoa ennen varsinaisen kokouksen alkamista klo 16.30 – 17.13"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252127-9",
+      "ordinal": "9",
+      "title": "Kuntalain 92 §:n mukaista otto-oikeusmenettelyä varten saapuneet päätökset",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252127-9",
+      "decision": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 3 Päätösluettelo - 21.8.-4.9.2025 Kuntalain 92 §:n mukaista otto-oikeusmenettelyä varten saapuneet päätökset Kunnanhallitus 08.09.2025 § 287 Toimielinten pöytäkirjoja Rakennus- ja ympäristölautakunta 28.8.2025 Kuntakehityksen lautakunta 27.8.2025 Kirkkonummen Vesi -liikelaitoksen johtokunta 27.8.2025 Työllisyys- ja elinkeinoasioiden lautakunta 19.8.2025 Viranhaltijapäätöksiä Viranhaltijapäätökset ovat kokonaisuudessaan liitteineen luettavissa kokousjärjestelmässä: (tiedostot / kunnanhallitus / viranhaltijapäätökset)",
+        "esittelija": "Kunnanjohtaja Virpi Sailas, etunimi.sukunimi@kirkkonummi.fi",
+        "paatosehdotus": "Kunnanhallitus merkitsee tiedokseen edellä mainitut kuntalain 92 §:n nojalla otto-oikeuden käyttämistä varten esitetyt päätökset ja päättää, että Kunnanhallitus ei ota asioita käsiteltäväkseen",
+        "paatos": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Päätösluettelo - 21.8.-4.9.2025",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252127-9-129944.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20252127-10",
+      "ordinal": "10",
+      "title": "Pöytäkirjoja tiedoksi",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252127-10",
+      "decision": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "esittelija": "Kunnanjohtaja Virpi Sailas, etunimi.sukunimi@kirkkonummi.fi",
+        "paatosehdotus": "Kunnanhallitus merkitsee pöytäkirjat tiedokseen",
+        "paatos": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252127-11",
+      "ordinal": "11",
+      "title": "Ilmoitusasioita tiedoksi",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252127-11",
+      "decision": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus merkitsee ilmoitusasiat tiedokseen",
+        "paatos": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    }
+  ],
+  "id": "20252127",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20252127"
+}

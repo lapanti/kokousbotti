@@ -1,0 +1,190 @@
+{
+  "title": "Nuorisovaltuusto Pöytäkirja 02.12.2025 klo 17:30 - 18:10 ⁄ Ei tarkastettu Kokoushuone Ervast, kunnantalo 1krs. | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Nuorisovaltuusto",
+  "doctype": "Pöytäkirja",
+  "date": "2025-12-02",
+  "items": [
+    {
+      "id": "20252217-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252217-1",
+      "decision": "Puheenjohtaja totesi kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+      "sections": {
+        "valmistelija": "Nuorisotyön palveluvastaava Eija Rajavaara, etunimi.sukunimi@kirkkonummi.fi",
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Puheenjohtaja totesi kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20252217-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252217-2",
+      "decision": "Pöytäkirjantarkastajiksi valittiin Valtteri Salmensuo ja Naeb Andemariamabrham",
+      "sections": {
+        "valmistelija": "Nuorisotyön palveluvastaava Eija Rajavaara, etunimi.sukunimi@kirkkonummi.fi",
+        "paatosehdotus": "Nuorisovaltuusto Nuorisovaltuusto päättää valita kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan",
+        "paatos": "Pöytäkirjantarkastajiksi valittiin Valtteri Salmensuo ja Naeb Andemariamabrham"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20252217-3",
+      "ordinal": "3",
+      "title": "Nuorisovaltuuston edustajien raportit kunnan toimielimien kokouksista",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252217-3",
+      "decision": "Kuultiin nuorisovaltuuston edustajien raportit seuraavista kunnan toimielimien kokouksista: kunnanvaltuusto 17.11.2025, sivistys- ja hyvinvointilautakunta 13.11.2025, suomenkielinen kasvatus- ja koulutuslautakunta 11.11.2025, ruotsinkielinen kasvatus- ja koulutuslautakunta 12.11.2025 sekä kuntakehityksen lautakunta 27.11.2025",
+      "sections": {
+        "valmistelija": "Nuorisotyön palveluvastaava Eija Rajavaara etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kuullaan nuorisovaltuuston edustajien raportit kunnan toimielimien kokouksista",
+        "paatos": "Kuultiin nuorisovaltuuston edustajien raportit seuraavista kunnan toimielimien kokouksista: kunnanvaltuusto 17.11.2025, sivistys- ja hyvinvointilautakunta 13.11.2025, suomenkielinen kasvatus- ja koulutuslautakunta 11.11.2025, ruotsinkielinen kasvatus- ja koulutuslautakunta 12.11.2025 sekä kuntakehityksen lautakunta 27.11.2025",
+        "selostus": "Nuorisovaltuusto valitsi 30.1.2024 kokouksessaan (§4, §5, §6 ja §7) edustajat ja varaedustajat lautakuntiin nuorisovaltuuston toimintakaudeksi 1.1.2024-31.12.2025"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20252217-4",
+      "ordinal": "4",
+      "title": "Kirkkonummen edustajien raportti Länsi-Uudenmaan hyvinvointialueen nuorisovaltuuston kokouksesta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252217-4",
+      "decision": "Kuultiin Kirkkonummen edustajien raportti Länsi-Uudenmaan hyvinvointialueen nuorisovaltuuston kokouksesta 18.11.2025",
+      "sections": {
+        "valmistelija": "Nuorisotyön palveluvastaava Eija Rajavaara etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kuullaan Kirkkonummen edustajien raportti Länsi-Uudenmaan hyvinvointialueen nuorisovaltuuston kokouksesta",
+        "paatos": "Kuultiin Kirkkonummen edustajien raportti Länsi-Uudenmaan hyvinvointialueen nuorisovaltuuston kokouksesta 18.11.2025",
+        "selostus": "Hyvinvointialueen nuorisovaltuusto on kunnallisten nuorisovaltuustojen edustajien sekä hyvinvointialueen viranhaltijoiden sekä päätöksentekijöiden yhteistyöelin sekä nuorten vaikuttamiskanava. Vaikuttamistoimielimen tehtävänä on antaa mahdollisuus vaikuttaa hyvinvointialueen toiminnan suunnitteluun, valmisteluun, toteuttamiseen ja seurantaan asioissa, joilla on tai joilla vaikuttamistoimielin arvioi olevan merkitystä lasten ja nuorten ja heidän tarvitsemiensa palveluiden kannalta"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20252217-5",
+      "ordinal": "5",
+      "title": "Nuorisovaltuustovaalit 2025",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252217-5",
+      "decision": "Nuorisovaltuusto päätti 1 todeta omalta osaltaan nuorisovaltuustovaalien 2025 vaalituloksen. 2 ehdottaa kunnanhallitukselle, että se asettaa nuorisovaltuuston seuraavalle toimikaudelle 2026–2027 vaalituloksen mukaisesti",
+      "sections": {
+        "valmistelija": "Nuorisotyön palveluvastaava Eija Rajavaara etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Nuorisovaltuusto 1 toteaa omalta osaltaan nuorisovaltuustovaalien 2025 vaalituloksen. 2 päättää ehdottaa kunnanhallitukselle, että se asettaa nuorisovaltuuston seuraavalle toimikaudelle 2026–2027 vaalituloksen mukaisesti",
+        "paatos": "Nuorisovaltuusto päätti 1 todeta omalta osaltaan nuorisovaltuustovaalien 2025 vaalituloksen. 2 ehdottaa kunnanhallitukselle, että se asettaa nuorisovaltuuston seuraavalle toimikaudelle 2026–2027 vaalituloksen mukaisesti",
+        "tiedoksi": "Kunnanhallitus, sivistyksen palvelualueen hallintopäällikkö",
+        "selostus": "Kirkkonummen kunnassa järjestettiin vuoden 2025 nuorisovaltuustovaalit, jossa nuoret valitsivat 13 uutta jäsentä nuorisovaltuustoon. Äänestyspaikkoina vaalipäivänä tiistaina 4.11 toimivat yläkoulut sekä toisen asteen oppilaitokset. Lisäksi äänestäminen oli mahdollista 5.11. Fyyrin nuorisotilalla, 7.11. Veikkolan nuorisotilalla ja 8.11. Masalan nuorisotilalla. Äänioikeutettuja oli 3619, äänien yhteismäärä oli 1314 kappaletta sekä äänestysprosentti 36,3. Kirkkonummen hallintosäännön 17 § Vaikuttamistoimielimet mukaan kunnassa on nuorisovaltuusto, vanhusneuvosto ja vammaisneuvosto. Kunnanhallitus asettaa ao. vaikuttamistoimielimet kahdeksi vuodeksi. Uuden nuorisovaltuuston toimintakausi alkaa tammikuussa 2026, ja jatkuu vuoden 2027 loppuun. Kirkkonummen nuorisovaltuuston jäsenet vaalituloksen mukaan kaudelle 2026-2027 ovat: Jokirinteen koulu: Mohammed Al-Ani 127 ääntä Anniina Kaila 69 ääntä Pietari Salmensuo 51 ääntä Valtteri Tapaninen 46 ääntä Nissnikun koulu: Hertta Honkanen 48 ääntä Veikkolan koulu: Matias Henricson 107 ääntä Gesterbyn koulu: Vanessa Marjak 13 ääntä Porkkalan lukio: Selma Kari 82 ääntä Kaarle Mettälä 58 ääntä Winellska skolan: Saga Pomoell 38 ääntä Omnia Kirkkonummen toimipiste: Jukka Rauvanlahti 41 ääntä Ei oppilaitoksessa Kirkkonummella: Valter Åström 69 ääntä Naeb Andemariamabrham 58 ääntä"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20252217-6",
+      "ordinal": "6",
+      "title": "Nuorisovaltuuston toimintasäännön päivittäminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252217-6",
+      "decision": "Nuorisovaltuusto 1 päätti ehdottaa sivistys- ja hyvinvointilautakunnalle ja edelleen kunnanhallitukselle, että se hyväksyy nuorisovaltuuston toimintasäännön 1.1.2026 alkaen liitteen mukaisesti. 2 tarkasti pöytäkirjan tämän pykälän osalta kokouksessa",
+      "sections": {
+        "liitteet": "Numero Otsikko\n1 nuva 2.12.2025 liite_Kirkkonummen nuorisovaltuuston toimintasääntö 1.1.2026 alkaen (pdf 453.96 kb)",
+        "oheismateriaali": "Otsikko\n1 nuva 2.12.2025 oheismateriaali_Nuorisovaltuuston hyväksytty toimintasääntö S-VL (pdf 32.65 kb) Kokousasian teksti Nuorisovaltuuston toimintasäännön päivittäminen Nuorisovaltuusto 02.12.2025 § 67 848/12.05.00/2023",
+        "valmistelija": "Nuorisotyön palveluvastaava Eija Rajavaara Nuoriso- ja liikuntapäällikkö Päivi Sorvari etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Nuorisovaltuusto 1 päättää ehdottaa sivistys- ja hyvinvointilautakunnalle ja edelleen kunnanhallitukselle, että se hyväksyy nuorisovaltuuston toimintasäännön 1.1.2026 alkaen liitteen mukaisesti. 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "paatos": "Nuorisovaltuusto 1 päätti ehdottaa sivistys- ja hyvinvointilautakunnalle ja edelleen kunnanhallitukselle, että se hyväksyy nuorisovaltuuston toimintasäännön 1.1.2026 alkaen liitteen mukaisesti. 2 tarkasti pöytäkirjan tämän pykälän osalta kokouksessa",
+        "tiedoksi": "Sivistys- ja hyvinvointilautakunta",
+        "selostus": "Kirkkonummen hallintosäännön 17 § Vaikuttamistoimielimet mukaan kunnassa on nuorisovaltuusto, vanhusneuvosto ja vammaisneuvosto. Kunnanhallitus asettaa ao. vaikuttamistoimielimet kahdeksi vuodeksi. Kunnanhallitus hyväksyy vaikuttamistoimielimen toimintasäännön, jossa todetaan muun muassa toimielimen lakisääteiset ja mahdolliset muut tehtävät, jäsenten lukumäärä ja valintatapa, toimikausi, erottaminen kesken toimikauden, kokous- ja toimintakäytännöt, puheenjohtajan valinta, sihteerin tehtävien hoitaminen, toimintasuunnitelman laatiminen ja toimintakertomuksen antaminen sekä yhteistyö hyvinvointialueen vastaavan vaikuttamistoimielimen kanssa. Nuorisovaltuuston toimintasäännön päivittäminen Nykyinen nuorisovaltuuston toimintasääntö on ollut voimassa 1.1.2022 alkaen. Toimintasäännön 7 §:ssä todetaan, että nuorisovaltuusto tekee ehdotukset toimintasäännön muuttamisesta. Nuorisovaltuustokauden aikana on todettu tarpeelliseksi tarkastella nuorisovaltuuston toimintaa kokonaisuutena ja ajantasaistaa toimintasääntöä siten, että se vastaa toiminnan kehittyneitä käytäntöjä ja edesauttaa nuorten osallistumis- ja vaikuttamismahdollisuuksia. Hallintosäännön 33 § Sivistys- ja hyvinvointilautakunnan erityiset tehtävät ja toimivalta mukaan kyseinen lautakunta koordinoi nuorisovaltuuston toimintaa. Nuorisovaltuuston toimintaa ohjataan nuorisotyön palvelukokonaisuudesta. Nuorisovaltuuston jäsenet ovat iältään 13–18-vuotiaita nuoria. Toimintasääntöön on tarpeen tehdä täsmennyksiä erityisesti kokouksen sihteerin ja pöytäkirjan pitäjän tehtäviin sekä nuorisovaltuuston toiminnan viestintään liittyvissä kohdissa. Sääntöön on muutettu myös luettelonumerointia sekä selkeytetty kappaleita ja kohtia, mikä parantaa tekstin luettavuutta ja ymmärtämistä sekä helpottaa siihen viittaamista päätöksenteossa. Lisäksi toimintasääntöä tarkennetaan vastaamaan Kirkkonummen kunnan nykyistä hallintosääntöä ja ajantasaisia lautakuntien nimiä. Tarkoituksena on selkeyttää ja ajantasaistaa toimintasäännön sisältöä siten, että se tukee nuorten toimintaedellytyksiä nuorisovaltuustossa ja sujuvoittaa siihen liittyviä hallinnollisia prosesseja. Ehdotetut muutokset on merkitty liitteeseen punaisella värillä, ja poistettavat kohdat on yliviivattu. Päivitetty toimintasääntö on tarkoituksenmukaista saattaa voimaan 1.1.2026 alkaen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": "Liite 1",
+          "title": "nuva 2.12.2025 liite_Kirkkonummen nuorisovaltuuston toimintasääntö 1.1.2026 alkaen",
+          "size": "pdf 453.96 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252217-6-134261.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": "Oheismateriaali 1",
+          "title": "nuva 2.12.2025 oheismateriaali_Nuorisovaltuuston hyväksytty toimintasääntö S-VL",
+          "size": "pdf 32.65 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252217-6-134262.PDF"
+        }
+      ],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20252217-7",
+      "ordinal": "7",
+      "title": "Nuorisovaltuuston toimintakauden 2026-2027 järjestäytymiskokous",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252217-7",
+      "decision": "Nuorisovaltuusto päätti yksimielisesti päätösehdotuksen mukaan",
+      "sections": {
+        "valmistelija": "Nuorisotyön palveluvastaava Eija Rajavaara etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Nuorisovaltuusto päättää pitää nuorisovaltuuston toimintakauden 2026- 2027 järjestäytymiskokouksen Kirkkonummen kunnantalolla, kokoustila Ervastissa tiistaina 3.2.2026 klo 17:30",
+        "paatos": "Nuorisovaltuusto päätti yksimielisesti päätösehdotuksen mukaan",
+        "tiedoksi": "Kokouskalenteri, kielenkääntäjät",
+        "selostus": "Nuorisovaltuuston toimintasäännön mukaan uusi nuorisovaltuusto pitää järjestäytymiskokouksen, jossa nuorisovaltuusto valitsee keskuudestaan toimintakaudeksi toimintasäännön mukaisesti vastuuhenkilöt. Lisäksi nuorisovaltuusto valitsee keskuudestaan edustajat ja varaedustajat hallintosäännön 121 § ja 160 § mukaisesti kunnan toimielimiin"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20252217-8",
+      "ordinal": "8",
+      "title": "Nuorisovaltuuston kevään 2026 kokousajankohdat",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252217-8",
+      "decision": "Nuorisovaltuusto päätti yksimielisesti 1 kokoontua Kirkkonummen kunnantalolla, kokoustila Ervastissa klo 17:30, ellei ajasta ja paikasta toisin erikseen sovita, seuraavasti: tiistaina 3.2. (järjestäytymiskokous) tiistaina 10.3. tiistaina 28.4. tiistaina 26.5. 2 että, esityslista on pääsääntöisesti nähtävillä sähköisesti jäsenille viikkoa ennen kokousta kunnan sähköisessä kokousjärjestelmässä, johon jäsenet ovat saaneet omat tunnukset. Kokouskutsu laitetaan kunnan antamaan viralliseen sähköpostiosoitteeseen",
+      "sections": {
+        "valmistelija": "Nuorisotyön palveluvastaava Eija Rajavaara etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Nuorisovaltuusto päättää 1 kokoontua Kirkkonummen kunnantalolla, kokoustila Ervastissa klo 17:30, ellei ajasta ja paikasta toisin erikseen sovita, seuraavasti: tiistaina 3.2. (järjestäytymiskokous) tiistaina 10.3. tiistaina 28.4. tiistaina 26.5. 2 että, esityslista on pääsääntöisesti nähtävillä sähköisesti jäsenille viikkoa ennen kokousta kunnan sähköisessä kokousjärjestelmässä, johon jäsenet ovat saaneet omat tunnukset. Kokouskutsu laitetaan kunnan antamaan viralliseen sähköpostiosoitteeseen",
+        "paatos": "Nuorisovaltuusto päätti yksimielisesti 1 kokoontua Kirkkonummen kunnantalolla, kokoustila Ervastissa klo 17:30, ellei ajasta ja paikasta toisin erikseen sovita, seuraavasti: tiistaina 3.2. (järjestäytymiskokous) tiistaina 10.3. tiistaina 28.4. tiistaina 26.5. 2 että, esityslista on pääsääntöisesti nähtävillä sähköisesti jäsenille viikkoa ennen kokousta kunnan sähköisessä kokousjärjestelmässä, johon jäsenet ovat saaneet omat tunnukset. Kokouskutsu laitetaan kunnan antamaan viralliseen sähköpostiosoitteeseen",
+        "tiedoksi": "Kokouskalenteri, kielenkääntäjät",
+        "selostus": "Kirkkonummen kunnan hallintosäännön (16.6.2025) 154 §:n mukaan toimielin päättää kokoustensa ajan ja paikan"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20252217-9",
+      "ordinal": "9",
+      "title": "Ilmoitusasioita tiedoksi",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252217-9",
+      "decision": "Nuorisovaltuusto merkitsi seuraavat ilmoitusasiat tiedokseen: Dialogi – Nuorten Toiveiden Kirkkonummi järjestetään pääkirjasto Fyyrin kahvila Messin kabinetissa tiistaina 16.12.2025 klo 16.30-18.30. Uuden nuorisovaltuuston perehdyttäminen järjestetään Kirkkonummen kunnantalolla torstaina 22.1.2026 klo 17.00. Nykyinen nuorisovaltuusto on tervetullut mukaan. Valmistautuminen kunnanvaltuuston kokoukseen 8.12.2025 nuorisovaltuuston yhteinen mielipide ja evästys kunnanvaltuuston edustajalle",
+      "sections": {
+        "valmistelija": "Nuorisotyön plaveluvastaava Eija Rajavaara, etunimi.sukunimi@kirkkonummi.fi",
+        "paatosehdotus": "Nuorisovaltuusto merkitsee ilmoitusasiat tiedokseen",
+        "paatos": "Nuorisovaltuusto merkitsi seuraavat ilmoitusasiat tiedokseen: Dialogi – Nuorten Toiveiden Kirkkonummi järjestetään pääkirjasto Fyyrin kahvila Messin kabinetissa tiistaina 16.12.2025 klo 16.30-18.30. Uuden nuorisovaltuuston perehdyttäminen järjestetään Kirkkonummen kunnantalolla torstaina 22.1.2026 klo 17.00. Nykyinen nuorisovaltuusto on tervetullut mukaan. Valmistautuminen kunnanvaltuuston kokoukseen 8.12.2025 nuorisovaltuuston yhteinen mielipide ja evästys kunnanvaltuuston edustajalle"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    }
+  ],
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20252217",
+  "id": "20252217"
+}

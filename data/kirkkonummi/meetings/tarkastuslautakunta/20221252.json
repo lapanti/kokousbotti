@@ -1,0 +1,74 @@
+{
+  "title": "Tarkastuslautakunta Pöytäkirja 09.11.2022 klo 17:30 - 20:10 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Tarkastuslautakunta",
+  "doctype": "Pöytäkirja",
+  "date": "2022-11-09",
+  "items": [
+    {
+      "id": "20221252-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221252-1",
+      "decision": "Tarkastuslautakunta totesi kokouksen lailliseksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Tarkastuslautakunta toteaa kokouksen lailliseksi ja päätösvaltaiseksi",
+        "paatos": "Tarkastuslautakunta totesi kokouksen lailliseksi ja päätösvaltaiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20221252-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan laatiminen ja tarkastaminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221252-2",
+      "decision": "Pöytäkirjantarkastajiksi valittiin Tuomo Tiitinen ja Matti Tanskanen",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Tarkastuslautakunta valitsee kaksi pöytäkirjantarkastajaa",
+        "paatos": "Pöytäkirjantarkastajiksi valittiin Tuomo Tiitinen ja Matti Tanskanen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20221252-3",
+      "ordinal": "3",
+      "title": "Perusturvapalvelujen toimialan arviointi",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221252-3",
+      "decision": "Palvelujohtajien selvitykset ja asiasta käyty keskustelu merkittiin tiedoksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Palvelujohtajien selvitykset ja asiasta käyty keskustelu merkitään tiedoksi",
+        "paatos": "Palvelujohtajien selvitykset ja asiasta käyty keskustelu merkittiin tiedoksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20221252-4",
+      "ordinal": "4",
+      "title": "Sidonnaisuusilmoitukset",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221252-4",
+      "decision": "Tarkastuslautakunta esittää, että kunnanvaltuusto merkitsee sidonnaisuusrekisterin tiedoksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Tarkastuslautakunta esittää, että kunnanvaltuusto merkitsee sidonnaisuusrekisterin tiedoksi",
+        "paatos": "Tarkastuslautakunta esittää, että kunnanvaltuusto merkitsee sidonnaisuusrekisterin tiedoksi"
+      },
+      "lang": "fi",
+      "text_encoding": "repaired",
+      "attachments": [],
+      "proposals": []
+    }
+  ],
+  "id": "20221252",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20221252"
+}

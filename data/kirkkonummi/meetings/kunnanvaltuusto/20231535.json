@@ -1,0 +1,407 @@
+{
+  "title": "Kunnanvaltuusto Pöytäkirja 09.10.2023 klo 19:00 - 20:28 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Kunnanvaltuusto",
+  "doctype": "Pöytäkirja",
+  "date": "2023-10-09",
+  "items": [
+    {
+      "id": "20231535-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231535-1",
+      "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Kokous todettiin lailliseksi ja päätösvaltaiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231535-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231535-2",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti. Pöytäkirjantarkastajiksi valittiin Piia Aallonharja ja Anna Aintila",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanvaltuusto päättää valita kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti. Pöytäkirjantarkastajiksi valittiin Piia Aallonharja ja Anna Aintila"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231535-3",
+      "ordinal": "3",
+      "title": "Perälänkannaksen asemakaavan muutoksen ja laajennuksen lisääminen kaavoitusohjelmaan",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231535-3",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Hankekortti Perälänkannas Hankekortti Perälänkannas_sv Perälänkannaksen asemakaavan muutoksen ja laajennuksen lisääminen kaavoitusohjelmaan Kunnanvaltuusto 09.10.2023 § 72 90/10.02.03/2019",
+        "paatosehdotus": "Kunnanhallitus esittää kunnanvaltuustolle Perälänkannaksen asemakaavan (muutos ja laajennus) laatimisen käynnistämistä",
+        "kasittely": "Yhdyskuntatekniikan johtaja Anna-Kaisa Kauppinen esitteli asiaa kokouksessa",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Hankekortti Perälänkannas",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231535-3-97851.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Hankekortti Perälänkannas_sv",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231535-3-97852.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20231535-4",
+      "ordinal": "4",
+      "title": "Osavuosikatsaus heinäkuu 2023",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231535-4",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 1 OVK yleiset ja YP 2023 2 KV-A tulos ja tase kk 1-7 3 Osavuosikatsaus 31.7.2023, ytltk 4 Osavuosikatsauksen 2023 liitteet, rakennus- ja ympäristölautakunta 5 Osavuosikatsaus 2023 Rakennus- ja ympäristölautakunta 6 Osavuosikatsaus 2023, toimitilapalvelujen lautakunta 7 Kirkkonummen Vesi OVK2023 8 S-VL 28.9.2023 liite_osavuosikatsaus_Sivistys- ja vapaa-aikalautakunta 9 SKK 26.9.2023\n1. Osavuosikatsaus 2023 10 SFU 27.9.2023 Bilaga 1. Delåröversikt 2023 Osavuosikatsaus heinäkuu 2023 Kunnanvaltuusto 09.10.2023 § 73 37/02.02.02/2023",
+        "paatosehdotus": "Kunnanhallitus antaa osavuosikatsauksen valtuustolle tiedoksi",
+        "kasittely": "Kunnanjohtaja Virpi Sailas ja talousjohtaja Esa Lindell esittelivät asiaa kokouksessa",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "OVK yleiset ja YP 2023",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231535-4-97768.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "KV-A tulos ja tase kk 1-7",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231535-4-97767.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Osavuosikatsaus 31.7.2023, ytltk",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231535-4-97772.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Osavuosikatsauksen 2023 liitteet, rakennus- ja ympäristölautakunta",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231535-4-97773.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Osavuosikatsaus 2023 Rakennus- ja ympäristölautakunta",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231535-4-97774.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Osavuosikatsaus 2023, toimitilapalvelujen lautakunta",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231535-4-97775.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kirkkonummen Vesi OVK2023",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231535-4-97776.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "S-VL 28.9.2023 liite_osavuosikatsaus_Sivistys- ja vapaa-aikalautakunta",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231535-4-97769.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "SKK 26.9.2023 Liite 1. Osavuosikatsaus 2023",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231535-4-97771.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "SFU 27.9.2023 Bilaga 1. Delåröversikt 2023",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231535-4-97770.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20231535-5",
+      "ordinal": "5",
+      "title": "Hallintosäännön muuttaminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231535-5",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 11\n210 hallintosääntö Hallintosäännön muuttaminen Kunnanvaltuusto 09.10.2023 § 74 233/00.01.01/2023",
+        "paatosehdotus": "Kunnanhallitus esittää kunnanvaltuustolle hyväksyttäväksi hallintosäännön nykyisen 102 § korvaamisen selostuksen ja liitteen mukaisilla 102 a, 102 b ja 102 c pykälillä",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite 210 hallintosääntö",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231535-5-97454.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20231535-6",
+      "ordinal": "6",
+      "title": "Tilapäisen valiokunnan asettaminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231535-6",
+      "decision": "Kunnanvaltuusto päätti 1 asettaa keskuudestaan kuntalain 35 §:ssä tarkoitetun tilapäisen valiokunnan valmistelemaan toimielimen/puheenjohtajiston erottamista koskevaa asiaa; 2 valita tilapäiseen valiokuntaan 6 (kuusi) jäsentä ja kullekin henkilökohtaisen varajäsenen huomioiden tasa-arvolain 4. pykälä seuraavasti: KOK, jäsen Timo Haapaniemi, varajäsen Kim Åström RKP, jäsen Linda Basilier, varajäsen Kim Liljequist Vihreät, jäsen Saara Huhmarniemi, varajäsen Reetta Hyvärinen PS, jäsen Piia Aallonharja, varajäsen Ville Salminen SDP, jäsen Ari Harinen, varajäsen Sini Felipe Pro Kirkkonummi, jäsen Pekka Sinisalo, varajäsen Anni-Mari Syväniemi 3 nimetä varsinaisista jäsenistä valiokunnan puheenjohtajaksi Timo Haapaniemen ja varapuheenjohtajaksi Linda Basilierin; sekä 4 että valiokunnan työskentelyssä noudatetaan soveltuvin osin kunnan hallintosäännön määräyksiä ja että asiat käsitellään puheenjohtajan selostuksen pohjalta ja että valiokunta voi ottaa itselleen sihteerin. Lisäksi kunnanvaltuusto hyväksyi seuraavan evästyksen: Kunnanvaltuusto pyytää valiokuntaa ottamaan huomioon hallinto-oikeuden vastaavassa asiassa tekemän päätöksen",
+      "votes": [
+        {
+          "jaa": [
+            "Ronja Karkinen",
+            "Hans Hedberg",
+            "Sanni Jäppinen",
+            "Anna Aintila",
+            "Anni-Mari Syväniemi",
+            "Tony Björk",
+            "Patrik Lundell",
+            "Jerri Kämpe-Hellenius",
+            "Markus Myllyniemi",
+            "Stefan Gustafsson",
+            "Josephine Frimodig",
+            "Irja Kekkonen",
+            "Reetta Hyvärinen",
+            "Anders Adlercreutz",
+            "Martin Valtonen",
+            "Anna-Mari Toikka",
+            "Johanna Fleming",
+            "Maarit Orko",
+            "Saara Huhmarniemi"
+          ],
+          "ei": [
+            "Maija Jäntti",
+            "Pekka Oksanen",
+            "Leena Virkki",
+            "Marjut Frantsi-Lankia",
+            "Sini Felipe",
+            "Pekka Sinisalo",
+            "Marko Kari",
+            "Ari Harinen",
+            "Ville Salminen",
+            "Anna Sahiluoma",
+            "Kim Liljequist",
+            "Urho Blom",
+            "Arttu Lankinen",
+            "Ulf Kjerin",
+            "Tero Suominen",
+            "Johanna Järvinen",
+            "Anneli Granström",
+            "Timo Haapaniemi",
+            "Kim Åström",
+            "Piia Aallonharja",
+            "Kari Virtanen",
+            "Jani Kähkönen",
+            "Antti Kilappa",
+            "Hannu Valtanen",
+            "Katja Ylisiurua",
+            "Antti Salonen"
+          ],
+          "tyhja": [
+            "Liisa Kosonen",
+            "Kim Männikkö",
+            "Ulla Seppälä",
+            "Aku Leijala",
+            "Matti Kaurila"
+          ],
+          "totals": {
+            "jaa": 19,
+            "ei": 26,
+            "tyhja": 5
+          },
+          "parties": {
+            "jaa": {
+              "vihr": 8,
+              "rkp": 9,
+              "pro yl": 1,
+              "sdp": 1
+            },
+            "ei": {
+              "kok": 9,
+              "sdp": 4,
+              "kesk": 1,
+              "pro yl": 3,
+              "ps": 6,
+              "rkp": 2,
+              "vas": 1
+            },
+            "tyhja": {
+              "kok": 3,
+              "rkp": 1,
+              "pro yl": 1
+            }
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta",
+            "ei_label": "Ari Harisen muutosehdotusta",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": "ei",
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Ari Harisen muutosehdotusta äänestävät EI — annettiin 19 JAA ja 26 EI ääntä."
+          }
+        }
+      ],
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Toimitilapalvelujen lautakunnan paikkajako vastaamaan vaalitulosta Ruotsinkielisen kasvatus- ja koulutuslautakunnan paikkajako vastaamaan vaalitulosta Suomenkielisen kasvatus- ja koulutuslautakunnan paikkajako vastaamaan vaalitulosta Tilapäisen valiokunnan asettaminen Kunnanvaltuusto 09.10.2023 § 75 736/00.00.01/2023",
+        "paatosehdotus": "Kunnanhallitus esittää valtuustolle, että se päättää 1 asettaa keskuudestaan kuntalain 35 §:ssä tarkoitetun tilapäisen valiokunnan valmistelemaan toimielimen/puheenjohtajiston erottamista koskevaa asiaa; 2 valita tilapäiseen valiokuntaan 5 (viisi) jäsentä ja kullekin henkilökohtaisen varajäsenen huomioiden tasa-arvolain 4. pykälä. 3 nimetä varsinaisista jäsenistä valiokunnan puheenjohtajan ja varapuheenjohtajan; sekä 4 että valiokunnan työskentelyssä noudatetaan soveltuvin osin kunnan hallintosäännön määräyksiä ja että asiat käsitellään puheenjohtajan selostuksen pohjalta ja että valiokunta voi ottaa itselleen sihteerin",
+        "kasittely": "Kunnanjohtaja Virpi Sailas esitteli asiaa kokouksessa. Keskustelun aikana jäsen Ari Harinen jätti seuraavan muutosehdotuksen: Ehdotan että väliaikaiseen valiokuntaan valitaan kuusi jäsentä. Muutosehdotusta kannattivat Tero Suominen, Pekka Oksanen, Katja Ylisiurua, Ville Salminen ja Johanna Järvinen. Muutosehdotusta ei hyväksytty yksimielisesti, joten puheenjohtaja ilmoitti, että asiasta on äänestettävä. Puheenjohtaja ehdotti, että asiasta äänestetään niin, että ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Ari Harisen muutosehdotusta äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 19 JAA ääntä, 26 EI ääntä ja 5 tyhjää ääntä. Ari Harisen muutosehdotus sai enemmän ääniä ja voitti. JAA äänestivät: Ronja Karkinen, Hans Hedberg, Sanni Jäppinen, Anna Aintila, Anni-Mari Syväniemi, Tony Björk, Patrik Lundell, Jerri Kämpe-Hellenius, Markus Myllyniemi, Stefan Gustafsson, Josephine Frimodig, Irja Kekkonen, Reetta Hyvärinen, Anders Adlercreutz, Martin Valtonen, Anna-Mari Toikka, Johanna Fleming, Maarit Orko ja Saara Huhmarniemi. EI äänestivät: Maija Jäntti, Pekka Oksanen, Leena Virkki, Marjut Frantsi-Lankia, Sini Felipe, Pekka Sinisalo, Marko Kari, Ari Harinen, Ville Salminen, Anna Sahiluoma, Kim Liljequist, Urho Blom, Arttu Lankinen, Ulf Kjerin, Tero Suominen, Johanna Järvinen, Anneli Granström, Timo Haapaniemi, Kim Åström, Piia Aallonharja, Kari Virtanen, Jani Kähkönen, Antti Kilappa, Hannu Valtanen, Katja Ylisiurua ja Antti Salonen. Tyhjää äänestivät: Liisa Kosonen, Kim Männikkö, Ulla Seppälä, Aku Leijala ja Matti Kaurila. Kunnanvaltuusto piti tässä vaiheessa tauon, klo 19.36-19.45. Asian käsittely jatkui ja käsittelyn aikana tilapäisen valiokunnan jäseniksi ja varajäseniksi ehdotettiin seuraavasti: Kokoomus Urho Blom: Varsinaiseksi jäseneksi Timo Haapaniemi ja varajäseneksi Kim Åström RKP Kim Liljequist: Varsinaiseksi jäseneksi Linda Basilier ja varajäseneksi Kim Liljequist. Vihreät Markus Myllyniemi: Varsinaiseksi jäseneksi Saara Huhmarniemi ja varajäseneksi Reetta Hyvärinen PS Piia Aallonharja: Varsinaiseksi jäseneksi Piia Aallonjarja ja varajäseneksi Ville Salminen SDP Sini Felipe: Varsinaiseksi jäseneksi Ari Harinen ja varajäseneksi Sini Felipe Pro Kirkkonummi Antti Salonen: Varsinaiseksi jäseneksi Pekka Sinisalo ja varajäseneksi Anni-Mari Syväniemi Ehdotukset hyväksyttiin. Kunnanvaltuusto piti tauon, klo 19.58 - 20.17 Asian käsittely jatkui ja puheenjohtaja ilmoitti että käsittelyn aikana Reetta Hyvärinen on jättänyt seuraavan evästysehdotuksen: Kunnanvaltuusto pyytää valiokuntaa ottamaan huomioon hallinto-oikeuden vastaavassa asiassa tekemän päätöksen. Evästysehdotusta kannattivat Markus Myllyniemi, Maarit Orko, Irja Kekkonen, Johanna Fleming, Anna-Mari Toikka, Jerri Kämpe-Hellenius, Sanni Jäppinen, Anna Aintila, Josephine Frimodig, Saara Huhmarniemi, Martin Valtonen ja Katja Ylisiurua. Puheenjohtajan tiedustellessa evästysehdotus hyväksyttiin yksimielisesti",
+        "paatos": "Kunnanvaltuusto päätti 1 asettaa keskuudestaan kuntalain 35 §:ssä tarkoitetun tilapäisen valiokunnan valmistelemaan toimielimen/puheenjohtajiston erottamista koskevaa asiaa; 2 valita tilapäiseen valiokuntaan 6 (kuusi) jäsentä ja kullekin henkilökohtaisen varajäsenen huomioiden tasa-arvolain 4. pykälä seuraavasti: KOK, jäsen Timo Haapaniemi, varajäsen Kim Åström RKP, jäsen Linda Basilier, varajäsen Kim Liljequist Vihreät, jäsen Saara Huhmarniemi, varajäsen Reetta Hyvärinen PS, jäsen Piia Aallonharja, varajäsen Ville Salminen SDP, jäsen Ari Harinen, varajäsen Sini Felipe Pro Kirkkonummi, jäsen Pekka Sinisalo, varajäsen Anni-Mari Syväniemi 3 nimetä varsinaisista jäsenistä valiokunnan puheenjohtajaksi Timo Haapaniemen ja varapuheenjohtajaksi Linda Basilierin; sekä 4 että valiokunnan työskentelyssä noudatetaan soveltuvin osin kunnan hallintosäännön määräyksiä ja että asiat käsitellään puheenjohtajan selostuksen pohjalta ja että valiokunta voi ottaa itselleen sihteerin. Lisäksi kunnanvaltuusto hyväksyi seuraavan evästyksen: Kunnanvaltuusto pyytää valiokuntaa ottamaan huomioon hallinto-oikeuden vastaavassa asiassa tekemän päätöksen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Toimitilapalvelujen lautakunnan paikkajako vastaamaan vaalitulosta",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231535-6-97874.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Ruotsinkielisen kasvatus- ja koulutuslautakunnan paikkajako vastaamaan vaalitulosta",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231535-6-97873.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Suomenkielisen kasvatus- ja koulutuslautakunnan paikkajako vastaamaan vaalitulosta",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231535-6-97875.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Ari Harinen",
+          "kind": "vastaehdotus",
+          "text": "Ehdotan että väliaikaiseen valiokuntaan valitaan kuusi jäsentä. Muutosehdotusta kannattivat Tero Suominen, Pekka Oksanen, Katja Ylisiurua, Ville Salminen ja Johanna Järvinen. Muutosehdotusta ei hyväksytty yksimielisesti, joten puheenjohtaja ilmoitti, että asiasta on äänestettävä",
+          "source": "introduction",
+          "party": "sdp"
+        },
+        {
+          "proposer": "Reetta Hyvärinen",
+          "kind": "evastysehdotus",
+          "text": "Kunnanvaltuusto pyytää valiokuntaa ottamaan huomioon hallinto-oikeuden vastaavassa asiassa tekemän päätöksen. Evästysehdotusta kannattivat Markus Myllyniemi, Maarit Orko, Irja Kekkonen, Johanna Fleming, Anna-Mari Toikka, Jerri Kämpe-Hellenius, Sanni Jäppinen, Anna Aintila, Josephine Frimodig, Saara Huhmarniemi, Martin Valtonen ja Katja Ylisiurua",
+          "source": "introduction",
+          "party": "vihr"
+        }
+      ]
+    },
+    {
+      "id": "20231535-7",
+      "ordinal": "7",
+      "title": "Eron myöntäminen yhdyskuntatekniikan lautakunnan varajäsenyydestä sekä uuden varajäsenen valinta, K.J.",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231535-7",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Katja Juutille yhdyskuntatekniikan lautakunnan varajäsenyydestä 2 valita Tarja Glansin uuseksi varajäseneksi Katja Juutin tilalle toimikauden loppuun",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto 1 myöntää eron Katja Juutille yhdyskuntatekniikan lautakunnan varajäsenyydestä 2 valitsee uuden varajäsenen Katja Juutin tilalle toimikauden loppuun",
+        "kasittely": "Käsittelyn aikana jäsen Sini Felipe ehdotti seuraavaa: Kirkkonummen SDP esittää uudeksi varajäseneksi Tarja Glansia",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Katja Juutille yhdyskuntatekniikan lautakunnan varajäsenyydestä 2 valita Tarja Glansin uuseksi varajäseneksi Katja Juutin tilalle toimikauden loppuun",
+        "tiedoksi": "asianosaiset, yhdyskuntatekniikan palvelualue, palkka-tiimi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231535-8",
+      "ordinal": "8",
+      "title": "Eron myöntäminen toimitilapalvelujen lautakunnan varajäsenyydestä ja uuden varajäsenen valitseminen (OP)",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231535-8",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Olli Pulkkiselle toimitilapalvelujen lautakunnan varajäsenyydestä 2 valita Lauri Lavannin uudeksi varajäseneksi Olli Pulkkisen tilalle toimitilapalvelujen lautakuntaan toimikauden loppuun",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto 1 myöntää eron Olli Pulkkiselle toimitilapalvelujen lautakunnan varajäsenyydestä 2 valitsee uuden varajäsenen Olli Pulkkisen tilalle toimitilapalvelujen lautakuntaan toimikauden loppuun",
+        "kasittely": "Käsittelyn aikana Markus Myllyniemi esitti seuraavaa: Vihreä valtuustoryhmä esittää toimitilapalveluiden lautakunnan varajäsenen tehtävään Lauri Lavantia",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Olli Pulkkiselle toimitilapalvelujen lautakunnan varajäsenyydestä 2 valita Lauri Lavannin uudeksi varajäseneksi Olli Pulkkisen tilalle toimitilapalvelujen lautakuntaan toimikauden loppuun"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231535-9",
+      "ordinal": "9",
+      "title": "Valtuustoaloite 7/2023: Kirkkonummen kunnan tulee selvittää mahdollisuus järjestää keskustelutilaisuus liikenneturvallisuudesta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231535-9",
+      "decision": "Kunnanvaltuusto lähettää aloitteen kunnanhallitukselle valmisteltavaksi",
+      "votes": [],
+      "initiative": {
+        "ref": "7/2023",
+        "proposer": "tteen kunnanhallitukselle valmisteltavaksi.     Selostus   Valtuutettu Kim Liljequist, RKP",
+        "party": "rkp",
+        "name": "Kim Liljequist"
+      },
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Valtuustoaloite 7-2023, allekirjoituksineen Valtuustoaloite 7/2023: Kirkkonummen kunnan tulee selvittää mahdollisuus järjestää keskustelutilaisuus liikenneturvallisuudesta Kunnanvaltuusto 09.10.2023 § 78 754/08.00.01/2023",
+        "paatos": "Kunnanvaltuusto lähettää aloitteen kunnanhallitukselle valmisteltavaksi",
+        "selostus": "Valtuutettu Kim Liljequist, RKP jätti kunnanvaltuuston kokouksessa 9.10.2023 seuraavan aloitteen: Jokainen tie on koulutie. Jokainen tie on junioreiden lisäksi kulkuväylä myös työikäisille, senioreille ja liikkumisesteisille. Jokaisella tiellä on omat riskinsä tietä käyttäville. Siksi hyvästä liikenneturvallisuudesta ja henkilövahinkojen ennaltaehkäisemiseen pitää mahdollisimman hyvin pitää huolta. Siksi Kirkkonummen kunnan tulisi järjestää yksi tai useampi Liikenneturvallisuus -keskustelutilaisuus, johon tulisi avoimella kutsulla kutsua kuntalaisia, viranhaltijoita, luottamushenkilöitä ja aiheeseen liittyviä muita asiantuntijoita. Ehdotus keskustelutilaisuuden agendaksi: Liikenneturvallisuus lasten ja koululaisten näkökulmasta. Mikä Koululiitu on, ja miten sitä käytetään koulukuljetuksien suunnittelussa. Liikenneturvallisuus senioreiden ja liikkumisesteisten näkökulmasta, esteettömyys huomioiden. Keskustelua liikenneväylien kunnosta, valaistuksesta ja tulevista liikenneturvallisuutta parantavista investoinneista. Avointa keskustelua ja kehitysideoiden kirjaamista. Kirkkonummi 3.10.2023 Kim Liljequist (RKP) Aloitteen allekirjoittivat Kim Liljequistin lisäksi seuraavat valtuutetut ja varavaltuutetut: Piia Aallonharja, Anders Adlercreutz, Anna Aintila, Urho Blom, Sini Felipe, Johanna Fleming, Marjut Frantsi-Lankia, Josephine Frimodig, Anneli Granström, Stefan Gustafsson, Timo Haapaniemi, Ari Harinen, Sanni Jäppinen, Johanna Järvinen, Ronja Karkinen, Ulf Kjerin, Aku Leijala, Kim Liljequist, Markus Myllyniemi, Maarit Orko, Ville Salminen, Tero Suominen, Martin Valtonen, Kari Virtanen, Katja Ylisiurua, Kim Åström, Maija Jäntti, Arttu Lankinen, Leena Virkki, Patrik Lundell, Pekka Oksanen, Irja Kekkonen ja Anna-Mari Toikka"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtuustoaloite 7-2023, allekirjoituksineen",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231535-9-98292.PDF"
+        }
+      ],
+      "proposals": []
+    }
+  ],
+  "id": "20231535",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20231535"
+}

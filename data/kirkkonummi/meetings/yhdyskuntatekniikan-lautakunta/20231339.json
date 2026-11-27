@@ -1,0 +1,662 @@
+{
+  "title": "Yhdyskuntatekniikan lautakunta Pöytäkirja 16.02.2023 klo 17:00 - 20:50 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Yhdyskuntatekniikan lautakunta",
+  "doctype": "Pöytäkirja",
+  "date": "2023-02-16",
+  "items": [
+    {
+      "id": "20231339-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231339-1",
+      "decision": "Puheenjohtaja totesi kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "valmistelija": "Virkanimeke Etunimi Sukunimi, etunimi.sukunimi@kirkkonummi.fi",
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Puheenjohtaja totesi kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231339-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231339-2",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti valita Pekka Jäppisen ja Aleksander Polkon tarkastamaan tämän kokouksen pöytäkirjan edellä mainitun aikataulun mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "Virkanimeke Etunimi Sukunimi, etunimi.sukunimi@kirkkonummi.fi",
+        "paatosehdotus": "Yhdyskuntatekniikan lautakunta päättää 1 valita kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan 2 tarkastaa tämän pöytäkirjan sähköisesti seuraavan aikataulun mukaan: Pöytäkirja lähetetään sähköpostitse pöytäkirjantarkastajille, jotka ilmoittavat hyväksymisestään viimeistään tiistaina 21.2.2023. Jos hyväksymisviestiä ei tule sihteerille em. ajankohtaan mennessä, pöytäkirja katsotaan hyväksytyksi. Pöytäkirja allekirjoitetaan sähköisesti. Pöytäkirja on nähtävänä keskiviikkona 22.2.2023 kunnan verkkosivulla. Yleinen oikaisuvaatimusaika alkaa keskiviikkona 22.2.2023",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti valita Pekka Jäppisen ja Aleksander Polkon tarkastamaan tämän kokouksen pöytäkirjan edellä mainitun aikataulun mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231339-3",
+      "ordinal": "3",
+      "title": "Kirkkonummen kunnan lausunto Espoo-Salo-oikoradan yleissuunnitelmasta (kh)",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231339-3",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaisesti. Lisäksi lautakunta teki seuraavat muutosehdotukset liitteeseen: Sivun neljä neljänteen kappaleeseen ja uusi viides kappale: Yleissuunnitelmassa on osoitettu radan molemmin puolin huoltotiet. Kirkkonummen kunta edellyttää, että huoltoteitä voidaan käyttää soveltuvin osin myös kävelyn ja pyöräilyn yhteyksinä, kuten on ratasuunnitteluvaiheen yhteydessä nähty mahdollisena. UUSI KAPPALE Veikkolasta erityisesti itään Espoon (Histan) suuntaan suuntautuva AJONEUVO- JA KEVYENLIIKENTEEN KULKUYHTEYDET nähdään kunnassa TÄRKEINÄ, mutta yhtä lailla myös länteen Vihtiin päin suuntautuvan yhteyden merkitys voi kasvaa tulevaisuudessa. VEIKKOLAN JA HISTAN VÄLINEN TIEYHTEYS ON SYYTÄ SUUNNITELLA MAHDOLLISIMMAN LÄHELLE OIKORATAA. ALUEELLA VOIMASSA OLEVASSA YLEISKAAVASSA ON TÄLLÄ HETKELLÄ ESITETTY TIEYHTEYS VEIKKOLASTA SIIKAJÄRVELLE. KÄYNNISTYNEESSÄ RATASUUNNITELUSSA TULEE ESITTÄÄ, KUINKA YHTEYDET VEIKKOLAN ASEMALTA HISTAAN, VIHDIN JA SIIKAJÄRVEN SUUNTAAN TOTEUTETAAN. Poistetaan lausunnosta kohdat, joiden mukaan Radan ja Turunväylän väliin suunniteltu tieyhteys Peräläjärven eteläpuolella olisi tarpeeton",
+      "votes": [
+        {
+          "jaa": [
+            "Sved Ann-Christine",
+            "Karkinen Ronja",
+            "Jäppinen Sanni"
+          ],
+          "ei": [
+            "Snellman Jenny",
+            "Kaurila Matti",
+            "Valtanen Hannu",
+            "Kelkka Teemu",
+            "Polkko Aleksander",
+            "Jäppinen Pekka"
+          ],
+          "tyhja": [],
+          "named_by": "surname",
+          "totals": {
+            "jaa": 3,
+            "ei": 6,
+            "tyhja": 0
+          },
+          "as_written": {
+            "jaa": [
+              "Sved",
+              "Karkinen",
+              "Jäppinen S"
+            ],
+            "ei": [
+              "Snellman",
+              "Kaurila",
+              "Valtanen",
+              "Kelkka",
+              "Polkko",
+              "Jäppinen P"
+            ],
+            "tyhja": []
+          },
+          "names_from": "osallistujat",
+          "unresolved": [],
+          "parties": {
+            "jaa": {
+              "rkp": 1,
+              "vihr": 2
+            },
+            "ei": {
+              "rkp": 1,
+              "kok": 2,
+              "kesk": 1,
+              "ps": 1,
+              "sdp": 1
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "alkuperäistä päätösehdotusta",
+            "ei_label": "muutosehdotusta",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": "ei",
+            "source": "parsed",
+            "evidence": "ne, jotka kannattavat alkuperäistä päätösehdotusta äänestävät Jaa ja ne, jotka kannattavat muutosehdotusta, äänestävät Ei — Puheenjohtaja päätti äänestyksen ja totesi, että äänet jakautuivat seuraavasti: 3 Jaa-ääntä (Sved ,Karkinen, Jäppinen S.) ja 6 Ei-ääntä (Snellman, Kaurila, Valtanen, Kelkka, Polkko, Jäppinen P.)"
+          }
+        }
+      ],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko Lausunto ESA-oikoradan yleissuunnitelmasta (YTL 16.2.2023) Kirkkonummen kunnan lausunto Espoo-Salo-oikoradan yleissuunnitelmasta (kh) Yhdyskuntatekniikan lautakunta 16.02.2023 § 23 1464/08.01.00/2019",
+        "valmistelija": "Kaavoitusarkkitehti Seppo Mäkinen seppo.makinen@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa Yhdyskuntatekniikan lautakunta esittää kunnanhallitukselle, että se antaa Väylävirastolle liitteenä olevan lausunnon Espoo-Salo -oikoradan yleissuunnitelmasta",
+        "kasittely": "Puheenjohtaja Matti Kaurila teki seuraavan vastaesityksen sivun neljä neljänteen kappaleeseen ja uusi viides kappale: Yleissuunnitelmassa on osoitettu radan molemmin puolin huoltotiet. Kirkkonummen kunta edellyttää, että huoltoteitä voidaan käyttää soveltuvin osin myös kävelyn ja pyöräilyn yhteyksinä, kuten on ratasuunnitteluvaiheen yhteydessä nähty mahdollisena. UUSI KAPPALE Veikkolasta erityisesti itään Espoon (Histan) suuntaan suuntautuva AJONEUVO- JA KEVYENLIIKENTEEN KULKUYHTEYDET nähdään kunnassa TÄRKEINÄ, mutta yhtä lailla myös länteen Vihtiin päin suuntautuvan yhteyden merkitys voi kasvaa tulevaisuudessa. VEIKKOLAN JA HISTAN VÄLINEN TIEYHTEYS ON SYYTÄ SUUNNITELLA MAHDOLLISIMMAN LÄHELLE OIKORATAA. ALUEELLA VOIMASSA OLEVASSA YLEISKAAVASSA ON TÄLLÄ HETKELLÄ ESITETTY TIEYHTEYS VEIKKOLASTA SIIKAJÄRVELLE. KÄYNNISTYNEESSÄ RATASUUNNITELUSSA TULEE ESITTÄÄ, KUINKA YHTEYDET VEIKKOLAN ASEMALTA HISTAAN, VIHDIN JA SIIKAJÄRVEN SUUNTAAN TOTEUTETAAN. Aleksander Polkko ja Hannu Valtanen kannattivat puheenjohtaja Matti Kaurilan vastaesitystä. Puheenjohtaja totesi, että muutosehdotusta ei kannateta yksimielisesti, jolloin asiasta tulee äänestää. Äänestys Puheenjohtaja aloitti äänestyksen: ne, jotka kannattavat alkuperäistä päätösehdotusta äänestävät Jaa ja ne, jotka kannattavat muutosehdotusta, äänestävät Ei. Puheenjohtaja päätti äänestyksen ja totesi, että äänet jakautuivat seuraavasti: 3 Jaa-ääntä (Sved ,Karkinen, Jäppinen S.) ja 6 Ei-ääntä (Snellman, Kaurila, Valtanen, Kelkka, Polkko, Jäppinen P.) jolloin puheenjohtajan muutosehdotus voitti äänestyksen. Ja lisäksi puheenjohtaja Matti Kaurila teki seuraavan vastaesityksen: Muutetaan sivun 1 lausuntoa siten, että kunta suhtautuu myönteisesti Perälänjärven eteläpuolella esitettyyn tieyhteyteen. joka on olemassa ja jäämässä radan alle . Keskustelun kuluessa esitys vaihtui seuraavanlaiseksi; Puheenjohtaja Matti Kaurila teki seuraavan vastaesityksen: Poistetaan lausunnosta kohdat, joiden mukaan Radan ja Turunväylän väliin suunniteltu tieyhteys Peräläjärven eteläpuolella olisi tarpeeton. Vastaesitystä kannatettiin yksimielisesti",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaisesti. Lisäksi lautakunta teki seuraavat muutosehdotukset liitteeseen: Sivun neljä neljänteen kappaleeseen ja uusi viides kappale: Yleissuunnitelmassa on osoitettu radan molemmin puolin huoltotiet. Kirkkonummen kunta edellyttää, että huoltoteitä voidaan käyttää soveltuvin osin myös kävelyn ja pyöräilyn yhteyksinä, kuten on ratasuunnitteluvaiheen yhteydessä nähty mahdollisena. UUSI KAPPALE Veikkolasta erityisesti itään Espoon (Histan) suuntaan suuntautuva AJONEUVO- JA KEVYENLIIKENTEEN KULKUYHTEYDET nähdään kunnassa TÄRKEINÄ, mutta yhtä lailla myös länteen Vihtiin päin suuntautuvan yhteyden merkitys voi kasvaa tulevaisuudessa. VEIKKOLAN JA HISTAN VÄLINEN TIEYHTEYS ON SYYTÄ SUUNNITELLA MAHDOLLISIMMAN LÄHELLE OIKORATAA. ALUEELLA VOIMASSA OLEVASSA YLEISKAAVASSA ON TÄLLÄ HETKELLÄ ESITETTY TIEYHTEYS VEIKKOLASTA SIIKAJÄRVELLE. KÄYNNISTYNEESSÄ RATASUUNNITELUSSA TULEE ESITTÄÄ, KUINKA YHTEYDET VEIKKOLAN ASEMALTA HISTAAN, VIHDIN JA SIIKAJÄRVEN SUUNTAAN TOTEUTETAAN. Poistetaan lausunnosta kohdat, joiden mukaan Radan ja Turunväylän väliin suunniteltu tieyhteys Peräläjärven eteläpuolella olisi tarpeeton",
+        "selostus": "Väylävirasto on pyytänyt 7.11.2022 Kirkkonummen kunnalta lausuntoa Espoo-Salo-oikoradan yleissuunnitelmasta. Suunnitelma on päivätty 30.9.2022. Väyläviraston lausuntopyyntöä on täydennetty 9.1.2023 ja samassa yhteydessä lausunnolle on annettu uusi määräaika, joka on 31.3.2023. Kunnan lausunnossa pyydetään vastaamaan erityisesti seuraaviin kysymyksiin: - Toteuttaako laadittu suunnitelma alueellisen liikennejärjestelmäsuunnitelman tavoitteiden toteutumista kunnan alueella. - Kunnan lausunnonannon ajankohtaa vastaava kaavatilanne vahvistettujen ja hyväksyttyjen oikeusvaikutteisten yleiskaavojen osalta - Ovatko asema- ja ranta-asemakaavat yhdenmukaisia yleissuunnitelman kanssa. Mikäli asema- ja ranta-asemakaavat eivät ole yhdenmukaisia, puoltaako kunta yleissuunnitelman hyväksymistä vastoin voimassa olevaa asema- ja ranta-asemakaavaa. - Vastaako yleissuunnitelmassa esitetyt tie-, katu- ja kevyenliikenteen järjestelyt yleiskaavoissa esitettyjä yhteyksien periaatteita. - Onko kunnalla huomauttamista yleissuunnitelmaan sisältyviin siltoihin, tunneleihin tai muihin merkittäviin rakenteisiin. - Onko kunnalla huomauttamista yleissuunnitelmaan sisältyviin liikennepaikkojen (asemien) suunnitelmiin. - Onko kunnalla nähtävillä olevasta yleissuunnitelmasta muuta lausuttavaa. Väylävirasto pyytää myös kuntaa toteamaan kunnan alueelta tulleiden yleissuunnitelmaa koskevien muistutusten määrän ja antamaan lausunnossaan perustellun vastineen saatuihin muistutuksiin. Kirkkonummen kunnan alueelta on tullut kaksi muistutusta. Ensimmäisessä muistutuksessa kyseenalaistetaan erityisesti yleissuunnitelmassa olevien meluselvitysten ajantasaisuus, melulaskennan toteuttamistapa yleensäkin ja siitä johdetut johtopäätökset meluvaikutusten osalta. Lisäksi viitataan siihen, että vaikka selostuksessa mainitaan, että ympäristövaikutuksiin liittyviä oleellisia päätöksiä ja täydennyksiä aikavälillä 1.1.2022-30.9.2022 olisi lisätty suunnitelmaselostukseen, niin meluselvityksiä ei sinne kuitenkaan näyttäisi päivitetyn. Toisessa muistutuksessa kiinteistönomistaja on huolissaan ratahankkeen alta lunastettavan kiinteistönsä korvaustasosta tilanteessa, jossa mm. asuntolainakorot ovat nousussa. Taustaa ja lähtökohtia yleissuunnitelmalle Helsinki-Turku-junayhteys on osa Euroopan laajuista TEN-T-ydinverkkoa ja Skandinavia-Välimeri-ydinverkkokäytävää. Helsingin ja Turun välisen nopean ratayhteyden tavoitteena on lyhentää Helsingin ja Turun välistä matka-aikaa ja laajentaa edellä mainittujen kaupunkien työssäkäynti- ja työmarkkina-alueita. Nykyinen matka-aika Helsingin ja Turun välillä 193 km pitkää rantarataa pitkin on lyhimmillään yksi tunti ja 44 minuuttia. Hanke mahdollistaa myös Helsingin seudun lähiliikenteen palveluiden laajentamisen. Yleissuunnitelman hyväksymisehdotuksessa on mainittu myös yhdeksi tavoitteeksi se, että nopea junayhteys edesauttaisi myös Tukholmasta Pietariin kulkevan kasvuvyöhykkeen kehitysmahdollisuuksia. Vallitsevan kansainvälispoliittisen tilanteen perusteella Pietarin suunnan kehitykseen liittyy kuitenkin todennäköisesti vielä pitkään merkittäviä epävarmuustekijöitä. Espoo-Salo -oikoradan linjaus sijoittuu Uudellamaalla Espoon kaupungin, Kirkkonummen kunnan, Vihdin kunnan, Lohjan kaupungin sekä Varsinais-Suomessa Salon kaupungin alueille. Oikoradan yleissuunnitelma laadittiin maakuntakaavoissa osoitettuun väyläkäytävään ja suunnittelualueen kokonaispituus on noin 96 kilometriä. Radan suunnittelunopeus välillä Espoo - Lohja on 120 - 200 km/h ja sen jälkeen noin kilometriltä 59 eteenpäin Muurlaan saakka 300 km/h. Yleissuunnitelman mukaisesti Espoo-Lohja -välille on tulossa neljä uutta asemaa: Espoon Hista, Kirkkonummen Veikkola, Vihdin Nummela ja Lohjan Lempola. Lisäksi Espoon Myntinmäessä on asemavaraus uudelle asemalle. Oikorataa on mahdollista liikennöidä aikataululla, jossa ruuhkatunnissa kulkee kaksi kaukojunaa Helsingin ja Turun välillä, kaksi lähijunaa Lohjan Lempolaan, 1-2 lähijunaa Espoon Histaan, neljä lähijunaa Helsingistä Kirkkonummelle sekä kaupunkijunaliikennettä kaupunkiraiteilla välillä Helsinki-Kauklahti. Suunnittelutyön lähtökohtana ovat suunniteltavasta rataosasta laaditut aiemmat suunnitelmat ja selvitykset, joita ovat erityisesti Espoo-Salo -oikoradan alustava yleissuunnitelma vuodelta 2010, (ei ratalain mukainen suunnitelma) ja siihen liittynyt ympäristövaikutusten arviointi niin ikään vuodelta 2010. Lisäksi hankkeen toteuttamisen kannalta olennaisia suunnitelmia ovat Espoo-Kauklahti kaupunkiradan yleissuunnitelma vuodelta 2011 ja Espoon kaupunkiradan ratasuunnitelma, joka on ratalain mukainen hyväksytty ratasuunnitelma vuodelta 2014. Helsinki-Turku nopean junayhteyden hankekokonaisuuden YVA on laadittu vuonna 2021. Kirkkonummen kunta on antanut lausuntonsa alustavan yleissuunnitelman ympäristövaikutusten arvioinnista vuonna 2010 sekä myös hankekokonaisuuden YVA:sta vuonna 2020 ja sen täydennyksestä vuonna 2021. Vuonna 2019 käytiin Väyläviraston ja Kirkkonummen kunnan välillä neuvotteluja Veikkolan seisakkeen (aseman) sijainnista. Kuten Väyläviraston ehdotuksessa yleissuunnitelman hyväksymispäätökseksi selostetaan, niin kunnan toiveena oli sijoittaa asema länteen päin sen alustavassa yleissuunnitelmassa esitettyyn sijaintiin nähden. Lännempänä oleva sijainti mahdollistaisi paremmin maankäytön kehittämisen aseman ympärille, sillä asema ei olisi tällöin aivan kiinni Nuuksion Natura 2000-alueessa. Oli myös epäilyksiä siitä, että alustavassa yleissuunnitelmassa esitetty sijainti olisi aiheuttanut rakentamisen, tieyhteyksien järjestämisen ja toiminnan vuoksi niin huomattavia välittömiä vaikutuksia Natura-alueelle, että jo se olisi estänyt kyseisen ratkaisun. Näistä syistä lähdettiin suunnittelemaan asemalle uutta sijaintia länteen päin. Tämä vaatii radalle neliraiteista osuutta, sillä laituriraiteiden vaihteita ei voida sijoittaa kaarteeseen, mutta laiturit voidaan. Suunnittelua on jatkettu tämän pohjalta, sillä Väylävirasto hyväksyi, että aseman siirtämisestä johtuvat lisäkustannukset (neliraiteinen osuus) voidaan sisällyttää hankkeen kustannuksiin. Kunnan maankäytön tavoitteisiin liittyvien seikkojen lisäksi erityisesti Nuuksion Natura 2000 -alueen läheisyys olisi estänyt alkuperäisen ratkaisun. Aseman tarkka sijainti selviää kunnan maankäytön suunnittelussa vuoden 2023 aikana. Yhteysviranomainen totesi hankekokonaisuuden YVA:sta antamassaan perustellussa päätelmässä, että kyseessä on laaja ja pitkäkestoinen ratahanke, jolla on merkittäviä vaikutuksia. Tämän vuoksi esitettiin lukuisia lieventämiskeinoja, joilla hankkeen kielteisiä ympäristövaikutuksia voidaan ottaa huomioon ja kompensoida jatkosuunnittelun yhteydessä. Näitä ovat erityisesti mm. liito-oravien kulkuyhteyksien osoittaminen. Todettiin myös, että hanke on vahvasti massaylijäämäinen, jolloin massojen kaivun ja läjityksen vaikutukset ovat laajoja. Myös meluvaikutukset ovat kokonaisuutena kielteisiä siitä huolimatta, että lieventämistoimenpiteistä tehdään. Rakentamisvaiheen suuri hiilijalanjälki kasvattaa myös hankkeen ilmastovaikutuksia. Turun Tunnin Juna Oy, ratasuunnittelu ja siihen liittyvät tie- ja katujärjestelyt Vaikka yleissuunnitelman hyväksymiskäsittely on vielä kesken, on yleissuunnittelua yksityiskohtaisempi ratasuunnittelu voitu kuitenkin aloittaa vuoden 2021 lopussa, jolloin Traficom kuulutti sen vireille (11.10.2021). Suunnittelusta vastaa Turun Tunnin Juna Oy -hankeyhtiö, jossa Kirkkonummen kunta on omalla osuudellaan mukana. Ratasuunnittelu on jaettu kahteen ratasuunnitelmaan (Espoo-Lohja ja Lohja-Salo) ja neljään erilliseen osatehtävään, joita ovat Espoo-Vihti, Vihti-Lohja, Lohja-Suomusjärvi ja Suomusjärvi-Salo. Jokaisesta osatehtävästä vastaa suunnittelukonsultti. Ratasuunnittelun yhteydessä selvitetään ja suunnitellaan myös rautatiehen liittyvät tie- ja katujärjestelyt. Merkittävin muutos liittyy Veikkolan eritasoliittymän uudistamiseen, joka on esitetty yleissuunnitelmassa ja sisältyy siis myös ratasuunnitteluun. Eritasoliittymän nykyinen silmukkaramppi korvattaisiin suoralla liittymisrampilla lännen suuntaan ja muiden ramppien geometriaa parannettaisiin. Uusilla ramppiratkaisuilla mahdollistetaan linja-autopysäkkien sijoittamisen eritasoliittymän rampeille. Ramppien päihin esitetään pisaraliittymiä. Nykyinen valtatien ylittävä risteyssilta korvattaisiin samalla uudella sillalla, jonka alikulkukorkeus täyttää nykyvaatimukset. Veikkolantien (mt 1131) varteen ja valtatien ylittävälle uudelle sillalle rakennettaisiin jalankulku- ja pyöräilyväylä. Eritasoliittymän suunnittelussa on varauduttu valtatien 1 kolmansiin kaistoihin. Pohjoisen Kirkkonummen liikennekäytävän osayleiskaava ja sen valmistelutilanne Pohjoisen Kirkkonummen liikennekäytävän osayleiskaava on tullut vireille vuonna 2019 sen jälkeen, kun kunnanvaltuusto hyväksyi hankkeen sisällytettäväksi Kirkkonummen kaavoitusohjelmaan vuosille 2019-2023. Osayleiskaavan laatimisen taustalla on Espoo-Salo oikoradan (ns. ESA-rata) yleissuunnitelma ja tarve osoittaa suunnitelman mukainen ratalinjaus lainvoimaisessa yleiskaavassa. Rautatien rakentamista koskevan yleissuunnitelman ja ratasuunnitelman tulee ratalain 10 §:n mukaan perustua maankäyttö- ja rakennuslain mukaiseen oikeusvaikutteiseen kaavaan, jossa rautatiealueen sijainti ja suhde muuhun alueiden käyttöön on selvitetty. Osayleiskaavan valmisteluaineistoa käsiteltiin yhdyskuntatekniikan lautakunnassa keväällä 2020 ja se oli nähtävillä 25.6.-11.9.2020. Tämän jälkeen kaava-aluetta päätettiin laajentaa sen etelä- ja kaakkoispuoleiselle alueelle, jonka johdosta laadittiin päivitetty osallistumis- ja arviointisuunnitelma loppukeväästä 2021. Osayleiskaavaehdotuksen valmistelun yhteydessä on eteen tullut lukuisia kysymyksiä, joista ei vielä kaavan valmisteluvaiheessa vuonna 2020 ollut riittävän yksityiskohtaista tietoa. Niin ikään valmisteluvaiheesta saadussa palautteessa on noussut esiin seikkoja, jotka vaikuttavat kaavaehdotuksen sisältöön ja siinä esitettäviin ratkaisuihin. Ratasuunnitelman laadinnan käynnistymisen myötä on myös vahvistunut se käsitys, että ainakin osa osayleiskaavaehdotuksen suunnitteluratkaisuista tulee suunnitella yleiskaavatasoa tarkemmin, jotta varmistutaan niiden toteuttamiskelpoisuudesta myös asemakaavoitusvaiheessa. Näitä tarkempaa suunnittelua ja tarkastelua vaativia kysymyksiä ovat erityisesti Veikkolan asemanseudun rakennettavuuteen ja luontoarvoihin liittyvät kysymykset sekä tarvittavien lieventämistoimenpiteiden toteuttamismahdollisuudet. Lisähaasteita asettavat myös ekologisten yhteyksien turvaamiseen liittyvät vihersillat ja -yhteydet, joiden toteuttamismahdollisuudet pitää turvata. Veikkolan asemanseudun asukas- ja työpaikkamäärätavoitetta pystyttäneen laskemaan noin puoleen valmisteluvaiheessa osoitetusta 4000-5000 asukkaasta tai työpaikasta. Tämä perustuu sekä keskeisissä viranomaislausunnoissa esiin tuotuihin näkemyksiin, että tarkistettuihin laskelmiin, jotka on tehty yhden kilometrin saavutettavuusalueella seisakkeesta olevasta asukasmäärästä sekä alueen käyttämättömästä rakennusoikeusvarannosta. Kyseisellä alueella asuu tällä hetkellä noin 1500 henkilöä ja lainvoimaisissa asemakaavoissa mahdollistettuja pääasiassa erillispientalojen rakennuspaikkoja on runsaasti. Niiden toteuttamiskelpoisuudesta riippuen asukasmäärä voisi parhaassa tapauksessa jopa lähes kaksinkertaistua, mutta realistisemmankin arvion mukaan lisäystä voisi olla noin 1000 asukasta. Vyöhykkeelle kohdistettuja työpaikkatietoja ei ollut saatavilla, mutta laajempaan postinumeroalueeseen pohjautuvan rajauksen mukaan alueella voidaan arvioida olevan ainakin vähintään joitain kymmeniä työpaikkoja. Yhteenveto kunnan lausunnosta Kirkkonummen kunta toteaa, että laadittu suunnitelma toteuttaa alueellisen liikennejärjestelmäsuunnitelman tavoitteiden toteutumista kunnan alueella ja että kunnan lausunnonannon ajankohtana on alueella vahvistettuna ja hyväksyttynä oikeusvaikutteisena yleiskaavana toistaiseksi Kirkkonummen yleiskaava 2020. Pohjoisen Kirkkonummen liikennekäytävän osayleiskaava korvaa sen ratakäytävän ja siihen välittömästi liittyvien alueiden osalta. Asemakaavojen ja yleissuunnitelmassa esitettyjen tie-, katu- ja kevyenliikenteen järjestelyjen osalta kunta toteaa, että ne ovat pääsääntöisesti yhdenmukaisia yleissuunnitelman kanssa. Ratasuunnitelman laatimisen yhteydessä on kuitenkin tullut esiin tarve toteuttaa mm. katuyhteydet toisella tavalla Perälänjärven ja Turunväylän välisellä alueella. Suunnittelun edetessä on todettu, että yleissuunnitelmassa esitetty katuyhteys ei ole kunnan kannalta perusteltu, vaan riittää että alueen kautta varataan kävelyn- ja pyöräilyn yhteys. Tämän vuoksi tulee tutkia mahdollisuutta tarkistaa ratasuunnitelmaa ko. alueen osalta tai varmistaa muulla tavoin ratasuunnitelmassa esitettävät yleissuunnitelmasta poikkeavat ratkaisut katuyhteyksien osalta. Yleissuunnitelmaan sisältyviin liikennepaikkojen (asemien) suunnitelmiin kunta toteaa, että Veikkolan aseman osalta sen tarkka sijainti ja ympäröivän uuden maankäytön luonne ja tehokkuus selviää kunnan maankäytön suunnittelussa vuoden 2023 aikana. Yleissuunnitelmassa esitettyjen liityntäpysäköintipaikkojen määrään (200 kappaletta) kunta toteaa, että se on hyvin todennäköisesti liian alhainen, joten jatkosuunnittelussa tulee pyrkiä suurempaan kapasiteettiin. Yleissuunnitelma ja siihen liittyvät asiakirjat löytyvät linkistä: https://vayla.fi/kaikki-hankkeet/espoo-salo-oikorata Asiakirjat: - Kirkkonummen kunnan lausunto Espoo-Salo-oikoradan yleissuunnitelmasta"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Lausunto ESA-oikoradan yleissuunnitelmasta (YTL 16.2.2023)",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231339-3-87919.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Matti Kaurila",
+          "kind": "vastaehdotus",
+          "text": "Muutetaan sivun 1 lausuntoa siten, että kunta suhtautuu myönteisesti Perälänjärven eteläpuolella esitettyyn tieyhteyteen. joka on olemassa ja jäämässä radan alle . Keskustelun kuluessa esitys vaihtui seuraavanlaiseksi;",
+          "source": "introduction",
+          "party": "kok"
+        }
+      ]
+    },
+    {
+      "id": "20231339-4",
+      "ordinal": "4",
+      "title": "Uudenmaan ELY-keskuksen oikaisukehotus koskien Kirkkonummen kunnan kunnanvaltuuston päätöstä hyväksyä Kuntakeskuksen 2. vaiheen osayleiskaava (kh, kv)",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231339-4",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Vastine ELYn lausuntoon valmisteluaineistosta Vastine ELYn lausuntoon kaavaehdotuksesta Työneuvottelu ELY_muistio_13032020 Uudenmaan ELY-keskuksen oikaisukehotus koskien Kirkkonummen kunnan kunnanvaltuuston päätöstä hyväksyä Kuntakeskuksen 2. vaiheen osayleiskaava (kh, kv) Yhdyskuntatekniikan lautakunta 16.02.2023 § 24 661/10.02.02/2019",
+        "valmistelija": "Kunnanarkkitehti Tero Luomajärvi etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa Yhdyskuntatekniikan lautakunta päättää esittää kunnanhallitukselle ja edelleen kunnanvaltuustolle, että se päättää hyväksyä liitteen mukaisen Kirkkonummen kunnan vastauksen Uudenmaan ELY-keskuksen oikaisukehotukseen",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaisesti",
+        "selostus": "Uudenmaan ELY-keskus on tehnyt oikaisukehotuksen (1.12.2022), joka koskee kunnanvaltuuston päätöstä 24.10.2022 (77 §) hyväksyä Kuntakeskuksen 2. vaiheen osayleiskaava. Kehotus koskee osayleiskaavan kahta kaavamerkintää ja niiden määräyksiä (AO-1/nro ja AO-2/nro). Kyseiset kaavamerkinnät ja -määräykset ilmenevät liitteenä olevan Kirkkonummen kunnan vastauksen sivuilta 11 ja 12. Osayleiskaava toteuttaa Kirkkonummen kunnan tahtotilaa mahdollistaa ympärivuotinen asuminen Humaljärven ranta-alueella kuten lainvoimaisessa Gesterbyn ja Sepänkylän osayleiskaavassa, joka on tullut lainvoimaiseksi vuonna 2015. Kunnan vastauksessa on selvitetty Volsintien varrella sijaitsevien oikaisukehotuksen alaisten alueiden (AO-1/nro) kaavamääräyksen perusteita. Kirkkonummen kunta pitää alueiden maankäyttöä ja kaamääräyksiä lainmukaisina. Kunnanvaltuuston hyväksymässä osayleiskaavassa mahdollistetaan ranta-alueelle (AO-2/nro) enimmillään kymmenen ympärivuotista asuinrakennusta niin, että kukin maanomistaja saa toteuttaa tilallaan enimmillään yhden ympärivuotisen asuinrakennuksen. Mikäli tilalla on yhtä enemmän Kirkkonummen yleiskaavan 2020 mukaisia laskennallisia rakennuspaikkoja, voidaan ne toteuttaa loma-asuntoina. Kirkkonummen kunnan näkemys on, ettei rakentamisen määrää voida tulkita maakunnallisesti merkittäväksi. Lisäksi Kirkkonummen kunta on tullut kaavamääräyksen osalta vastaan Uudenmaan ELY-keskuksen näkemystä rajoittamalla ympärivuotisen asumisen määrää kaavaehdotuksesta. Kunta pitää kaavamerinnän määräyksiä lainmukaisina. Edellä kuvatun mukaisesti Kirkkonummen kunta pidättää kunnanvaltuuston 24.10.2022 (77 §) päätöksen voimassa sekä katsoo, että Uudenmaan ELY-keskuksen oikasukehotus on aiheeton. Asiakirjat: - Kirkkonummen kunnan vastaus Uudenmaan ELY-keskuksen oikaisukehotukseen (1.12.2022) koskien kunnanvaltuuston päätöstä hyväksyä Kuntakeskuksen 2. vaiheen osayleiskaava - Kunnan vastine ELY-keskuksen lausuntoon kaavan valmisteluaineistosta (ytl 19.11.2015, 78 §) - Muistio kunnan ja ELY-keskuksen kokouksesta 13.2.2020 - Linkki kunnanvaltuuston 24.10.2022 (77 §) hyväksymispäätökseen (sis. vastineen ELY-keskuksen lausuntoon kaavaehdotuksesta): http://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221238-4"
+      },
+      "lang": "fi",
+      "text_encoding": "repaired",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Vastine ELYn lausuntoon valmisteluaineistosta",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231339-4-87128.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Vastine ELYn lausuntoon kaavaehdotuksesta",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231339-4-87129.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Työneuvottelu ELY_muistio_13032020",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231339-4-87130.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20231339-5",
+      "ordinal": "5",
+      "title": "Kirkkonummen kunnan lausunto luonnoksesta valtion väyläverkon investointiohjelmaksi vuosille 2024-2031",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231339-5",
+      "decision": "Lautakunta päätti päätösehdotuksen mukaisesti seuraavin muutoksin: Lisäys sivulle 3 kuudenteen palluraan Kunta pitää tärkeänä vt 1 Veikkolan liittymän parantamista ja suoria ramppijärjestelyitä liittymän sillan perusparantamisen yhteydessä, JOTTA TURUNVÄYLÄÄ KULKEVAT PIKAVUOROT VOISIVAT PYSÄHTYÄ VEIKKOLAN LIITTYMÄSSÄ. Kunnan lausunnon sivu 2, 3.kpl, loppupuolella: Valtion tulisi osaltaan tukea tätä NIIN väyläverkon kehittämisellä KUIN liittymähankkeillaKIN. Lisäys sivu 3 2.pallukan perään: KEHÄ III TULISI RAKENTAA NELIKAISTAISEKSI KOKO PITUUDELTAAN. MAJVIKIN JA MASALAN ERITASOLIITTYMIEN SUUNNITTELU TULEE VÄLITTÖMÄSTI KÄYNNISTÄÄ KEHÄ III:N NELIKAISTAISUUS HUOMIOON OTTAEN Lisäys sivu 3 2.pallukkaan: TARVITTAVAT ERITASOLIITTYMÄT YKSILÖITÄVÄ! Lisäys s.4, 3.kpl: . Kanta-tie 51 (Kirkkonummi-Siuntio) JA KEHÄ III:N KAKSIKAISTAINEN OSUUS OVAT Kirkkonummen seudun vaarallisimpia tiejaksoja. tasapuolisuuteen: Suomen vilkasliikenteisimmät tiet sijaitsevat Helsingin seudulla. Tiestö ku-luu keskimääräistä nopeammin suurten liikennemäärien takia, mikä aset-taa haasteita kunnossapidolle. Myös alempitasoisen tieverkon kunnossa-pito kasvavalla Helsingin seudulla tulee turvata. Liikenneturvallisuuden, henkilöliikenteen ja tavaraliikenteen määrän merkitys tulisi tunnistaa laaja-alaisesti investointiohjelman valmistelussa",
+      "votes": [
+        {
+          "jaa": [
+            "Karkinen Ronja",
+            "Sved Ann-Christine",
+            "Jäppinen Sanni",
+            "Jäppinen Pekka"
+          ],
+          "ei": [
+            "Kaurila Matti",
+            "Valtanen Hannu",
+            "Polkko Aleksander",
+            "Kelkka Teemu",
+            "Snellman Jenny"
+          ],
+          "tyhja": [],
+          "named_by": "surname",
+          "totals": {
+            "jaa": 4,
+            "ei": 5,
+            "tyhja": 0
+          },
+          "as_written": {
+            "jaa": [
+              "Karkinen",
+              "Sved",
+              "Jäppinen S",
+              "Jäppinen P"
+            ],
+            "ei": [
+              "Kaurila",
+              "Valtanen",
+              "Polkko",
+              "Kelkka",
+              "Snellman"
+            ],
+            "tyhja": []
+          },
+          "names_from": "osallistujat",
+          "unresolved": [],
+          "parties": {
+            "jaa": {
+              "vihr": 2,
+              "rkp": 1,
+              "sdp": 1
+            },
+            "ei": {
+              "kok": 2,
+              "ps": 1,
+              "kesk": 1,
+              "rkp": 1
+            },
+            "tyhja": {}
+          }
+        },
+        {
+          "jaa": [
+            "Kaurila Matti",
+            "Kelkka Teemu",
+            "Jäppinen Sanni",
+            "Jäppinen Pekka",
+            "Karkinen Ronja"
+          ],
+          "ei": [
+            "Snellman Jenny",
+            "Sved Ann-Christine",
+            "Polkko Aleksander",
+            "Valtanen Hannu"
+          ],
+          "tyhja": [],
+          "named_by": "surname",
+          "totals": {
+            "jaa": 5,
+            "ei": 4,
+            "tyhja": 0
+          },
+          "as_written": {
+            "jaa": [
+              "Kaurila",
+              "Kelkka",
+              "Jäppinen S",
+              "Jäppinen P",
+              "Karkinen"
+            ],
+            "ei": [
+              "Snellman",
+              "Sved",
+              "Polkko",
+              "Valtanen"
+            ],
+            "tyhja": []
+          },
+          "names_from": "osallistujat",
+          "unresolved": [],
+          "parties": {
+            "jaa": {
+              "kok": 1,
+              "kesk": 1,
+              "vihr": 2,
+              "sdp": 1
+            },
+            "ei": {
+              "rkp": 2,
+              "ps": 1,
+              "kok": 1
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "esittelijän pohjaehdotusta",
+            "ei_label": "Hannu Valtasen muutosehdotusta",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": "jaa",
+            "source": "parsed",
+            "evidence": "Ne, jotka kannattavat esittelijän pohjaehdotusta, äänestävät Jaa ja ne, jotka kannattavat Hannu Valtasen muutosehdotusta äänestävät Ei — Puheenjohtaja päätti äänestyksen ja totesi äänten jakautuivat seuraavasti: 5 Jaa-ääntä (Kaurila, Kelkka, Jäppinen S., Jäppinen P., Karkinen) 4 Ei- ääntä (Snellman, Sved, Polkko, Valtanen)"
+          }
+        },
+        {
+          "jaa": [
+            "Jäppinen Sanni",
+            "Sved Ann-Christine",
+            "Karkinen Ronja"
+          ],
+          "ei": [
+            "Polkko Aleksander",
+            "Kaurila Matti",
+            "Kelkka Teemu",
+            "Valtanen Hannu",
+            "Jäppinen Pekka",
+            "Snellman Jenny"
+          ],
+          "tyhja": [],
+          "named_by": "surname",
+          "totals": {
+            "jaa": 3,
+            "ei": 6,
+            "tyhja": 0
+          },
+          "as_written": {
+            "jaa": [
+              "Jäppinen S",
+              "Sved",
+              "Karkinen"
+            ],
+            "ei": [
+              "Polkko",
+              "Kaurila",
+              "Kelkka",
+              "Valtanen",
+              "Jäppinen P",
+              "Snellman"
+            ],
+            "tyhja": []
+          },
+          "names_from": "osallistujat",
+          "unresolved": [],
+          "parties": {
+            "jaa": {
+              "vihr": 2,
+              "rkp": 1
+            },
+            "ei": {
+              "ps": 1,
+              "kok": 2,
+              "kesk": 1,
+              "sdp": 1,
+              "rkp": 1
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "esittelijän pohjaehdotusta",
+            "ei_label": "Hannu Valtasen muutosehdotusta",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": "ei",
+            "source": "parsed",
+            "evidence": "Ne, jotka kannattavat esittelijän pohjaehdotusta, äänestävät Jaa ja ne, jotka kannattavat Hannu Valtasen muutosehdotusta äänestävät Ei — Puheenjohtaja päätti äänestyksen ja totesi äänet jakautuivat seuraavasti: 6 Ei-ääntä (Polkko, Kaurila, Kelkka, Valtanen, Jäppinen P., Snellman) 3 Jaa-ääntä (Jäppinen S., Sved, Karkinen)"
+          }
+        }
+      ],
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Vaikutusten arviointi valtion väyläverkon investointi- ja suunnitteluohjelman laadinnassa Valtion väyläverkon investointiohjelma vuosille 2024-2031 Luonnos 31.1.2023 Seuranta Valtion väyläverkon investointiohjelma vuosille 2024-2031 Luonnos 31.1.2023 MAL-kaupunkiseutujen yhteisrahoitteiset hankkeet Valtion väyläverkon investointiohjelma vuosille 2024-2031 Luonnos 31.1.2023 Muut käynnissä olevat ja käynnistyvät isot hankkeet Valtion väyläverkon investointiohjelma vuosille 2024-2031 Luonnos 31.1.2023 vesiväylähankkeet Valtion väyläverkon investointiohjelma vuosille 2024-2031 Luonnos 31.1.2023 maantiehankkeet Valtion väyläverkon investointiohjelma vuosille 2024-2031 Luonnos 31.1.2023 ratahankkeet Valtion väyläverkon investointiohjelma vuosille 2024-2031 Luonnos 31.1.2023 Konsekvensbedömning vid utarbetandet av investerings- och planeringsprogrammet för statens trafikledsnät Valtion väyläverkon investointiohjelma vuosille 2024-2031 Luonnos 19.1.23 Uppföljning Valtion väyläverkon investointiohjelma vuosille 2024-2031 Luonnos 19.1.23 MBT-stadsregionernas samfinansierade projekt Valtion väyläverkon investointiohjelma vuosille 2024-2031 Luonnos 19.1.23 Andra stora pågående och startande projekt Valtion väyläverkon investointiohjelma vuosille 2024-2031 Luonnos 19.1.2023 farledsprojekt VaylaverkonInvestointiohjelma_2024_2031_2Maantiehankkeet_Luonnos_SV landsvägsprojekt Valtion väyläverkon investointiohjelma vuosille 2024-2031 Luonnos 19.1.2023 banprojekt Investment programme for state-owned transport infrastructure network for 2024-2031. Draft 31.1.2023 Kirkkonummen kunnan lausunto luonnoksesta valtion väyläverkon investointiohjelmaksi vuosille 2024-2031 Yhdyskuntatekniikan lautakunta 16.02.2023 § 25 103/08.00.00/2023",
+        "valmistelija": "Liikennesuunnittelija Marko Suni etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa Yhdyskuntatekniikan lautakunta päättää 1. esittää kunnanhallitukselle, että Kirkkonummen kunta antaa esityslistan liitteenä olevan lausunnon valtion väyläverkon investointiohjelmasta vuosille 2024-2031 Väylävirastolle. 2. tarkastaa tämän pykälän kokouksessa",
+        "kasittely": "Puheenjotaja Matti Kaurila esitti seuraavan lisäyksen: sivulle 3 kuudenteen palluraan Kunta pitää tärkeänä vt 1 Veikkolan liittymän parantamista ja suoria ramppijärjestelyitä liittymän sillan perusparantamisen yhteydessä, JOTTA TURUNVÄYLÄÄ KULKEVAT PIKAVUOROT VOISIVAT PYSÄHTYÄ VEIKKOLAN LIITTYMÄSSÄ. Teemu Kelkka, Sanni Jäppinen, Hannu Valtanen ja Jenny Snellman kannattivat ehdotusta. Puheenjohtaja totesi, että lisäystä kannatettiin yksimielisesti. Hannu Valtanen esitti seuraavat muutosehdotukset: Kunnan lausunnon sivu 2, 3.kpl, loppupuolella: Valtion tulisi osaltaan tukea tätä NIIN väyläverkon kehittämisellä KUIN liittymähankkeillaKIN. Matti Kaurila, Sanni Jäppinen, Jenny Snellman ja Pekka Jäppinen kannattivat ehdotusta. Puheenjohtaja totesi, että lisäystä kannatettiin yksimielisesti. Lisäys sivu 3 2.pallukan perään: KEHÄ III TULISI RAKENTAA NELIKAISTAISEKSI KOKO PITUUDELTAAN. MAJVIKIN JA MASALAN ERITASOLIITTYMIEN SUUNNITTELU TULEE VÄLITTÖMÄSTI KÄYNNISTÄÄ KEHÄ III:N NELIKAISTAISUUS HUOMIOON OTTAEN. Matti Kaurila, Teemu Kelkka ja Jenny Snellman kannattivat esitystä. Puheenjohtaja totesi, että esitystä ei kannateta yksimielisesti, jolloin asiasta tulee äänestää. Äänestys Puheenjohtaja käynnisti äänestyksen: Ne, jotka kannattivat esittelijän pohjaehdotusta, äänestävät jaa ja ne, jotka kannattavat Hannu Valtasen muutosehdotusta, äänestävät Ei. Puheenjohtaja päätti äänestyksen ja totesi äänet jakautuivat seuraavasti: 4 Jaa-ääntä ( Karkinen, Sved, Jäppinen S., Jäppinen P.) 5 Ei-ääntä (Kaurila, Valtanen, Polkko, Kelkka, Snellman), jolloin Hannu Valtasen esitys voitti. Lisäys sivu 3 2.pallukkaan: TARVITTAVAT ERITASOLIITTYMÄT YKSILÖITÄVÄ! Matti Kaurila ja Pekka Jäppinen kannattivat esitystä. Puheenjohtaja totesi, että lisäystä kannatettiin yksimielisesti. Lisäys sivu 4 1.kpl : KAUKLAHDESTA MASALAAN SUUNNITELLUN TOISEN RATAPARIN SUUNNITTELU TULEE KÄYNNISTÄÄ. MYÖS YKSIRATAISELLE RATAOSUUDELLE (KIRKKONUMMI - KUPITTAA) TARPEELLISTEN OHITUSRAITEIDEN SELVITYSTYÖ TULEE KÄYNNISTÄÄ. Jenny Snellman kannatti esitystä. Puheenjohtaja totesi, että esitystä ei kannateta yksimielisesti, jolloin asiasta tulee äänestää. Äänestys: Puheenjohtaja käynnisti äänestyksen: Ne, jotka kannattavat esittelijän pohjaehdotusta, äänestävät Jaa ja ne, jotka kannattavat Hannu Valtasen muutosehdotusta äänestävät Ei. Puheenjohtaja päätti äänestyksen ja totesi äänten jakautuivat seuraavasti: 5 Jaa-ääntä (Kaurila, Kelkka, Jäppinen S., Jäppinen P., Karkinen) 4 Ei- ääntä (Snellman, Sved, Polkko, Valtanen), jolloin pohjaehdotus voitti. Lisäys s.4, 3.kpl: . Kanta-tie 51 (Kirkkonummi-Siuntio) JA KEHÄ III:N KAKSIKAISTAINEN OSUUS OVAT Kirkkonummen seudun vaarallisimpia tiejaksoja. Matti Kaurila ja Teemu Kelkka kannattivat esitystä. Puheenjohtaja totesi, että esitystä ei kannateta yksimielisesti, jolloin asiasta tulee äänestää. Äänestys Puheenjohtaja käynnisti äänestyksen. Ne, jotka kannattavat esittelijän pohjaehdotusta, äänestävät Jaa ja ne, jotka kannattavat Hannu Valtasen muutosehdotusta äänestävät Ei. Puheenjohtaja päätti äänestyksen ja totesi äänet jakautuivat seuraavasti: 6 Ei-ääntä (Polkko, Kaurila, Kelkka, Valtanen, Jäppinen P., Snellman) 3 Jaa-ääntä (Jäppinen S., Sved, Karkinen), jolloin Hannu Valtasen ehdotus voitti. Pekka Jäppinen teki seuraavan vastaesityksen, tasapuolisuuteen: Suomen vilkasliikenteisimmät tiet sijaitsevat Helsingin seudulla. Tiestö ku-luu keskimääräistä nopeammin suurten liikennemäärien takia, mikä aset-taa haasteita kunnossapidolle. Myös alempitasoisen tieverkon kunnossa-pito kasvavalla Helsingin seudulla tulee turvata. Liikenneturvallisuuden, henkilöliikenteen ja tavaraliikenteen määrän merkitys tulisi tunnistaa laaja-alaisesti investointiohjelman valmistelussa. Sanni Jäppinen, Jenny Snellman, Ronja Karkinen, Teemu Kelkka ja Hannu Valtanen kannattivat esitystä. Puheenjohtaja totesi, että esitystä kannatettiin yksimielisesti. Kunnanarkkitehti Tero Luomajärvi poistui 18.41 ja kaavoitusarkkitehti Seppo Mäkinen poistui pykälän käsittelyn aikana klo 18.48. Liikennesuunnittelija Marko Suni poistui pykälän käsittelyn jälkeen klo 19.47. Lautakunta päätti pitää tauon pykälän käsittelyn jälkeen klo 19.47- 19.54",
+        "paatos": "Lautakunta päätti päätösehdotuksen mukaisesti seuraavin muutoksin: Lisäys sivulle 3 kuudenteen palluraan Kunta pitää tärkeänä vt 1 Veikkolan liittymän parantamista ja suoria ramppijärjestelyitä liittymän sillan perusparantamisen yhteydessä, JOTTA TURUNVÄYLÄÄ KULKEVAT PIKAVUOROT VOISIVAT PYSÄHTYÄ VEIKKOLAN LIITTYMÄSSÄ. Kunnan lausunnon sivu 2, 3.kpl, loppupuolella: Valtion tulisi osaltaan tukea tätä NIIN väyläverkon kehittämisellä KUIN liittymähankkeillaKIN. Lisäys sivu 3 2.pallukan perään: KEHÄ III TULISI RAKENTAA NELIKAISTAISEKSI KOKO PITUUDELTAAN. MAJVIKIN JA MASALAN ERITASOLIITTYMIEN SUUNNITTELU TULEE VÄLITTÖMÄSTI KÄYNNISTÄÄ KEHÄ III:N NELIKAISTAISUUS HUOMIOON OTTAEN Lisäys sivu 3 2.pallukkaan: TARVITTAVAT ERITASOLIITTYMÄT YKSILÖITÄVÄ! Lisäys s.4, 3.kpl: . Kanta-tie 51 (Kirkkonummi-Siuntio) JA KEHÄ III:N KAKSIKAISTAINEN OSUUS OVAT Kirkkonummen seudun vaarallisimpia tiejaksoja. tasapuolisuuteen: Suomen vilkasliikenteisimmät tiet sijaitsevat Helsingin seudulla. Tiestö ku-luu keskimääräistä nopeammin suurten liikennemäärien takia, mikä aset-taa haasteita kunnossapidolle. Myös alempitasoisen tieverkon kunnossa-pito kasvavalla Helsingin seudulla tulee turvata. Liikenneturvallisuuden, henkilöliikenteen ja tavaraliikenteen määrän merkitys tulisi tunnistaa laaja-alaisesti investointiohjelman valmistelussa",
+        "selostus": "Väyläviraston lausuntopyyntö 1.2.2023 (VÄYLÄ/150/04.00/2023) Väyläverkon investointiohjelman lähtökohdat ja periaatteet Väylävirasto pyytää lausuntoja luonnoksesta valtion väyläverkon investointiohjelmaksi vuosille 2024 - 2031. Lausunto on pyydetty toimittamaan www.lausuntopalvelu.fi -sivuston kautta 28.2.2023 mennessä. Väylävirasto on laatinut osana Valtakunnallisen liikennejärjestelmäsuunnitelman (Liikenne 12) toimeenpanoa järjestyksessään kolmannen valtion väyläverkon 8-vuotisen investointiohjelman. Vuosia 2024 - 2031 koskeva investointiohjelma on Väyläviraston tietoon perustuva ehdotus rata-, maantie- ja vesiväylähankkeiden toteuttamisesta ja niiden vaikutuksista. Investointiohjelma päivitetään vuosittain liikenneverkon strategisen tilannekuvan päivityksen jälkeen, ennen seuraavan vuoden talousarviovalmistelua, sekä aina Liikenne 12 -suunnitelman päivittämisen jälkeen. Eduskunta päättää investointiohjelman kehittämishankkeiden toteuttamisesta. Investointiohjelmassa esitetään lähivuosien tärkeimmät liikenneinfrahankkeet ja sitä hyödynnetään mm. talousarvioesityksen valmistelussa. Investointiohjelma sisältää kehittämishankkeita, isoja peruskorjaushankkeita ja hankekokonaisuuksia sekä merkittäviä pienempiä parantamishankkeita. Hankeyhtiöiden kautta rahoitettavat ja jo päätetyt kehittämishankkeet, Digirata sekä merkittävin osa perusväylänpidon momentilta rahoitettavista toimenpiteistä eivät sisälly investointiohjelmaan. Liikenne- ja viestintävirasto Traficomin julkaisema Liikenneverkon strateginen tilannekuva on yksi tärkeä lähtökohta investointiohjelman laatimiselle. Strateginen tilannekuva sisältää kuitenkin enemmän väyläverkon tarpeita kuin mihin investointiohjelman rahoitustasolla ja ajanjaksolla voidaan vastata. Siksi myös tilannekuvan mukaisia hankkeita joudutaan priorisoimaan tehokkuuden ja vaikuttavuuden perusteella. Investointiohjelma perustuu vaikutusten arvioinnin tuottamaan tietoon. Vaikutusten arvioinnissa on tunnistettu kunkin hankkeen merkittävät vaikutukset. Arvioidut kokonaisvaikutukset kertovat sen, kuinka investointiohjelma kaikkiaan toteuttaa Liikenne 12 -suunnitelmaa ja sen tavoitteita, ja toisaalta sen, mitä linjauksia ohjelma ei tue. Investointiohjelman hankkeet ovat valikoituneet hankekoreihin (1A ja 1B) hankkeen kiireellisyyden ja toteuttamisvalmiuden mukaan. Hankekorin 1A hankkeiden suunnitelmavalmius on riittävä tai kiireellisiä. Hankekorin 1B hankkeet edellyttävät jatkosuunnittelua ennen toteuttamista. Kirkkonummen alueelle ei ole esitetty merkittäviä kehittämishankkeita, eikä isoja peruskorjaushankkeita. Pienimpiä kohteita ei käsitellä ohjelmassa. Lausunnossa keskitytään merkittäviin investointiohjelmatason hankkeisiin . MAL-kaupunkiseutujen yhteisrahoitteiset hankkeet eivät sisälly investointiohjelmaan, koska niihin käytettävissä oleva rahoitus ei ole tiedossa. Investointiohjelman talouskehys Investointiohjelman talouskehys perustuu Liikenne 12 -suunnitelman taloudelliseen kehykseen ja rahoituksen kohdentamista koskeviin linjauksiin. Investointiohjelman talouskehys tarkistetaan ja päivitetään Liikenne 12 -suunnitelman päivityksen yhteydessä, ja ohjelmaa toteutetaan kulloinkin käytettävissä olevan rahoituksen mukaisesti. Investointiohjelman uusiin kehittämisinvestointeihin on käytettävissä yhteensä noin 3 miljardia eli 3 000 miljoonaa euroa vuosina 2024-2031. Tästä rahoituksesta kohdistuu maanteille noin 1 200 miljoonaa euroa, rautateille noin 1 600 miljoonaa euroa ja vesiväylille noin 200 miljoonaa euroa. Investointiohjelman rahoituksen toteutuminen riippuu kehys- ja talousarviopäätöksistä. Lisäksi investointiohjelmaan sisältyy perusväylänpidon parantamishankkeita noin 755 miljoonan euron edestä. Tästä rahoituksesta kohdistuu maanteille noin 310 miljoonaa euroa, rautateille noin 420 miljoonaa euroa ja vesiväylille noin 25 miljoonaa euroa. Kehittämisen luvut sisältävät 450 milj. euroa jatkuvien hankkeiden rahoitusta vuodesta 2032 eteenpäin. Jatkuvista hankkeista voidaan tehdä hankepäätökset ennen vuotta 2032, mutta rahoituksen käyttö kohdistuu osittain vuodesta 2032 eteenpäin. Yhteisrahoituksella toteutettaviin MAL-kaupunkiseutujen hankkeisiin on varattu Liikenne 12 -suunnitelman mukaisesti 661 miljoonaa euroa. Rahoitus pitää sisällään kahden seuraavan MAL-sopimuskierroksen toimenpiteiden (2024-2032) valtion rahoituksen seitsemällä MAL-seudulla. Väylävirasto pyytää jatkotyön pohjaksi lausuntoja erityisesti seuraavista asioista: Onko mielestänne investointiohjelmassa kokonaisuutena onnistuttu vastaamaan sille asetettuihin tavoitteisiin ja muuttuneeseen toimintaympäristöön? Ovatko investointiohjelman perustelut vaikutusten kautta tasapuoliset ja selkeät? Miten muuttaisitte investointiohjelmaa Liikenne 12 mukaisen liikennemuotokohtaisen talouskehyksen puitteissa ja miten perustelette muutosten paremmat vaikutukset? Miten kehittäisitte investointiohjelman laatimisen prosessia, sen päivittämistä ja seurantaa? Minkä investointiohjelman ulkopuolisten kohteiden suunnittelua tulisi vaikuttavuuden perusteella edistää lähivuosina investointiohjelman tulevia päivityskierroksia varten? Miten muuten haluatte kommentoida investointiohjelmaa? Väylävirasto pyytää toimittamaan lausunnot Lausuntopalvelun kautta, https://www.lausuntopalvelu.fi/FI/Proposal/Participation?proposalId=6f42f622-c926-4c0b-b113-d0a260c71a36"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Vaikutusten arviointi valtion väyläverkon investointi- ja suunnitteluohjelman laadinnassa",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231339-5-87293.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtion väyläverkon investointiohjelma vuosille 2024-2031 Luonnos 31.1.2023 Seuranta",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231339-5-87289.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtion väyläverkon investointiohjelma vuosille 2024-2031 Luonnos 31.1.2023 MAL-kaupunkiseutujen yhteisrahoitteiset hankkeet",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231339-5-87290.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtion väyläverkon investointiohjelma vuosille 2024-2031 Luonnos 31.1.2023 Muut käynnissä olevat ja käynnistyvät isot hankkeet",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231339-5-87288.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtion väyläverkon investointiohjelma vuosille 2024-2031 Luonnos 31.1.2023 vesiväylähankkeet",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231339-5-87292.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtion väyläverkon investointiohjelma vuosille 2024-2031 Luonnos 31.1.2023 maantiehankkeet",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231339-5-87296.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtion väyläverkon investointiohjelma vuosille 2024-2031 Luonnos 31.1.2023 ratahankkeet",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231339-5-87294.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtion väyläverkon investointiohjelma vuosille 2024-2031 Luonnos 31.1.2023",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231339-5-87291.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Konsekvensbedömning vid utarbetandet av investerings- och planeringsprogrammet för statens trafikledsnät",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231339-5-87297.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtion väyläverkon investointiohjelma vuosille 2024-2031 Luonnos 19.1.23 Uppföljning",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231339-5-87295.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtion väyläverkon investointiohjelma vuosille 2024-2031 Luonnos 19.1.23 MBT-stadsregionernas samfinansierade projekt",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231339-5-87300.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtion väyläverkon investointiohjelma vuosille 2024-2031 Luonnos 19.1.23 Andra stora pågående och startande projekt",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231339-5-87298.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtion väyläverkon investointiohjelma vuosille 2024-2031 Luonnos 19.1.2023 farledsprojekt",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231339-5-87299.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "VaylaverkonInvestointiohjelma_2024_2031_2Maantiehankkeet_Luonnos_SV landsvägsprojekt",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231339-5-87303.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtion väyläverkon investointiohjelma vuosille 2024-2031 Luonnos 19.1.2023 banprojekt",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231339-5-87301.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Investment programme for state-owned transport infrastructure network for 2024-2031. Draft 31.1.2023",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231339-5-87302.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Hannu Valtanen",
+          "kind": "vastaehdotus",
+          "text": "Kunnan lausunnon sivu 2, 3.kpl, loppupuolella: Valtion tulisi osaltaan tukea tätä NIIN väyläverkon kehittämisellä KUIN liittymähankkeillaKIN. Matti Kaurila, Sanni Jäppinen, Jenny Snellman ja Pekka Jäppinen kannattivat ehdotusta",
+          "source": "introduction",
+          "party": "kok"
+        },
+        {
+          "proposer": "Pekka Jäppinen",
+          "kind": "vastaehdotus",
+          "text": ", tasapuolisuuteen: Suomen vilkasliikenteisimmät tiet sijaitsevat Helsingin seudulla. Tiestö ku-luu keskimääräistä nopeammin suurten liikennemäärien takia, mikä aset-taa haasteita kunnossapidolle. Myös alempitasoisen tieverkon kunnossa-pito kasvavalla Helsingin seudulla tulee turvata. Liikenneturvallisuuden, henkilöliikenteen ja tavaraliikenteen määrän merkitys tulisi tunnistaa laaja-alaisesti investointiohjelman valmistelussa. Sanni Jäppinen, Jenny Snellman, Ronja Karkinen, Teemu Kelkka ja Hannu Valtanen kannattivat esitystä",
+          "source": "introduction",
+          "party": "sdp"
+        }
+      ]
+    },
+    {
+      "id": "20231339-6",
+      "ordinal": "6",
+      "title": "Maanvuokraus matkaviestintukiasemalle kiinteistöllä 257-486-1-445, Laajakallio",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231339-6",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko Maanvuokrasopimus Laajakallio_Telia Towers Finland Oy Maanvuokraus matkaviestintukiasemalle kiinteistöllä 257-486-1-445, Laajakallio Yhdyskuntatekniikan lautakunta 16.02.2023 § 26 69/10.00.02/2023",
+        "valmistelija": "maankäyttöasiantuntija Erika Märkälä, kunnangeodeetti Otso Kärkkäinen etunimi.sukunimi@kirkkonummi.fi, puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa Yhdyskuntatekniikan lautakunta 1 päättää vuokrata Telia Towers Finland Oy:lle, y-tunnus 2933075-9, liitteenä olevan maanvuokrasopimuksen ehdoin kiinteistöön 257-486-1-445 kuuluvan noin 130 m2:n suuruisen alueen maanvuokralain (258/66) 5 luvun tarkoittamalla tavalla käytettäväksi matkaviestintukiaseman ja sen laiterakennuksen ja kääntöpaikan sijoittamista varten määräaikaisena ajalla 1.7.2023 - 31.12.2038. Elinkustannusindeksiin sidottu perusvuokra on 750 euroa vuodessa. Maanvuokrasopimus tulee voimaan vasta molempien sopimusosapuolten allekirjoituksella. 2 päättää oikeuttaa ja valtuuttaa yhdyskuntatekniikan johtajan tekemään sopimukseen vähäisiä tarkistuksia ja allekirjoittamaan sopimuksen",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaisesti",
+        "tiedoksi": "Telia Towers Finland Oy c/o Rejlers Finland Oy / Veikko Erola",
+        "selostus": "Tonttipalvelut on neuvotellut Telia Towers Finland Oy:n kanssa matkaviestintukiaseman sijoittamista varten tarvittavan maanvuokrasopimuksen kiinteistöllä 257-486-1-445 Laajakalliossa. Vuokra-alueelle rakennetaan uusi 42 metriä korkea vapaasti seisova putkiristikkomasto ja noin 8,5 m 2 :n laiterakennus sekä näille johtava huoltotie ja kääntöpaikka. Vuokra-alue on asemakaavassa lähivirkistysalue-metsää (kaavamerkintä VL-M). Vuokra-aika on määräaikainen 15,5 vuotta alkaen 1.7.2023. Vuokra-alueelle kulku tapahtuu Ukonvaajantien päästä rakennettavaa noin neljä metriä leveää huoltotietä pitkin. Huoltotien alkupäähän asennetaan liikennemerkki 312 \"moottorikäyttöisellä ajoneuvolla ajo kielletty\" lisäkilvellä \"huoltoajo sallittu\". Vuokralainen vastaa liikennemerkin asentamisen kustannuksista. Esityslistan liite: maanvuokrasopimus Esityslistan oheismateriaali: kuvaesitys"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Maanvuokrasopimus Laajakallio_Telia Towers Finland Oy",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231339-6-87122.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20231339-7",
+      "ordinal": "7",
+      "title": "Maanvuokraus matkaviestintukiasemalle kiinteistöllä 257-420-1-8, Jolkby",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231339-7",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko Maanvuokrasopimus Jolkby_DNA Tower Finland Oy Maanvuokraus matkaviestintukiasemalle kiinteistöllä 257-420-1-8, Jolkby Yhdyskuntatekniikan lautakunta 16.02.2023 § 27 70/10.00.02/2023",
+        "valmistelija": "maankäyttöasiantuntija Erika Märkälä, kunnangeodeetti Otso Kärkkäinen etunimi.sukunimi@kirkkonummi.fi, puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa Yhdyskuntatekniikan lautakunta 1 päättää vuokrata DNA Tower Finland Oy:lle, y-tunnus 3209137-3, liitteenä olevan maanvuokrasopimuksen ehdoin kiinteistöön 257-420-1-8 kuuluvan noin 100 m2:n suuruisen alueen maanvuokralain (258/66) 5 luvun tarkoittamalla tavalla käytettäväksi matkaviestintukiaseman ja sen laiterakennuksen ja kääntöpaikan sijoittamista varten määräaikaisena ajalla 1.7.2023 - 31.12.2038. Elinkustannusindeksiin sidottu perusvuokra on 750 euroa vuodessa. Maanvuokrasopimus tulee voimaan vasta molempien sopimusosapuolten allekirjoituksella. 2 päättää oikeuttaa ja valtuuttaa yhdyskuntatekniikan johtajan tekemään sopimukseen vähäisiä tarkistuksia ja allekirjoittamaan sopimuksen",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaisesti",
+        "tiedoksi": "Telia Towers Finland Oy c/o Rejlers Finland Oy / Veikko Erola",
+        "selostus": "Tonttipalvelut on neuvotellut DNA Tower Finland Oy:n kanssa matkaviestintukiaseman sijoittamista varten tarvittavan maanvuokrasopimuksen kiinteistöllä 257-420-1-8 Jolkbyssä. Vuokra-alueelle rakennetaan uusi 42 metriä korkea vapaasti seisova putkiristikkomasto ja noin 8,5 m 2 :n laiterakennus sekä näille johtava huoltotie ja kääntöpaikka. Vuokra-alue on Killinmäen asemakaavassa (vahvistettu v. 1976) luonnontilassa säilytettävää puistoaluetta (kaavamerkintä PL). Vuokra-aika on määräaikainen 15,5 vuotta alkaen 1.7.2023. Vuokra-alueelle kulku tapahtuu Susitien päästä rakennettavaa noin neljä metriä leveää huoltotietä pitkin. Huoltotien alkupäähän asennetaan liikennemerkki 312 \"moottorikäyttöisellä ajoneuvolla ajo kielletty\" lisäkilvellä \"huoltoajo sallittu\". Vuokralainen vastaa liikennemerkin asentamisen kustannuksista. Vuokralainen vastaa kustannuksellaan huoltotien liittymän merkitsemisestä maastoon aurausviitoituksella. Esityslistan liite: maanvuokrasopimus Esityslistan oheismateriaali: kuvaesitys"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Maanvuokrasopimus Jolkby_DNA Tower Finland Oy",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231339-7-87019.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20231339-8",
+      "ordinal": "8",
+      "title": "Yhdyskuntatekniikan lautakunnan toimintakertomus vuodelta 2022",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231339-8",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko Yhdyskuntatekniikan lautakunnan toimintakertomus vuodelta 2022 Yhdyskuntatekniikan lautakunnan toimintakertomus vuodelta 2022 Yhdyskuntatekniikan lautakunta 16.02.2023 § 28 49/02.02.02/2022",
+        "valmistelija": "Talousjohtaja Esa Lindell, yhdyskuntatekniikan johtaja Anna-Kaisa Kauppinen, kunnanarkkitehti Tero Luomajärvi, kuntatekniikkapäällikkö Toni Keski-Lusa, kunnangeodeetti Otso Kärkkäinen, hallintopäällikkö Sirpa Salminen , etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa Yhdyskuntatekniikan lautakunta päättää hyväksyä liitteen mukaisesti 1 vuoden 2022 toimintakertomuksen ja lähettää sen edelleen kunnanhallituksen ja -valtuuston käsiteltäväksi 2 vuoden 2022 sisäisen valvonnan suunnitelman toteutumisen",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaisesti",
+        "selostus": "Kuntalain (410/2015) 115 §:n mukaan toimintakertomuksessa on esitettävä selvitys valtuuston asettamien toiminnan ja talouden tavoitteiden toteutumisesta kunnassa ja kuntakonsernissa. Toimintakertomuksessa on myös annettava tietoja sellaisista kunnan ja kuntakonsernin talouteen liittyvistä olennaisista asioista, jotka eivät käy ilmi kunnan tai kuntakonsernin taseesta, tuloslaskelmasta tai rahoituslaskelmasta. Tällaisia asioita ovat ainakin arvio todennäköisestä tulevasta kehityksestä sekä tiedot sisäisen valvonnan ja riskienhallinnan järjestämisestä ja keskeisistä johtopäätöksistä. Kunnanvaltuusto hyväksyi 13.12.2021 § 135 vuoden 2021 talousarvion ja taloussuunnitelman vuosille 2023-2024. Yhdyskuntatekniikan lautakunta hyväksyi puolestaan vuoden 2022 käyttösuunnitelman 20.1.2022 § 4. Kunnanvaltuusto päätti 12.12.2022 § 104 myöntää yhdyskuntatekniikan lautakunnan toimintakatteeseen 331 000 euron lisämäärärahan. Kunnanvaltuusto hyväksyi samassa kokouksessa 106 §, että liikenneväylät ja puistot hankekokonaisuudelle hankkeen Vesitorninmäki länsiosa: Jokiniityntie vuonna 2022 toteutettavaksi sekä sille siirrettäväksi hankkeelta Sarvvikinranta määrärahoja 24 000 € takuuaikaisten viherhoitotöiden kustantamista varten Yhdyskuntatekniikan lautakunnan talousarvion sitovuus valtuustoon nähden on kunnanvaltuuston päätöksen mukaan 9 017 189 € muutettu ulkoinen toimintakate eli tuloarvioiden ja menomäärärahojen erotus. Valtuuston hyväksymässä talousarviossa on ohjeellisena esitetty myös tulosalueiden tuotot, kulut ja toimintakatteet sekä sisäiset erät. Toimielinsitovuudesta poiketen joukkoliikenteen palveluryhmä on valtuustoon nähden erikseen sitova. Hankeryhmätasolla sitovia määrärahoja ovat liikenneväylät ja puistot, liikunta- ja virkistysalueet sekä muut kiinteät rakenteet ja laitteet. Liikenneväylät ja puistot sekä liikunta- ja virkistysalueet hankeryhmien määrärahaa saa käyttää muihin taloussuunnitelmavuosien hankkeisiin kunnanhallituksen päätöksellä, jos talousarviovuoden jonkin hankkeen toteuttamista ei ole voitu aloittaa. Kunnanvaltuuston hyväksymään talousarvioon sisältyy sitovia toiminnallisia tavoitteita, toimintaa kuvaavia tunnuslukuja sekä sisäisen valvonnan suunnitelma, joiden toteutumaa on seurattu myös osavuosikatsauksessa. Esityslistan liitteeltä yhdyskuntatekniikan lautakunnan toimintakertomus 2022 ilmenee toimielimen sitovien toiminnallisten ja taloudellisten tavoitteiden toteutumat, toimintaympäristön muutoksia koskevat kuvaukset sekä tunnusluvut ja suoritteet"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Yhdyskuntatekniikan lautakunnan toimintakertomus vuodelta 2022",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231339-8-87576.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20231339-9",
+      "ordinal": "9",
+      "title": "Talousarvion investointiosan määrärahamuutos, tievalaistuksen rakentaminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231339-9",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "Projektipäällikkö Hannu Ruhanen etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa Yhdyskuntatekniikan lautakunta päättää esittää kunnanhallitukselle, että talousarvion investointiosan hankkeelle tievalaistuksen rakentaminen, kohteet Österbyntie ja Lamminpääntie siirretään 150.000,00 euron määräraha investointiosan hankkeelta Kolabacken",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaisesti",
+        "selostus": "Tievalaistuksen vuoden 2022 rakennusurakka käsitti kohteet Österbyntie välillä Pähkinätie- Aavaranta ja Lamminpääntien välillä nro. 280- kunnan raja. Kohteiden oli määrä valmistua vuoden 2022 aikana eikä niille näin ollen varattu määrärahaa vuodelle 2023. Kohteet ovat kuitenkin myöhästyneet ja rakentaminen venyy vuoden 2023 keväälle. Tästä syystä hankkeelle esitetään siirrettäväksi 150.000,00 € Kolabackenin hankkeelta, joka ei ole vielä käynnistynyt rakentamisen osalta"
+      },
+      "lang": "fi",
+      "text_encoding": "repaired",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231339-10",
+      "ordinal": "10",
+      "title": "Vastaus valtuustoaloitteeseen 8/2022: Kunnan frisbeegolfratojen jätehuolto",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231339-10",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "initiative": {
+        "ref": "8/2022",
+        "proposer": "Perussuomalaisten Kirkkonummen valtuustoryhmä",
+        "party": "ps",
+        "name": null
+      },
+      "sections": {
+        "valmistelija": "Kunnossapitopäällikkö Annika Selart etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa Yhdyskuntatekniikan lautakunta päättää 1 antaa tekstiosassa mainitun selvityksen vastauksenaan valtuustoaloitteeseen 8/2022 2 ehdottaa kunnanhallitukselle, että kunnanhallitus antaa kunnallistekniikkapalveluiden selvityksen edelleen vastauksenaan kunnanvaltuustolle 3 että kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto pitää annettua vastausta riittävänä ja aloitetta loppuun käsiteltynä",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaisesti",
+        "selostus": "Kunnallistekniikkapalvelut vastaavat yleisten alueiden, kuten katujen, torien, liikennealueiden, puistojen, leikkipaikkojen, viheralueiden, lähivirkistysalueiden sekä maa- ja metsäomaisuuden investointirakentamisesta sekä hoidosta ja ylläpidosta. Toiminnan painopistealueet ovat asemakaava-alueiden yllä- ja kunnossapitotehtävät. Haastavassa kuntatalouden tilanteessa kunnallistekniikan kunnossapidon ja korjaamisen määrärahoja kohdistetaan tärkeimpiin toimenpiteisiin ja tämä vaikuttaa kunnossapidon tasoon. Kunnallistekniikkapalveluiden strategiana on palvella kuntalaisia kustannustehokkaasti ja laatukkaasti. Palveluja tarjotaan tasapuolesesti sidosryhmille. Sen mukaan kunnallistekniikkapalvelut pitäisi tarjota kustannuksellamme jätehuoltoja kaikille Kirkkonummen kunnan alueella toimiville omatoimisille yhdistyksille. Kunnallistekniikkapalveluilla ei ole taloudellisia edellytyksiä lisätä roskakoreja. Roskakorien asentamisen lisäksi kuluja tulee tyhjentämisestä ja ylläpitotoimesta. Myös ilkivallasta saattaa koitua ylimääräsiä kustannuksia. Uuden roskiksen asentamisen ja ylläpidon kustannukset ovat seuraavat: Nro Tuote Hinta 1 Roska-astia (City 100) 840 € 2 Upotettava metallijalusta malleihin City ja Novus 60-120 260 € 3 Asennustyö 100 € 4 Tyhjennys (15€/viikko) 780 € (52 vko) 5 Roskiksen kunnossapito / vuosi 100€ Yhteensä 2080 € (alv 0%) Kunnallistekniikkapalvelut ehdottaa, että tarjotaan kustannuksellamme frisbeegolfratojen yhdistykselle roska-astian ja tarvittavat tarvikkeet. Roska-astian asennus, tyhjennys ja ylläpito jäisivät yhdistyksen vastuulle. Kunnallistekniikkapalveluiden talosarvioon on varattu talkooavustus määräraha 40 000 € avustuksille ( määräraha on alustavasti jaettu seuraavasti: kuntalasiten, yhdistysten ja yhteisöjen haettavaksi yleisten alueiden ympäristön paranatmiseen 20 000 € ja nuorisoseura- ja yhdistystalojen peruskorjaukseen 20 000 €). Suosittelemme frisbeegolfratojen yhdistyksellä hakemaan talkooavustusta jätehuollon ylläpitämiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231339-11",
+      "ordinal": "11",
+      "title": "Ilmoitusasioita tiedoksi",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231339-11",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "Virkanimeke Etunimi Sukunimi, etunimi.sukunimi@kirkkonummi.fi Korkeimman hallinto-oikeuden päätös 390/2023: Asemakaavan hyväksymistä koskeva valituslupahakemus, Finnträskin suojeluyhdistys ry, valituslupaa ei myönnetty",
+        "paatosehdotus": "Yhdyskuntatekniikan lautakunta merkitsee ilmoitusasiat tiedokseen",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    }
+  ],
+  "id": "20231339",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20231339"
+}

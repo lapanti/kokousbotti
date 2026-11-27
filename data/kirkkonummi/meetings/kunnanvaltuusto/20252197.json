@@ -1,0 +1,831 @@
+{
+  "title": "Kunnanvaltuusto Pöytäkirja 17.11.2025 klo 18:00 - 20:40 ⁄ Tarkastettu Kirkkonummen kunnantalo, Kirkkonummi-sali | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Kunnanvaltuusto",
+  "doctype": "Pöytäkirja",
+  "date": "2025-11-17",
+  "items": [
+    {
+      "id": "20252197-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252197-1",
+      "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Kokous todettiin lailliseksi ja päätösvaltaiseksi",
+        "selostus": "Kunnanvaltuuston kokouskutsu on julkaistu kunnan verkkosivulla 12.11.2025. Samana päivänä kutsu on toimitettu valtuutetuille ja varavaltuutetuille"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252197-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252197-2",
+      "decision": "Pöytäkirjantarkastajiksi valittiin Minna Enqvist ja Jani Ekman",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanvaltuusto päättää valita kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan",
+        "paatos": "Pöytäkirjantarkastajiksi valittiin Minna Enqvist ja Jani Ekman"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252197-3",
+      "ordinal": "3",
+      "title": "Kirkkonummen kunnan vuoden 2025 II osavuosikatsaus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252197-3",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Numero Otsikko 1\n1 Osavuosikatsaus II 2025 (pdf 10.45 mb) Kokousasian teksti Kirkkonummen kunnan vuoden 2025 II osavuosikatsaus Kunnanvaltuusto 17.11.2025 § 104 311/02.02.02/2025",
+        "paatosehdotus": "Kunnanhallitus antaa osavuosikatsauksen kunnanvaltuustolle tiedoksi",
+        "kasittely": "Talousjohtaja Esa Lindell esitteli asiaa",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti päätösehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": "Liite 1",
+          "title": "Osavuosikatsaus II 2025",
+          "size": "pdf 10.45 mb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252197-3-132137.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20252197-4",
+      "ordinal": "4",
+      "title": "Kunnan tuloveroprosentin vahvistaminen vuodelle 2026",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252197-4",
+      "decision": "Kunnanvaltuusto päätti päätösehdotuksen mukaisesti",
+      "votes": [
+        {
+          "jaa": [
+            "Kilappa Antti",
+            "Lindgren Viveca",
+            "Frantsi-Lankia Marjut",
+            "Orko Maarit",
+            "Lankia Eero",
+            "Väisänen Veera",
+            "Granström Anneli",
+            "Taussi Henri",
+            "Kaurila Matti",
+            "Björk Tony",
+            "Huhmarniemi Saara",
+            "Jeremejew Miisa",
+            "Ekman Jani",
+            "Karkinen Ronja",
+            "Piili Noora",
+            "Sahiluoma Anna",
+            "Lahti Jukka",
+            "Vasenius Thomas",
+            "Aallonharja Piia",
+            "Jäppinen Sanni",
+            "Kjerin Ulf",
+            "Ragnell Sami",
+            "Korkman Nadia",
+            "Björkroth Sofia",
+            "Tapio Suvi",
+            "Aintila Anna",
+            "Adlercreutz Anders",
+            "Frimodig Josephine",
+            "Felipe Sini",
+            "Kähkönen Jani",
+            "Ronkainen Tuovi",
+            "Hakapää Minna",
+            "Kiukas Maiju",
+            "Lankinen Arttu",
+            "Kock Fredrik",
+            "Liljequist Kim",
+            "Haapaniemi Timo",
+            "Kettunen Noora",
+            "Blom Urho",
+            "Valtonen Martin",
+            "Suominen Tero",
+            "Valli Lauri",
+            "Hedberg Hans",
+            "Lahti Viveca",
+            "Engström Miika",
+            "Ylitolonen Oona",
+            "Lavanti Lauri",
+            "Kari Marko",
+            "Åström Kim"
+          ],
+          "ei": [
+            "Niemi Edla",
+            "Enqvist Minna"
+          ],
+          "tyhja": [],
+          "totals": {
+            "jaa": 49,
+            "ei": 2,
+            "tyhja": 0
+          },
+          "parties": {
+            "jaa": {
+              "prok": 4,
+              "kok": 14,
+              "kesk": 2,
+              "vihr": 7,
+              "ps": 4,
+              "rkp": 11,
+              "sdp": 6,
+              "kd": 1
+            },
+            "ei": {
+              "vas": 2
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta",
+            "ei_label": "Edla Niemen vastaehdotusta",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": "jaa",
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattava Edla Niemen vastaehdotusta äänestävät EI — annettiin 49 JAA ja 2 EI ääntä."
+          }
+        }
+      ],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto 1 vahvistaa vuoden 2026 tuloveroprosentiksi 7,1 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "kasittely": "Talousjohtaja Esa Lindell esitteli asiaa. Puheenjohtaja julisti keskustelun päättyneeksi ja totesi, että keskustelun aikana Edla Niemi on tehnyt seuraavan vastaehdotuksen: Kunnallisveroa korotetaan 0,2 prosenttiyksikköä 7,3%iin. Kirkkonummi tavoittelee taloudellista tasapainoa ja vuosittain ylijäämäistä tulosta, jotta kunta pystyy vastaamaan investointeihin liittyvään velkamäärän ja korkokulujen kasvuun. Ylijäämäisen tuloksen saavuttaminen edellyttää veroprosentin maltillista korottamista siten, että peruspalveluiden rahoitus voidaan turvata ilman palvelutason heikentämistä. Kirkkonummen kunnallisveroprosentti on tällä hetkellä alhaisempi kuin KUUMA-kuntien ja Espoon keskimääräinen kunnallisveroprosentti. Ehdotettu 0,2 prosenttiyksikön korotus on maltillinen toimenpide, joka vahvistaa kunnan tulopohjaa ja parantaa talouden kestävyyttä pitkällä aikavälillä. Korotuksen arvioidaan lisäävän kunnan verotuloja noin 2,6 miljoonaa euroa vuodessa. Vastaehdotusta kannatti Minna Enqvist. Vastaehdotusta ei hyväksytty yksimielisesti, joten puheenjohtaja ilmoitti että asiasta on äänestettävä. Puheenjohtaja ehdotti että asiasta äänestetään niin, että ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattava Edla Niemen vastaehdotusta äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 49 JAA ääntä ja 2 EI ääntä. Pohjaehdotus sai enemmän ääniä ja voitti. JAA äänestivät Kilappa Antti, Lindgren Viveca, Frantsi-Lankia Marjut, Orko Maarit, Lankia Eero, Väisänen Veera, Granström Anneli, Taussi Henri, Kaurila Matti, Björk Tony, Huhmarniemi Saara, Jeremejew Miisa, Ekman Jani, Karkinen Ronja, Piili Noora, Sahiluoma Anna, Lahti Jukka, Vasenius Thomas, Aallonharja Piia, Jäppinen Sanni, Kjerin Ulf, Ragnell Sami, Korkman Nadia, Björkroth Sofia, Tapio Suvi, Aintila Anna, Adlercreutz Anders, Frimodig Josephine, Felipe Sini, Kähkönen Jani, Ronkainen Tuovi, Hakapää Minna, Kiukas Maiju, Lankinen Arttu, Kock Fredrik, Liljequist Kim, Haapaniemi Timo, Kettunen Noora, Blom Urho, Valtonen Martin, Suominen Tero, Valli Lauri, Hedberg Hans, Lahti Viveca, Engström Miika, Ylitolonen Oona, Lavanti Lauri, Kari Marko ja Åström Kim EI äänestivät Niemi Edla ja Enqvist Minna",
+        "paatos": "Kunnanvaltuusto päätti päätösehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": [
+        {
+          "proposer": "Edla Niemi",
+          "kind": "vastaehdotus",
+          "text": null,
+          "source": "order",
+          "party": "vas"
+        }
+      ]
+    },
+    {
+      "id": "20252197-5",
+      "ordinal": "5",
+      "title": "Kunnan kiinteistöveroprosenttien vahvistaminen vuodelle 2026",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252197-5",
+      "decision": "Kunnanvaltuusto päätti päätösehdotuksen mukaisesti",
+      "votes": [
+        {
+          "jaa": [
+            "Kettunen Noora",
+            "Ylitolonen Oona",
+            "Lankia Eero",
+            "Kock Fredrik",
+            "Aintila Anna",
+            "Björkroth Sofia",
+            "Engström Miika",
+            "Lankinen Arttu",
+            "Valli Lauri",
+            "Hakapää Minna",
+            "Korkman Nadia",
+            "Liljequist Kim",
+            "Frantsi-Lankia Marjut",
+            "Lavanti Lauri",
+            "Kari Marko",
+            "Väisänen Veera",
+            "Kilappa Antti",
+            "Jeremejew Miisa",
+            "Valtonen Martin",
+            "Lindgren Viveca",
+            "Blom Urho",
+            "Frimodig Josephine",
+            "Aallonharja Piia",
+            "Kjerin Ulf",
+            "Piili Noora",
+            "Tapio Suvi",
+            "Sahiluoma Anna",
+            "Kaurila Matti",
+            "Jäppinen Sanni",
+            "Karkinen Ronja",
+            "Björk Tony",
+            "Hedberg Hans",
+            "Ekman Jani",
+            "Åström Kim",
+            "Granström Anneli",
+            "Taussi Henri",
+            "Ronkainen Tuovi",
+            "Kiukas Maiju",
+            "Adlercreutz Anders",
+            "Ragnell Sami",
+            "Kähkönen Jani",
+            "Haapaniemi Timo",
+            "Lahti Viveca",
+            "Vasenius Thomas",
+            "Huhmarniemi Saara",
+            "Orko Maarit"
+          ],
+          "ei": [
+            "Lahti Jukka",
+            "Felipe Sini",
+            "Suominen Tero",
+            "Enqvist Minna",
+            "Niemi Edla"
+          ],
+          "tyhja": [],
+          "totals": {
+            "jaa": 46,
+            "ei": 5,
+            "tyhja": 0
+          },
+          "parties": {
+            "jaa": {
+              "sdp": 3,
+              "kok": 14,
+              "kesk": 2,
+              "rkp": 11,
+              "ps": 4,
+              "prok": 4,
+              "vihr": 7,
+              "kd": 1
+            },
+            "ei": {
+              "sdp": 3,
+              "vas": 2
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta",
+            "ei_label": "Edla Niemen vastaehdotusta",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": "jaa",
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat pohjaehdotusta äänestävät JAA ja ne jotka kannattava Edla Niemen vastaehdotusta äänestävät EI — annettiin 46 JAA ja 5 EI ääntä."
+          }
+        }
+      ],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto päättää 1 määrätä seuraavat kiinteistöverolaissa tarkoitetut kiinteistöveroprosentit vuodeksi 2026: • yleinen kiinteistöveroprosentti 0,93 % • yleisen kiinteistöveron maa-alueiden kiinteistöveroprosentti 1,30 % • vakituiset asuinrakennukset 0,41 % • muut asuinrakennukset 1,40 % • rakentamaton rakennuspaikka 5,43 % • eräiden laitosten veroprosentti (voimalaitokset) 2,00 % • yleishyödyllisten yhteisöjen kiinteistöveroprosentti 0,00 % 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "kasittely": "Talousjohtaja Esa Lindell esitteli asiaa. Puheenjohtaja julisti keskustelun päättyneeksi ja totesi, että keskustelun aikana Edla Niemi on tehnyt seuraavan vastaehdotuksen: Valtuusto päättää määrätä seuraavat kiinteistöverolaissa tarkoitetut kiinteistöveroprosentit vuodeksi 2026: yleinen kiinteistöveroprosentti 0,98 % . yleisen kiinteistöveron maa-alueiden kiinteistöveroprosentti 1,40 % vakituiset asuinrakennukset 0,42 % muut asuinrakennukset 1,47 % rakentamaton rakennuspaikka 5,43 % eräiden laitosten veroprosentti (voimalaitokset) 2,00 % yleishyödyllisten yhteisöjen kiinteistöveroprosentti 0,00 % Kirkkonummi tavoittelee taloudellista tasapainoa ja vuosittain ylijäämäistä tulosta, jotta kunta pystyy vastaamaan investointeihin liittyvään velkamäärän ja korkokulujen kasvuun. Maltilliset kiinteistöverojen korotukset tukevat tavoitetta saavuttaa ylijäämäinen tulos ilman kunnan palvelutason heikentämistä. Maapohjan yleinen kiinteistövero, rakennusten yleinen kiinteistövero ja vakituisen asunnon kiinteistövero ovat KUUMA-kuntien ja Espoon keskimääräisiä kiinteistöveroprosentteja alhaisempia. Rakennusten yleinen kiinteistöveroprosentti on alhaisin kaikista KUUMA-kunnista (Espoon ja KUUMA-kuntien keskiarvo 1,17%). Vastaehdotusta kannattivat Minna Enqvist ja Jukka Lahti. Vastaehdotusta ei hyväksytty yksimielisesti, joten puheenjohtaja ehdotti että asiasta on äänestettävä. Puheenjohtaja ehdotti, että asiasta äänestetään niin, että ne jotka kannattavat pohjaehdotusta äänestävät JAA ja ne jotka kannattava Edla Niemen vastaehdotusta äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 46 JAA ääntä ja 5 EI ääntä. Pohjaehdotus sai enemmän ääniä ja voitti. JAA äänestivät Kettunen Noora, Ylitolonen Oona, Lankia Eero, Kock Fredrik, Aintila Anna, Björkroth Sofia, Engström Miika, Lankinen Arttu, Valli Lauri, Hakapää Minna, Korkman Nadia, Liljequist Kim, Frantsi-Lankia Marjut, Lavanti Lauri, Kari Marko, Väisänen Veera, Kilappa Antti, Jeremejew Miisa, Valtonen Martin, Lindgren Viveca, Blom Urho, Frimodig Josephine, Aallonharja Piia, Kjerin Ulf, Piili Noora, Tapio Suvi, Sahiluoma Anna, Kaurila Matti, Jäppinen Sanni, Karkinen Ronja, Björk Tony, Hedberg Hans, Ekman Jani, Åström Kim, Granström Anneli, Taussi Henri, Ronkainen Tuovi, Kiukas Maiju, Adlercreutz Anders, Ragnell Sami, Kähkönen Jani, Haapaniemi Timo, Lahti Viveca, Vasenius Thomas, Huhmarniemi Saara ja Orko Maarit EI äänestivät Lahti Jukka, Felipe Sini, Suominen Tero, Enqvist Minna ja Niemi Edla",
+        "paatos": "Kunnanvaltuusto päätti päätösehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": [
+        {
+          "proposer": "Edla Niemi",
+          "kind": "vastaehdotus",
+          "text": null,
+          "source": "order",
+          "party": "vas"
+        }
+      ]
+    },
+    {
+      "id": "20252197-6",
+      "ordinal": "6",
+      "title": "Vuoden 2026 talousarvion ja vuosien 2027–28 taloussuunnitelman hyväksyminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252197-6",
+      "decision": "Kunnanvaltuusto päätti päätösehdotuksen mukaisesti. Lisäksi kunnanvaltuusto hyväksyi yksimielisesti seuraavan ponnen: Oppimisen tuen uudistuksen mukaisen koulutasoisen tuen toteutumisen varmistaminen. Vuoden 2027 talousarvion valmistelun yhteydessä selvitetään, miten jatkossa varmistetaan oppimisen tuen uudistuksen mukaisen koulutasoisen tuen toteutuminen",
+      "votes": [
+        {
+          "jaa": [
+            "Valtonen Martin",
+            "Taussi Henri",
+            "Kaurila Matti",
+            "Hedberg Hans",
+            "Åström Kim",
+            "Vasenius Thomas",
+            "Liljequist Kim",
+            "Piili Noora",
+            "Haapaniemi Timo",
+            "Huhmarniemi Saara",
+            "Ylitolonen Oona",
+            "Adlercreutz Anders",
+            "Ragnell Sami",
+            "Aintila Anna",
+            "Kjerin Ulf",
+            "Orko Maarit",
+            "Kiukas Maiju",
+            "Lankinen Arttu",
+            "Blom Urho",
+            "Aallonharja Piia",
+            "Hakapää Minna",
+            "Frimodig Josephine",
+            "Kilappa Antti",
+            "Ekman Jani",
+            "Karkinen Ronja",
+            "Granström Anneli",
+            "Engström Miika",
+            "Sahiluoma Anna",
+            "Kock Fredrik",
+            "Väisänen Veera",
+            "Björk Tony",
+            "Tapio Suvi",
+            "Jeremejew Miisa",
+            "Kari Marko",
+            "Korkman Nadia",
+            "Kähkönen Jani",
+            "Lindgren Viveca",
+            "Lavanti Lauri",
+            "Valli Lauri",
+            "Björkroth Sofia",
+            "Jäppinen Sanni"
+          ],
+          "ei": [
+            "Felipe Sini",
+            "Frantsi-Lankia Marjut",
+            "Enqvist Minna",
+            "Lahti Viveca",
+            "Lahti Jukka",
+            "Ronkainen Tuovi",
+            "Lankia Eero",
+            "Kettunen Noora",
+            "Niemi Edla",
+            "Suominen Tero"
+          ],
+          "tyhja": [],
+          "totals": {
+            "jaa": 41,
+            "ei": 10,
+            "tyhja": 0
+          },
+          "parties": {
+            "jaa": {
+              "rkp": 11,
+              "kok": 14,
+              "prok": 4,
+              "vihr": 7,
+              "kd": 1,
+              "ps": 4
+            },
+            "ei": {
+              "sdp": 6,
+              "kesk": 2,
+              "vas": 2
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta",
+            "ei_label": "Minna Enqvistin vastaehdotusta",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": "jaa",
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat pohjaehdotusta äänestävät JAA ja ne jotka kannattavat Minna Enqvistin vastaehdotusta äänestävät EI — annettiin 41 JAA ja 10 EI ääntä."
+          }
+        },
+        {
+          "jaa": [
+            "Piili Noora",
+            "Väisänen Veera",
+            "Kock Fredrik",
+            "Haapaniemi Timo",
+            "Valli Lauri",
+            "Ekman Jani",
+            "Blom Urho",
+            "Sahiluoma Anna",
+            "Karkinen Ronja",
+            "Kilappa Antti",
+            "Tapio Suvi",
+            "Kari Marko",
+            "Björk Tony",
+            "Kjerin Ulf",
+            "Valtonen Martin",
+            "Hedberg Hans",
+            "Kiukas Maiju",
+            "Aallonharja Piia",
+            "Åström Kim",
+            "Engström Miika",
+            "Orko Maarit",
+            "Liljequist Kim",
+            "Jäppinen Sanni",
+            "Kaurila Matti",
+            "Korkman Nadia",
+            "Huhmarniemi Saara",
+            "Björkroth Sofia",
+            "Frimodig Josephine",
+            "Lindgren Viveca",
+            "Granström Anneli",
+            "Ylitolonen Oona",
+            "Kähkönen Jani",
+            "Aintila Anna",
+            "Taussi Henri",
+            "Lavanti Lauri",
+            "Ragnell Sami",
+            "Adlercreutz Anders",
+            "Jeremejew Miisa",
+            "Lankinen Arttu",
+            "Hakapää Minna",
+            "Vasenius Thomas"
+          ],
+          "ei": [
+            "Frantsi-Lankia Marjut",
+            "Felipe Sini",
+            "Niemi Edla",
+            "Kettunen Noora",
+            "Lahti Jukka",
+            "Suominen Tero",
+            "Lankia Eero",
+            "Ronkainen Tuovi",
+            "Lahti Viveca",
+            "Enqvist Minna"
+          ],
+          "tyhja": [],
+          "totals": {
+            "jaa": 41,
+            "ei": 10,
+            "tyhja": 0
+          },
+          "parties": {
+            "jaa": {
+              "prok": 4,
+              "vihr": 7,
+              "rkp": 11,
+              "kok": 14,
+              "kd": 1,
+              "ps": 4
+            },
+            "ei": {
+              "kesk": 2,
+              "sdp": 6,
+              "vas": 2
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta",
+            "ei_label": "Minna Enqvistin vastaehdotusta",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": "jaa",
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat pohjaehdotusta äänestävät JAA ja ne jotka kannattavat Minna Enqvistin vastaehdotusta äänestävät EI — annettiin 41 JAA ja 10 EI ääntä."
+          }
+        },
+        {
+          "jaa": [
+            "Liljequist Kim",
+            "Jäppinen Sanni",
+            "Åström Kim",
+            "Lindgren Viveca",
+            "Blom Urho",
+            "Väisänen Veera",
+            "Orko Maarit",
+            "Sahiluoma Anna",
+            "Taussi Henri",
+            "Kaurila Matti",
+            "Valtonen Martin",
+            "Kilappa Antti",
+            "Piili Noora",
+            "Aintila Anna",
+            "Kähkönen Jani",
+            "Karkinen Ronja",
+            "Aallonharja Piia",
+            "Ylitolonen Oona",
+            "Ragnell Sami",
+            "Kiukas Maiju",
+            "Lankinen Arttu",
+            "Korkman Nadia",
+            "Granström Anneli",
+            "Björkroth Sofia",
+            "Engström Miika",
+            "Jeremejew Miisa",
+            "Vasenius Thomas",
+            "Huhmarniemi Saara",
+            "Björk Tony",
+            "Lavanti Lauri",
+            "Adlercreutz Anders",
+            "Haapaniemi Timo",
+            "Kari Marko",
+            "Hakapää Minna",
+            "Hedberg Hans",
+            "Frimodig Josephine",
+            "Valli Lauri",
+            "Tapio Suvi",
+            "Kock Fredrik",
+            "Kjerin Ulf",
+            "Ekman Jani"
+          ],
+          "ei": [
+            "Suominen Tero",
+            "Kettunen Noora",
+            "Lankia Eero",
+            "Felipe Sini",
+            "Ronkainen Tuovi",
+            "Lahti Jukka",
+            "Lahti Viveca",
+            "Enqvist Minna",
+            "Frantsi-Lankia Marjut",
+            "Niemi Edla"
+          ],
+          "tyhja": [],
+          "totals": {
+            "jaa": 41,
+            "ei": 10,
+            "tyhja": 0
+          },
+          "parties": {
+            "jaa": {
+              "rkp": 11,
+              "vihr": 7,
+              "kok": 14,
+              "prok": 4,
+              "ps": 4,
+              "kd": 1
+            },
+            "ei": {
+              "sdp": 6,
+              "kesk": 2,
+              "vas": 2
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta",
+            "ei_label": "Tuovi Ronkaisen vastaehdotusta",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": "jaa",
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat pohjaehdotusta äänestävät JAA ja ne jotka kannattavat Tuovi Ronkaisen vastaehdotusta äänestävät EI — annettiin 41 JAA ja 10 EI ääntä."
+          }
+        }
+      ],
+      "sections": {
+        "liitteet": "Numero Otsikko 2\n1 Talousarvio 2026 ja taloussuunnitelma 2027-2028, kunnanvaltuuston 17.11.2025 hyväksymä (pdf 6.33 mb) Kokousasian teksti Vuoden 2026 talousarvion ja vuosien 2027–28 taloussuunnitelman hyväksyminen Kunnanvaltuusto 17.11.2025 § 107 379/02.02.00/2025",
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto hyväksyy kunnanhallituksen ehdotuksen vuoden 2026 talousarvioksi ja vuosien 2027-28 taloussuunnitelmaksi",
+        "kasittely": "Kunnanjohtaja Virpi Sailas ja talousjohtaja Esa Lindell esittelivät asiaa. Puheenjohtaja julisti keskustelun päättyneeksi ja totesi, että keskustelun aikana on tehty vastaehdotuksia seuraavasti: Minna Enqvistin vastaehdotus: Talousarvioon palautetaan viranhaltijoiden alkuperäinen esitys, jonka mukaan määräaikaiset kouluvalmentajat (5 + 1) vakinaistetaan. Viranhaltijoiden esitys tukee kunnan strategisia tavoitteita, lasten ja nuorten hyvinvointia sekä koulujen arjen sujuvuutta. Kouluvalmentajat ovat tärkeä osa varhaista tukea, joka ehkäisee ongelmien kasautumista ja vahvistaa oppilaiden turvallisuuden tunnetta. Kouluvalmentajat tarjoavat matalan kynnyksen tukea ja tarttuvat nopeasti arjen tilanteisiin. He täydentävät opetushenkilöstön ja oppilashuollon työtä merkittävällä tavalla. Koulumaailma on muuttunut ja oppilaiden haasteet moninaistuneet, joten kouluvalmentajien työpanos on nyt entistä tarpeellisempi. Vuoden 2025 oppilaskyselyn mukaan yhä useampi oppilas kokee, että koulussa on aikuinen, jolle voi puhua huolistaan (alakouluissa 78 %, yläkouluissa 56 %). Tämä myönteinen kehitys liittyy kouluvalmentajien läsnäoloon. Opettajakyselyssä 86 % opettajista piti kouluvalmentajia jatkossakin tarpeellisina, ja työn lisäarvo oppilaille arvioitiin keskiarvolla 8,5 (mediaani 10). Kouluvalmentajien vakinaistaminen on myös taloudellisesti järkevää. Ennaltaehkäisevä työ vähentää korjaavia kustannuksia ja on vastuullinen, tietoon perustuva investointi Kirkkonummen tulevaisuuteen. Vastaehdotusta kannattivt Sini Felipe, Edla Niemi, Viveca Lahti, Noora Kettunen, Jukka Lahti, Marjut Frantsi-Lankia, Eero Lankia, Tero Suominen ja Tuovi Ronkainen. Vastaehdotusta ei hyväksytty yksimielisesti joten puheenjohtaja ilmoitti että asiasta on äänestettävä. Puheenjohtaja ehdotti että asiasta äänestetään niin, että ne jotka kannattavat pohjaehdotusta äänestävät JAA ja ne jotka kannattavat Minna Enqvistin vastaehdotusta äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 41 JAA ääntä ja 10 EI ääntä. Pohjaehdotus sai enemmän ääniä ja voitti. JAA äänestivät Valtonen Martin, Taussi Henri, Kaurila Matti, Hedberg Hans, Åström Kim, Vasenius Thomas, Liljequist Kim, Piili Noora, Haapaniemi Timo, Huhmarniemi Saara, Ylitolonen Oona, Adlercreutz Anders, Ragnell Sami, Aintila Anna, Kjerin Ulf, Orko Maarit, Kiukas Maiju, Lankinen Arttu, Blom Urho, Aallonharja Piia, Hakapää Minna, Frimodig Josephine, Kilappa Antti, Ekman Jani, Karkinen Ronja, Granström Anneli, Engström Miika, Sahiluoma Anna, Kock Fredrik, Väisänen Veera, Björk Tony, Tapio Suvi, Jeremejew Miisa, Kari Marko, Korkman Nadia, Kähkönen Jani, Lindgren Viveca, Lavanti Lauri, Valli Lauri, Björkroth Sofia ja Jäppinen Sanni EI äänestivät Felipe Sini, Frantsi-Lankia Marjut, Enqvist Minna, Lahti Viveca, Lahti Jukka, Ronkainen Tuovi, Lankia Eero, Kettunen Noora, Niemi Edla ja Suominen Tero. Minna Enqvistin vastaehdotus: Poistetaan talousarviotekstistä kirjaus: “Selvitetään ei-lakisääteisistä varhaiskasvatuksen kuraattorien ja psykologien toimista luopumista.” Kirkkonummen tavoitteena on olla lapsiystävällinen ja vahva sivistyskunta, joka edistää kuntalaisten ja työntekijöiden hyvinvointia, terveyttä ja koettua elämänlaatua. Varhaiskasvatuksen kuraattori- ja psykologipalvelut tukevat tätä tavoitetta tarjoamalla lapsille ja perheille tukea ajoissa – silloin, kun pienillä teoilla voidaan vahvistaa hyvinvointia ja ehkäistä ongelmien kasvamista. Valtuuston linjauksen mukaan palvelutuotannon tulee tukea kunnan strategisia tavoitteita ja toimia kustannustehokkaasti. Henkilöstöön kohdistuvia toimenpiteitä tulisi käyttää vain viimesijaisesti. Talousarvioneuvotteluissa esitetty kirjaus on tämän periaatteen kanssa ristiriidassa. Vaikka kyse olisi vasta selvityksestä, sen lähtökohta on henkilöstön vähentämisen mahdollisuus. Jos selvitys johtaisi päätökseen luopua näistä tehtävistä, seurauksena olisi väistämättä yhteistoimintaneuvottelut – juuri se toimintatapa, jota tulisi käyttää vain viimeisenä keinona. On totta, että varhaiskasvatuksen kuraattori- ja psykologipalvelut eivät ole kunnan lakisääteisiä tehtäviä, mutta Kirkkonummi on tietoisesti vahvistanut lapsiperheiden varhaista tukea säilyttämällä nämä palvelut. Juuri nyt, kun lasten ja nuorten mielenterveyden haasteet kasvavat ja perheiden tilanteet monimutkaistuvat, ei ole oikea aika heikentää tätä ennaltaehkäisevää työtä. Leikkaukset tässä vaiheessa eivät toisi säästöjä, vaan lisäisivät myöhemmin korjaavien palvelujen kustannuksia. Vastaehdotusta kannattivat Sini Felipe, Edla Niemi, Noora Kettunen, Tuovi Ronkainen, Jukka Lahti, Marjut Frantsi-Lankia, Tero Suominen ja Eero Lankia. Vastaehdotusta ei hyväksytty yksimielisesti joten puheenjohtaja ilmoitti että asiasta on äänestettävä. Puheenjohtaja ehdotti että asiasta äänestetään niin, että ne jotka kannattavat pohjaehdotusta äänestävät JAA ja ne jotka kannattavat Minna Enqvistin vastaehdotusta äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 41 JAA ääntä ja 10 EI ääntä. Pohjaehdotus sai enemmän ääniä ja voitti. JAA äänestivät Piili Noora, Väisänen Veera, Kock Fredrik, Haapaniemi Timo, Valli Lauri, Ekman Jani, Blom Urho, Sahiluoma Anna, Karkinen Ronja, Kilappa Antti, Tapio Suvi, Kari Marko, Björk Tony, Kjerin Ulf, Valtonen Martin, Hedberg Hans, Kiukas Maiju, Aallonharja Piia, Åström Kim, Engström Miika, Orko Maarit, Liljequist Kim, Jäppinen Sanni, Kaurila Matti, Korkman Nadia, Huhmarniemi Saara, Björkroth Sofia, Frimodig Josephine, Lindgren Viveca, Granström Anneli, Ylitolonen Oona, Kähkönen Jani, Aintila Anna, Taussi Henri, Lavanti Lauri, Ragnell Sami, Adlercreutz Anders, Jeremejew Miisa, Lankinen Arttu, Hakapää Minna ja Vasenius Thomas EI äänestivät Frantsi-Lankia Marjut, Felipe Sini, Niemi Edla, Kettunen Noora, Lahti Jukka, Suominen Tero, Lankia Eero, Ronkainen Tuovi, Lahti Viveca ja Enqvist Minna. Tuovi Ronkaisen vastaehdotus: Talousarvioon vuodelle 2026 lisätään kirjastotalo Fyyrin aukioloaikojen jatkaminen lauantaisin klo 18.00 saakka Kirjastojen merkitys lukutaidolle on kiistaton. Hyvinvointikertomuksessa todetaan, että huoli lasten ja nuorten lukutaidon heikentymisestä ja lukemisen vähentymisestä on kasvanut. Lasten ja nuorten lukemisen ja lukutaidon edistäminen on yksi kirjaston keskeisimpiä tehtäviä. Tutkimusten mukaan hyvä lukutaito edistää elämässä menestymistä ja ehkäisee syrjäytymistä. Lauantain aukioloajan lisäys palvelee lapsia ja lapsiperheitä juuri tässä asiassa ja lisää kaikkien kuntalaisten kirjaston käyttöä. Näin myös kirjaston tapahtumatilojen käyttö on mahdollista klo 15.00 jälkeen. Kustannusvaikutukset katetaan määrärahan lisäyksellä. Vastaehdotusta kannattivat Noora Kettunen, Viveca Lahti, Minna Enqvist, Sini Felipe, Jukka Lahti, Tero Suominen, Edla Niemi, Eero Lankia ja Marjut Frantsi-Lankia. Vastaehdotusta ei hyväksytty yksimielisesti joten puheenjohtaja ilmoitti että asiasta on äänestettävä. Puheenjohtaja ehdotti että asiasta äänestetään niin, että ne jotka kannattavat pohjaehdotusta äänestävät JAA ja ne jotka kannattavat Tuovi Ronkaisen vastaehdotusta äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 41 JAA ääntä ja 10 EI ääntä. Pohjaehdotus sai enemmän ääniä ja voitti. JAA äänestivät Liljequist Kim, Jäppinen Sanni, Åström Kim, Lindgren Viveca, Blom Urho, Väisänen Veera, Orko Maarit, Sahiluoma Anna, Taussi Henri, Kaurila Matti, Valtonen Martin, Kilappa Antti, Piili Noora, Aintila Anna, Kähkönen Jani, Karkinen Ronja, Aallonharja Piia, Ylitolonen Oona, Ragnell Sami, Kiukas Maiju, Lankinen Arttu, Korkman Nadia, Granström Anneli, Björkroth Sofia, Engström Miika, Jeremejew Miisa, Vasenius Thomas, Huhmarniemi Saara, Björk Tony, Lavanti Lauri, Adlercreutz Anders, Haapaniemi Timo, Kari Marko, Hakapää Minna, Hedberg Hans, Frimodig Josephine, Valli Lauri, Tapio Suvi, Kock Fredrik, Kjerin Ulf ja Ekman Jani, EI äänestivät Suominen Tero, Kettunen Noora, Lankia Eero, Felipe Sini, Ronkainen Tuovi, Lahti Jukka, Lahti Viveca, Enqvist Minna, Frantsi-Lankia Marjut ja Niemi Edla. Lauri Lavannin ponsiehdotus: Oppimisen tuen uudistuksen mukaisen koulutasoisen tuen toteutumisen varmistaminen. Vuoden 2027 talousarvion valmistelun yhteydessä selvitetään, miten jatkossa varmistetaan oppimisen tuen uudistuksen mukaisen koulutasoisen tuen toteutuminen. Ponsiehdotusta kannattivat Urho Blom, Edla Niemi, Henri Taussi, Saara Huhmarniemi, Miisa Jeremejew, Miika Engström, Maarit Orko, Veera Väisänen, Antti Kilappa, Viveca Lindgren, Kim Åström, Noora Piili, Sanni Jäppinen, Minna Enqvist, Minna Hakapää, Noora Kettunen, Sami Ragnell, Anna Sahiluoma, Oona Ylitolonen, Timo Haapaniemi, Suvi Tapio, Marjut Frantsi-Lankia, Lauri Valli, Marko Kari ja Sofia Björkroth. Puheenjohtajan tiedustellessa Lauri Lavannin ponsiehdotus hyväksyttiin yksimielisesti. Kunnanvaltuusto piti tauon tämän pykälän jälkeen, klo 19.30 – 19.45",
+        "paatos": "Kunnanvaltuusto päätti päätösehdotuksen mukaisesti. Lisäksi kunnanvaltuusto hyväksyi yksimielisesti seuraavan ponnen: Oppimisen tuen uudistuksen mukaisen koulutasoisen tuen toteutumisen varmistaminen. Vuoden 2027 talousarvion valmistelun yhteydessä selvitetään, miten jatkossa varmistetaan oppimisen tuen uudistuksen mukaisen koulutasoisen tuen toteutuminen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": "Liite 1",
+          "title": "Talousarvio 2026 ja taloussuunnitelma 2027-2028, kunnanvaltuuston 17.11.2025 hyväksymä",
+          "size": "pdf 6.33 mb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252197-6-134210.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Minna Enqvist",
+          "kind": "vastaehdotus",
+          "text": null,
+          "source": "order",
+          "party": "vas"
+        },
+        {
+          "proposer": "Tuovi Ronkainen",
+          "kind": "vastaehdotus",
+          "text": null,
+          "source": "order",
+          "party": "sdp"
+        }
+      ]
+    },
+    {
+      "id": "20252197-7",
+      "ordinal": "7",
+      "title": "Masalan alueen uuden päiväkodin hankesuunnitelman hyväksyminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252197-7",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Numero Otsikko 3\n1 Hankesuunnitelma_Masalan uusi päiväkoti_päivitetty 15.10.2025 (pdf 98.35 kb) 4\n2 Lisäselvitys hankesuunnitelmaan_päivitys 15.10.2025 (pdf 180.11 kb)\n1_Tilaohjelma_Masalan alueen uusi päiväkoti_7.5.2025 (pdf 25.26 kb)\n2_ Tavoitehinta-arvio_Masalan alueen uusi päiväkoti_15.5.2025 (pdf 181.11 kb)",
+        "oheismateriaali": "Otsikko\n1\n2\n3\nKh evästys Masalan alueen selvitys (pdf 350.43 kb)\n4\nvarhaiskasvatuksen toimitilat, Masalan uuden päiväkodin hankesuunnitelma 20.8.2025 (pdf 249.50 kb)\n5 Esitys Topa 4.9.2025 Köpas (pdf 9.32 mb) Kokousasian teksti Masalan alueen uuden päiväkodin hankesuunnitelman hyväksyminen Kunnanvaltuusto 17.11.2025 § 108 493/10.03.02.01/2024",
+        "paatosehdotus": "Kunnanhallitus esittää kunnanvaltuustolle, että valtuusto hyväksyy 1 liitteenä olevan Masalan alueen uuden päiväkodin hankesuunnitelman 2 hankkeen investointikustannuksiksi 9 850 000 euroa",
+        "kasittely": "Rakennuttajapäällikkö Hanne Nylund esitteli asiaa. Rakennuttajapäällikkö Hanne Nylund ja varhaiskasvatusjohtaja Anu Vesiluoma poistuivat kokouksesta tämän pykälän jälkeen klo 20.17",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti päätösehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": "Liite 1",
+          "title": "Hankesuunnitelma_Masalan uusi päiväkoti_päivitetty 15.10.2025",
+          "size": "pdf 98.35 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252197-7-132585.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": "Liite 2",
+          "title": "Lisäselvitys hankesuunnitelmaan_päivitys 15.10.2025",
+          "size": "pdf 180.11 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252197-7-132586.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": "Oheismateriaali 1",
+          "title": "Liite 1_Tilaohjelma_Masalan alueen uusi päiväkoti_7.5.2025",
+          "size": "pdf 25.26 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252197-7-126159.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": "Oheismateriaali 2",
+          "title": "Liite 2_ Tavoitehinta-arvio_Masalan alueen uusi päiväkoti_15.5.2025",
+          "size": "pdf 181.11 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252197-7-126160.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": "Oheismateriaali 3",
+          "title": "Oheismateriaali Kh evästys Masalan alueen selvitys",
+          "size": "pdf 350.43 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252197-7-126162.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": "Oheismateriaali 4",
+          "title": "Oheismateriaali varhaiskasvatuksen toimitilat, Masalan uuden päiväkodin hankesuunnitelma 20.8.2025",
+          "size": "pdf 249.50 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252197-7-129381.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": "Oheismateriaali 5",
+          "title": "Esitys Topa 4.9.2025 Köpas",
+          "size": "pdf 9.32 mb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252197-7-129928.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20252197-8",
+      "ordinal": "8",
+      "title": "Kirkkonummen laaja hyvinvointikertomus 2021–2025 ja -suunnitelma 2026–2029",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252197-8",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Numero Otsikko 5\n1 Laaja hyvinvointikertomus 2021-2025 ja suunnitelma 2026-2029 (pdf 2.91 mb)",
+        "oheismateriaali": "Otsikko\n1\n_Kirkkonummen nuorisovaltuuston lausunto Kirkkonummen kunnan laajasta hyvinvointikertomuksesta 20212025 ja hyvinvointisuunnitelmasta 20262029 (pdf 210.57 kb)\n2\n_Vanhusneuvoston lausunto hyvinvointisuunnitelmasta (pdf 31.96 kb)\n3\n_Vammaisneuvoston lausuma Hyvinvointisuunnitelma17092025 (pdf 152.28 kb)\n4 Vastaus vanhusneuvoston lausuntoon 16.9.2025 (pdf 648.49 kb)\n5 Vastaus vammaisneuvoston lausuntoon 17.9.2025 (pdf 679.85 kb)\n6 Vastaus-nuorisovaltuuston-lausuntoon-15-9-25 (pdf 650.21 kb) Kokousasian teksti Kirkkonummen laaja hyvinvointikertomus 2021–2025 ja -suunnitelma 2026–2029 Kunnanvaltuusto 17.11.2025 § 109 501/00.01.03/2022",
+        "paatosehdotus": "Kunnanhallitus esittää kunnanvaltuustolle, että valtuusto hyväksyy kunnan hyvinvointikertomuksen vuosilta 2021-2025 ja hyvinvointisuunnitelman vuosille 2026-2029",
+        "kasittely": "Hyte-suunnittelija Janina Orjasniemi esitteli asiaa ja poistui kokouksesta tämän pykälän jälkeen klo 20.35",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti päätösehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": "Liite 1",
+          "title": "Laaja hyvinvointikertomus 2021-2025 ja suunnitelma 2026-2029",
+          "size": "pdf 2.91 mb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252197-8-133210.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": "Oheismateriaali 1",
+          "title": "Oheismateriaali_Kirkkonummen nuorisovaltuuston lausunto Kirkkonummen kunnan laajasta hyvinvointikertomuksesta 20212025 ja hyvinvointisuunnitelmasta 20262029",
+          "size": "pdf 210.57 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252197-8-131353.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": "Oheismateriaali 2",
+          "title": "Oheismateriaali_Vanhusneuvoston lausunto hyvinvointisuunnitelmasta",
+          "size": "pdf 31.96 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252197-8-131355.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": "Oheismateriaali 3",
+          "title": "Oheismateriaali_Vammaisneuvoston lausuma Hyvinvointisuunnitelma17092025",
+          "size": "pdf 152.28 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252197-8-131356.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": "Oheismateriaali 4",
+          "title": "Vastaus vanhusneuvoston lausuntoon 16.9.2025",
+          "size": "pdf 648.49 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252197-8-132669.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": "Oheismateriaali 5",
+          "title": "Vastaus vammaisneuvoston lausuntoon 17.9.2025",
+          "size": "pdf 679.85 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252197-8-132671.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": "Oheismateriaali 6",
+          "title": "Vastaus-nuorisovaltuuston-lausuntoon-15-9-25",
+          "size": "pdf 650.21 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252197-8-132789.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20252197-9",
+      "ordinal": "9",
+      "title": "Vastaus valtuustoaloitteeseen 10⁄2022: Kirkkonummen liittyminen Luontoviisaat kunnat -hankkeen verkostoon",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252197-9",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "initiative": {
+        "ref": "10/2022",
+        "proposer": "Vihreä valtuustoryhmä",
+        "party": "vihr",
+        "name": null
+      },
+      "sections": {
+        "oheismateriaali": "Otsikko\n1 Valtuustoaloite Kirkkonummen liittyminen Luontoviisaat kunnat -hankkeen verkostoon (pdf 674.81 kb) Kokousasian teksti Vastaus valtuustoaloitteeseen 10/2022: Kirkkonummen liittyminen Luontoviisaat kunnat -hankkeen verkostoon Kunnanvaltuusto 17.11.2025 § 110 610/00.04.02/2022",
+        "paatosehdotus": "Kunnanhallitus antaa selostusosan mukaisen vastauksen valtuustoaloitteeseen 10/2022 ja ehdottaa, että kunnanvaltuusto pitää vastausta riittävänä ja aloitetta loppuunkäsiteltynä",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti päätösehdotuksen mukaisesti",
+        "selostus": "Hallintosäännön 25 §:n mukaisesti toimialajohtaja hyväksyy ja allekirjoittaa toimialaansa koskevat sopimukset"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": "Oheismateriaali 1",
+          "title": "Valtuustoaloite Kirkkonummen liittyminen Luontoviisaat kunnat -hankkeen verkostoon",
+          "size": "pdf 674.81 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252197-9-98153.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20252197-10",
+      "ordinal": "10",
+      "title": "Vastaus valtuustoaloitteeseen 13⁄2022: Kilpailutettujen palvelujen henkilöstö-, laatu- ja kustannusvaikutusten arviointi",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252197-10",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "initiative": {
+        "ref": "13/2022",
+        "proposer": "Kirkkonummen Vasemmiston valtuustoryhmä / Katja Ylisiurua",
+        "party": "vas",
+        "name": "Katja Ylisiurua"
+      },
+      "sections": {
+        "oheismateriaali": "Otsikko\n1 Valtuustoaloite - fullmäktigemotion 13-2022 (pdf 708.86 kb) Kokousasian teksti Vastaus valtuustoaloitteeseen 13/2022: Kilpailutettujen palvelujen henkilöstö-, laatu- ja kustannusvaikutusten arviointi Kunnanvaltuusto 17.11.2025 § 111 1044/00.01.02/2022",
+        "paatosehdotus": "Kunnanhallitus antaa selostusosan mukaisen vastauksen valtuustoaloitteeseen 13/2022 ja esittää kunnanvaltuustolle, että valtuusto pitää vastausta riittävänä ja aloitetta loppuun käsiteltynä",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti päätösehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": "Oheismateriaali 1",
+          "title": "Valtuustoaloite - fullmäktigemotion 13-2022",
+          "size": "pdf 708.86 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252197-10-81769.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20252197-11",
+      "ordinal": "11",
+      "title": "Kunnanvaltuuston kokousaikataulu vuodelle 2026",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252197-11",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus esittää kunnanvaltuustolle, että valtuusto päättää kokoontua vuonna 2026 seuraavan mukaisesti: 2.2.2026 2.3.2026 13.4.2026 8.-9.5.2026 Talousarvioseminaari 11.5.2026 Tilinpäätös 2025 8.6.2026 Osavuosikatsaus 1/2026 7.9.2026 19.10.2026 Osavuosikatsaus 2/2026 16.11.2026 Talousarvio 2027 7.12.2026",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti päätösehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    }
+  ],
+  "id": "20252197",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20252197"
+}

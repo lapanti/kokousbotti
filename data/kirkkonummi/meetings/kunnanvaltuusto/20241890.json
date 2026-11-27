@@ -1,0 +1,464 @@
+{
+  "title": "Kunnanvaltuusto Pöytäkirja 09.12.2024 klo 18:00 - 19:16 / Ei tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Kunnanvaltuusto",
+  "doctype": "Pöytäkirja",
+  "date": "2024-12-09",
+  "items": [
+    {
+      "id": "20241890-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241890-1",
+      "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Kokous todettiin lailliseksi ja päätösvaltaiseksi",
+        "selostus": "Kunnanvaltuuston kokouskutsu on julkaistu kunnan verkkosivulla 4.12.2024. Samana päivänä kutsu on toimitettu valtuutetuille ja varavaltuutetuille"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241890-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241890-2",
+      "decision": "Pöytäkirjantarkastajiksi valittiin Anna Aintila ja Urho Blom",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanvaltuusto päättää valita kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan",
+        "paatos": "Pöytäkirjantarkastajiksi valittiin Anna Aintila ja Urho Blom"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241890-3",
+      "ordinal": "3",
+      "title": "Talonrakennushankkeiden hankeohje",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241890-3",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 1 Hankeohje_kv09122024 2 Hankeohje_kh04112024\n2. Suomenkielisen kasvatus- ja koulutuslautakunnan lausunto valmistelussa olevasta hankeohjeesta Pöytäkirjanote §4, svenska nämnden för fostran och utbildning 1.2.2023 SFU 1.2.2023 Bilaga 2. Svenska nämnden för fostran och utbildnings utlåtande Talonrakennushankkeiden hankeohje, kv 3.2.2014 Hankeohje_kh 15082022 Talonrakennushankkeiden hankeohje Kunnanvaltuusto 09.12.2024 § 103 1285/00.01.01/2021",
+        "oheismateriaali": "Kuvake Otsikko Pöytäkirjanote §6, sivistys- ja vapaa-aikalautakunta 2.2.2023 S-VL 2.2.2023 liite_Sivistys- ja vapaa-aikalautakunnan lausunto valmistelussa olevasta hankeohjeesta Pöytäkirjanote §3, suomenkielinen kasvatus- ja koulutuslautakunta 31.1.2023 SKK 31.1.2023",
+        "paatosehdotus": "Kunnanhallitus esittää kunnanvaltuustolle, että kunnanvaltuusto hyväksyy liitteenä olevan talonrakennushankkeiden hankeohjeen",
+        "kasittely": "Kunnanvaltuuston I varapuheenjohtaja Reetta Hyvärinen ilmoitti olevansa esteellinen ja poistui kokouksesta tämän pykälän käsittelyn ja päätöksenteon ajaksi. Yhdyskuntatekniikan johtaja Anna-Kaisa Kauppinen esitteli asiaa",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Hankeohje_kv09122024",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241890-3-117373.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Hankeohje_kh04112024",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241890-3-115539.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Pöytäkirjanote §6, sivistys- ja vapaa-aikalautakunta 2.2.2023",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241890-3-115551.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "S-VL 2.2.2023 liite_Sivistys- ja vapaa-aikalautakunnan lausunto valmistelussa olevasta hankeohjeesta",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241890-3-115550.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Pöytäkirjanote §3, suomenkielinen kasvatus- ja koulutuslautakunta 31.1.2023",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241890-3-115552.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "SKK 31.1.2023 Liite 2. Suomenkielisen kasvatus- ja koulutuslautakunnan lausunto valmistelussa olevasta hankeohjeesta",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241890-3-115549.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Pöytäkirjanote §4, svenska nämnden för fostran och utbildning 1.2.2023",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241890-3-115548.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "SFU 1.2.2023 Bilaga 2. Svenska nämnden för fostran och utbildnings utlåtande",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241890-3-115547.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Talonrakennushankkeiden hankeohje, kv 3.2.2014",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241890-3-64159.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Hankeohje_kh 15082022",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241890-3-77042.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20241890-4",
+      "ordinal": "4",
+      "title": "Toimitilapalvelujen lautakunnan investointiohjelman lisämääräraha, talonrakentamishankkeet",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241890-4",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus esittää kunnanvaltuustolle, että talousarvion 2024 investointiosan talonrakennushankkeiden kokonaismäärärahaa korotetaan 1,8 miljoonalla eurolla",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241890-5",
+      "ordinal": "5",
+      "title": "Valtuutettujen lukumäärä valtuustokaudella 2025-2029",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241890-5",
+      "decision": "Kunnanvaltuusto päätti ehdotuksen mukaisesti",
+      "votes": [
+        {
+          "jaa": [
+            "Kari Marko",
+            "Presnukhina Anna",
+            "Kjerin Ulf",
+            "Blom Urho",
+            "Salonen Antti",
+            "Lankinen Arttu",
+            "Sahiluoma Anna",
+            "Aallonharja Piia",
+            "Åström Kim",
+            "Määttä Jussi",
+            "Valtonen Martin",
+            "Fleming Johanna",
+            "Hyvärinen Reetta",
+            "Virtanen Kari",
+            "Orko Maarit",
+            "Salminen Ville",
+            "Jeremejew Miisa",
+            "Granström Anneli",
+            "Kähkönen Jani",
+            "Ekman Jani",
+            "Sinisalo Pekka",
+            "Björk Tony",
+            "Frantsi-Lankia Marjut",
+            "Hedberg Hans",
+            "Liljequist Kim",
+            "Kajanti Carl-Johan",
+            "Polkko Aleksander",
+            "Piili Noora",
+            "Huhmarniemi Saara",
+            "Frimodig Josephine",
+            "Kärkimaa Elina",
+            "Virkki Leena",
+            "Adlercreutz Anders",
+            "Aintila Anna",
+            "Kaihlaranta Kati",
+            "Gustafsson Stefan",
+            "Männikkö Kim"
+          ],
+          "ei": [
+            "Hakapää Minna",
+            "Ronkainen Tuovi",
+            "Suominen Tero",
+            "Seppälä Ulla",
+            "Kilappa Antti",
+            "Valtanen Hannu",
+            "Kaurila Matti",
+            "Ylikoski Jukka",
+            "Felipe Sini",
+            "Haapaniemi Timo",
+            "Harinen Ari",
+            "Kämpe-Hellenius Jerri"
+          ],
+          "tyhja": [],
+          "totals": {
+            "jaa": 37,
+            "ei": 12,
+            "tyhja": 0
+          },
+          "parties": {
+            "jaa": {
+              "kok": 8,
+              "vihr": 6,
+              "rkp": 11,
+              "pro yl": 3,
+              "ps": 6,
+              "sdp": 1,
+              "kesk": 1,
+              "vas": 1
+            },
+            "ei": {
+              "pro yl": 2,
+              "sdp": 4,
+              "kok": 4,
+              "ps": 1,
+              "rkp": 1
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta",
+            "ei_label": "Jerri Kämpe-Helleniuksen muutosehdotusta",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": "jaa",
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Jerri Kämpe-Helleniuksen muutosehdotusta äänestävät EI — annettiin 37 JAA ja 12 EI ääntä."
+          }
+        }
+      ],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että Kirkkonummen kunnanvaltuustoon valitaan vuoden 2025 kuntavaaleissa 51 valtuutettua",
+        "kasittely": "Puheenjohtaja julisti keskustelun päättyneeksi ja totesi, että keskustelun aikana jäsen Jerri Kämpe-Hellenius on jättänyt seuraavan muutosehdotuksen: Ehdotan, että seuraavana valtuustokautena Kirkkonummella on 47 valtuutettua. Muutosehdotusta kannattivat Matti Kaurila, Tero Suominen, Ari Harinen, Sini Felipe, Tuovi Ronkainen, Hannu Valtanen, Jukka Ylikoski, Ulla Seppälä ja Kati Kaihlaranta. Muutosehdotusta ei hyväksytty yksimielisesti, joten puheenjohtaja ilmoitti että asiasta on äänestettävä. Puheenjohtaja ehdotti, että asiasta äänestetään niin, että ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Jerri Kämpe-Helleniuksen muutosehdotusta äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 37 JAA ääntä, 12 EI ääntä, 2 poissa. Pohjaehdotus sai enemmän ääniä ja voitti. JAA äänestivät: Kari Marko, Presnukhina Anna, Kjerin Ulf, Blom Urho, Salonen Antti, Lankinen Arttu, Sahiluoma Anna, Aallonharja Piia, Åström Kim, Määttä Jussi, Valtonen Martin, Fleming Johanna, Hyvärinen Reetta, Virtanen Kari, Orko Maarit, Salminen Ville, Jeremejew Miisa, Granström Anneli, Kähkönen Jani, Ekman Jani, Sinisalo Pekka, Björk Tony, Frantsi-Lankia Marjut, Hedberg Hans, Liljequist Kim, Kajanti Carl-Johan, Polkko Aleksander, Piili Noora, Huhmarniemi Saara, Frimodig Josephine, Kärkimaa Elina, Virkki Leena, Adlercreutz Anders, Aintila Anna, Kaihlaranta Kati, Gustafsson Stefan ja Männikkö Kim EI äänestivät: Hakapää Minna, Ronkainen Tuovi, Suominen Tero, Seppälä Ulla, Kilappa Antti, Valtanen Hannu, Kaurila Matti, Ylikoski Jukka, Felipe Sini, Haapaniemi Timo, Harinen Ari ja Kämpe-Hellenius Jerri Poissa: Nina Bogatenko ja Ronja Karkinen",
+        "paatos": "Kunnanvaltuusto päätti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": [
+        {
+          "proposer": "Jerri Kämpe-Hellenius",
+          "kind": "vastaehdotus",
+          "text": "Ehdotan, että seuraavana valtuustokautena Kirkkonummella on 47 valtuutettua. Muutosehdotusta kannattivat Matti Kaurila, Tero Suominen, Ari Harinen, Sini Felipe, Tuovi Ronkainen, Hannu Valtanen, Jukka Ylikoski, Ulla Seppälä ja Kati Kaihlaranta. Muutosehdotusta ei hyväksytty yksimielisesti, joten puheenjohtaja ilmoitti että asiasta on äänestettävä",
+          "source": "introduction",
+          "party": "rkp"
+        }
+      ]
+    },
+    {
+      "id": "20241890-6",
+      "ordinal": "6",
+      "title": "Hallintosäännön muutokset 1.1.2025 alkaen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241890-6",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 3 Kirkkonummen kunnan hallintosääntö 1.1.2025 alkaen",
+        "oheismateriaali": "Kuvake Otsikko 2024 12 09 Kirkkonummen kunnan hallintosääntö_vertailu Hallintosäännön muutokset 1.1.2025 alkaen Kunnanvaltuusto 09.12.2024 § 106 504/00.01.01/2024",
+        "paatosehdotus": "Kunnanhallitus esittää valtuustolle, että valtuusto hyväksyy oheisten liiteasiakirjojen mukaiset muutokset ja lisäykset Kirkkonummen kunnan hallintosääntöön",
+        "kasittely": "Hallintojohtaja Jaana Suihkonen esitteli asiaa",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kirkkonummen kunnan hallintosääntö 1.1.2025 alkaen",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241890-6-117361.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "2024 12 09 Kirkkonummen kunnan hallintosääntö_vertailu",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241890-6-117363.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20241890-7",
+      "ordinal": "7",
+      "title": "Kirkkonummen kunnan hyvinvoinnin ja terveyden edistämisen raportti vuodelta 2023 - vuosittainen hyvinvointikertomus kirkkonummelaisten hyvinvoinnista",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241890-7",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 4 Kirkkonummen kunnan hyvinvoinnin ja terveyden edistämisen raportti vuodelta 2023",
+        "oheismateriaali": "Kuvake Otsikko Kirkkonummen_laaja_hyvinvointikertomus_-_hyvinvointikertomus_2017-2021_ja_hyvinvointisuunnitelma_2022-2025 Kirkkonummen kunnan hyvinvoinnin ja terveyden edistämisen raportti vuodelta 2023 - vuosittainen hyvinvointikertomus kirkkonummelaisten hyvinvoinnista Kunnanvaltuusto 09.12.2024 § 107 832/00.01.03/2024",
+        "paatosehdotus": "Kunnanhallitus esittää kunnanvaltuustolle, että valtuusto hyväksyy liitteenä olevan Kirkkonummen kunnan hyvinvoinnin ja terveyden edistämisen raportin vuodelta 2023 - vuosittainen hyvinvointikertomus kirkkonummelaisten hyvinvoinnista",
+        "kasittely": "Hallintojohtaja Jaana Suihkonen esitteli asiaa",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kirkkonummen kunnan hyvinvoinnin ja terveyden edistämisen raportti vuodelta 2023",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241890-7-117313.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Kirkkonummen_laaja_hyvinvointikertomus_-_hyvinvointikertomus_2017-2021_ja_hyvinvointisuunnitelma_2022-2025",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241890-7-116999.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20241890-8",
+      "ordinal": "8",
+      "title": "Vastaus valtuustoaloitteeseen 8/2021: Walkers-nuorisokahvilan perustaminen Kirkkonummelle",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241890-8",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti seuraavalla ponnella: Walkers-nuorisokahvilan tai vastaavan vapaaehtoistoimintaa hyödyntävän nuorisokahvilan perustamista Kirkkonummelle arvioidaan talousarvion 2026 valmistelun yhteydessä",
+      "votes": [],
+      "initiative": {
+        "ref": "8/2021",
+        "proposer": "Vihreä valtuustoryhmä",
+        "party": "vihr",
+        "name": null
+      },
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Valtuustoaloite: Walkers-nuorisokahvilan perustaminen Vastaus valtuustoaloitteeseen 8/2021: Walkers-nuorisokahvilan perustaminen Kirkkonummelle Kunnanvaltuusto 09.12.2024 § 108 328/12.05.02/2021",
+        "paatosehdotus": "Kunnanhallitus antaa selostusosan mukaisen vastauksen valtuustoaloitteeseen 8/2021: Walkers-nuorisokahvilan perustaminen Kirkkonummelle ja esittää kunnanvaltuustolle, että valtuusto pitää vastausta riittävänä ja aloitetta loppuun käsiteltynä",
+        "kasittely": "Puheenjohtaja julisti keskustelun päättyneeksi ja totesi, että keskustelun aikana jäsen Saara Huhmarniemi on jättänyt seuraavan toivomusponnen: Walkers-nuorisokahvilan tai vastaavan vapaaehtoistoimintaa hyödyntävän nuorisokahvilan perustamista Kirkkonummelle arvioidaan talousarvion 2026 valmistelun yhteydessä. Perustelu: Kunnan hyvinvoinnin ja terveyden edistämisen raportti osoittaa, että juuri nuorisokahvilan kohderyhmään kuuluvat nuoret tarvitsisivat kunnassa kipeästi tukea. Jos kunta onnistuu nuorisokahvilan kaltaisen mallin kautta parantamaan näiden nuorten hyvinvointia, Kirkkonummi hyötyisi siitä inhimillisen hyödyn lisäksi myös rahallisesti hyte-kertoimen tuoman lisärahan myötä. Toivomuspontta kannattivat Maarit Orko, Miisa Jeremejew, Anna Presnukhina, Johanna Fleming, Kati Kaihlaranta, Reetta Hyvärinen, Anna Aintila, Ville Salminen, Arttu Lankinen, Jani Kähkönen, Piia Aallonharja, Elina Kärkimaa ja Marjut Frantsi-Lankia. Puheenjohtajan tiedustellessa toivomusponsi hyväksyttiin yksimielisesti",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti seuraavalla ponnella: Walkers-nuorisokahvilan tai vastaavan vapaaehtoistoimintaa hyödyntävän nuorisokahvilan perustamista Kirkkonummelle arvioidaan talousarvion 2026 valmistelun yhteydessä"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtuustoaloite: Walkers-nuorisokahvilan perustaminen",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241890-8-47615.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20241890-9",
+      "ordinal": "9",
+      "title": "Sidonnaisuusilmoitukset ja sidonnaisuuksien ilmoittamisvelvollisuuden noudattamisen valvonta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241890-9",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Tarkastuslautakunta saattaa sidonnaisuusrekisterin kunnanvaltuustolle tiedoksi",
+        "kasittely": "Tarkastuslautakunnan puheenjohtaja Ulla Seppälä ja hallintojohtaja Jaana Suihkonen esittelivät asiaa",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241890-10",
+      "ordinal": "10",
+      "title": "Eron myöntäminen Kirkkonummen Vesi- liikelaitoksen johtokunnan varajäsenyydestä ja uuden varajäsenen valinta (S.V.)",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241890-10",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Santtu Vainionpäälle Kirkkonummen Vesi -liikelaitoksen johtokunnan varajäsenyydestä ja 2 valita Toni Lehtisen uudeksi varajäseneksi Santtu Vainionpään tilalle toimikauden loppuun",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto 1 myöntää eron Santtu Vainionpäälle Kirkkonummen Vesi -liikelaitoksen johtokunnan varajäsenyydestä ja 2 valitsee uuden varajäsenen Santtu Vainionpään tilalle toimikauden loppuun",
+        "kasittely": "Piia Aallonharjan (PS): ehdotus: Toni Lehtinen",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Santtu Vainionpäälle Kirkkonummen Vesi -liikelaitoksen johtokunnan varajäsenyydestä ja 2 valita Toni Lehtisen uudeksi varajäseneksi Santtu Vainionpään tilalle toimikauden loppuun"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241890-11",
+      "ordinal": "11",
+      "title": "Valtuustoaloite 10/2024: Maksuttomia ja ympärivuorokauden auki olevia yleisiä vessoja / julkisia käymälöitä",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241890-11",
+      "decision": "Kunnanvaltuusto toimittaa valtuustoaloitteen kunnanhallitukselle valmisteltavaksi",
+      "votes": [],
+      "initiative": {
+        "ref": "10/2024",
+        "proposer": "selle valmisteltavaksi.     Selostus   RKP / Kim Liljequist (RKP) ja Martin Valtonen (RKP)",
+        "party": "rkp",
+        "name": "Kim Liljequist"
+      },
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 5 Valtuustoaloite 10-2024, allekirjoituksilla - Maksuttomia ja ympärivuorokauden auki olevia yleisiä vessoja - julkisia käymälöitä Valtuustoaloite 10/2024: Maksuttomia ja ympärivuorokauden auki olevia yleisiä vessoja / julkisia käymälöitä Kunnanvaltuusto 09.12.2024 § 111 939/10.03.01.02/2024",
+        "paatos": "Kunnanvaltuusto toimittaa valtuustoaloitteen kunnanhallitukselle valmisteltavaksi",
+        "selostus": "RKP / Kim Liljequist (RKP) ja Martin Valtonen (RKP) jättivät kunnanvaltuuston kokouksessa 9.12.2024 seuraavan aloitteen: ”Maksuttomia ja ympäri vuorokauden auki olevia yleisiä vessoja / julkisia käymälöitä löytyy monesta paikasta ympäri Suomea, niin kaupunkikeskuistoissa, puistoissa kuin liikenne- tai juna-asemilla. Esimerkiksi Helsingissä on noin 50 maksutonta julkista käymälää, ja Turussa on toteutettu projekteja, joissa lapset ovat osallistuneet julkisten vessojen ulkoasun suunnitteluun. Yleisten käymälöiden hyviä puolia on, että ne parantavat yleistä hygieniaa, ehkäisevät terveysongelmia ja parantavat lähialueiden siistiyttä ja viihtyisyyttä. Kirkkonummella ei oikein ole sellaisia käymäläpaikkoje (baareja, kahviloita tai kauppakeskuksia), jotka olisivat auki hyvin aikaisin aamutuimaan tai hyvin myöhään illalla. Lisäksi käymälän käyttäminen näissä paikoissa ei yleensä ole maksutont. Ihmiset joutuvat monessa tilanteessa tekemään pienemmät ja suuremmat tarpeensa puskiin, rakennusten nurkkiin tai juna-asemien hissiin, mikä ei ole hygieenistä saatikka siistiä. Me allekirjoittaneet esitämme, että Kirkkonummen kunta selvittää julkisten käymälöiden tarpeellisuuden, muutamia mahdollisia sijoituspaikkoja (jossa sijoittuminen jo olemassa olevaan rakennukseen yksi vvaihtoehto) sekä investointi- ja ylläpitokustannuksia. Tietojen perusteella asiaan otettaneen kantaa budjettineuvotteluissa, kun kunna taloudellinen tilanne on parempi. Ehdotamme, että julkinen/julkiset käymälät toteutetaan esteettöminä ja arkkitehtoinisesti puoleensavetävinä, esimerkkinä Raaseporin julkiset käymälät ( https://www.raseborg.fi/artiklar/boende-och-miljo/gator-parker-almanna- omraden/stallorspark e ns-nya-offen t liga-toalett/ ): Kuva lainattu yllä mainitusta linkistä. Aloitteen allekirjoittivat Kim Liljequistin ja Martin Valtosen liäksi seuraavat valtuutetut: Reetta Hyvärinen, Minna Hakapää, Anders Adlercreutz, Anna Aintila, Urho Blom, Sini Felipe, Johanna Fleming, Josephine Frimodig, Stefan Gustafsson, Ari Harinen, Hans Hedberg, Saara Huhmarniemi, Kati Kaihlaranta, Carl-Johan Kajanti, Antti Kilappa, Ulf Kjerin, Jerri Kämpe-Hellenius, Elina Kärkimaa, Kim Männikkö, Jussi Määttä, Maarit Orko, Noora Piili, Tuovi Ronkainen ja Tero Suominen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Valtuustoaloite 10-2024, allekirjoituksilla - Maksuttomia ja ympärivuorokauden auki olevia yleisiä vessoja - julkisia käymälöitä",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241890-11-117512.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20241890-12",
+      "ordinal": "12",
+      "title": "Valtuustoaloite 11/2024: Kulttuuriperinteen käytänteet kouluissa",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241890-12",
+      "decision": "Kunnanvaltuusto toimittaa valtuustoaloitteen kunnanhallitukselle valmisteltavaksi",
+      "votes": [],
+      "initiative": {
+        "ref": "11/2024",
+        "proposer": "uustoaloitteen kunnanhallitukselle valmisteltavaksi.     Selostus   Valtuutettu Kim Åström",
+        "party": null,
+        "name": "Kim Åström"
+      },
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 6 Valtuustoaloite 11-2024, allekirjoituksilla - Kulttuuriperinteen käytänteet kouluissa Valtuustoaloite 11/2024: Kulttuuriperinteen käytänteet kouluissa Kunnanvaltuusto 09.12.2024 § 112 947/12.00.00/2024",
+        "kasittely": "<Aloita käsittelyn kuvaus tästä>",
+        "paatos": "Kunnanvaltuusto toimittaa valtuustoaloitteen kunnanhallitukselle valmisteltavaksi",
+        "selostus": "Valtuutettu Kim Åström jätti kunnanvaltuuston kokouksessa 9.12.2024 seuraavan aloitteen: ”Kirk k o n um m i k e r äsi b a ro k ki k o nsertti - jupa k an yh t e y de s sä k y seena l ais t a va lt akun n a l lis t a huo m io t a. Aihet t a, ja s i ihen liitt y neitä v ä ä ri n kä s ity k siä, o n sit t emmin k äsit e l t y m e d ia s s a j a Kirk k o n um m e l la l a aja l ti. K ui t enkin täm ä nki n jä l keen on ilm e nn y t, että e r ä i s s ä k oului ss a rehtori on p ä ä tyn y t kiel t äm ä än k o ulun juhli s s a kaik e n u s k on n o l li s i a viit t eitä sisä l tä v än sisä l l ön . Näin o l len e sim . ” J ou l uy ö , juh l a y ö ” t ai k a n s a l lis s ä vel t äj ä m m e r akkaimm at joulul a u l ut eiv ä t en ä ä o l is i s oveliast a sisä l t ö ä jou l ujuhlis s a . P idemmä l le viety n ä joud u ttaneen arvioi maa n k o k o joulu k äsiteen s ove l iai s uutta , t ai esim. p ä ä tyä p o htim aa n v oi k o k o ulu vie r ai l la ta i d emuse o s s a , ellei sie l t ä o l e poistettu k aikki us k on n o l lisia viit t ei t ä sisä l t ä vä t teo k set . Mo n iku l ttuurisuus tulisi n ähdä rikkaut e na, jok a rika s tutt a a m y ö s k u l ttuu r ia j a k ulttuuriperin t eide n kirjo a . Y l l ä re f e roitu k äy t änt ö kuitenki n joh t aa p äi n va s t aiseen , kun k a t so ta a n , et tä pa s siivinenkin a l tistam i nen e l ämä n k a t s o m u k se l lisia viit t ei t ä sisä l t ä vä ä n k ulttuuriperin t eeseen o n si l lä ta vo i n h ai t a l list a t ai l oukk a a v aa, et t ä se tu l ee va r o v aisuusperi aa t t ee n n oja l la est ä ä kaikil t a. T ä m ä k a ts a n t o pit ä ä si s ä l l ä än v ah v a n s uvait s em a t t om u us a at t een tai olet t a m a n s e l laise s t a. Normi k s i nos t ett u na s e ede l lyt tä ä k ulttuuriperin t een pois ta mis t a t ai neut r aloin t ia , niin p ai k a l lis t en kuin m a h d o l l i s t e n uusien vie r aspe r äistenkin va ik u t t ei d en o sa lt a . T äm ä tuskin e dist ä ä eri kulttuurie n ja elä m änka t s omust e n k oh ta ami s t a ja k eski n äi s en y m m ärryks e n va alimi s t a. O n k o y ksilö n t ai t ämän l ä heisen oi k eus s u v aitsem a t t o m uu t een arv o , jo n k a eteen kulttuuriperin t eet o n uh r a t t a va ? E ri t yise n eriar v oise k si til a nne mu o do s tu u , j o s eri k oului s s a t ehd ää n poik k eavi a linja u ksia asia n suh t een. On siis m i tä il m eisim m in muod o stun u t t arve mä är i te l lä t arke m min ku l ttuuri p erint e en sisä l l y ttä m i s en s ä än nö st ö ä ja yleisi ä peria a t t ei t a k o u l ujen t oimi n na n piiri s s ä . Mi n kälainen k ulttuuriperinne ja sille a l tis t a m inen o n s a l l it t ua t a i odo t ettu a ? Mis s ä pu o les t aan ku l kee r aja sil l e , et tä k o u l un tul i si järje s t ä ä joi l lek i n o p pi l ail l e v a s t aa va a vaih t oeh t ois t a o hjel ma a ? Mi t en k ulttuuriperin t ee l le t ai us k o n no l l isi l le viit t ei l le a l tis t ami s esta tulee tiedot ta a ? V oid aan k o y k si l öi ll e m y ön tä ä oi k eus o l la o s a l listu ma tt a tiettyyn ti l ai s uuteen t ai sen o si o o n ? T ä m än va l tuust o a l oitteen a ll ekirj o it ta nein a esi t ämm e , et t ä k u nta pikimmit e n s el v it t ää ja l aa tii s e l k eän ohjeist o n ede l l ä n o s t ettuihin k y s y m yksiin.” Kim Åströmin lisäksi valtuustoaloitteen olivat allekirjoittaneet seuraavat valtuutetut: Kari Virtanen, Matti Kaurila, Marko Kari, Urho Blom, Jani Ekman, Timo Haapaniemi, Leena Virkki, Anna Sahiluoma, Hannu Valtanen, Hans Hedberg, Ulf Kjerin, Josephine Frimodig, Anna Aintila, Stefan Gustafsson, Carl-Johan Kajanti, Kim Liljequist, Martin Valtonen, Miisa Jeremejew, Pekka Sinisalo, Minna Hakapää, Antti Kilappa, Noora Piili, Antti Salonen ja Elina Kärkimaa"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Valtuustoaloite 11-2024, allekirjoituksilla - Kulttuuriperinteen käytänteet kouluissa",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241890-12-117513.PDF"
+        }
+      ],
+      "proposals": []
+    }
+  ],
+  "id": "20241890",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20241890"
+}

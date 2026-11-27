@@ -1,0 +1,180 @@
+{
+  "title": "Tarkastuslautakunta Pöytäkirja 29.11.2023 klo 17:30 - 20:38 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Tarkastuslautakunta",
+  "doctype": "Pöytäkirja",
+  "date": "2023-11-29",
+  "items": [
+    {
+      "id": "20231582-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231582-1",
+      "decision": "Tarkastuslautakunta totesi kokouksen lailliseksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Tarkastuslautakunta totesi kokouksen lailliseksi ja päätösvaltaiseksi",
+        "selostus": "Hallintosäännön 155 §:n mukaan avattuaan kokouksen puheenjohtaja toteaa läsnä olevat sekä kokouksen laillisuuden ja päätösvaltaisuuden. Kuntalain 103 §:n mukaan lautakunta on päätösvaltainen, kun enemmän kuin puolet jäsenistä on läsnä"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231582-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan laatiminen ja tarkastaminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231582-2",
+      "decision": "Pöytäkirjantarkastajiksi valittiin Teppo Suontakanen ja Matti Tanskanen",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Tarkastuslautakunta valitsee kaksi pöytäkirjantarkastajaa",
+        "paatos": "Pöytäkirjantarkastajiksi valittiin Teppo Suontakanen ja Matti Tanskanen",
+        "selostus": "Hallintosäännön 166 §:n mukaan pöytäkirjan pitämisestä ja sisällöstä vastaa toimielimen puheenjohtaja. Pöytäkirjan allekirjoittaa puheenjohtaja ja sen varmentaa pöytäkirjanpitäjä. Tarkastuslautakunta on 16.9.2021 § 44 päättänyt, että jokaisessa kokouksessa valitaan kaksi pöytäkirjantarkastajaa. Pöytäkirja tarkastetaan ja allekirjoitetaan sähköisesti. Pöytäkirja asetetaan nähtäväksi tarkastuspäivää seuraavana arkipäivänä. Hallintosäännön 167 §:n mukaan lautakunnan pöytäkirja pidetään tarkastamisen jälkeen nähtävänä kunnan verkkosivuilla siten kuin kuntalain 140 §:ssä säädetään"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231582-3",
+      "ordinal": "3",
+      "title": "Kuntastrategia",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231582-3",
+      "decision": "Kunnanjohtajan selvitys ja asiasta käyty keskustelu merkittiin tiedoksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanjohtajan selvitys ja asiasta käyty keskustelu merkitään tiedoksi",
+        "paatos": "Kunnanjohtajan selvitys ja asiasta käyty keskustelu merkittiin tiedoksi",
+        "selostus": "Kunnanjohtaja Virpi Sailas on kutsuttu kokoukseen antamaan selvityksen kuntastrategian päivityksestä ja ajankohtaisista asioista"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231582-4",
+      "ordinal": "4",
+      "title": "Kirkkonummen Vuokra-asunnot Oy",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231582-4",
+      "decision": "Toimitusjohtajan selvitys ja asiasta käyty keskustelu merkittiin tiedoksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Toimitusjohtajan selvitys ja asiasta käyty keskustelu merkitään tiedoksi",
+        "paatos": "Toimitusjohtajan selvitys ja asiasta käyty keskustelu merkittiin tiedoksi",
+        "selostus": "Kirkkonummen Vuokra-asunnot Oy:n toimitusjohtaja Juha Marjamo on kutsuttu kokoukseen antamaan selvityksen yhtiön toiminnasta, vuoden 2023 tavoitteiden toteutumisesta ja yhtiön ajankohtaisista asioista"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231582-5",
+      "ordinal": "5",
+      "title": "Sivistys- ja vapaa-aikapalveluiden palvelualue",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231582-5",
+      "decision": "Sivistysjohtajan selvitys ja asiasta käyty keskustelu merkittiin tiedoksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Sivistysjohtajan selvitys ja asiasta käyty keskustelu merkitään tiedoksi",
+        "paatos": "Sivistysjohtajan selvitys ja asiasta käyty keskustelu merkittiin tiedoksi",
+        "selostus": "Sivistysjohtaja Eeva-Kaisa Ikonen on kutsuttu kokoukseen antamaan selvityksen sivistys- ja vapaa-aikapalveluiden palvelualueen toiminnan ja talouden vuoden 2023 tavoitteiden toteutumisesta ja ajankohtaisista asioista"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231582-6",
+      "ordinal": "6",
+      "title": "Kokousaikataulu",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231582-6",
+      "decision": "Tarkastuslautakunta päätti pitää kevään kokoukset seuraavasti: 24.1.2024 klo 17.30 Teams 26.3.2024 klo 17.30 kunnantalo 10.4.2024 klo 17.30 Teams 24.4.2024 klo 17.30 Teams 8.5.2024 klo 17.30 kunnantalo",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Tarkastuslautakunta päättää seuraavien kokousten ajankohdista",
+        "paatos": "Tarkastuslautakunta päätti pitää kevään kokoukset seuraavasti: 24.1.2024 klo 17.30 Teams 26.3.2024 klo 17.30 kunnantalo 10.4.2024 klo 17.30 Teams 24.4.2024 klo 17.30 Teams 8.5.2024 klo 17.30 kunnantalo"
+      },
+      "lang": "fi",
+      "text_encoding": "repaired",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231582-7",
+      "ordinal": "7",
+      "title": "Tilintarkastuspalveluiden hankinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231582-7",
+      "decision": "Tarkastuslautakunta päätti 1. valtuuttaa controller Ari Hasun tekemään liitteenä oleviin tarjouskilpailuasiakirjoihin lautakunnan päättämät muutokset, hankintalaista johtuvat täydennykset sekä tekniset korjaukset, 2. käynnistää tilintarkastuspalveluiden hankinnan liitteenä olevien hankinta-asiakirjojen mukaisin ehdoin huomioiden kuitenkin edellä kohdassa 1. tarkoitetut muutokset, täydennykset ja korjaukset, 3. valtuuttaa tarkastuslautakunnan puheenjohtajan ja varapuheenjohtajan osallistumaan tarjouskilpailussa saatujen tarjousten arviointiin ennen tarkastuslautakunnan seuraava käsittelyä puheena olevassa tarjouskilpailussa",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko\n1 Hankintasopimus\n2 hankittavan palvelun ehdot_\n3 Henkilötietojen luovuttamista koskevat ohjeet\n4 Julkisten hankintojen yleiset sopimusehdot palveluhankinnoissa JYSE-ehdot huhtikuu 2022 _\n5 Referenssilomake Tarjouspyynnön ESPD 8.12.2023 Tarjouspyyntö 8.12.2023 Tilintarkastuspalveluiden hankinta Tarkastuslautakunta 29.11.2023 § 50 861/02.02.01/2023",
+        "paatosehdotus": "Tarkastuslautakunta päättää 1 hyväksyä liitteenä olevat hankinta-asiakirjat, 2 käynnistää tilintarkastuspalveluiden hankinnan liitteenä olevien hankinta-asiakirjojen mukaisin ehdoin, 3 valtuuttaa tarkastuslautakunnan puheenjohtajan ja varapuheenjohtajan osallistumaan tarjouskilpailussa saatujen tarjousten arviointiin ennen tarkastuslautakunnan seuraava käsittelyä puheena olevassa tarjouskilpailussa",
+        "kasittely": "Merkittiin, että Outi Koskinen poistui kokouksesta klo 19.47 eikä osallistunut asian käsittelyyn palvelussuhdejääviyden perusteella. Puheenjohtaja toimi pöytäkirjanpitäjänä",
+        "paatos": "Tarkastuslautakunta päätti 1. valtuuttaa controller Ari Hasun tekemään liitteenä oleviin tarjouskilpailuasiakirjoihin lautakunnan päättämät muutokset, hankintalaista johtuvat täydennykset sekä tekniset korjaukset, 2. käynnistää tilintarkastuspalveluiden hankinnan liitteenä olevien hankinta-asiakirjojen mukaisin ehdoin huomioiden kuitenkin edellä kohdassa 1. tarkoitetut muutokset, täydennykset ja korjaukset, 3. valtuuttaa tarkastuslautakunnan puheenjohtajan ja varapuheenjohtajan osallistumaan tarjouskilpailussa saatujen tarjousten arviointiin ennen tarkastuslautakunnan seuraava käsittelyä puheena olevassa tarjouskilpailussa",
+        "selostus": "Tarkastuslautakunta on käsitellyt tilintarkastuspalveluiden hankintaa kokouksessaan 25.10.2023. Tilintarkastuspalveluiden kilpailuttaminen sen ennakoidun arvon perusteella edellyttää hankintalaissa tarkoitettujen hankintailmoitusten julkaisemista valtiovarainministeriön ylläpitämässä julkisten hankintojen ilmoituskanavassa (HILMA) sekä EU:n virallisen lehden täydennysosan verkkoversiossa (TED-tietokanta). Hankintailmoitukseen tulee liittää hankintaan kuuluvat asiakirjat (kuten tarjouspyyntö sekä muut hankinnassa sovellettavat ehdot). Hankinta-asiakirjoja ei ole vielä esityslistan julkaisemishetkellä liitetty esityslistan liitteiksi. Esityslistan liitteiksi otettavat hankinta-asiakirjat toimitetaan lautakunnalle myöhemmin ( 27.11.2023 klo 12.00 mennessä). Hankintamenettelyn jatkotoimenpiteet (kuten saatujen tarjousten arvioiminen, tarjousvertailut hankintapäätösesityksen valmisteleminen) tuodaan tarkastuslautakunnan käsiteltäväksi menettelyssä asetetun tarjousten jättämiselle asetetun määräajan päätyttyä"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite 1 Hankintasopimus",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231582-7-101570.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite 2 hankittavan palvelun ehdot_",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231582-7-101567.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite 3 Henkilötietojen luovuttamista koskevat ohjeet",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231582-7-101564.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite 4 Julkisten hankintojen yleiset sopimusehdot palveluhankinnoissa JYSE-ehdot huhtikuu 2022",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231582-7-101565.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "_Liite 5 Referenssilomake",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231582-7-101566.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Tarjouspyynnön ESPD 8.12.2023",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231582-7-101569.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Tarjouspyyntö 8.12.2023",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231582-7-101568.PDF"
+        }
+      ],
+      "proposals": []
+    }
+  ],
+  "id": "20231582",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20231582"
+}

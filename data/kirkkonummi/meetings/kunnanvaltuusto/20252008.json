@@ -1,0 +1,395 @@
+{
+  "title": "Kunnanvaltuusto Pöytäkirja 14.04.2025 klo 18:03 - 18:53 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Kunnanvaltuusto",
+  "doctype": "Pöytäkirja",
+  "date": "2025-04-14",
+  "items": [
+    {
+      "id": "20252008-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252008-1",
+      "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Kokous todettiin lailliseksi ja päätösvaltaiseksi",
+        "selostus": "Kunnanvaltuuston kokouskutsu on julkaistu kunnan verkkosivulla 9.4.2025. Samana päivänä kutsu on toimitettu valtuutetuille ja varavaltuutetuille"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252008-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252008-2",
+      "decision": "Pöytäkirjantarkastajiksi valittiin Anneli Granström ja Stefan Gustafsson",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanvaltuusto päättää valita kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan",
+        "kasittely": "Varavaltuutettu Anna Presnukhina saapui kokoukseen tämän asian käsittelyn aikana klo 18.06",
+        "paatos": "Pöytäkirjantarkastajiksi valittiin Anneli Granström ja Stefan Gustafsson"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252008-3",
+      "ordinal": "3",
+      "title": "Valtuuston, kunnanhallituksen ja toimielinten työskentelyn sekä strategian arviointi",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252008-3",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 1 Kirkkonummi- Valtuuston työskentelyn arviointi_ 2 Kirkkonummi- Hallituksen työskentelyn arviointi_ 3 Kirkkonummi- Tarkastuslautakunnan työskentelyn arviointi_ 4 Kirkkonummi- Keskusvaalilautakunnan työskentelyn arviointi_ 5 Kirkkonummi- Elinvoimajaoston työskentelyn arviointi_ 6 Kirkkonummi- Henkilöstöjaoston työskentelyn arviointi_ 7 Kirkkonummi- Yhdyskuntatekniikan lautakunnan työskentelyn arviointi_ 8 Kirkkonummi- Toimitilapalvelujen lautakunnan työskentelyn arviointi_ 9 Kirkkonummi- Rakennus- ja ympäristölautakunnan työskentelyn arviointi_ 10 Kirkkonummi- Vesi -liikelaitoksen johtokunnan työskentelyn arviointi_ 11 Kirkkonummi- Sivistys- ja vapaa-aikalautakunnan työskentelyn arviointi_ 12 Kirkkonummi- Suomenkielinen varhaiskasvatus- ja opetuslautakunta_ 13 Kyrkslätt - Svenska nämnden för fostran och utbildning_ 14 Kirkkonummi- Vammaisneuvoston työskentelyn arviointi_ Valtuuston, kunnanhallituksen ja toimielinten työskentelyn sekä strategian arviointi Kunnanvaltuusto 14.04.2025 § 31 95/00.01.03/2025",
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto merkitsee kunnanhallituksen, kunnanvaltuuston sekä toimielinten arviointitulokset tiedokseen",
+        "kasittely": "FCG:n konsultti Heikki Miettinen esitteli asiaa kokouksessa. Hän poistui kokouksesta asian esittelyn jälkeen klo 18.22",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kirkkonummi- Valtuuston työskentelyn arviointi_",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252008-3-124212.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kirkkonummi- Hallituksen työskentelyn arviointi_",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252008-3-124214.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kirkkonummi- Tarkastuslautakunnan työskentelyn arviointi_",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252008-3-124222.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kirkkonummi- Keskusvaalilautakunnan työskentelyn arviointi_",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252008-3-124216.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kirkkonummi- Elinvoimajaoston työskentelyn arviointi_",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252008-3-124213.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kirkkonummi- Henkilöstöjaoston työskentelyn arviointi_",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252008-3-124215.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kirkkonummi- Yhdyskuntatekniikan lautakunnan työskentelyn arviointi_",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252008-3-124220.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kirkkonummi- Toimitilapalvelujen lautakunnan työskentelyn arviointi_",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252008-3-124221.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kirkkonummi- Rakennus- ja ympäristölautakunnan työskentelyn arviointi_",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252008-3-124217.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kirkkonummi- Vesi -liikelaitoksen johtokunnan työskentelyn arviointi_",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252008-3-124224.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kirkkonummi- Sivistys- ja vapaa-aikalautakunnan työskentelyn arviointi_",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252008-3-124218.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kirkkonummi- Suomenkielinen varhaiskasvatus- ja opetuslautakunta_",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252008-3-124219.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kyrkslätt - Svenska nämnden för fostran och utbildning_",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252008-3-124225.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kirkkonummi- Vammaisneuvoston työskentelyn arviointi_",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252008-3-124223.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20252008-4",
+      "ordinal": "4",
+      "title": "Kirkkonummen kunnan osallisuusmalli 2025-2030",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252008-4",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 15 Kirkkonummen osallisuusmalli 2025-2030 Kirkkonummen kunnan osallisuusmalli 2025-2030 Kunnanvaltuusto 14.04.2025 § 32 171/00.01.01/2025",
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että se hyväksyy Kirkkonummen kunnan osallisuusmallin vuosille 2025-2030",
+        "kasittely": "Suunnittelija Joni Arola esitteli asiaa kokouksessa",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kirkkonummen osallisuusmalli 2025-2030",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252008-4-124234.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20252008-5",
+      "ordinal": "5",
+      "title": "Kunnan takaaman Kirkkonummen Vuokra-asunnot Oy:n lainan uudelleenjärjestely",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252008-5",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus esittää kunnanvaltuustolle, että 1 valtuusto hyväksyy Kirkkonummen Vuokra-asunnot Oy:lle myönnetyn lainan uudelleenjärjestelyn, joka sisältää lainatakauksen pidennyksen suuruudeltaan korkeintaan 13 760 157,43 euron lainalle, jolle annetaan takaus määrältään 80 % lainan suuruudesta. Takaus on voimassa 20 vuotta lainan nostohetkestä. 2 takauksesta peritään vuosittainen takausprovisio 3 edellä mainitun kunnan takauksen edellytyksenä on, että Kirkkonummen Vuokra-asunnot Oy antaa oheisen panttaussitoumuksen vastavakuutena kunnalle 4 kunnanjohtaja valtuutetaan allekirjoittamaan Kirkkonummen Vuokra-asunnot Oy:lle annettavan takaussopimuksen sekä Kirkkonummen Vuokra-asunnot Oy:n antaman panttaussitoumuksen Kirkkonummen kunnan puolesta",
+        "kasittely": "Valtuutettu Ari Harinen ilmoitti olevansa yhteisöjäävi ja poistui kokouksesta tämän pykälän käsittelyn ja päätöksenteon ajaksi",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252008-6",
+      "ordinal": "6",
+      "title": "Keskustan entisen terveyskeskuskiinteistön purku, lisämääräraha",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252008-6",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus esittää kunnanvaltuustolle, että se 1 myöntää toimitilapalvelujen lautakunnalle terveyskeskuskiinteistön purkamiseen tarvittavan 500 000 euron lisämäärärahan. 2 päättää korottaa talousarvion 2025 poistomäärärahaa 212 668 eurolla, jolla katetaan terveyskeskusrakennuksen tasearvon alaskirjaus",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252008-7",
+      "ordinal": "7",
+      "title": "Yhteisten palveluiden talousarvion 2025 lisämäärärahaesitys",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252008-7",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus esittää kunnanvaltuustolle, että se hyväksyy yhteisten palveluiden vuoden 2025 talousarvion toimintakatteeseen 36 000 euron lisämäärärahan",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252008-8",
+      "ordinal": "8",
+      "title": "Vastaus valtuustoaloitteeseen 17/2019: Veikkolan kirjastorakennuksen peruskorjauksen sekä Koskentorin laitaan rakennettavan monitoimitalon hankesuunnitelmasta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252008-8",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "initiative": {
+        "ref": "17/2019",
+        "proposer": "seuraavan aloitteen:   ”Kunn",
+        "party": null,
+        "name": null
+      },
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus antaa selostusosan mukaisen vastauksen valtuustoaloitteeseen 17/2019 ja esittää edelleen kunnanvaltuustolle, että valtuusto pitää vastausta riittävänä ja aloitetta loppuun käsiteltynä. Jatkosuunnittelulle evästyksenä, että valtuustoaloitteen (16.12.2019) mukaisista hankesuunnitelmakokonaisuuksista käynnistetään ensi vuoden aikana hankesuunnitelman tasoiset suunnitelmat päätöksiä varten. Monitoimirakennuksen suunnitelmat tehdään yhteistyössä Länsi-uudenmaan hyvinvointialueen kanssa",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252008-9",
+      "ordinal": "9",
+      "title": "Vastaus valtuustoaloitteeseen 2/2023: Kirkkonummen kunnan tulee selvittää mahdollisuudet rakentaa yksi tai useampi aurinkopaneelipuisto",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252008-9",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "initiative": {
+        "ref": "2/2023",
+        "proposer": "teen kunnanhallitukselle valmisteltavaksi.     Selostus   Valtuutettu Kim Liljequist (RKP)",
+        "party": "rkp",
+        "name": "Kim Liljequist"
+      },
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 16 Valtuustoaloite - fullmäktigemotion, 2-2023 Vastaus valtuustoaloitteeseen 2/2023: Kirkkonummen kunnan tulee selvittää mahdollisuudet rakentaa yksi tai useampi aurinkopaneelipuisto Kunnanvaltuusto 14.04.2025 § 37 61/00.04.02/2023",
+        "paatosehdotus": "Kunnanhallitus antaa selostusosan mukaisen vastauksen valtuustoaloitteeseen 2/2023 kunnanvaltuustolle ja ehdottaa, että valtuusto pitää vastausta riittävänä ja aloitetta loppuunkäsiteltynä",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Valtuustoaloite - fullmäktigemotion, 2-2023",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252008-9-86756.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20252008-10",
+      "ordinal": "10",
+      "title": "Vastaus valtuustoaloitteeseen 7/2023: Kirkkonummen kunnan tulee selvittää mahdollisuus järjestää keskustelutilaisuus liikenneturvallisuudesta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252008-10",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "initiative": {
+        "ref": "7/2023",
+        "proposer": "utakunta päätti päätösehdotuksen mukaisesti     Selostus   Valtuutettu Kim Liljequist, RKP",
+        "party": "rkp",
+        "name": "Kim Liljequist"
+      },
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus antaa kunnanvaltuustolle selostusosan mukaisen vastauksen valtuustoaloitteeseen 7/2023: Kirkkonummen kunnan tulee selvittää mahdollisuus järjestää keskustelutilaisuus liikenneturvallisuudesta ja ehdottaa, että valtuusto pitää vastausta riittävänä ja aloitetta loppuun käsiteltynä",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252008-11",
+      "ordinal": "11",
+      "title": "Eron myöntäminen rakennus- ja ympäristölautakunnan varajäsenyydestä (R.B.) ja uuden varajäsenen valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252008-11",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Ralf Björklundille rakennus- ja ympäristölautakunnan varajäsenyydestä 2 valita Tuomo Tiitinen uudeksi varajäseneksi rakennus- ja ympäristölautakuntaan Ralf Björklundin tilalle toimikauden 2025 loppuun",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto päättää 1 myöntää eron Ralf Björklundille rakennus- ja ympäristölautakunnan varajäsenyydestä 2 valita uuden varajäsenen rakennus- ja ympäristölautakuntaan Ralf Björklundin tilalle toimikauden 2025 loppuun",
+        "kasittely": "Kati Kaihlaranta / Vasemmistoliitto: Tuomo Tiitinen",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Ralf Björklundille rakennus- ja ympäristölautakunnan varajäsenyydestä 2 valita Tuomo Tiitinen uudeksi varajäseneksi rakennus- ja ympäristölautakuntaan Ralf Björklundin tilalle toimikauden 2025 loppuun"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252008-12",
+      "ordinal": "12",
+      "title": "Valtuustoaloite 5/2025: Kielto vaalimainonnalle teiden varsilla kaavoitetulla alueella kunnassa",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252008-12",
+      "decision": "Esitän, että kunnanvaltuusto päättää: 1. Antaa kunnalle tehtäväksi selvittää mahdollisuus kieltää vaalimainonta teiden varsilla kaavoitetulla alueella kunnassa. 2. Selvitys tulee esittää kunnanvaltuustolle hyvissä ajoin ennen seuraavia vaaleja. Tony Björk, kommunfullmäktiges ordförande - kunnanvaltuuston puheenjohtaja” Valtuustoaloitteen allekirjoittivat Tony Björkin lisäksi Anders Adlercreutz, Johanna Fleming, Marjut Frantsi-Lankia, Sanni Jäppinen, Kati Kaihlaranta, Matti Kaurila, Jerri Kämpe-Hellenius, Kim Liljequist, Kim Männikkö, Maarit Orko, Hannu Valtanen ja Anna-Mari Toikka",
+      "votes": [],
+      "initiative": {
+        "ref": "5/2025",
+        "proposer": "anhallitukselle valmisteltavaksi.     Selostus   Kunnanvaltuuston puheenjohtaja Tony Björk",
+        "party": null,
+        "name": "Tony Björk"
+      },
+      "sections": {
+        "paatos": "Esitän, että kunnanvaltuusto päättää: 1. Antaa kunnalle tehtäväksi selvittää mahdollisuus kieltää vaalimainonta teiden varsilla kaavoitetulla alueella kunnassa. 2. Selvitys tulee esittää kunnanvaltuustolle hyvissä ajoin ennen seuraavia vaaleja. Tony Björk, kommunfullmäktiges ordförande - kunnanvaltuuston puheenjohtaja” Valtuustoaloitteen allekirjoittivat Tony Björkin lisäksi Anders Adlercreutz, Johanna Fleming, Marjut Frantsi-Lankia, Sanni Jäppinen, Kati Kaihlaranta, Matti Kaurila, Jerri Kämpe-Hellenius, Kim Liljequist, Kim Männikkö, Maarit Orko, Hannu Valtanen ja Anna-Mari Toikka",
+        "selostus": "Kunnanvaltuuston puheenjohtaja Tony Björk jätti kunnanvaltuuston kokouksessa 14.4.2025 seuraavan valtuustoaloitteen: ” Kielto vaalimainonnalle teiden varsilla kaavoitetulla alueella kunnassa Tausta: Vaalimainonta teiden varsilla voi aiheuttaa liikennevaaran ja vaikuttaa negatiivisesti maisemaan. Lisäksi ne eivät ole erityisen ympäristöystävällisiä. On tärkeää varmistaa, että kuntamme on turvallinen ja esteettisesti miellyttävä paikka kaikille asukkaille ja vierailijoille. Ehdotus : Ehdotan, että kunnanvaltuusto selvittää mahdollisuuden kieltää vaalimainonta teiden varsilla kaavoitetulla alueella kunnassa. Selvityksen tulisi sisältää: 1. Kartoitus nykyisistä säännöistä ja ohjeista vaalimainonnan sijoittamiseksi teiden varsille. 2. Analyysi siitä, miten vaalimainonta vaikuttaa liikenneturvallisuuteen ja maisemaan. 3. Vertailu muiden kuntien sääntöihin ja kokemuksiin vastaavista kielloista. 4. Ehdotukset vaihtoehtoisista paikoista vaalimainonnalle, jotka eivät vaikuta liikenneturvallisuuteen tai maisemaan negatiivisesti. Perustelu: Kieltämällä vaalimainonta teiden varsilla kaavoitetulla alueella voimme parantaa liikenneturvallisuutta ja säilyttää kunnan esteettiset arvot. Tämä on erityisen tärkeää tiheästi asutuilla alueilla, joissa liikkuu päivittäin paljon ihmisiä"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "paatos_labels": 2,
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252008-13",
+      "ordinal": "13",
+      "title": "Valtuustoaloite 6/2025: Jalkapallohalli keskustan urheilupuistoon",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252008-13",
+      "decision": "Kunnanvaltuusto lähettää valtuustoaloitteen kunnanhallitukselle valmisteltavaksi",
+      "votes": [],
+      "initiative": {
+        "ref": "6/2025",
+        "proposer": "aksi.   Selostus   Jani Ekman, Timo Haapaniemi, Matti Kaurila, Kari Virtanen ja Kim Åström",
+        "party": null,
+        "name": "Kim Åström"
+      },
+      "sections": {
+        "paatos": "Kunnanvaltuusto lähettää valtuustoaloitteen kunnanhallitukselle valmisteltavaksi",
+        "selostus": "Jani Ekman, Timo Haapaniemi, Matti Kaurila, Kari Virtanen ja Kim Åström jättivät kunnanvaltuuston kokouksessa 14.4.2025 seuraavan valtuustoaloitteen: ” Jalkapallohalli keskustan urheilupuistoon 1. Tausta FC Kirkkonummi on yksi Suomen suurimmista jalkapalloseuroista ja se on elintärkeä osa Kirkkonummea - erityisesti lapsille ja nuorille. Seura tuottaa UEFA SROI -mallinnuksen mukaisesti yhteiskunnalle yli 7,5 miljoonan euron hyödyt vuosittain. Tämä kuvaa jalkapalloon sijoitetun pääoman sosiaalista tuottoa (Social Return on Investment) euromääräisesti mitattuna. Tuotto koostuu sosiaalisista hyödyistä (1,0 miljoona euroa), terveydellisistä hyödyistä (4,1 miljoonaa euroa) sekä taloudellisista hyödyistä (2,4 miljoonaa euroa). Nykyiset olosuhteet jalkapallon harjoitteluun ja pelaamiseen talvella ovat kunnassamme heikot. Nuoret harjoittelevat talvella joko Kirkkonummen keskustan lämmitetyllä tekonurmella tai Masalan kuplahallissa. Kuplahalli soveltuu pienen kokonsa johdosta huonosti vanhempien junioreiden käyttöön. Yleisurheilun osalta talviharjoittelu-mahdollisuudet ovat olemattomat. Keskustan tekonurmen lämmitys on kirjaimellisesti lämpöä harakoille ja maksaa kunnalle jopa yli 50,000 € vuodessa - tämä on sekä ympäristön kannalta kestämätöntä että taloudellisesti epäedullista. Lämmityksestä huolimatta kovalla lumisateella tai kovalla pakkasella harjoituksia ei voi järjestää, sillä aurauksen jälkeen kentälle jäänyt lumi ei lämmityksestä huolimatta sula kovin nopeasti. Lisäksi tekonurmen lämmitysputkisto on tulossa käyttöikänsä päähän ja vaatii lähivuosina saneerausta. Heikot talviharjoittelu-olosuhteet aiheuttavat pelaajien siirtymisiä Espoon seuroihin ja välillä perheet päätyvät jopa muutamaan Espooseen parempien harrastusmahdollisuuksien perässä. Tämä aiheuttaa verotulojen menetyksiä kunnalle. Tilanteen korjaamiseksi FC Kirkkonummi on jo useita vuosia valmistellut hanketta jalkapallohallin rakentamiseksi keskustaan, mutta sitä ei ole vielä saatu alkamaan. Keskeinen haaste on ollut, että Kirkkonummen kunta ei ole osoittanut hankkeelle tonttia. 2. Halli Halli olisi hyvä toteuttaa puolilämpimänä siten että siellä olisi on noin 60 x 100 metrin jalkapallokenttä, yli 100 metriä pitkä juoksusuora sekä yleisurheilupaikkoja, esimerkiksi pituus- ja korkeushypylle. Myös pukeutumistilat ovat tarpeelliset. Tällainen monitoimihalli mahdollistaisi jalkapallon, yleisurheilun, frisbeegolfin, pesäpallon ja monen muun lajin talviharjoittelun. Halli tarjoaisi myös jäälajien harrastajille mahdollisuudet monipuoliseen oheisharjoitteluun ja lämmittelyyn jääaikojen ulkopuolella. Viikoittaisia käyttäjiä hallilla olisi useita tuhansia. Esimerkki tällaisesta hallista löytyy Nummelasta: palloilu- ja yleisurheiluhalli Aura Light Certos Areena. Hallin kustannukset olivat 3,5 miljoonaa euroa ja toteutettiin Vihdin kunnan, Nummelan Palloseuran ja Vihdin Viestin yhteistyössä. Sopiva sijainti hallille on Kirkkonummen keskustan urheilupuistossa. Urheilupuisto on erinomainen sijainti hallille, sillä alue on jo nyt tarkoitettu urheilulle, sinne on hyvät julkisen liikenteen yhteyden ja siellä on tarpeeksi pysäköintitilaa. Halli mahtuisi hyvin nykyisen tekonurmen viereen, “häkkinurmen” tilalle. Kunnan suunnitelmissa oleva tekojäärata mahtuisi myös urheilupuistoon, esimerkiksi Taka-Wembleyn paikalle. Urheilupuistoon sijoittuva halli olisi hyödyksi myös alueen kouluille (Jokirinteen koulu, Winellska skolan, Papinmäen koulu, Gesterbyn koulu, Kyrkslätts Gymnasium, Porkkalan lukio), päiväkodeille ja senioreille, jotka voisivat käyttää sitä liikuntaan ja opetukseen päiväsaikaan, kun siellä ei ole harjoituksia Hallin ympäristöystävällisyyttä ja kustannustehokkuutta voisi parantaa energian yhteiskäytöllä jäähallin kanssa: jäähallista poistetaan lämpöä, jota voisi hyödyntää hallin lämmitykseen. Kunta voisi yhdessä seurojen kanssa arvioida, kuinka paljon tekonurmen talvilämmitykselle on enää tarvetta hallin valmistumisen jälkeen, ja päivittää kentän lämmitysputkiston perusparannussuunnitelmat sekä suunnitella kentän lämmityksen tämän perusteella. 3. Tukee kuntastrategiaa Hallin toteuttaminen tukee suoraan kuntastrategian tavoitteita “kuntakeskuksemme on elävä kohtaamispaikka”, “innostamme kuntalaisia aktiiviseen elämäntapaan, liikkumaan ja kulttuurin pariin” ja “vahvistamme yhteistyöverkostoja muiden kuntien, elinkeinoelämän sekä kolmannen sektorin kanssa”. Tämä ei ole vain investointi urheiluun, vaan myös tulevaisuuteen – vahvempaan, elinvoimaisempaan ja yhtenäisempään Kirkkonummeen! Kuva: Best Hall Oy Kuva: Best Hall Oy Me allekirjoittaneet esitämme, että Kirkkonummen kunta selvittää pikaisesti: 1) Mahdollisuudet tontin osoittamiselle Kirkkonummen urheilupuistosta hallille ja mahdollisten kaavamuutosten laatimiselle 2) Kunnan mahdollisuudet osallistua hallihankkeen investointikustannuksiin ja toteuttamiseen yhdessä paikallisten urheiluseurojen kanssa 3) Kunnan mahdollisuudet tukea hankkeen rahoituksen järjestämisessä. Kunta saa lainaa huomattavan paljon halvemmalla kuin yksityiset toimijat. 4) Mahdollisuudet yhteistyöhön hallin ylläpidossa paikallisten urheiluseurojen kanssa Kunnioittavasti, Jani Ekman, Timo Haapaniemi, Matti Kaurila, Kari Virtanen, Kim Åström” Jani Ekmanin, Timo Haapaniemen, Matti Kaurilan, Kari Virtasen, Kim Åströmin lisäksi valtuustoaloitteen allekirjoittivat myös Piia Aallonharja, Anders Adlercreutz, Johanna Fleming, Josephine Frimodig, Hans Hedberg, Sanni Jäppinen, Kati Kaihlaranta, Antti Kilappa, Jani Kähkönen, Elina Kärkimaa, Arttu Lankinen, Kim Männikkö, Noora Piili, Ville Salminen, Tero Suominen, Martin Valtonen, Aleksander Polkko, Anna Presnukhina, Paula Oittinen ja Elina Utriainen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252008-14",
+      "ordinal": "14",
+      "title": "Valtuustoaloite 7/2025 Kirkkonummen kunnan koulujen vaaranpaikkojen selvitykseksi ja korjaamiseksi",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252008-14",
+      "decision": "Kunnanvaltuusto toimittaa valtuustoaloitteen kunnanhallitukselle valmisteltavaksi",
+      "votes": [],
+      "initiative": {
+        "ref": "7/2025",
+        "proposer": "hallitukselle valmisteltavaksi.   Selostus   Sini Felipe, Tuovi Ronkainen ja Tero Suominen",
+        "party": null,
+        "name": "Tero Suominen"
+      },
+      "sections": {
+        "paatos": "Kunnanvaltuusto toimittaa valtuustoaloitteen kunnanhallitukselle valmisteltavaksi",
+        "selostus": "Sini Felipe, Tuovi Ronkainen ja Tero Suominen jättivät kunnanvaltuuston kokouksessa 14.4.2025 seuraavan valtuustoaloitteen: ” Valtuustoaloite Kirkkonummen kunnan koulujen vaaranpaikkojen selvitykseksi ja korjaamiseksi Koulujen turvallisuudesta huolehtiminen on tärkeä osa kouluviihtyvyyttä ja koululaisten sekä henkilöstön hyvinvointia. Liikenneturvallisuuteen liittyvät kysymykset ovat olennainen osa turvallisuusriskien kartoitusta. Turvallisuusriskejä aiheuttavia vaaranpaikkoja löytyy kouluilta ja niiden läheisyydestä esimerkiksi Veikkolassa. Vuorenmäen koulun sivustalla on rappuset, joita pitkin suuri osa lapsista kulkee koulun pihalle. Rappuset palvelevat myös liityntäpysäköinnin kautta saapuvia. Rappusten kunto on kuitenkin huono ja niiden liukkaus talvella on suuri riskitekijä kulkijoiden turvallisuudelle. Lisäksi Vuorenmäen koulun edustalla näkee usein nopeusrajoitusten ylittämistä. Tien ylittäminen on monen lapsen koulureitin osa ja tähän turvallisuuskysymykseen tulee myös puuttua. Ratkaisuna voisi olla esimerkiksi hidaste, joka vähentää ylinopeusriskiä ja turvaa tietä ylittävien lasten koulutietä. Muidenkin kunnan koulujen vastaavat vaaranpaikat tulee selvittää ja turvallisuutta parantaa havaittujen puutteiden osalta. Me allekirjoittaneet valtuutetut esitämme, että 1) Vuorenmäen koulun tunnistetut vaaranpaikat (portaat, tien ylitys) korjataan ja 2) Kirkkonummella selvitetään kattavasti vastaavat paikat myös muiden koulujen osalta ja aloitetaan korjaus/parannustyöt todettujen paikkojen osalta koululaisten ja henkilöstön turvallisuuden parantamiseksi. Kirkkonummella 25.3.2025 Sini Felipe Tuovi Ronkainen Tero Suominen” Sini Felipen, Tuovi Ronkaisen ja Tero Suomisen lisäksi valtuustoaloitteen allekirjoittivat myös Piia Aallonharja, Jani Ekman, Johanna Fleming, Marjut Frantsi-Lankia, Josephine Frimodig, Anneli Granström, Sanni Jäppinen, Kati Kaihlaranta, Matti Kaurila, Jani Kähkönen, Arttu Lankinen, Kim Liljequist, Jussi Määttä, Maarit Orko, Noora Piili, Anna Sahiluoma, Antti Salonen, Ville Salminen, Martin Valtonen, Kari Virtanen, Kim Åström, Anna Presnukhina ja Anna-Mari Toikka"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    }
+  ],
+  "id": "20252008",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20252008"
+}

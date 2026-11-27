@@ -1,0 +1,237 @@
+{
+  "title": "Nuorisovaltuusto Pöytäkirja 27.02.2024 klo 17:41 - 18:57 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Nuorisovaltuusto",
+  "doctype": "Pöytäkirja",
+  "date": "2024-02-27",
+  "items": [
+    {
+      "id": "20241663-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241663-1",
+      "decision": "Puheenjohtaja totesi kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+      "sections": {
+        "valmistelija": "Toimistosihteeri Johanna Wendelin, etunimi.sukunimi@kirkkonummi.fi",
+        "esittelija": "Puheenjohtaja",
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Puheenjohtaja totesi kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20241663-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241663-2",
+      "decision": "Pöytäkirjantarkastajiksi valittiin Anton Berende ja Ukko Huuskonen",
+      "sections": {
+        "valmistelija": "Toimistosihteeri Johanna Wendelin, etunimi.sukunimi@kirkkonummi.fi",
+        "esittelija": "Puheenjohtaja",
+        "paatosehdotus": "Nuorisovaltuusto päättää valita kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan",
+        "paatos": "Pöytäkirjantarkastajiksi valittiin Anton Berende ja Ukko Huuskonen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20241663-3",
+      "ordinal": "3",
+      "title": "Nuorisovaltuuston edustajien raportit kunnan toimielimien kokouksista",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241663-3",
+      "decision": "Kuultiin raportit kunnanvaltuuston, vammaisneuvoston ja yhdyskuntatekniikan lautakunnan kokouksista",
+      "sections": {
+        "valmistelija": "Toimistosihteeri Johanna Wendelin etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "esittelija": "Puheenjohtaja",
+        "paatosehdotus": "Kuullaan nuorisovaltuuston edustajien raportit kunnan toimielimien kokouksista",
+        "paatos": "Kuultiin raportit kunnanvaltuuston, vammaisneuvoston ja yhdyskuntatekniikan lautakunnan kokouksista",
+        "tiedoksi": "-",
+        "selostus": "Nuorisovaltuusto valitsi 30.1.2024 kokouksessaan (§4, §5, §6 ja §7) edustajat ja varaedustajat lautakuntiin nuorisovaltuuston toimintakaudeksi 1.1.2024-31.12.2025"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20241663-4",
+      "ordinal": "4",
+      "title": "Nuorisovaltuuston vuoden 2023 toimintakertomus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241663-4",
+      "decision": "Nuorisovaltuusto hyväksyi vuoden 2023 toimintakertomuksen ja päätti antaa sen sivistys- ja vapaa-aikalautakunnan käsiteltäväksi",
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko Nuva 27.2.2024 liite_Nuorisovaltuusto toimintakertomus 2023 Nuorisovaltuuston vuoden 2023 toimintakertomus Nuorisovaltuusto 27.02.2024 § 15 1296/12.05.00/2022",
+        "valmistelija": "Nuoriso- ja liikuntapäällikkö Päivi Sorvari etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "esittelija": "Puheenjohtaja",
+        "paatosehdotus": "Nuorisovaltuusto päättää hyväksyä liitteenä olevan nuorisovaltuuston vuoden 2023 toimintakertomuksen ja antaa sen sivistys- ja vapaa-aikalautakunnan käsiteltäväksi",
+        "paatos": "Nuorisovaltuusto hyväksyi vuoden 2023 toimintakertomuksen ja päätti antaa sen sivistys- ja vapaa-aikalautakunnan käsiteltäväksi",
+        "tiedoksi": "-",
+        "selostus": "Nuorisovaltuuston toimintasäännön 5 § mukaan nuorisovaltuusto raportoi toiminnastaan vuosittain laatimalla toimintakertomuksen. Nuorisovaltuuston hyväksymä toimintakertomus annetaan sivistys- ja vapaa-aikalautakunnalle"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Nuva 27.2.2024 liite_Nuorisovaltuusto toimintakertomus 2023",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241663-4-104120.PDF"
+        }
+      ],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20241663-5",
+      "ordinal": "5",
+      "title": "Nuorisovaltuuston toimintasuunnitelman 2024 valmisteleminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241663-5",
+      "decision": "Nuorisovaltuusto päätti, että puheenjohtajisto yhdessä nuorisovaltuuston toiminnasta vastaavien kanssa valmistelee vuoden 2024 toimintasuunnitelman nuorisovaltuustolle päätettäväksi",
+      "sections": {
+        "valmistelija": "Nuoriso- ja liikuntapäällikkö Päivi Sorvari etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "esittelija": "Puheenjohtaja",
+        "paatosehdotus": "Nuorisovaltuusto päättää, että puheenjohtajisto yhdessä nuorisovaltuuston toiminnasta vastaavien työntekijöiden kanssa valmistelee toimintasuunnitelman nuorisovaltuuston päätettäväksi",
+        "paatos": "Nuorisovaltuusto päätti, että puheenjohtajisto yhdessä nuorisovaltuuston toiminnasta vastaavien kanssa valmistelee vuoden 2024 toimintasuunnitelman nuorisovaltuustolle päätettäväksi",
+        "tiedoksi": "-",
+        "selostus": "Nuorisovaltuuston toimintasäännön 5 § mukaan puheenjohtajisto valmistelee vuosittain nuorisovaltuuston toimintasuunnitelman"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20241663-6",
+      "ordinal": "6",
+      "title": "Nuorisovaltuuston määrärahan käyttösuunnitelma vuodelle 2024",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241663-6",
+      "decision": "Nuorisovaltuusto päätti hyväksyä määrärahansa käyttösuunnitelman vuodelle 2024 ja esittää sen sivistys- ja vapaa-aikalautakunnan hyväksyttäväksi",
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko Nuva 27.2.2024 liite_Nuorisovaltuuston määrärahan käyttösuunnitelma 2024_FINAL Nuorisovaltuuston määrärahan käyttösuunnitelma vuodelle 2024 Nuorisovaltuusto 27.02.2024 § 17 848/12.05.00/2023",
+        "valmistelija": "Nuoriso- ja liikuntapäällikkö Päivi Sorvari etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "esittelija": "Puheenjohtaja",
+        "paatosehdotus": "Nuorisovaltuusto päättää hyväksyä määrärahansa käyttösuunnitelman vuodelle 2024 ja esittää sen sivistys- ja vapaa-aikalautakunnan hyväksyttäväksi",
+        "paatos": "Nuorisovaltuusto päätti hyväksyä määrärahansa käyttösuunnitelman vuodelle 2024 ja esittää sen sivistys- ja vapaa-aikalautakunnan hyväksyttäväksi",
+        "tiedoksi": "-",
+        "selostus": "Nuorisovaltuuston määräraha on osa sivistys- ja vapaa-aikalautakunnan käyttösuunnitelmaa. Sivistys- ja vapaa-aikalautakunta hyväksyi käyttösuunnitelman vuodelle 2024 kokouksessaan 25.1.2024 § 9. Nuorisovaltuuston määrärahan suuruus on 14 818 euroa. Nuorisovaltuuston toimintasäännön 5 § mukaan nuorisovaltuuston puheenjohtajisto valmistelee vuosittain nuorisovaltuuston hyväksyttäväksi toimintasuunnitelman. Nuorisovaltuusto valmistelee myös määrärahansa käyttösuunnitelman, jonka sivistys- ja vapaa-aikalautakunta hyväksyy. Nuorisovaltuuston toimintasäännön 5 § mukaan nuorisovaltuustoa koskevat hankinnat ja laskut hyväksyy kunnan nuorisotyöstä vastaava viranhaltija nuorisovaltuuston puheenjohtajan ja nuorisotyön palveluvastaavan esityksestä"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Nuva 27.2.2024 liite_Nuorisovaltuuston määrärahan käyttösuunnitelma 2024_FINAL",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241663-6-104122.PDF"
+        }
+      ],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20241663-7",
+      "ordinal": "7",
+      "title": "Nuorisovaltuuston toimintasäännön päivittäminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241663-7",
+      "decision": "Nuorisovaltuusto päätti perustaa työryhmän tarkastelemaan nykyisen toimintasäännön kehittämiskohteita sekä valtuuttaa työryhmän laatimaan luonnoksen uudesta toimintasäännöstä. Työryhmään kuuluvat nuoriso- ja liikuntapäällikkö Päivi Sorvari, nuorisotyön palveluvastaava Eija Rajavaara, nuorisovaltuuston jäsenet Iida Sukselainen ja Nooa Pirneskoski sekä nuorisovaltuuston puheenjohtajisto",
+      "sections": {
+        "valmistelija": "Nuoriso- ja liikuntapäällikkö Päivi Sorvari etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "esittelija": "Puheenjohtaja",
+        "paatosehdotus": "Nuorisovaltuusto päättää perustaa työryhmän tarkastelemaan nykyisen toimintasäännön kehittämiskohteita sekä valtuuttaa työryhmän laatimaan luonnoksen uudesta toimintasäännöstä",
+        "paatos": "Nuorisovaltuusto päätti perustaa työryhmän tarkastelemaan nykyisen toimintasäännön kehittämiskohteita sekä valtuuttaa työryhmän laatimaan luonnoksen uudesta toimintasäännöstä. Työryhmään kuuluvat nuoriso- ja liikuntapäällikkö Päivi Sorvari, nuorisotyön palveluvastaava Eija Rajavaara, nuorisovaltuuston jäsenet Iida Sukselainen ja Nooa Pirneskoski sekä nuorisovaltuuston puheenjohtajisto",
+        "tiedoksi": "-",
+        "selostus": "Kirkkonummen kunnan hallintosäännön 10 §:ssä on määräykset kunnan vaikuttamistoimielimistä. Kunnassa on nuorisovaltuusto, vanhusneuvosto ja vammaisneuvosto, joiden kokoonpanosta, asettamisesta ja toimintaedellýtyksistä päättää kunnanhallitus oman toimikautensa ajaksi. Hallintosäännön 54 §:ssä sivistys- ja vapaa-aikalautakunnan tehtävät ja toimivalta todetaan muun muassa, että lautakunta vastaa lisäksi nuorisovaltuuston toiminnasta. Nuorisovaltuuston toimintasäännön 7 §.ssä todetaan toimintasäännön tarkastamisen osalta, että nuorisovaltuusto tarkentaa tarvittaessa toimintasääntöään, tehden siitä esityksen sivistys- ja vapaa-aikalautakunnalle. Edellisen nuorisovaltuustokauden 2022-2023 aikana on todettu, että on tarpeen tarkastella kokonaisuutena nuorisovaltuustotoimintaa sekä tarkentaa nuorisovaltuuston toimintasääntöä. Toiminnan kehittämiseksi on tarkoituksenmukaista perustaa työryhmä tarkastelemaan nykyisen toimintasäännön kehittämiskohteita sekä valtuuttaa työryhmä laatimaan luonnos uudesta toimintasäännöstä"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20241663-8",
+      "ordinal": "8",
+      "title": "Nuorisovaltuuston viestinnän ja näkyvyyden kehittäminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241663-8",
+      "decision": "Nuorisovaltuusto päätti 1 jättää toistaiseksi täyttämättä viestintävastaavan tehtävän. 2 että nuorisovaltuuston toiminnassa mukana olevat nuorisotyön työntekijät organisoivat, toteuttavat ja kehittävät nuorisovaltuuston viestintää Kirkkonummen kunnan viestintäperiaatteiden mukaisesti yhdessä nuorisovaltuuston jäsenten kanssa",
+      "sections": {
+        "valmistelija": "Nuoriso- ja liikuntapäällikkö Päivi Sorvari etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "esittelija": "Puheenjohtaja",
+        "paatosehdotus": "Nuorisovaltuusto päättää 1 jättää toistaiseksi täyttämättä viestintävastaavan tehtävän. 2 että nuorisovaltuuston toiminnassa mukana olevat nuorisotyön työntekijät organisoivat, toteuttavat ja kehittävät nuorisovaltuuston viestintää Kirkkonummen kunnan viestintäperiaatteiden mukaisesti yhdessä nuorisovaltuuston jäsenten kanssa",
+        "paatos": "Nuorisovaltuusto päätti 1 jättää toistaiseksi täyttämättä viestintävastaavan tehtävän. 2 että nuorisovaltuuston toiminnassa mukana olevat nuorisotyön työntekijät organisoivat, toteuttavat ja kehittävät nuorisovaltuuston viestintää Kirkkonummen kunnan viestintäperiaatteiden mukaisesti yhdessä nuorisovaltuuston jäsenten kanssa",
+        "tiedoksi": "-",
+        "selostus": "Nuorisovaltuuston toimintasäännön mukaisesti nuorisovaltuusto valitsee järjestäytymiskokouksessa keskuudestaan toimintakaudeksi puheenjohtajan, kaksi varapuheenjohtajaa, kaksi sihteeriä ja viestintävastaavan. Nuorisovaltuuston järjestäytymiskokouksessa 30.1.2024 § 3 Nuorisovaltuuston järjestäytyminen, nuorisovaltuusto päätti olla valitsematta nuorisovaltuustolle viestintävastaavaa. Asian käsittely päätettiin yksimielisesti siirtää nuorisovaltuuston seuraavaan kokoukseen 27.2.2024. Nuorisovaltuuston toimintasäännössä § 3 määritellään nuorisovaltuuston viestintävastaavan tehtävät seuraavasti: Viestintävastaavan tehtävänä on huolehtia sisäisestä ja ulkoisesta tiedottamisesta nuorisovaltuuston viestintäsuunnitelman mukaisesti. Viestintävastaava pitää yllä nuorisovaltuuston sosiaalisen median kanavia ja tekee tarvittaessa yhteistyötä kunnan viestinnästä vastaavien työntekijöiden kanssa. Viestintävastaava on vastuussa toiminnastaan nuorisovaltuustolle. Aikaisemman nuorisovaltuustokauden 2022-2023 aikana on todettu, että nuorisovaltuuston viestintävastaavan tehtävä on erittäin haasteellinen ja tehtävä vaatii monipuolisia viestinnän taitoja sekä viestinnässä on noudatettava Kirkkonummen kunnan viestinnän yleisiä periaatteita. Nuorisovaltuuston viestintää on toteutettu tähän saakka hyvin pitkälle nuorisovaltuutettujen voimin kampanjatyyppisesti, ja viestintää varten on perustettu muun muassa erillisiä nuorisovaltuuston jäsenistä koostuvia viestintätiimejä. Viestintätiimeistä huolimatta nuorisovaltuuston jäsenet ovat useaan otteeseen tuoneet ilmi, että viestinnän toteuttaminen on koettu haasteelliseksi eikä nykyiset toimintamallit saavuta parhaalla mahdollisella tavalla nuoria. Nuorisovaltuustotoiminnan viestinnän tarkoituksena on ennen kaikkea tuoda lisää tietoisuutta nuorille heidän vaikuttamismahdollisuuksistaan kunnassa. On tarpeen miettiä uudenlaisia tapoja toteuttaa nuorisovaltuuston viestintää. Nuorisovaltuustotoiminnan viestinnän toteuttamiseksi ja kehittämiseksi nuorisovaltuustolle ehdotetaan, että viestintävastaavan tehtävää ei toistaiseksi täytetä, vaan jatkossa nuorisovaltuuston toiminnassa mukana olevat nuorisotyön työntekijät organisoivat, toteuttavat ja kehittävät nuorisovaltuuston viestintää Kirkkonummen kunnan viestintäperiaatteiden mukaisesti yhdessä nuorisovaltuuston jäsenten kanssa"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20241663-9",
+      "ordinal": "9",
+      "title": "Nuorisovaltuuston yhteinen tekeminen ja ryhmäytyminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241663-9",
+      "decision": "Nuorisovaltuusto päätti, että nuorisovaltuuston ryhmäytymisen ajankohdat ovat perjantai 15.3.2024 ja maanantai 8.4.2024 sekä valtuutti nuorisovaltuustotoiminnan vastuuhenkilöt organisoimaan ryhmäytymiseen liittyvät järjestelyt",
+      "sections": {
+        "valmistelija": "Nuoriso- ja liikuntapäällikkö Päivi Sorvari etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "esittelija": "Puheenjohtaja",
+        "paatosehdotus": "Nuorisovaltuusto päättää nuorisovaltuuston ryhmäytymisen ajankohdasta ja sisällöstä sekä valtuuttaa nuorisovaltuustotoiminnan vastuuhenkilöt organisoimaan ryhmäytymiseen liittyvät järjestelyt",
+        "paatos": "Nuorisovaltuusto päätti, että nuorisovaltuuston ryhmäytymisen ajankohdat ovat perjantai 15.3.2024 ja maanantai 8.4.2024 sekä valtuutti nuorisovaltuustotoiminnan vastuuhenkilöt organisoimaan ryhmäytymiseen liittyvät järjestelyt",
+        "tiedoksi": "-",
+        "selostus": "Kirkkonummen nuorisovaltuusto on puoluepoliittisesti sitoutumaton kunnan vaikuttamistoimielin, jonka päätehtävänä on tuoda nuorten ääni kuuluviin muun muassa kunnan päätöksentekoon. Nykyisen nuorisovaltuuston kausi on vuodet 2024-2025. Nuorisovaltuusto kokoontuu säännöllisesti keskustelemaan ja päättämään kokouksissaan nuorisovaltuustoa koskevista asioista. Uuden nuorisovaltuuston toiminnan ja nuorten vaikuttamismahdollisuuksien edistämiseksi on ensiarvoisen tärkeää, että nuorisovaltuuston jäsenet tutustuvat nuorisovaltuustokauden alkaessa toisiinsa myös kokousten ulkopuolella. Nuorisovaltuusto keskustelee vapaamuotoisen ryhmäytymisen ajankohdasta ja sen sisällöstä"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20241663-10",
+      "ordinal": "10",
+      "title": "Ilmoitusasioita tiedoksi",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241663-10",
+      "decision": "Ei ollut ilmoitusasioita",
+      "sections": {
+        "valmistelija": "Toimistosihteeri Johanna Wendelin, etunimi.sukunimi@kirkkonummi.fi",
+        "esittelija": "Puheenjohtaja",
+        "paatosehdotus": "Nuorisovaltuusto merkitsee ilmoitusasiat tiedokseen",
+        "paatos": "Ei ollut ilmoitusasioita"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20241663-11",
+      "ordinal": "11",
+      "title": "Muut asiat",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241663-11",
+      "decision": null,
+      "sections": {
+        "tiedoksi": "Kokouskalenteri, kielenkääntäjät"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    }
+  ],
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20241663",
+  "id": "20241663"
+}

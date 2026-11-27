@@ -1,0 +1,654 @@
+{
+  "title": "Kunnanhallitus Pöytäkirja 12.05.2025 klo 16:30 - 20:15 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Kunnanhallitus",
+  "doctype": "Pöytäkirja",
+  "date": "2025-05-12",
+  "items": [
+    {
+      "id": "20252054-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252054-1",
+      "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Kokous todettiin lailliseksi ja päätösvaltaiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252054-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252054-2",
+      "decision": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti. Pöytäkirjantarkastajiksi valittiin Saara Huhmarniemi ja Kati Kaihlaranta",
+      "votes": [],
+      "sections": {
+        "valmistelija": "hallinnon asiantuntija Gunnel Ekström, etunimi.sukunimi@kirkkonummi.fi",
+        "paatosehdotus": "Kunnanhallitus päättää 1 valita kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan 2 tarkastaa tämän pöytäkirjan sähköisesti seuraavan aikataulun mukaan: Torstaina 15.5.2025 lähetetään pöytäkirja sähköpostitse pöytäkirjantarkastajille, jotka ilmoittavat hyväksymisestään viimeistään maanantaina 19.5.2025. Jos hyväksymisviestiä ei tule sihteerille em. ajankohtaan mennessä, pöytäkirja katsotaan hyväksytyksi. Pöytäkirja allekirjoitetaan sähköisesti. Pöytäkirja julkaistaan 20.5.2025 kunnan verkkosivulla. Yleinen oikaisuvaatimusaika alkaa keskiviikkona 28.5.2025",
+        "paatos": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti. Pöytäkirjantarkastajiksi valittiin Saara Huhmarniemi ja Kati Kaihlaranta"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252054-3",
+      "ordinal": "3",
+      "title": "HR-järjestelmän hankinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252054-3",
+      "decision": "perusteluineen tulee julkiseksi, kun päätös on allekirjoitettu. Toimivalta Kirkkonummen kunnan hallintosääntö § 96 (kunnanhallituksen hankintavaltuudet kunnan yhteisessä hankinnassa, jonka ennakoitu arvo on yli 500 000 €). Hankintapäätöksen ja -sopimuksen tekeminen Hankintasopimus ei synny hankintapäätöksen tiedoksiannolla, vaan edellyttää erillistä kirjallista sopimusta. EU-kynnysarvon ylittävässä hankinnassa hankintasopimus voidaan tehdä aikaisintaan 14 vuorokauden kuluttua kun ehdokas tai tarjoa on saanut tai tämän katsotaan saaneen hankintapäätöksen ja valitusosoituksen tiedoksi. Päätöksen liitteet -",
+      "votes": [],
+      "sections": {
+        "valmistelija": "controller Ari Hasu henkilöstöjohtaja Lea Pääkkönen hallintojohtaja Jaana Suihkonen etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää 1 sulkea pois selostusosassa tarkoitetusta tarjouskilpailusta liitteessä 1 Perustelumuistio mainituin perusteluin tarjoajaa koskevien soveltuvuusvaatimusten täyttymättä jäämisten takia seuraavat tarjoajat • Hoiwa Oy, Y-tunnus: 3122829-4 • CGI Suomi Oy, Y-tunnus: 0357502-9, 2 valita selostusosassa tarkoitetun tarjouskilpailun voittajaksi liitteessä 1 Perustelumuistio mainituin perusteluin Visma Aquila Oy:n (Y- tunnus: 2644028-2) / tarjouksen päiväys 16.4.2025, 3 todeta, että tarjouskilpailun voittajaksi valitun tulee esittää hankintayksikön pyynnöstä tarjouspyynnössä ja tarjouspyynnön ESPD-asiakirjassa vaaditut tarjoajan soveltuvuutta koskevat hyväksyttävät selvitykset ennen hankintasopimuksen allekirjoittamista, 4 todeta, että hankintasopimus ei synny hankintapäätöksen tiedoksiannolla, vaan edellyttää erillistä kirjallista sopimusta, 5 valtuuttaa henkilöstöjohtajan allekirjoittamaan puheena olevaa hankintaa koskevaan hankintasopimuksen, 6 valtuuttaa henkilöstöjohtajan tekemään puheena olevaan hankintaan hankintasopimuksen sopimusehtojen perusteella tilaajan toimivaltaan kuuluvat ratkaisut, lukuun ottamatta sopimuksen päättämiseen liittyvät toimenpiteet. 7 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "kasittely": "Henkilöstöjohtaja Lea Pääkkönen esitteli asiaa kokouksessa. Controller Ari Hasu ja Goforen Petri Hallikainen olivat myös läsnä tämän pykälän aikana. Ari Hasu ja Petri Hallikainen poistuivat kokouksesta tämän pykälän jälkeen klo 16.53",
+        "paatos": "perusteluineen tulee julkiseksi, kun päätös on allekirjoitettu. Toimivalta Kirkkonummen kunnan hallintosääntö § 96 (kunnanhallituksen hankintavaltuudet kunnan yhteisessä hankinnassa, jonka ennakoitu arvo on yli 500 000 €). Hankintapäätöksen ja -sopimuksen tekeminen Hankintasopimus ei synny hankintapäätöksen tiedoksiannolla, vaan edellyttää erillistä kirjallista sopimusta. EU-kynnysarvon ylittävässä hankinnassa hankintasopimus voidaan tehdä aikaisintaan 14 vuorokauden kuluttua kun ehdokas tai tarjoa on saanut tai tämän katsotaan saaneen hankintapäätöksen ja valitusosoituksen tiedoksi. Päätöksen liitteet -",
+        "tiedoksi": "Kunnanvaltuusto, tarjoajat, Kirkkonummen henkilöstöjohtaja ja controller/ hankinnat",
+        "selostus": "Hankinnan kohde Hankinnan kohteena on tietojärjestelmäkokonaisuus henkilöstönhallinnan ja palkanlaskennan toimintoihin (myöhemmin myös ”HR-järjestelmä” ja ”Järjestelmä ”) Kirkkonummen kunnalle, joka on yksilöity päätöksen liitteenä olevassa Liitteessä 1 Perustelumuistio, kohdassa 1.1. Hankinnan kohde. Hankintailmoitukset ja tarjouspyyntö Hankinnasta on julkaistu hankintalain edellyttämät hankintailmoitukset. Alkuperäinen hankintailmoitus: työ- ja elinkeinoministeriön julkisten hankintojen ilmoitusjärjestelmä (HILMA),ilmoituksen julkaisupäivämäärä 14.3.2025 (ilmoituksen numero 2025-021716) ja EU:n virallisen lehden täydennysosan verkkoversio (TED-tietokanta): ilmoituksen julkaisupäivämäärä 14.3.2025 (ilmoituksen numero 165978-2025). Korjausilmoitus: alkuperäistä hankintailmoitusta on korjattu korjausilmoituksella: työ- ja elinkeinoministeriön julkisten hankintojen ilmoitusjärjestelmä (HILMA), ilmoituksen julkaisupäivämäärä 9.4.2025 (ilmoituksen numero 2025-0203031) ja EU:n virallisen lehden täydennysosan verkkoversio (TED-tietokanta): ilmoituksen julkaisupäivämäärä 9.4.2025 (ilmoituksen numero 229117-2025). Hankintailmoitukseen liittyvä tarjouspyyntö on 550055 / HR-järjestelmän hankinta/ Kirkkonummen kunta (589/2024) / 8.4.2025. Hankinnan ennakoitu arvo Hankinnan ennakoitu arvo on 1 500 000 euroa (alv 0 %). Saapuneet tarjoukset Kuten liitteessä 1 Perustelumuistio kohta ”1.9 Saapuneet tarjoukset”. Saapuneet tarjoukset ovat nähtävillä kokouksessa ja asian käsittelyyn osallistuvalle kunnanhallituksen puheenjohtajistolle ja jäsenille kokouskutsussa mainitulla tavalla. Saapuneiden tarjousten keskeinen sisältö esitellään kokouksessa. Tarjouskilpailun perustiedot ja tarjousten vertailu Tarjouskilpailun perustiedot ja tarjousten vertailu on esitetty päätöksen liitteellä 1 Perustelumuistio. Päätöksen julkisuus Hankinta-asiakirjojen julkisuus: hankinnassa sovelletaan lakia viranomaisen toiminnan julkisuudesta (621/1999)",
+        "liitteet": "1 Perustelumuistio",
+        "oheismateriaali": "- tarjouspyyntö liitteineen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "paatos_labels": 2,
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252054-4",
+      "ordinal": "4",
+      "title": "Seudullista lähijunavarikkoa koskevan kaavoituksen käynnistäminen, Kv",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252054-4",
+      "decision": "Kunnanhallitus päätti 1 esittää valtuustolle, että se päättää 1.1 tehtyjen selvitysten perusteella Kirkkonummi jatkaa lähijunavarikon mahdollistavan kaavoituksen jatkoselvittämistä ja asemakaavan laatimista Vuohimäen alueelle. 1.2 samalla viipymättä käynnistää jatkoneuvottelut valtion kanssa varikkoratkaisun edellyttämän Vuohimäen eritasoliittymäratkaisun valtionrahoituksesta ja eritasoliittymän toteuttamisen suunnittelusta. 1.3 todeta, että kunnalla ei ole taloudellisia edellytyksiä rahoittaa varikkoratkaisun edellyttämää huoltoraidejärjestelyä, myöskään siltä osin kun se aiheuttaa lisärakentamistarvetta, esim. alikulkuja, Kirkkonummen keskustan ja Vuohimäen välillä. 1.4 edellyttää, että Espoon jatkoselvittävää Näkinmetsän varikon kustannusrakennetta, jotta esitetyn kustannushaarukan laveus saadaan supistettua ja ratkaisun avoinna olevat asiat selvitettyä tarkemmin. 2 todeta, että lähijunavarikon sijainnista ja toteuttamisesta päätetään myöhemmin Kirkkonummella ja Espoossa tehtävän asemakaavatyön ja muiden selvitysten tulosten perusteella Espoon ja/tai Kirkkonummen valtuustojen toimesta. Tarvittaessa voidaan käynnistää valmistelu muissakin sijainneissa. 3 tarkastaa pöytäkirja tämän pykälän osalta kokouksessa. Lisäksi kunnanhallitus päätti yksimielisesti hyväksyä seuraavan evästyksen: Haittojen vähentäminen Mikäli kunnanhallitus päättää esittää kunnanvaltuustolle, että kunnan kaavoitusohjelmaan lisätään lähijunavarikon mahdollistava kaavahanke Vuohimäen alueelle tulee siirtoliikenteestä aiheutuvat haitat radan varrella asuville kuntalaisille ottaa huomioon suunnittelussa alusta alkaen ja pyrittävä vähentämään esimerkiksi, meluesteillä, nopeusrajoituksilla, ajoaikarajoituksilla sekä siirtojunien ajaminen muutaman junan yksiköissä joka näin vähentää junien määrä. Asukkaita tulee kuulla ja ottaa mukaan suunnitteluun varhaisessa vaiheessa",
+      "votes": [
+        {
+          "jaa": [
+            "Ulf Kjerin",
+            "Ari Harinen",
+            "Antti Kilappa",
+            "Carl-Johan Kajanti",
+            "Piia Aallonharja",
+            "Kim Åström",
+            "Anna Sahiluoma",
+            "Anneli Granström",
+            "Anna Aintila",
+            "Timo Haapaniemi",
+            "Kati Kaihlaranta"
+          ],
+          "ei": [
+            "Sanni Jäppinen",
+            "Saara Huhmarniemi"
+          ],
+          "tyhja": [],
+          "totals": {
+            "jaa": 11,
+            "ei": 2,
+            "tyhja": 0
+          },
+          "parties": {
+            "jaa": {
+              "rkp": 3,
+              "sdp": 1,
+              "pro yl": 1,
+              "ps": 2,
+              "kok": 3,
+              "vas": 1
+            },
+            "ei": {
+              "vihr": 2
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "Anna Sahiluoman muutosehdotusta",
+            "ei_label": "Saara Huhmarniemen muutosehdotusta",
+            "jaa_kind": "vastaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": null,
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat Anna Sahiluoman muutosehdotusta äänestävät JAA, ja ne jotka kannattavat Saara Huhmarniemen muutosehdotusta äänestävät EI — annettiin 11 JAA ja 2 EI ääntä."
+          }
+        },
+        {
+          "jaa": [
+            "Sanni Jäppinen",
+            "Saara Huhmarniemi"
+          ],
+          "ei": [
+            "Anna Aintila",
+            "Timo Haapaniemi",
+            "Piia Aallonharja",
+            "Ari Harinen",
+            "Kati Kaihlaranta",
+            "Anna Sahiluoma",
+            "Anneli Granström",
+            "Ulf Kjerin",
+            "Antti Kilappa",
+            "Kim Åström",
+            "Carl-Johan Kajanti"
+          ],
+          "tyhja": [],
+          "totals": {
+            "jaa": 2,
+            "ei": 11,
+            "tyhja": 0
+          },
+          "parties": {
+            "jaa": {
+              "vihr": 2
+            },
+            "ei": {
+              "rkp": 3,
+              "kok": 3,
+              "ps": 2,
+              "sdp": 1,
+              "vas": 1,
+              "pro yl": 1
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta",
+            "ei_label": "Anna Sahiluoman muutosehdotusta",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": "ei",
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat pohjaehdotusta äänestävät JAA ja ne jotka kannattavat Anna Sahiluoman muutosehdotusta äänestävät EI — annettiin 2 JAA ja 11 EI ääntä."
+          }
+        }
+      ],
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Rantaradan lähijunaliikenteen varikkoselvitys_30.4.2025",
+        "liitteet": "4 Lisäraiteen tarvetarkastelu 5.11.2024 Seudullista lähijunavarikkoa koskevan kaavoituksen käynnistäminen, Kv Kunnanhallitus 12.05.2025 § 163 621/00.04.00/2024",
+        "valmistelija": "kunnanjohtaja Virpi Sailas kuntakehitysjohtaja Anna-Kaisa Kauppinen etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää 1 esittää kunnanvaltuustolle, että kunnan kaavoitusohjelmaan lisätään lähijunavarikon mahdollistava kaavahanke kunnanhallituksen esittämälle alueelle. Kaavoitus käynnistetään vuoden 2025 aikana. 2 todeta, että lähijunavarikon sijainnista ja toteuttamisesta päätetään myöhemmin Kirkkonummella ja Espoossa tehtävän asemakaavatyön ja muiden selvitysten tulosten perusteella Espoon ja/tai Kirkkonummen valtuustojen toimesta. Tarvittaessa voidaan käynnistää valmistelu muissakin sijainneissa. 3 tarkastaa pöytäkirja tämän pykälän osalta kokouksessa",
+        "kasittely": "Jäsen Matti Kaurila ilmoitti olevansa yhteisöjäävi ja poistui kokouksesta tämän pykälän käsittelyn ja päätöksenteon ajaksi. Varajäsen Kim Åström oli paikalla kokouksessa tämän pykälän aikana, klo 16.55–17.45. Kuntakehitysjohtaja Anna-Kaisa Kauppinen, kunnanarkkitehti Tero Luomajärvi ja elinvoimajohtaja Simon Store olivat myös läsnä kokouksessa tämän pykälän aikana. Tero Luomajärvi ja Simon Store poistuivat kokouksesta tämän pykälän jälkeen klo 17.45. Puheenjohtaja julisti keskustelun päättyneeksi ja totesi että keskustelun aikana on jätetty muutosehdotuksia seuraavasti: Päätösesitys (Sahiluoma Anna): Kunnanhallitus esittää valtuustolle, että se päättää 1 Tehtyjen selvitysten perusteella Kirkkonummi jatkaa lähijunavarikon mahdollistavan kaavoituksen jatkoselvittämistä ja asemakaavan laatimista Vuohimäen alueelle. 2 Samalla käynnistetään viipymättä jatkoneuvottelut valtion kanssa varikkoratkaisun edellyttämän Vuohimäen eritasoliittymäratkaisun valtionrahoituksesta ja eritasoliittymän toteuttamisen suunnittelusta. 3 Kunnanvaltuusto toteaa, että kunnalla ei ole taloudellisia edellytyksiä rahoittaa varikkoratkaisun edellyttämää huoltoraidejärjestelyä, myöskään siltä osin kun se aiheuttaa lisärakentamistarvetta, esim. alikulkuja, Kirkkonummen keskustan ja Vuohimäen välillä. 4 Edellyttää, että Espoon jatkoselvittävää Näkinmetsän varikon kustannusrakennetta, jotta esitetyn kustannushaarukan laveus saadaan supistettua ja ratkaisun avoinna olevat asiat selvitettyä tarkemmin. Muutosehdotusta kannattivat Piia Aallonharja, Ari Harinen, Anneli Granström, Antti Kilappa, Timo Haapaniemi, Kati Kaihlaranta ja Kim Åström. Muutosesitys (Huhmarniemi Saara): 1 Esittää kunnanvaltuustolle, että lähijunavarikon mahdollistavaa kaavahanketta ei käynnistetä Kirkkonummella. Perustelu: Varikkoratkaisu palvelee lähes yksinomaan Espoon liikennettä. Kirkkonummen kunnanvaltuusto on päättänyt, että varikkoa ei sijoiteta Kirkkonummelle. Rantaradan lähijunaliikenteen varikkoselvitys ei ole sellaisella tasolla, että se tukisi kaavavalmistelun aloittamista Kirkkonummella. Muutosehdotusta kannatti Sanni Jäppinen. Muutosehdotuksia ei hyväksytty yksimielisesti joten puheenjohtaja ilmoitti että asiasta on äänestettävä. Puheenjohtaja ehdotti että asiasta äänestetään niin, että ne jotka kannattavat Anna Sahiluoman muutosehdotusta äänestävät JAA, ja ne jotka kannattavat Saara Huhmarniemen muutosehdotusta äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 11 JAA ääntä ja 2 EI ääntä. Anna Sahiluoman muutosehdotus sai enemmän ääniä ja voitti. JAA äänestivät Ulf Kjerin, Ari Harinen, Antti Kilappa, Carl-Johan Kajanti, Piia Aallonharja, Kim Åström, Anna Sahiluoma, Anneli Granström, Anna Aintila, Timo Haapaniemi ja Kati Kaihlaranta. EI äänestivät Sanni Jäppinen ja Saara Huhmarniemi. Tämän jälkeen puheenjohtaja ehdotti, että asiasta äänestetään niin, että ne jotka kannattavat pohjaehdotusta äänestävät JAA ja ne jotka kannattavat Anna Sahiluoman muutosehdotusta äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 2 JAA ääntä ja 11 EI ääntä. Anna Sahiluoman muutosehdotus sai enemmän ääniä ja voitti. JAA äänestivät Sanni Jäppinen ja Saara Huhmarniemi. EI äänestivät Anna Aintila, Timo Haapaniemi, Piia Aallonharja, Ari Harinen, Kati Kaihlaranta, Anna Sahiluoma, Anneli Granström, Ulf Kjerin, Antti Kilappa, Kim Åström ja Carl-Johan Kajanti. Evästys, haittojen vähentäminen (Kjerin Ulf): Mikäli kunnanhallitus päättää esittää kunnanvaltuustolle, että kunnan kaavoitusohjelmaan lisätään lähijunavarikon mahdollistava kaavahanke Vuohimäen alueelle tulee siirtoliikenteestä aiheutuvat haitat radan varrella asuville kuntalaisille ottaa huomioon suunnittelussa alusta alkaen ja pyrittävä vähentämään esimerkiksi, meluesteillä, nopeusrajoituksilla, ajoaikarajoituksilla sekä siirtojunien ajaminen muutaman junan yksiköissä joka näin vähentää junien määrä. Asukkaita tulee kuulla ja ottaa mukaan suunnitteluun varhaisessa vaiheessa. Evästysehdotusta kannattivat Anna Aintila, Kim Åström, Piia Aallonharja ja Anneli Granström. Puheenjohtajan tiedustellessa, evästysehdotus hyväksyttiin yksimielisesti. Kunnanhallitus piti tauon tämän pykälän jälkeen klo 17.45-18.00",
+        "paatos": "Kunnanhallitus päätti 1 esittää valtuustolle, että se päättää 1.1 tehtyjen selvitysten perusteella Kirkkonummi jatkaa lähijunavarikon mahdollistavan kaavoituksen jatkoselvittämistä ja asemakaavan laatimista Vuohimäen alueelle. 1.2 samalla viipymättä käynnistää jatkoneuvottelut valtion kanssa varikkoratkaisun edellyttämän Vuohimäen eritasoliittymäratkaisun valtionrahoituksesta ja eritasoliittymän toteuttamisen suunnittelusta. 1.3 todeta, että kunnalla ei ole taloudellisia edellytyksiä rahoittaa varikkoratkaisun edellyttämää huoltoraidejärjestelyä, myöskään siltä osin kun se aiheuttaa lisärakentamistarvetta, esim. alikulkuja, Kirkkonummen keskustan ja Vuohimäen välillä. 1.4 edellyttää, että Espoon jatkoselvittävää Näkinmetsän varikon kustannusrakennetta, jotta esitetyn kustannushaarukan laveus saadaan supistettua ja ratkaisun avoinna olevat asiat selvitettyä tarkemmin. 2 todeta, että lähijunavarikon sijainnista ja toteuttamisesta päätetään myöhemmin Kirkkonummella ja Espoossa tehtävän asemakaavatyön ja muiden selvitysten tulosten perusteella Espoon ja/tai Kirkkonummen valtuustojen toimesta. Tarvittaessa voidaan käynnistää valmistelu muissakin sijainneissa. 3 tarkastaa pöytäkirja tämän pykälän osalta kokouksessa. Lisäksi kunnanhallitus päätti yksimielisesti hyväksyä seuraavan evästyksen: Haittojen vähentäminen Mikäli kunnanhallitus päättää esittää kunnanvaltuustolle, että kunnan kaavoitusohjelmaan lisätään lähijunavarikon mahdollistava kaavahanke Vuohimäen alueelle tulee siirtoliikenteestä aiheutuvat haitat radan varrella asuville kuntalaisille ottaa huomioon suunnittelussa alusta alkaen ja pyrittävä vähentämään esimerkiksi, meluesteillä, nopeusrajoituksilla, ajoaikarajoituksilla sekä siirtojunien ajaminen muutaman junan yksiköissä joka näin vähentää junien määrä. Asukkaita tulee kuulla ja ottaa mukaan suunnitteluun varhaisessa vaiheessa",
+        "selostus": "Kunnanhallitukselle 5.5.2025 (§ 150) esiteltiin selvitys Rantaradalle sijoittuvasta seudullisesta lähijunavarikosta. Selvityksessä käsiteltiin neljää varikon sijaintipaikkaa Kirkkonummen ja Espoon alueilta. Kirkkonummen vaihtoehtoiset sijoituspaikat ovat Luoma ja Vuohimäki. Selvityksessä on arvioitu vaihtoehtoisten varikkojen arvioituja vaikutuksia eri näkökulmista. Yhteenveto vaihtoehtojen vaikutuksista Uusimaa-kaavassa 2050 (ts. maakuntakaava) lähijunaliikenteen varikon sijaintimerkintä on Kirkkonummen ja Espoon rajavyöhykkeellä Luoman ja Mankin alueilla. Se tarkoittaa, että varikon sijoittaminen Luomaan on maakuntakaavan mukainen. Mikäli varikko toteutetaan Vuohimäkeen, on sen osalta laadittava maakuntakaavatasoiset selvitykset ja vaikutusarviot, jotta niiden perusteella voidaan arvioida vastaako maakuntakaavasta poikkeava varikon sijaintiratkaisu maakuntakaavan tavoitteisiin. Kuitenkaan maakuntakaavan muutosta ei tarvittane. Varikkoa varten laadittava asemakaava Vuohimäkeen on mahdollista toteuttaa voimassa olevan Kirkkonummen yleiskaavan 2020 puitteissa. Sen sijaan Luoman alueelle sijoitettava varikko vaatinee sekä osayleiskaavan että asemakaavan laatimista. Elinkeinotoiminnan kannalta varikko luo työpaikkoja kummassakin sijainnissa. Vuohimäessä on myös mahdollisuuksia synergiahyötyihin varikon ja muun alueen läheisyyteen mahdollisesti sijoittuvan yritystoiminnan kesken. Selvityksessä arvioidaan, että maisema- ja luontoarvojen osalta Vuohimäki vaikuttaisi Luomaa paremmalta. Kummassakin vaihtoehdossa on kuitenkin haasteita. Kulttuuriympäristön ja maiseman vaalimisen kannalta arvot ja nykytila huomioiden Vuohimäessä varikon vaikutus olisi pienempi. Toisaalta maakuntakaavan mukainen viheryhteyden toimivuus on otettava huomioon Vuohimäessä, mikä saattaa asettaa vielä tiedostamattomia haasteita varikon toteuttamiselle. Selvitys arvioi, että varikkoalueen häiritsevät vaikutukset asukkaille olisivat pienemmät Vuohimäessä kuin Luomassa, mutta Vuohimäessä siirtoajoliikenne tuottaisi laajemmin häiriötä. Investointikustannuksiltaan Vuohimäki on Luomaa kalliimpi. Varikon toteuttaminen Vuohimäkeen edellyttäisi lisäraiteen rakentamista Kirkkonummen keskustasta Vuohimäkeen. Junaliikenteen operoinnin kannalta parempi vaihtoehto olisi Luoman varikko ja Vuohimäki on vaihtoehdoista heikoin. Varikkotoiminnoista vastaavan henkilökunnan ja junankuljettajien kannalta Vuohimäki heikoiten saavutettavissa. Kumpikin sijainti Kirkkonummella edellyttää merkittäviä toimenpiteitä tieliittymä- ja katuyhteyksien kehittämiseksi. Luoman osalta nykyi ­ ­ sel ­ ­ le Kehä III:lle ei voida toteuttaa lopputilanteeseen tasoliittymiä, joten Kehä III:n tie ­ ­ suun ­ ­ nitel ­ ­ massa suun ­ ­ ­ ­ nitellut eritasoliittymät ja rinnak ­ ­ kais ­ ­ ­ tiet ovat tärkei ­ ­ tä. Vireillä olevan Kehä III:n tiesuunnitelman rinnakkaistien ajoneuvoliikenteen yhteyksien järjestämistapa on ratkaisematta Masalan ja Luoman alueilla. Tiesuunnitelman mukaiset liikennejärjestelyt ovat edellytys varikkoalueen asemakaavoitukselle. Vastaavasti Vuohimäen osalta tarvitaan kantatie 51 liittymän parantamista. Kantatietä 51 koskeva yleissuunnittelu on käynnistymässä syksyllä 2025 ja hankkeelle on saatu 10 miljoonan euron rahoitus hallituksen puoliväliriihessä keväällä 2025. Kirkkonummen kunta on antanut lausunnon kantatien 51 yleissuunnitelman edellyttämästä YVA-selostuksesta (kh 5.5.2025, § 151). Voidaan todeta, ettei suunniteltujen varikoiden työmaa-aikaista raskasta liikennettä, eikä muutakaan liikennettä, ole vielä suunniteltu riittävästi toimivuuksien osalta, eikä kaikkia haittoja ja kustannusvaikutuksia ole arvioitu. Jatkovalmistelu ja lopullinen päätös varikon sijainnista Kummassakin Kirkkonummen vertaillussa varikkopaikassa on erilaisia haasteita. Kuitenkaan ehdotonta estettä käynnistää kaavan laatiminen ei tullut esille kummankaan sijainnin osalta. Kunnanhallitukselle esitetään, että se päättää esittää kunnanvaltuustolle lähijunaliikenteen varikkoalueen kaavoituksen käynnistämistä joko Luoman tai Vuohimäen alueelle. Vuohimäessä tämä tarkoittaa asemakaavan laatimista ja mitä ilmeisimmin Luomassa sekä osayleiskaavan että asemakaavan laatimista. Kaavoitus toteutetaan alueidenkäyttölain mukaisesti sisältäen lain edellyttämän vuorovaikutuksen eri osallistahojen kanssa. Helsingin seudun MAL-sopimuksen mukaisesti tavoitteena on, että vuoden 2027 loppuun mennessä tehdään päätös lähijunaliikenteen varikon sijainnista Rantaradalla. Varikon sijainnista ja toteuttamisesta päätetään myöhemmin Kirkkonummella ja Espoossa tehtävän asemakaavatyön ja muiden selvitysten tulosten perusteella Espoon ja/tai Kirkkonummen valtuustojen toimesta. Tarvittaessa voidaan käynnistää valmistelu muissakin sijainneissa"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Rantaradan lähijunaliikenteen varikkoselvitys_30.4.2025",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252054-4-124647.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Liite 4 Lisäraiteen tarvetarkastelu 5.11.2024",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252054-4-124646.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Anna Sahiluoma",
+          "kind": "vastaehdotus",
+          "text": null,
+          "source": "order",
+          "party": "kok"
+        },
+        {
+          "proposer": "Saara Huhmarniemi",
+          "kind": "vastaehdotus",
+          "text": null,
+          "source": "order",
+          "party": "vihr"
+        }
+      ]
+    },
+    {
+      "id": "20252054-5",
+      "ordinal": "5",
+      "title": "Kestävän kasvun ohjelma, kv",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252054-5",
+      "decision": "Kunnanhallitus päätti 1 esittää kunnanvaltuustolle, että se merkitsee kestävän kasvun ohjelman liitteineen tiedoksi ja lopullinen ohjelma hyväksytään talousarvion 2026 ja taloussuunnitelman 2027 - 2028 käsittelyn yhteydessä. Kunnanhallitus hyväksyy talousarvion kehyksen kokouksessaan 9.6.2025. 2 että Kirkkonummen kunta teettää erillisen selvityksen kunnan HSL-kustannuksista mahdollisen eroamisen tietopohjaksi, jos kuntaosuuden infrakustannusten kohtuullistamisessa ei päästä tyydyttävään ratkaisuun (Selvitys käynnistetään lähtökohtaisesti heti Kestävän kasvun ohjelman tultua käsitellyksi 19.5.2025 valtuuston kokouksessa.) 3 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+      "votes": [
+        {
+          "jaa": [
+            "Kati Kaihlaranta",
+            "Saara Huhmarniemi",
+            "Carl-Johan Kajanti",
+            "Anna Aintila",
+            "Antti Kilappa",
+            "Sanni Jäppinen"
+          ],
+          "ei": [
+            "Piia Aallonharja",
+            "Timo Haapaniemi",
+            "Ari Harinen",
+            "Anneli Granström",
+            "Ulf Kjerin",
+            "Matti Kaurila",
+            "Anna Sahiluoma"
+          ],
+          "tyhja": [],
+          "totals": {
+            "jaa": 6,
+            "ei": 7,
+            "tyhja": 0
+          },
+          "parties": {
+            "jaa": {
+              "vas": 1,
+              "vihr": 2,
+              "rkp": 2,
+              "pro yl": 1
+            },
+            "ei": {
+              "ps": 2,
+              "kok": 3,
+              "sdp": 1,
+              "rkp": 1
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "että Piia Aallonharjan ehdotusta ei lisätä",
+            "ei_label": "että Piia Aallonharjan ehdotusta lisätään",
+            "jaa_kind": "other",
+            "ei_kind": "other",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": null,
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat että Piia Aallonharjan ehdotusta ei lisätä äänestävät JAA ja ne jotka kannattavat että Piia Aallonharjan ehdotusta lisätään äänestävät EI — annettiin 6 JAA ja 7 EI ääntä."
+          }
+        }
+      ],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 1 Kestävän kasvun ohjelma_2025.05.09 2\n1 Strategisen kehittämisen suunnitelma 3\n2_Kuntatalous monen muuttujan summa 2025_Kuntaliiton kestävän kasvun ohjelma 4\n3_Kustannukset toimielimittäin 5\n4_Kestävän kasvun ohjelma - kustannusvaikutukset 6\n5 KKO pulssikysely Kestävän kasvun ohjelma, kv Kunnanhallitus 12.05.2025 § 164 143/00.01.05/2025",
+        "valmistelija": "Kunnanjohtaja Virpi Sailas, controller Sirpa Roos, talousjohtaja Esa Lindell, sivistysjohtaja Eeva-Kaisa Ikonen, kuntakehitysjohtaja Anna-Kaisa Kauppinen, vt. kehittämispäällikkö Rami Niittysalo, henkilöstöjohtaja Lea Pääkkönen, hallintojohtaja Jaana Suihkonen, etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää 1 esittää kunnanvaltuustolle, että valtuusto hyväksyy Kirkkonummen kestävän kasvun ohjelman vuosille 2025–2030 ja sen liitteen 4 mukaiset toimenpide-ehdotukset kehysvalmistelun pohjaksi. 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "kasittely": "Controller Sirpa Roos, henkilöstöjohtaja Lea Pääkkönen ja kuntakehitysjohtaja Anna-Kaisa Kauppinen olivat läsnä kokouksessa tämän pykälän aikana. Kuntakehitysjohtaja Anna-Kaisa Kauppinen ja controller Sirpa Roos poistuivat kokouksesta tämän pykälän jälkeen klo 19:17. Puheenjohtaja julisti keskustelun päättyneeksi ja totesi että keskustelun aikana kunnanjohtaja on antanut muutetun päätösehdotuksen ja Piia Aallonharja tehnyt lisäysehdotuksen seuraavasti: Esittelijän, kunnanjohtajan Virpi Sailaksen kokouksessa antama muutettu päätösehdotus: Kunnanhallitus päättää 1 esittää kunnanvaltuustolle, että se merkitsee kestävän kasvun ohjelman liitteineen tiedoksi ja lopullinen ohjelma hyväksytään talousarvion 2026 ja taloussuunnitelman 2027 - 2028 käsittelyn yhteydessä. Kunnanhallitus hyväksyy talousarvion kehyksen kokouksessaan 9.6.2025. 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa. Esittelijän muutettu päätösehdotus hyväksyttiin yksimielisesti. Piia Aallonharjan lisäysehdotus: Kirkkonummen kunta teettää erillisen selvityksen kunnan HSL-kustannuksista mahdollisen eroamisen tietopohjaksi, jos kuntaosuuden infrakustannusten kohtuullistamisessa ei päästä tyydyttävään ratkaisuun (Selvitys käynnistetään lähtökohtaisesti heti Kestävän kasvun ohjelman tultua käsitellyksi 19.5.2025 valtuuston kokouksessa.) Lisäysehdotusta kannattivat Matti Kaurila, Timo Haapaniemi, Anneli Granström ja Ulf Kjerin. Lisäysehdotusta ei hyväksytty yksimielisesti joten puheenjohtaja ilmoitti että asiasta on äänestettävä. Puheenjohtaja ehdotti, että asiasta äänestetään niin, että ne jotka kannattavat että Piia Aallonharjan ehdotusta ei lisätä äänestävät JAA ja ne jotka kannattavat että Piia Aallonharjan ehdotusta lisätään äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 6 JAA ääntä ja 7 EI ääntä. Piia Aallonharjan ehdotuksen lisääminen sai enemmän ääniä, joten se hyväksyttiin lisättäväksi päätökseen. JAA äänestivät Kati Kaihlaranta, Saara Huhmarniemi, Carl-Johan Kajanti, Anna Aintila, Antti Kilappa ja Sanni Jäppinen. EI äänestivät Piia Aallonharja, Timo Haapaniemi, Ari Harinen, Anneli Granström, Ulf Kjerin, Matti Kaurila ja Anna Sahiluoma (suullisesti). Kunnanhallitus piti tauon klo 18.30-18.45",
+        "paatos": "Kunnanhallitus päätti 1 esittää kunnanvaltuustolle, että se merkitsee kestävän kasvun ohjelman liitteineen tiedoksi ja lopullinen ohjelma hyväksytään talousarvion 2026 ja taloussuunnitelman 2027 - 2028 käsittelyn yhteydessä. Kunnanhallitus hyväksyy talousarvion kehyksen kokouksessaan 9.6.2025. 2 että Kirkkonummen kunta teettää erillisen selvityksen kunnan HSL-kustannuksista mahdollisen eroamisen tietopohjaksi, jos kuntaosuuden infrakustannusten kohtuullistamisessa ei päästä tyydyttävään ratkaisuun (Selvitys käynnistetään lähtökohtaisesti heti Kestävän kasvun ohjelman tultua käsitellyksi 19.5.2025 valtuuston kokouksessa.) 3 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "selostus": "Kestävän kasvun ohjelmaan pyydettiin valtuustoryhmien kommentteja, joiden perusteella siihen lisättiin sivulle 25 henkilöstöön liittyviä linjauksia. Kuntaliiton uusi, 6.5. julkaistu verotuloennuste vuosille 2026 - 2028 on lisätty ohjelmaan, jolla aiempi ennuste on korvattu. Ennuste olettaa verotulojen kasvavan edelliseen ennusteeseen nähden joka vuosi ja vuonna 2028 kasvua on eniten, 1,1 milj. euroa. Vuoteen 2030 ulottuvia skenaarioita ei ole muutettu maltillisten veromuutosten johdosta. Strategisen kehittämisen suunnitelmaa on muutettu ottamalla huomioon aiemman käsittelyn kommentit ja tehty joitain tarkennuksia"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kestävän kasvun ohjelma_2025.05.09",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252054-5-125000.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite 1 Strategisen kehittämisen suunnitelma",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252054-5-124958.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite 2_Kuntatalous monen muuttujan summa 2025_Kuntaliiton kestävän kasvun ohjelma",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252054-5-120899.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite 3_Kustannukset toimielimittäin",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252054-5-120923.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite 4_Kestävän kasvun ohjelma - kustannusvaikutukset",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252054-5-124947.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite 5 KKO pulssikysely",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252054-5-125209.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20252054-6",
+      "ordinal": "6",
+      "title": "Kirkkonummen kunnan hallintosäännön hyväksyminen, Kv",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252054-6",
+      "decision": "Kunnanhallitus päätti 1 ehdottaa kunnanvaltuustolle, että valtuusto hyväksyy liitteenä olevan Kirkkonummen kunnan hallintosäännön 16.6.2025 alkaen seuraavalla lisäyksellä: § 147: Nuorisovaltuustolla on aloiteoikeus kunnanvaltuuston kokouksissa. 2 että tavoitteena on se, että kunnan kuluvan- ja edellisen valtuustokauden pöytäkirjat säilytetään verkossa. Ellei ole erityistä syytä, tulee pöytäkirjat säilyttää verkossa kauemmin. 3 että ruotsinkielisten esityslistojen liitteiksi laitetaan suomenkieliset liitteet mikäli ruotsinkielisiä liitteitä ei ole saatavilla 4 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+      "votes": [
+        {
+          "jaa": [
+            "Piia Aallonharja",
+            "Timo Haapaniemi",
+            "Matti Kaurila",
+            "Ulf Kjerin",
+            "Ari Harinen",
+            "Anneli Granström",
+            "Antti Kilappa"
+          ],
+          "ei": [
+            "Kati Kaihlaranta",
+            "Sanni Jäppinen",
+            "Anna Aintila",
+            "Carl-Johan Kajanti",
+            "Anna Sahiluoma",
+            "Saara Huhmarniemi"
+          ],
+          "tyhja": [],
+          "totals": {
+            "jaa": 7,
+            "ei": 6,
+            "tyhja": 0
+          },
+          "parties": {
+            "jaa": {
+              "ps": 2,
+              "kok": 2,
+              "rkp": 1,
+              "sdp": 1,
+              "pro yl": 1
+            },
+            "ei": {
+              "vas": 1,
+              "vihr": 2,
+              "rkp": 2,
+              "kok": 1
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "päätösehdotusta",
+            "ei_label": "Saara Huhmarniemen muutosehdotusta",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": "jaa",
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat päätösehdotusta äänestävät JAA, ja ne jotka kannattavat Saara Huhmarniemen muutosehdotusta äänestävät EI — annettiin 7 JAA ja 6 EI ääntä."
+          }
+        }
+      ],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 7 Kirkkonummen kunnan hallintosääntö 16.6.2025 alkaen",
+        "oheismateriaali": "Kuvake Otsikko Kirkkonummen kunnan hallintosääntö_vertailu Kirkkonummen kunnan hallintosäännön hyväksyminen, Kv Kunnanhallitus 12.05.2025 § 165 405/00.01.01/2025",
+        "valmistelija": "hallintojohtaja Jaana Suihkonen kunnanlakimies Hannu Sorvari etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "sai enemmän ääniä ja voitti. JAA äänestivät Piia Aallonharja, Timo Haapaniemi, Matti Kaurila, Ulf Kjerin, Ari Harinen, Anneli Granström ja Antti Kilappa. EI äänestivät Kati Kaihlaranta, Sanni Jäppinen, Anna Aintila, Carl-Johan Kajanti, Anna Sahiluoma ja Saara Huhmarniemi. Läsnäolo toimielimen kokouksessa 160§ (Kjerin Ulf) : Esitän että vaikuttamistoimielimillä on oikeus nimetä edustajansa, sivistys- ja hyvinvointilautakuntaan, kuntakehityksen lautakuntaan, rakennus- ja ympäristölautakuntaan, suomenkieliseen ja ruotsinkieliseen kasvatus- ja opetuslautakuntiin sekä toimitilapalveluiden lautakuntaan. Ulf Kjerinin esitys ei saanut kannatusta joten se raukesi. Uusi päätöspykälä 2 (Kaurila Matti): Kunnanhallitus päättää. Tavoitteena on se, että kunnan kuluvan- ja edellisen valtuustokauden pöytäkirjat säilytetään verkossa. Ellei ole erityistä syytä, tulee pöytäkirjat säilyttää verkossa kauemmin. Ehdotusta kannattivat Carl-Johan Kajanti, Sanni Jäppinen, Anneli Granström, Saara Huhmarniemi, Piia Aallonharja, Kati Kaihlaranta, Timo Haapaniemi ja Ari Harinen. Puheenjohtajan tiedustellessa Matti Kaurilan ehdotus hyväksyttiin yksimielisesti. Uusi vastaesitys: lisäys mahdolliseen uuteen päätöspykälään, jos sitä ei hyväksytä niin omaksi päätöspykäläksi (Kajanti Carl-Johan): Ruotsinkielisten esityslistojen liitteiksi laitetaan suomenkieliset liitteet Ehdotusta kannattivat Kati Kaihlaranta, Piia Aallonharja, Timo Haapaniemi ja Ari Harinen. Puheenjohtajan tiedustellessa Carl-Johan Kajannin ehdotus hyväksyttiin yksimielisesti. Muutosehdotus, Saara Huhmarniemi: § 147, lisäys: Nuorisovaltuustolla on aloiteoikeus kunnanvaltuuston kokouksissa (Kuten vihreät ovat valtuustoaloitteessa 21.9.2020 esittäneet.) Ehdotusta kannatti Sanni Jäppinen. sekä Muutosehdotus, Antti Kilappa: Nuorisovaltuustolla on aloiteoikeus valtuuston kokouksissa. Ehdotusta kannatti Ari Harinen. Saara Huhmarniemen ja Antti Kilapan ehdotukset yhdistettiin kuulumaan: Nuorisovaltuustolla on aloiteoikeus kunnanvaltuuston kokouksissa. Puheenjohtajan tiedustellessa Saara Huhmarniemen ja Antti Kilapan ehdotus hyväksyttiin yksimielisesti",
+        "kasittely": "Hallintojohtaja Jaana Suihkonen esitteli asiaa kokouksessa. Henkilöstöjohtaja Lea Pääkkönen oli myös läsnä kokouksessa tämän pykälän aikana. Puheenjohtaja julisti keskustelun päättyneeksi ja totesi että keskustelun aikana on jätetty muutosehdotuksia seuraavasti: Uusi vastaesitys (Huhmarniemi Saara): 160 § Läsnäolo toimielimen kokouksessa Lisätään: Nuorisovaltuuston edustajalla on läsnäolo- ja puheoikeus sivistys- ja hyvinvointilautakunnassa, kuntakehityksen lautakunnassa sekä suomen- ja ruotsinkielisissä kasvatus- ja koulutuslautakunnissa sekä kunnanhallituksessa. Muutosehdotusta kannattivat Sanni Jäppinen ja Anna Sahiluoma. Muutosehdotusta ei hyväksytty yksimielisesti, joten puheenjohtaja ilmoitti että asiasta on äänestettävä. Puheenjohtaja ehdotti, että asiasta äänestetään niin, että ne jotka kannattavat päätösehdotusta äänestävät JAA, ja ne jotka kannattavat Saara Huhmarniemen muutosehdotusta äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 7 JAA ääntä ja 6 EI ääntä",
+        "paatos": "Kunnanhallitus päätti 1 ehdottaa kunnanvaltuustolle, että valtuusto hyväksyy liitteenä olevan Kirkkonummen kunnan hallintosäännön 16.6.2025 alkaen seuraavalla lisäyksellä: § 147: Nuorisovaltuustolla on aloiteoikeus kunnanvaltuuston kokouksissa. 2 että tavoitteena on se, että kunnan kuluvan- ja edellisen valtuustokauden pöytäkirjat säilytetään verkossa. Ellei ole erityistä syytä, tulee pöytäkirjat säilyttää verkossa kauemmin. 3 että ruotsinkielisten esityslistojen liitteiksi laitetaan suomenkieliset liitteet mikäli ruotsinkielisiä liitteitä ei ole saatavilla 4 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "selostus": "Kirkkonummen kunnan hallintosääntö muutetaan 16.6.2025 vastaamaan uuden valtuustokauden mukaista toimielinrakennetta. Samalla siihen tehdään muita tarvittavia muutoksia ja täsmennyksiä. Luottamushenkilöorganisaation osalta keskeiset muutokset koskevat elinvoimajaostoa, joka lakkautetaan. Sen tehtävät siirtyvät pääsääntöisesti kunnanhallitukselle kuitenkin siten, että hyvinvoinnin ja terveyden edistämisen asiat siirtyvät sivistys- ja vapaa-aikalautakunnalle, jonka nimi muutetaan sivistys- ja hyvinvointilautakunnaksi. Sivistyksen toimialan muut lautakunnat pysyvät ennallaan. Yhdyskuntatekniikan lautakunnan nimi muutetaan kuntakehityksen lautakunnaksi. Kuntakehityksen toimialan muut lautakunnan pysyvät ennallaan. Kaikkien toimielinten toimikausi on kaksi vuotta, lukuun ottamatta työllisyys- ja elinkeinolautakuntaa. Sivistysjohtajan toimivalta kirjataan hallintosääntöön yleisellä tavalla, jolloin suuri luettelo tehtävistä ja toimivallasta supistuu. Työllisyysalueen johtajan eräät oikeudet mm. allekirjoittamisoikeus otetaan hallintosääntöön. Opiskelijaohjauskorvausten myöntäminen on siirretty henkilöstöjohtajalta toimialajohtajien toimivaltaan. Hallintosääntöön on myös kirjattu talousjohtajan toimivaltaan hyväksyä kunnan puolesta kaikki laskut ja suoritukset poikkeustilanteissa. Varautumis- ja valmiussuunnittelua koskevaan pykälään on lisätty, että kuntakehitysjohtaja nimeää toimintaohjeessaan jälkitorjunnasta vastaavan viranomaisen. Lisäksi kuntakehitysjohtaja myöntää kunnan kaduille ja yleisille alueille mikroliikenteen luvat. Muilta osin muutokset ovat pienempiä korjauksia ja täsmennyksiä esimerkiksi poistamalla toistoa ja sanonnan järjestystä parantamalla. Valtuustoryhmiltä on huhtikuussa pyydetty kommentit hallintosääntöluonnokseen. Kommentit ovat pääsääntöisesti olleet sellaisia, joita ei kirjata hallintosääntöön. Lisäksi hallintosääntöä on käsitelty kunnan yhteistoimintaryhmässä ja henkilöstöjaostossa 7.5.2025"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kirkkonummen kunnan hallintosääntö 16.6.2025 alkaen",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252054-6-125387.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Kirkkonummen kunnan hallintosääntö_vertailu",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252054-6-125386.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Saara Huhmarniemi",
+          "kind": "vastaehdotus",
+          "text": null,
+          "source": "order",
+          "party": "vihr"
+        }
+      ]
+    },
+    {
+      "id": "20252054-7",
+      "ordinal": "7",
+      "title": "Palkkiosäännön hyväksyminen valtuustokaudelle 2025 – 2029, Kv",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252054-7",
+      "decision": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 8 Palkkiosääntö 2025-2029_final Palkkiosäännön hyväksyminen valtuustokaudelle 2025 – 2029, Kv Kunnanhallitus 12.05.2025 § 166 952/00.01.01/2020",
+        "valmistelija": "Hallintojohtaja Jaana Suihkonen Henkilöstöjohtaja Lea Pääkkönen etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää 1 ehdottaa kunnanvaltuustolle, että valtuusto hyväksyy liitteenä olevan palkkiosäännön valtuustokaudelle 2025-2029 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "paatos": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Palkkiosääntö 2025-2029_final",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252054-7-125135.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20252054-8",
+      "ordinal": "8",
+      "title": "Henkilöstökertomus 2024, Kv",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252054-8",
+      "decision": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 9 Henkilöstökertomus 2024 Henkilöstökertomus 2024, Kv Kunnanhallitus 12.05.2025 § 167 313/01.00.02/2025",
+        "valmistelija": "Henkilöstöjohtaja Lea Pääkkönen etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää 1 merkitä Kirkkonummen kunnan henkilöstökertomuksen vuodelta 2024 tiedoksi ja saattaa sen myös tiedoksi kunnanvaltuustolle 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "kasittely": "Henkilöstöjohtaja Lea Pääkkönen oli läsnä kokouksessa tämän pykälän aikana ja poistui kokouksesta pykälän jälkeen klo 19.58",
+        "paatos": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Henkilöstökertomus 2024",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252054-8-124943.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20252054-9",
+      "ordinal": "9",
+      "title": "​​Keskusvaalilautakunnan ilmoitus vuoden 2025 kuntavaalien tuloksesta​, Kv",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252054-9",
+      "decision": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 10 KT23 11 KT26 ​​Keskusvaalilautakunnan ilmoitus vuoden 2025 kuntavaalien tuloksesta​, Kv Kunnanhallitus 12.05.2025 § 168 490/00.00.00/2024",
+        "valmistelija": "keskusvaalilautakunnan sihteeri Rasmus Beck etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää 1 ehdottaa kunnanvaltuustolle, että valtuusto merkitsee luettelot KT26: Valitut valtuutetut ja varavaltuutetut vertausluvuittain ja KT23: Ehdokkaat vertausluvuittain tiedoksi vuoden 2025 Kirkkonummen kunnassa toimitettujen kuntavaalien tuloksena 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "paatos": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+        "selostus": "Kirkkonummen kunnan keskusvaalilautakunta on kokouksessaan 16.4.2025 vahvistanut Kirkkonummen kunnassa toimitettujen vuoden 2025 kuntavaalien tuloksen. Vaalilain 95 §:n mukaan keskusvaalilautakunta toimittaa luettelon valtuutetuiksi valituista ja heidän varajäsenistään kunnanvaltuustolle"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "KT23",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252054-9-124533.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "KT26",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252054-9-124534.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20252054-10",
+      "ordinal": "10",
+      "title": "Luottamushenkilötoimikunnan nimeäminen valtuustokaudelle 2025 – 2029, Kv",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252054-10",
+      "decision": "Kunnanhallitus päätti yksimielisesti 1 esittää kunnanvaltuustolle, että se nimeää luottamushenkilötoimikunnan seuraavasti: Kokoomus: Anna Sahiluoma, varsinainen jäsen ja Timo Haapaniemi, varajäsen RKP: Tony Björk, varsinainen jäsen ja Jerri Kämpe-Hellenius, varajäsen SPD: Sini Felipe, varsinainen jäsen ja Tuovi Ronkainen, varajäsen PS : Arttu Lankinen, varsinainen jäsen ja Piia Aallonharja, varajäsen Vihreät: Saara Huhmarniemi, varsinainen jäsen ja Lauri Lavanti, varajäsen Vasemmistoliitto: Kati Kaihlaranta, varsinainen jäsen ja Edla Niemi, varajäsen Pro Kirkkonummi: Antti Kilappa, varsinainen jäsen, Noora Piili, varajäsen Keskusta: Eero Lankia, varsinainen jäsen ja Jarmo Siivari, varajäsen KD: Maiju Kiukas, varsinainen jäsen ja Rita Holopainen, varajäsen 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+      "votes": [],
+      "sections": {
+        "valmistelija": "hallintojohtaja Jaana Suihkonen etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää 1 esittää kunnanvaltuustolle, että se nimeää luottamushenkilötoimikunnan 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "paatos": "Kunnanhallitus päätti yksimielisesti 1 esittää kunnanvaltuustolle, että se nimeää luottamushenkilötoimikunnan seuraavasti: Kokoomus: Anna Sahiluoma, varsinainen jäsen ja Timo Haapaniemi, varajäsen RKP: Tony Björk, varsinainen jäsen ja Jerri Kämpe-Hellenius, varajäsen SPD: Sini Felipe, varsinainen jäsen ja Tuovi Ronkainen, varajäsen PS : Arttu Lankinen, varsinainen jäsen ja Piia Aallonharja, varajäsen Vihreät: Saara Huhmarniemi, varsinainen jäsen ja Lauri Lavanti, varajäsen Vasemmistoliitto: Kati Kaihlaranta, varsinainen jäsen ja Edla Niemi, varajäsen Pro Kirkkonummi: Antti Kilappa, varsinainen jäsen, Noora Piili, varajäsen Keskusta: Eero Lankia, varsinainen jäsen ja Jarmo Siivari, varajäsen KD: Maiju Kiukas, varsinainen jäsen ja Rita Holopainen, varajäsen 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "selostus": "Kuntavaalit toimitettiin 13.4.2025. Kirkkonummen kunnan hallintosäännön 28 §:n mukaan kunnanhallitus valmistelee kunnan luottamushenkilötoimikunnan nimeämistä koskevan päätöksen valtuustolle. Luottamushenkilötoimikunnan tehtävä on sopia valtuustokauden 2025 – 2029 paikkajaot vaalien jälkeen. Valtuustoryhmiä on pyydetty ilmoittamaan kunnanhallituksen 12.5.2025 kokoukseen mennessä luottamushenkilötoimikuntaan nimettävät henkilöt"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252054-11",
+      "ordinal": "11",
+      "title": "Helsingin seudun liikenne -kuntayhtymän kevätyhtymäkokous 27.5.2025",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252054-11",
+      "decision": "Kunnanhallitus päätti yksimielisesti 1 valita Markus Myllyniemen kunnan edustaja HSL:n kevätyhtymäkokoukseen 27.5.2025 2 antaa seuraavan evästyksen yhtymäkokousedustajalle: Vuoden 2024 tilinpäätöksen perusteella Kirkkonummen kuntaosuus on ollut 52,3 %. Kirkkonummen kunta kiinnittää huomiota kunnan kuntaosuuden kasvamiseen yli 50 % ja on aikaisemmissa lausunnoissaan edellyttänyt kuntaosuuden pysymistä alle 50 % tason. Kunta edellyttää HSL:ltä toimenpiteitä, jolla Kirkkonummen kuntaosuus tulevina vuosina jää alle 50 prosentin",
+      "votes": [],
+      "sections": {
+        "valmistelija": "hallinnon asiantuntija Gunnel Ekström, etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää 1 valita kunnan edustaja HSL:n kevätyhtymäkokoukseen 27.5.2025 2 mahdollisen evästyksen antamisesta yhtymäkokousedustajalle",
+        "kasittely": "Puheenjohtaja julisti keskustelun päättyneeksi ja totesi, että keskustelun aikana on jätetty seuraava evästysehdotus: Evästys (Kaurila Matti): Kunnanhallitus evästää kevätkokousedustajaa seuraavasti: Vuoden 2024 tilinpäätöksen perusteella Kirkkonummen kuntaosuus on ollut 52,3 %. Kirkkonummen kunta kiinnittää huomiota kunnan kuntaosuuden kasvamiseen yli 50 % ja on aikaisemmissa lausunnoissaan edellyttänyt kuntaosuuden pysymistä alle 50 % tason. Kunta edellyttää HSL:ltä toimenpiteitä, jolla Kirkkonummen kuntaosuus tulevina vuosina jää alle 50 prosentin. Evästysehdotusta kannattivat Piia Aallonharja, Timo Haapaniemi, Antti Kilappa, Kati Kaihlaranta, Anna Sahiluoma, Ari Harinen, Carl-Johan Kajanti, Anna Aintila ja Anneli Granström. Puheenjohtajan tiedustellessa evästysehdotus hyväksyttiin yksimielisesti",
+        "paatos": "Kunnanhallitus päätti yksimielisesti 1 valita Markus Myllyniemen kunnan edustaja HSL:n kevätyhtymäkokoukseen 27.5.2025 2 antaa seuraavan evästyksen yhtymäkokousedustajalle: Vuoden 2024 tilinpäätöksen perusteella Kirkkonummen kuntaosuus on ollut 52,3 %. Kirkkonummen kunta kiinnittää huomiota kunnan kuntaosuuden kasvamiseen yli 50 % ja on aikaisemmissa lausunnoissaan edellyttänyt kuntaosuuden pysymistä alle 50 % tason. Kunta edellyttää HSL:ltä toimenpiteitä, jolla Kirkkonummen kuntaosuus tulevina vuosina jää alle 50 prosentin",
+        "tiedoksi": "HSL:n kirjaamolle, valitulle edustajalle",
+        "selostus": "Helsingin seudun liikenne -kuntayhtymän kevätyhtymäkokous pidetään 27.5.2025 klo 11.00 alkaen sähköisenä kokouksena ja/tai HSL:n päätoimitiloissa, osoitteessa Opastinsilta 6, Helsinki. Yhtymäkokouksessa käsitellään seuraavat asiat: Kokouksen järjestäytyminen ja ääniluettelon vahvistaminen Tarkastuslautakunnan arviointikertomus vuodelta 2024 Tarkastuslautakunnan esitys yhtymäkokoukselle tilinpäätöksen hyväksymisestä ja vastuuvapauden myöntämisestä Sidonnaisuusilmoitukset Jäsenkuntia on pyydetty nimeämään yhtymäkokousedustajansa yhtymäkokoukseen ja ilmoittamaan siitä HSL:n kirjaamoon 23.5.2025 mennessä. Markus Myllyniemi osallistui kunnan edustajana HSL:n yhtymäkokoukseen 26.11.2024"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252054-12",
+      "ordinal": "12",
+      "title": "Metropolia Ammattikorkeakoulu Oy:n varsinainen yhtiökokous 16.5.2025",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252054-12",
+      "decision": "Kunnanhallitus päätti yksimielisesti 1 valita Timo Haapaniemen kunnan edustajaksi ja Anna Sahiluoman varaedustajaksi Metropolia Ammattikorkeakoulu Oy:n yhtiökokoukseen 16.5.2025 sekä ilmoittaa, että kunta antaa suostumuksensa yhtiökokouksen järjestämiseen etäyhteyden välityksellä 2 olla antamatta erityistä evästystä yhtiökokousedustajalle 3 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+      "votes": [],
+      "sections": {
+        "valmistelija": "hallinnon asiantuntija Gunnel Ekström, etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää 1 valita kunnan edustajan Metropolia Ammattikorkeakoulu Oy:n yhtiökokoukseen 16.5.2025 sekä ilmoittaa, että kunta antaa suostumuksensa yhtiökokouksen järjestämiseen etäyhteyden välityksellä 2 mahdollisen evästyksen antamisesta yhtiökokousedustajalle 3 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "paatos": "Kunnanhallitus päätti yksimielisesti 1 valita Timo Haapaniemen kunnan edustajaksi ja Anna Sahiluoman varaedustajaksi Metropolia Ammattikorkeakoulu Oy:n yhtiökokoukseen 16.5.2025 sekä ilmoittaa, että kunta antaa suostumuksensa yhtiökokouksen järjestämiseen etäyhteyden välityksellä 2 olla antamatta erityistä evästystä yhtiökokousedustajalle 3 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "selostus": "Metropolia Ammattikorkeakoulu Oy:n osakkaat on kutsuttu yhtiön varsinaiseen yhtiökokoukseen perjantaina 16.5.2025 klo 10.00. Yhtiökokouksessa käsitellään yhtiöjärjestyksen ja osakeyhtiölain mukaiset asiat. Kokouskutsussa on pyydetty ilmoittamaan 8.5.2025 mennessä kokoukseen osallistumisesta sekä edustajan nimen. Yhtiökokous on mahdollista järjestää etäyhteyden välityksellä, mikäli osakkeenomistajat niin yksimielisesti päättävät. Mikäli osakkaiden yksimielistä päätöstä etäyhteyden välityksellä järjestettävästä yhtiökokouksesta ei saada, yhtiökokous järjestetään Metropolian Myllypuron kampuksella, osoitteessa: Metropolia Ammattikorkeakoulu, Myllypurontie 1, 00920 Helsinki, kokoushuone MPD3016. Timo Haapaniemi on toiminut kunnan yhtiökokousedustajana"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252054-13",
+      "ordinal": "13",
+      "title": "Kuntalain 92 §:n mukaista otto-oikeusmenettelyä varten saapuneet päätökset",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252054-13",
+      "decision": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 12 Päätösluettelo - 2.-8.5.2025 Kuntalain 92 §:n mukaista otto-oikeusmenettelyä varten saapuneet päätökset Kunnanhallitus 12.05.2025 § 172 Toimielinten pöytäkirjoja - Viranhaltijapäätöksiä Viranhaltijapäätökset ovat kokonaisuudessaan liitteineen luettavissa kokousjärjestelmässä: (tiedostot / kunnanhallitus / viranhaltijapäätökset)",
+        "esittelija": "Kunnanjohtaja Virpi Sailas, etunimi.sukunimi@kirkkonummi.fi",
+        "paatosehdotus": "Kunnanhallitus merkitsee tiedokseen edellä mainitut kuntalain 92 §:n nojalla otto-oikeuden käyttämistä varten esitetyt päätökset ja päättää, että Kunnanhallitus ei ota asioita käsiteltäväkseen",
+        "paatos": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Päätösluettelo - 2.-8.5.2025",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252054-13-125020.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20252054-14",
+      "ordinal": "14",
+      "title": "Pöytäkirjoja tiedoksi",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252054-14",
+      "decision": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "esittelija": "Kunnanjohtaja Virpi Sailas, etunimi.sukunimi@kirkkonummi.fi",
+        "paatosehdotus": "Kunnanhallitus merkitsee pöytäkirjat tiedokseen",
+        "paatos": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252054-15",
+      "ordinal": "15",
+      "title": "Ilmoitusasioita tiedoksi",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252054-15",
+      "decision": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 13 ELY-keskus Perusteltu päätelmä Evitskog pellonparannushanke Ilmoitusasioita tiedoksi Kunnanhallitus 12.05.2025 § 174 Uudenmaan ELY-keskus on antanut Evitskogin pellonparannushankkeesta perustellun päätelmän 13.3.2025 (kt. liite). Keskeistä siinä ovat hankkeen jatkokäsittelyssä ja -suunnittelussa erityisesti huomioitavat asiat huomioon (s. 21-22).” Liitteessä on perusteltu päätelmä, lisäksi tässä on linkit sekä kh:n että ryl:n antamiin lausuntoihin: Kunnanhallitus 20.1.2025: https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20251937-6 Rakennus- ja ympäristölautakunta 21.1.2025: https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20251939-6",
+        "paatosehdotus": "Kunnanhallitus merkitsee ilmoitusasiat tiedokseen",
+        "paatos": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "ELY-keskus Perusteltu päätelmä Evitskog pellonparannushanke",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252054-15-124843.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20252054-16",
+      "ordinal": "16",
+      "title": "Muut asiat",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252054-16",
+      "decision": null,
+      "votes": [],
+      "sections": {},
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    }
+  ],
+  "id": "20252054",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20252054"
+}

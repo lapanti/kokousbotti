@@ -1,0 +1,824 @@
+{
+  "title": "Kunnanvaltuusto Pöytäkirja 18.11.2024 klo 18:00 - 21:26 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Kunnanvaltuusto",
+  "doctype": "Pöytäkirja",
+  "date": "2024-11-18",
+  "items": [
+    {
+      "id": "20241871-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241871-1",
+      "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Kokous todettiin lailliseksi ja päätösvaltaiseksi",
+        "selostus": "Kunnanvaltuuston kokouskutsu on julkaistu kunnan verkkosivulla 13.11.2024. Samana päivänä kutsu on toimitettu valtuutetuille ja varavaltuutetuille"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241871-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241871-2",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti. Pöytäkirjantarkastajiksi valittiin Jukka Ylikoski ja Kim Åström",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanvaltuusto päättää valita kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti. Pöytäkirjantarkastajiksi valittiin Jukka Ylikoski ja Kim Åström"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241871-3",
+      "ordinal": "3",
+      "title": "Helsingin seudun kuntien ja valtion välisen maankäytön, asumisen ja liikenteen (MAL) -sopimuksen hyväksyminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241871-3",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 1 Valmisteluryhmän ehdotus Helsingin seudun MAL-sopimukseksi 17.9.2024 2 Helsingin seudun MAL-sopimusehdotus 2024-2035 esitysaineisto Helsingin seudun kuntien ja valtion välisen maankäytön, asumisen ja liikenteen (MAL) -sopimuksen hyväksyminen Kunnanvaltuusto 18.11.2024 § 88 901/00.04.01/2020",
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto päättää 1 hyväksyä Helsingin seudun kuntien ja valtion välisen maankäytön, asumisen ja liikenteen (MAL) sopimuksen vuosille 2024-2035 2 että Kirkkonummen kunta edellyttää, että Masalanportin eritasoliittymän suunnittelu tehdään valmiiksi niin, että sen toteuttaminen voidaan aloittaa mahdollisimman nopeasti. Lisäksi kunta edellyttää, että väyläverkon parantamishankkeet toteutetaan myös Kirkkonummella tehtyjen suunnitelmien mukaisesti sekä, että niiden määrärahaa lisätään",
+        "kasittely": "Kunnanjohtaja Virpi Sailas ja yhdyskuntatekniikan johtaja Anna-Kaisa Kauppinen esittelivät asiaa",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+        "selostus": "Hyväksytyn MAL-suunnitelman pienissä kustannustehokkaissa hankkeissa on Mt 110 Nupurintie välillä Kolmirannantie – Brobackantie n. 500 sadan metrin osuus Kirkkonummen kunnan puolella"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Valmisteluryhmän ehdotus Helsingin seudun MAL-sopimukseksi 17.9.2024",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241871-3-115321.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Helsingin seudun MAL-sopimusehdotus 2024-2035 esitysaineisto",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241871-3-115320.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20241871-4",
+      "ordinal": "4",
+      "title": "Kunnan tuloveroprosentin vahvistaminen vuodelle 2025",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241871-4",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto 1 vahvistaa vuoden 2025 tuloveroprosentiksi 7,1 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241871-5",
+      "ordinal": "5",
+      "title": "Kunnan kiinteistöveroprosenttien vahvistaminen vuodelle 2025",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241871-5",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto 1 päättää määrätä seuraavat kiinteistöverolaissa tarkoitetut kiinteistöveroprosentit vuodeksi 2025: • yleinen kiinteistöveroprosentti 0,93 % • yleisen kiinteistöveron maa-alueiden kiinteistöveroprosentti 1,30 % • vakituiset asuinrakennukset 0,41 % • muut asuinrakennukset 1,40 % • rakentamaton rakennuspaikka 5,43 % • yleishyödyllisten yhteisöjen kiinteistöveroprosentti 0,00 % 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241871-6",
+      "ordinal": "6",
+      "title": "Kirkkonummen palveluverkkosuunnitelma 2025–2035",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241871-6",
+      "decision": "Kunnanvaltuusto päätti hyväksyä liitteenä olevan kunnan palveluverkkosuunnitelman 2025-2035 kunnanhallituksen hyväksymin evästyksin sekä kunnanvaltuuston seuraavin hyväksymin muutoksin: Sivulta 9 poistetaan \"Nuorisotila säilyy nykyisellä paikallaan tai siirtyy Veikkolan koulun yhteyteen.\" Tilalle: \"Nuorisotila säilyy nykyisellä paikallaan, siirtyy Veikkolan koulun yhteyteen tai nykyisiin Veikkolan kirjaston tiloihin, mikäli tilat vapautuvat.\" Lisäksi kunnanvaltuusto päätti, että pykälän oheismateriaaliksi lisätään vuonna 2023 toteutettu palveluverkkoselvitys",
+      "votes": [
+        {
+          "jaa": [
+            "Männikkö Kim",
+            "Polkko Aleksander",
+            "Suominen Tero",
+            "Valtonen Martin",
+            "Kajanti Carl-Johan",
+            "Kaihlaranta Kati",
+            "Jeremejew Miisa",
+            "Ronkainen Tuovi",
+            "Piili Noora",
+            "Frimodig Josephine",
+            "Virtanen Kari",
+            "Kilappa Antti",
+            "Harinen Ari",
+            "Fleming Johanna",
+            "Björk Tony",
+            "Kjerin Ulf",
+            "Felipe Sini",
+            "Huhmarniemi Saara",
+            "Kämpe-Hellenius Jerri",
+            "Aintila Anna",
+            "Liljequist Kim",
+            "Hedberg Hans",
+            "Hakapää Minna",
+            "Stefan Gustafsson"
+          ],
+          "ei": [
+            "Tamm Irja",
+            "Kähkönen Jani",
+            "Granström Anneli",
+            "Kari Marko",
+            "Kaurila Matti",
+            "Ekman Jani",
+            "Haapaniemi Timo",
+            "Aallonharja Piia",
+            "Åström Kim",
+            "Ylikoski Jukka",
+            "Lundell Patrik",
+            "Orko Maarit",
+            "Toikka Anna-Mari",
+            "Leijala Aku",
+            "Lankinen Arttu",
+            "Salonen Antti",
+            "Frantsi-Lankia Marjut",
+            "Määttä Jussi",
+            "Seppälä Ulla",
+            "Virkki Leena",
+            "Valtanen Hannu",
+            "Salminen Ville",
+            "Karkinen Ronja",
+            "Oittinen Paula",
+            "Sahiluoma Anna",
+            "Blom Urho"
+          ],
+          "tyhja": [],
+          "totals": {
+            "jaa": 24,
+            "ei": 26,
+            "tyhja": 0
+          },
+          "parties": {
+            "jaa": {
+              "rkp": 11,
+              "ps": 1,
+              "sdp": 5,
+              "vas": 1,
+              "vihr": 2,
+              "pro yl": 3,
+              "kok": 1
+            },
+            "ei": {
+              "vihr": 5,
+              "ps": 6,
+              "kok": 11,
+              "rkp": 1,
+              "pro yl": 2,
+              "kesk": 1
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta",
+            "ei_label": "Matti Kaurilan muutosehdotusta",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": "ei",
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Matti Kaurilan muutosehdotusta äänestävät EI — annettiin 24 JAA ja 26 EI ääntä."
+          }
+        },
+        {
+          "jaa": [
+            "Kähkönen Jani",
+            "Kilappa Antti",
+            "Kjerin Ulf",
+            "Fleming Johanna",
+            "Björk Tony",
+            "Toikka Anna-Mari",
+            "Ekman Jani",
+            "Kajanti Carl-Johan",
+            "Polkko Aleksander",
+            "Aintila Anna",
+            "Lankinen Arttu",
+            "Frimodig Josephine",
+            "Harinen Ari",
+            "Liljequist Kim",
+            "Hakapää Minna",
+            "Suominen Tero",
+            "Kämpe-Hellenius Jerri",
+            "Haapaniemi Timo",
+            "Blom Urho",
+            "Virtanen Kari",
+            "Tamm Irja",
+            "Kari Marko",
+            "Jeremejew Miisa",
+            "Huhmarniemi Saara",
+            "Piili Noora",
+            "Virkki Leena",
+            "Salminen Ville",
+            "Gustafsson Stefan",
+            "Kaihlaranta Kati",
+            "Felipe Sini",
+            "Oittinen Paula",
+            "Ronkainen Tuovi",
+            "Valtonen Martin",
+            "Ylikoski Jukka",
+            "Hedberg Hans"
+          ],
+          "ei": [
+            "Seppälä Ulla",
+            "Frantsi-Lankia Marjut",
+            "Orko Maarit",
+            "Aallonharja Piia",
+            "Kaurila Matti",
+            "Karkinen Ronja",
+            "Salonen Antti",
+            "Sahiluoma Anna",
+            "Lundell Patrik",
+            "Männikkö Kim",
+            "Leijala Aku",
+            "Määttä Jussi"
+          ],
+          "tyhja": [
+            "Åström Kim",
+            "Granström Anneli",
+            "Valtanen Hannu"
+          ],
+          "totals": {
+            "jaa": 35,
+            "ei": 12,
+            "tyhja": 3
+          },
+          "parties": {
+            "jaa": {
+              "ps": 5,
+              "pro yl": 3,
+              "rkp": 10,
+              "sdp": 5,
+              "vihr": 5,
+              "kok": 6,
+              "vas": 1
+            },
+            "ei": {
+              "kok": 4,
+              "kesk": 1,
+              "vihr": 2,
+              "ps": 1,
+              "pro yl": 2,
+              "rkp": 2
+            },
+            "tyhja": {
+              "kok": 2,
+              "ps": 1
+            }
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta",
+            "ei_label": "Marjut Frantsi-Lankian muutosehdotusta",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": "jaa",
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Marjut Frantsi-Lankian muutosehdotusta äänestävät EI — annettiin 35 JAA ja 12 EI ääntä."
+          }
+        }
+      ],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 3 Palveluverkkosuunnitelma_fi, valtuuston hyväksymä 18.11.2024",
+        "oheismateriaali": "Kuvake Otsikko Toimitilapalvelujen lautakunnan päätös 25.9.2024 § 52 Sivistys- ja vapaa-aikalautakunnan päätös 26.9.2024 § 60 Suomenkielisen kasvatus- ja koulutuslautakunnan päätös 24.9.2024 § 44 Svenska nämndens för fostran och utbildning beslut 25.9.2024 § 36 Pöytäkirjanote §70, vanhusneuvosto 7.10.2024 Vanhusneuvoston lausunto palveluverkkosuunnitelmasta Pöytäkirjanote §53, nuorisovaltuusto 22.10.2024 Pöytäkirjanote §76, vammaisneuvosto 24.10.2024 Kirkkonummi_palveluverkkoselvitys_2023 (Kunnanhallitus 29.4.2024) Kirkkonummen palveluverkkosuunnitelma 2025–2035 Kunnanvaltuusto 18.11.2024 § 91 754/00.01.02/2022",
+        "paatosehdotus": "Kunnanhallitus esittää kunnanvaltuustolle, että kunnanvaltuusto hyväksyy liitteenä olevan kunnan palveluverkkosuunnitelman 2025-2035 kunnanhallituksen hyväksymin evästyksin",
+        "kasittely": "Yhdyskuntatekniikan johtaja Anna-Kaisa Kauppinen ja sivistysjohtaja Eeva-Kaisa Ikonen esittelivät asiaa. Kunnanvaltuuston 1. varapuheenjohtaja Reetta Hyvärinen ilmoitti olevansa jäävi eikä osallistunut tämän asian käsittelyyn eikä päätöksentekoon. Hän poistui kokouksesta ennen tämän pykälän käsittelyn alkamista klo 18.48. Puheenjohtaja julisti keskustelun päättyneeksi ja totesi, että käsittelyn aikana on jätetty muutosehdotuksia seuraavasti: Matti Kaurilan muutosesitys sivulle 9: Poistetaan \"Nuorisotila säilyy nykyisellä paikallaan tai siirtyy Veikkolan koulun yhteyteen.\" Tilalle \"Nuorisotila säilyy nykyisellä paikallaan, siirtyy Veikkolan koulun yhteyteen tai nykyisiin Veikkolan kirjaston tiloihin, mikäli tilat vapautuvat.\" Muutosehdotusta kannattivat Ville Salminen, Marjut Frantsi-Lankia, Aku Leijala, Maarit Orko, Ulla Seppälä, Anneli Granström, Jussi Määttä, Piia Aallonharja ja Ronja Karkinen. Muutosehdotusta ei hyväksytty yksimielisesti, joten puheenjohtaja ilmoitti että asiasta on äänestettävä. Puheenjohtaja ehdotti, että asiasta äänestetään niin, että ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Matti Kaurilan muutosehdotusta äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 24 JAA ääntä ja 26 EI ääntä, 1 poissa. Matti Kaurilan muutosehdotus sai enemmän ääniä ja voitti. JAA äänestivät Männikkö Kim, Polkko Aleksander, Suominen Tero, Valtonen Martin, Kajanti Carl-Johan, Kaihlaranta Kati, Jeremejew Miisa, Ronkainen Tuovi, Piili Noora, Frimodig Josephine, Virtanen Kari, Kilappa Antti, Harinen Ari, Fleming Johanna, Björk Tony, Kjerin Ulf, Felipe Sini, Huhmarniemi Saara, Kämpe-Hellenius Jerri, Aintila Anna, Liljequist Kim, Hedberg Hans, Hakapää Minna ja Stefan Gustafsson (ilmoitti, että oli sähköisesti vahingossa äänestänyt väärin EI) EI äänestivät Tamm Irja, Kähkönen Jani, Granström Anneli, Kari Marko, Kaurila Matti, Ekman Jani, Haapaniemi Timo, Aallonharja Piia, Åström Kim, Ylikoski Jukka, Lundell Patrik, Orko Maarit, Toikka Anna-Mari, Leijala Aku, Lankinen Arttu, Salonen Antti, Frantsi-Lankia Marjut, Määttä Jussi, Seppälä Ulla, Virkki Leena, Valtanen Hannu, Salminen Ville, Karkinen Ronja, Oittinen Paula, Sahiluoma Anna ja Blom Urho. Poissa: Hyvärinen Reetta Marjut Frantsi-Lankia vastaesitys s 9: Esitän, että Veikkolan kirjasto säilytetään nykyisissä, mutta kunnostetuissa kirjastotiloissa tai siirretään torin laidalle rakennettavaan uudisrakennukseen. Muutosehdotusta kannattivat Maarit Orko, Aku Leijala, Matti Kaurila, Ulla Seppälä, Ronja Karkinen ja Jussi Määttä. Muutosehdotusta ei hyväksytty yksimielisesti, joten puheenjohtaja ilmoitti että asiasta on äänestettävä. Puheenjohtaja ehdotti, että asiasta äänestetään niin, että ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Marjut Frantsi-Lankian muutosehdotusta äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 35 JAA ääntä ja 12 EI ääntä, 3 tyhjää, 1 poissa. Pohjaehdotus sai enemmän ääniä ja voitti. JAA äänestivät Kähkönen Jani, Kilappa Antti, Kjerin Ulf, Fleming Johanna, Björk Tony, Toikka Anna-Mari, Ekman Jani, Kajanti Carl-Johan, Polkko Aleksander, Aintila Anna, Lankinen Arttu, Frimodig Josephine, Harinen Ari, Liljequist Kim, Hakapää Minna, Suominen Tero, Kämpe-Hellenius Jerri, Haapaniemi Timo, Blom Urho, Virtanen Kari, Tamm Irja, Kari Marko, Jeremejew Miisa, Huhmarniemi Saara, Piili Noora, Virkki Leena, Salminen Ville, Gustafsson Stefan, Kaihlaranta Kati, Felipe Sini, Oittinen Paula, Ronkainen Tuovi, Valtonen Martin, Ylikoski Jukka ja Hedberg Hans EI äänestivät Seppälä Ulla, Frantsi-Lankia Marjut, Orko Maarit, Aallonharja Piia, Kaurila Matti, Karkinen Ronja, Salonen Antti, Sahiluoma Anna, Lundell Patrik, Männikkö Kim, Leijala Aku ja Määttä Jussi Tyhjää äänestivät Åström Kim, Granström Anneli ja Valtanen Hannu Poissa: Hyvärinen Reetta Ulla Seppälän lisäysehdotus: Ehdotus päätöspykälään lisättävästä liitteestä: Palveluverkkosuunnitelma ei sisällä tietoa luvuista, joiden pohjalta suunnitelma rakentuu. Siksi on tärkeää, että ko. pykälän oheismateriaaliin on lisätty vuonna 2023 toteutettu tiivis palveluverkkoselvitys. Lisäysehdotusta kannattivat Jerri Kämpe-Hellenius, Kari Virtanen, Maarit Orko, Matti Kaurila, Aku Leijala, Marko Kari, Ville Salminen, Hannu Valtanen, Piia Aallonharja, Anna Sahiluoma, Jussi Määttä, Antti Kilappa, Anneli Granström, Anna-Mari Toikka, Antti Salonen, Jukka Ylikoski, Ari Harinen, Timo Haapaniemi, Jani Kähkönen, Urho Blom, Kim Liljequist, Kim Åström, Minna Hakapää ja Tero Suominen. Puheenjohtajan tiedustellessa Ulla Seppälän lisäysehdotus hyväksyttiin yksimielisesti. Kunnanvaltuusto piti 10 minuutin tauon tämän pykälän jälkeen klo 19.40 – 19.50",
+        "paatos": "Kunnanvaltuusto päätti hyväksyä liitteenä olevan kunnan palveluverkkosuunnitelman 2025-2035 kunnanhallituksen hyväksymin evästyksin sekä kunnanvaltuuston seuraavin hyväksymin muutoksin: Sivulta 9 poistetaan \"Nuorisotila säilyy nykyisellä paikallaan tai siirtyy Veikkolan koulun yhteyteen.\" Tilalle: \"Nuorisotila säilyy nykyisellä paikallaan, siirtyy Veikkolan koulun yhteyteen tai nykyisiin Veikkolan kirjaston tiloihin, mikäli tilat vapautuvat.\" Lisäksi kunnanvaltuusto päätti, että pykälän oheismateriaaliksi lisätään vuonna 2023 toteutettu palveluverkkoselvitys"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Palveluverkkosuunnitelma_fi, valtuuston hyväksymä 18.11.2024",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241871-6-116865.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Toimitilapalvelujen lautakunnan päätös 25.9.2024 § 52",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241871-6-114409.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Sivistys- ja vapaa-aikalautakunnan päätös 26.9.2024 § 60",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241871-6-114411.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Suomenkielisen kasvatus- ja koulutuslautakunnan päätös 24.9.2024 § 44",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241871-6-114413.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Svenska nämndens för fostran och utbildning beslut 25.9.2024 § 36",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241871-6-114410.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Pöytäkirjanote §70, vanhusneuvosto 7.10.2024",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241871-6-115187.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Vanhusneuvoston lausunto palveluverkkosuunnitelmasta",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241871-6-115186.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Pöytäkirjanote §53, nuorisovaltuusto 22.10.2024",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241871-6-115665.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Pöytäkirjanote §76, vammaisneuvosto 24.10.2024",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241871-6-115666.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Kirkkonummi_palveluverkkoselvitys_2023 (Kunnanhallitus 29.4.2024)",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241871-6-116385.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Matti Kaurila",
+          "kind": "vastaehdotus",
+          "text": null,
+          "source": "order",
+          "party": "kok"
+        },
+        {
+          "proposer": "Marjut Frantsi-Lankia",
+          "kind": "vastaehdotus",
+          "text": null,
+          "source": "order",
+          "party": "kesk"
+        }
+      ]
+    },
+    {
+      "id": "20241871-7",
+      "ordinal": "7",
+      "title": "Vuoden 2025 talousarvion ja vuosien 2026-27 taloussuunnitelman hyväksyminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241871-7",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti hyväksyä kunnanhallituksen ehdotuksen vuoden 2025 talousarvioksi ja vuosien 2026-27 taloussuunnitelmaksi. Lisäksi kunnanvaltuusto päätti yksimielisesti hyväksyä seuraavan toivomusponnen: Kunnanvaltuusto esittää valmistelutoiveena sivistystoimen hallinto- ja kehittämispalveluihin (vrt s. 44-45), että käyttösuunnitelmiin lisätään hanke, jolla kehitetään perusopetuksen vuosiluokkien 7-9 oppilaiden osallisuutta, yhteistä tekemistä yhteisön hyväksi ja lisätään hyvinvointia kouluyhteisössä. Toiminnan rahoitus osoitetaan olemassa olevasta talousarviosta",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 4 Talousarvio 2025 ja taloussuunnitelma 2026-27, Kv 18.11.2024 Vuoden 2025 talousarvion ja vuosien 2026-27 taloussuunnitelman hyväksyminen Kunnanvaltuusto 18.11.2024 § 92 506/02.02.00/2024",
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto hyväksyy kunnanhallituksen ehdotuksen vuoden 2025 talousarvioksi ja vuosien 2026-27 taloussuunnitelmaksi",
+        "kasittely": "Kunnanjohtaja Virpi Sailas ja talousjohtaja Esa Lindell esittelivät asiaa. Puheenvuoron pitivät kunnanvaltuuston puheenjohtaja Tony Björk ja kunnanhallituksen puheenjohtaja Timo Haapaniemi. Pykälän käsittelyn aikana jäsen Kim Liljequist poistui klo 20.22 ja vt. henkilöstöjohtaja Teija Parkkonen klo 20.42. Jäsen Josephine Frimodig poistui pykälän käsittelyn ja päätöksenteon jälkeen klo 21.02. Puheenjohtaja julisti keskustelun päättyneeksi, ja totesi että käsittelyn aikana jäsen Tuovi Ronkainen on jättänyt seuraavan ponsiehdotuksen: Kunnanvaltuusto esittää valmistelutoiveena sivistystoimen hallinto- ja kehittämispalveluihin (vrt s. 44-45), että käyttösuunnitelmiin lisätään hanke, jolla kehitetään perusopetuksen vuosiluokkien 7-9 oppilaiden osallisuutta, yhteistä tekemistä yhteisön hyväksi ja lisätään hyvinvointia kouluyhteisössä. Toiminnan rahoitus osoitetaan olemassa olevasta talousarviosta. Toivomuspontta kannattivat Ari Harinen, Tero Suominen, Sini Felipe, Timo Haapaniemi, Jan Ekman, Kari Virtanen, Matti Kaurila, Marjut Frantsi-Lankia, Marko Kari, Ulla Seppälä, Kim Åström, Antti Kilappa, Jussi Määttä, Antti Salonen, Minna Hakapää, Noora Piili, Urho Blom, Leena Virkki, Ulf Kjerin, Kati Kaihlaranta, Aleksander Polkko ja Martin Valtonen. Puheenjohtajan tiedustellessa, toivomusponsi hyväksyttiin yksimielisesti",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti hyväksyä kunnanhallituksen ehdotuksen vuoden 2025 talousarvioksi ja vuosien 2026-27 taloussuunnitelmaksi. Lisäksi kunnanvaltuusto päätti yksimielisesti hyväksyä seuraavan toivomusponnen: Kunnanvaltuusto esittää valmistelutoiveena sivistystoimen hallinto- ja kehittämispalveluihin (vrt s. 44-45), että käyttösuunnitelmiin lisätään hanke, jolla kehitetään perusopetuksen vuosiluokkien 7-9 oppilaiden osallisuutta, yhteistä tekemistä yhteisön hyväksi ja lisätään hyvinvointia kouluyhteisössä. Toiminnan rahoitus osoitetaan olemassa olevasta talousarviosta"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Talousarvio 2025 ja taloussuunnitelma 2026-27, Kv 18.11.2024",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241871-7-116136.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20241871-8",
+      "ordinal": "8",
+      "title": "Yhdyskuntatekniikan lautakunnan talousarvion lisämäärärahaesitys",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241871-8",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus esittää kunnanvaltuustolle, että yhdyskuntatekniikan lautakunnan vuoden 2024 talousarvioon tehdään seuraavat muutokset: 1 yhdyskuntatekniikan lautakunnan erikseen sitovasta HSL:n määrärahasta siirretään 450 000 euroa lautakunnan muun toiminnan toimintakuluihin 2 korotetaan investointiosan hankkeen \"muut pitkävaikutteiset menot, Täydennyskartoitukset ja paikkatietojen tuottaminen\" määrärahaa 80 000 eurolla",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241871-9",
+      "ordinal": "9",
+      "title": "Vastaus valtuustoaloitteeseen 7/2020: esteettömän luontoreitin rakentaminen Linlon saareen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241871-9",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "initiative": {
+        "ref": "7/2020",
+        "proposer": "Valtuutettu Irja Bergholm",
+        "party": null,
+        "name": "Irja Bergholm"
+      },
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Valtuustoaloite esteettömän luontoreitin rakentamiseksi Linlon saareen Vastaus valtuustoaloitteeseen 7/2020: esteettömän luontoreitin rakentaminen Linlon saareen Kunnanvaltuusto 18.11.2024 § 94 769/10.03.01.02/2020",
+        "paatosehdotus": "Kunnanhallitus antaa kunnanvaltuustolle selostusosan mukaisen vastauksen valtuustoaloitteeseen 7/2020: esteettömän luontoreitin rakentaminen Linlon saareen ja esittää, että valtuusto pitää vastausta riittävänä ja aloitetta loppuun käsiteltynä",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtuustoaloite esteettömän luontoreitin rakentamiseksi Linlon saareen",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241871-9-34495.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20241871-10",
+      "ordinal": "10",
+      "title": "Juhlakallion ja Tolsanmäen asemakaava-alueiden erillispientalotonttien haku-, varaus- ja luovutusperusteiden hyväksyminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241871-10",
+      "decision": "Kunnanvaltuusto päätti ehdotuksen mukaisesti",
+      "votes": [
+        {
+          "jaa": [
+            "Felipe Sini",
+            "Granström Anneli",
+            "Björk Tony",
+            "Harinen Ari Polkko Aleksander",
+            "Hedberg Hans",
+            "Gustafsson Stefan",
+            "Tamm Irja",
+            "Salonen Antti",
+            "Toikka Anna-Mari",
+            "Aallonharja Piia",
+            "Fleming Johanna",
+            "Piili Noora",
+            "Kaihlaranta Kati",
+            "Suominen Tero",
+            "Valtonen Martin",
+            "Oittinen Paula",
+            "Kajanti Carl-Johan",
+            "Hakapää Minna",
+            "Karkinen Ronja",
+            "Orko Maarit",
+            "Kähkönen Jani",
+            "Huhmarniemi Saara",
+            "Aintila Anna",
+            "Kilappa Antti",
+            "Kämpe-Hellenius Jerri",
+            "Ronkainen Tuovi",
+            "Jeremejew Miisa",
+            "Kjerin Ulf",
+            "Sahiluoma Anna",
+            "Lankinen Arttu"
+          ],
+          "ei": [
+            "Virtanen Kari",
+            "Kaurila Matti",
+            "Ekman Jani",
+            "Valtanen Hannu",
+            "Määttä Jussi",
+            "Kari Marko",
+            "Leijala Aku",
+            "Lundell Patrik",
+            "Ylikoski Jukka",
+            "Blom Urho",
+            "Männikkö Kim",
+            "Seppälä Ulla",
+            "Salminen Ville",
+            "Virkki Leena",
+            "Åström Kim",
+            "Haapaniemi Timo"
+          ],
+          "tyhja": [],
+          "totals": {
+            "jaa": 31,
+            "ei": 16,
+            "tyhja": 0
+          },
+          "parties": {
+            "jaa": {
+              "sdp": 4,
+              "ps": 4,
+              "rkp": 8,
+              "tuntematon": 1,
+              "vihr": 7,
+              "pro yl": 4,
+              "vas": 1,
+              "kok": 1
+            },
+            "ei": {
+              "kok": 11,
+              "pro yl": 1,
+              "rkp": 2,
+              "ps": 2
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta",
+            "ei_label": "Jani Ekmanin muutosehdotusta",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": null,
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Jani Ekmanin muutosehdotusta äänestävät EI — annettiin 31 JAA ja 16 EI ääntä."
+          },
+          "suspect": true
+        },
+        {
+          "jaa": [
+            "Kämpe-Hellenius Jerri",
+            "Salonen Antti",
+            "Kähkönen Jani",
+            "Ronkainen Tuovi",
+            "Polkko Aleksander",
+            "Orko Maarit",
+            "Suominen Tero",
+            "Toikka Anna-Mari",
+            "Tamm Irja",
+            "Fleming Johanna",
+            "Jeremejew Miisa",
+            "Hedberg Hans",
+            "Björk Tony",
+            "Lankinen Arttu",
+            "Aintila Anna",
+            "Gustafsson Stefan",
+            "Karkinen Ronja",
+            "Felipe Sini",
+            "Hakapää Minna",
+            "Kilappa Antti",
+            "Oittinen Paula",
+            "Valtonen Martin",
+            "Kaihlaranta Kati",
+            "Granström Anneli",
+            "Virkki Leena",
+            "Aallonharja Piia",
+            "Lundell Patrik",
+            "Huhmarniemi Saara",
+            "Kajanti Carl-Johan",
+            "Kjerin Ulf",
+            "Männikkö Kim",
+            "Harinen Ari",
+            "Piili Noora",
+            "Sahiluoma Anna"
+          ],
+          "ei": [
+            "Virtanen Kari",
+            "Seppälä Ulla",
+            "Määttä Jussi",
+            "Salminen Ville",
+            "Haapaniemi Timo",
+            "Kaurila Matti",
+            "Leijala Aku",
+            "Valtanen Hannu",
+            "Ekman Jani",
+            "Kari Marko",
+            "Åström Kim",
+            "Blom Urho",
+            "Ylikoski Jukka"
+          ],
+          "tyhja": [],
+          "totals": {
+            "jaa": 34,
+            "ei": 13,
+            "tyhja": 0
+          },
+          "parties": {
+            "jaa": {
+              "rkp": 10,
+              "pro yl": 4,
+              "ps": 5,
+              "sdp": 5,
+              "vihr": 7,
+              "vas": 1,
+              "kok": 2
+            },
+            "ei": {
+              "kok": 10,
+              "ps": 2,
+              "pro yl": 1
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta",
+            "ei_label": "Jani Ekmanin lisäysehdotusta",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": null,
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Jani Ekmanin lisäysehdotusta äänestävät EI — annettiin 34 JAA ja 13 EI ääntä."
+          }
+        }
+      ],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 5 Vuokrausehdot_Juhlakallio-Tolsanmäki (kv) 6 Kauppaehdot_Juhlakallio-Tolsanmäki (kv) 7 Myyntihinnat_Juhlakallio-Tolsanmäki 21 tonttia",
+        "oheismateriaali": "Kuvake Otsikko Juhlakallio ja Tolsanmäki omakotitontit kartalla Juhlakallio ja Tolsanmäki maaperä- ja rakennettavuusselvitys 20230414 Juhlakallio ja Tolsanmäki rakennustapaohje_Optimized 20240226 Juhlakallion ja Tolsanmäen asemakaava-alueiden erillispientalotonttien haku-, varaus- ja luovutusperusteiden hyväksyminen Kunnanvaltuusto 18.11.2024 § 95 822/10.00.02/2024",
+        "paatosehdotus": "Kunnanhallitus esittää kunnanvaltuustolle, että kunnanvaltuusto 1 vahvistaa Juhlakallion ja Tolsanmäen asemakaava-alueiden rakentamattomille erillispientalotonteille (kaavamääräykset AO tai AO/s) seuraavat haku- ja varausperusteet: 1.1 Tonttihaun kohteena olevat tontit laitetaan haettavaksi vähintään yhden kuukauden hakuajalla. 1.2 Tontit tarjotaan ostettavaksi tai vuokrattavaksi. 1.3 Tontteja voivat hakea täysi-ikäiset luonnolliset henkilöt, jotka eivät ole ostaneet tai vuokranneet kunnalta tonttia viimeisen viiden vuoden aikana tonttihaun päättymispäivästä laskettuna ja joilla ei ole voimassa olevaa tonttivarausta. Mikäli tontteja jää ensimmäisen hakukierroksen jälkeen jakamatta, on myös niillä mahdollisuus ostaa tontteja, jotka ovat ostaneet kunnalta tontteja viimeisen viiden vuoden aikana. 1.4 Hakija voi jättää tonttihaussa vain yhden hakemuksen. 1.5 Hakemuksella voidaan hakea kaikkia tonttihaun kohteena olevia tontteja hakijan valitsemassa hakujärjestyksessä. 1.6 Hyväksytyt hakemukset arvotaan etusijajärjestykseen. Myöhästyneitä hakemuksia ei huomioida. 1.7 Tonttihaun arvonnassa etusijajärjestyksessä ensimmäiseksi tulleen hyväksytyn hakemuksen tehneelle hakijalle tarjotaan hänen hakujärjestyksessä ensimmäiseksi valitsemaansa tonttia. Arvonnassa etusijajärjestyksessä toiseksi tulleen hyväksytyn tonttihakemuksen tehneelle hakijalle tarjotaan hänen hakujärjestyksessä valitsemaansa seuraavaa vapaana olevaa tonttia ja niin edelleen. 1.8 Loput tonttihaussa arvotut hakemukset, joille ei riitä vapaana olevia tontteja, laitetaan etusijajärjestyksen mukaiseen jonoon. 1.9 Hakija voi varata vain yhden tontin. 1.10 Osalle tonteista voi rakentaa kaksi yksiasuntoista asuinrakennusta, jos asemakaava sen mahdollistaa (tontilla asemakaavamerkintä ”2 as”). Jos hakija varaa tontin, jolle aikoo rakentaa kaksi asuntoa yhdessä jonkun toisen kanssa, tulee hakijan ilmoittaa kunnalle niiden henkilöiden henkilötiedot, joiden kanssa hän ostaa tai vuokraa tontin ja toteuttaa rakennushankkeen. 1.11 Tontinsaajan on varauksen raukeamisen uhalla maksettava eräpäivään mennessä 1 000 euron varausmaksu. Varausmaksu on osa kauppahintaa tai maanvuokraa. Jos tontinsaaja ei ole ostanut tai vuokrannut tonttia varausaikana tai jos tontinsaaja peruuttaa varauksensa, ei varausmaksua palauteta. 1.12 Tontin varausaika on puoli vuotta varauspäätöksen lainvoimaisuudesta. Kunta voi harkintansa mukaan perustellusta syystä päättää tontin varausajan jatkamisesta vielä puolella vuodella uutta 1 000 euron varausmaksua vastaan. 1.13 Varauksen peruutus on tehtävä kirjallisesti. 1.14 Varauksen saajalla on oikeus tehdä varattavalla tontilla rakennushankkeen edellyttämiä maaperä-, pintavaaitus- tai vastaavia tutkimuksia. 1.15 Tontin hallintaoikeus siirtyy varauksen saajalle vasta kauppakirjan tai maanvuokrasopimuksen allekirjoituksella. 2 vahvistaa Juhlakallion ja Tolsanmäen asemakaava-alueiden rakentamattomille erillispientalotonteille (kaavamääräykset AO tai AO/s) seuraavat luovutusperusteet: 2.1 Tontit voidaan myydä tai vuokrata. 2.2 Tonteille vahvistetaan liitteen mukaiset myyntihinnat (pääoma-arvot) ja lisäksi ostajalta tai vuokraajalta peritään tontin lohkomismaksuna 780 euroa. 2.3 Vuosivuokra on neljä prosenttia kunnanvaltuuston päättämästä tontin pääoma-arvosta. 2.4 Vuokra sidotaan elinkustannusindeksiin (1951:10=100) ja vuokra tarkistetaan ensimmäisen kerran vuokrasopimuksen alkamista seuraavan vuoden alusta lukien. 2.5 Vuokralaisella on oikeus ostaa tonttinsa vuokra-aikana vuokranantajan erikseen päättämällä hinnalla alueen hintatason muuttuessa. 2.6 Tontin rakentamisvelvoiteaika on neljä vuotta. Tontti on rakennettava neljän vuoden kuluessa kaupantekohetkestä tai maanvuokrasopimuksen allekirjoittamisesta siihen valmiusasteeseen, että rakennusvalvontaviranomainen voi siinä suorittaa rakennuslupapäätöksen edellyttämän hyväksyttävän käyttöönottokatselmuksen. 2.7 Jos ostaja luovuttaa tontin rakentamattomana edelleen, on ostaja velvollinen maksamaan kunnalle sopimussakon, jonka suuruus on 50 % kauppahinnasta. 2.8 Jos vuokraaja luovuttaa vuokraoikeuden rakentamattomana edelleen, on vuokralainen velvollinen maksamaan kunnalle sopimussakon, jonka suuruus on voimassa olevan vuosivuokran määrä kaksitoistakertaisena. 2.9 Jos ostaja ei noudata kauppakirjan mukaista rakentamisvelvoitetta, on ostaja velvollinen maksamaan kunnalle sopimussakon, jonka suuruus on 20 % kauppahinnasta. 2.10 Jos vuokraaja ei noudata maanvuokrasopimuksen mukaista rakentamisvelvoitetta, korotetaan vuokra seuraavan vuoden alusta lukien kaksinkertaiseksi. Sopimussakkoa tulee maksaa kuitenkin enintään viideltä vuodelta. 2.11 Kunta voi kuitenkin harkintansa mukaan perustellusta ja painavasta syystä myöntää alennusta sopimussakkoon tai luopua sen perimisestä. 2.12 Muutoin tonttien luovutuksessa käytetään liitteenä olevia kauppaehtoja ja vuokrausehtoja. 2.13 Tontit, jotka jäävät tonttihaun hakuajan jälkeen kokonaan varaamatta, kunta voi myydä tai vuokrata erikseen sitä mukaa, kun ostajia tai vuokraajia ilmaantuu. 3 valtuuttaa yhdyskuntatekniikan johtajan tekemään kauppaehtoihin ja vuokrausehtoihin vähäisiä tarkistuksia",
+        "kasittely": "Jäsen Marjut Frantsi-Lankia poistui pykälän käsittelyn aikana klo 21.11. Puheenjohtaja julisti keskustelun päättyneeksi ja totesi, että käsittelyn aikana jäsen Jani Ekman on jättänyt muutosehdotuksia seuraavasti: Jani Ekmanin muutosesitys: Poistetaan seuraava teksti: \", jotka eivät ole ostaneet tai vuokranneet kunnalta tonttia viimeisen viiden vuoden aikana tonttihaun päättymispäivästä laskettuna ja joilla ei ole voimassa olevaa tonttivarausta. Mikäli tontteja jää ensimmäisen hakukierroksen jälkeen jakamatta, on myös niillä mahdollisuus ostaa tontteja, jotka ovat ostaneet kunnalta tontteja viimeisen viiden vuoden aikana.\" Perustelut: Ehto, jonka mukaan tontteja eivät voi hakea henkilöt, jotka ovat ostaneet tai vuokranneet kunnalta tontin viimeisen viiden vuoden aikana, on ongelmallinen mm. seuraavista syistä: 1) Kirkkonummen kunta ei ole pitkään aikaan luovuttanut tontteja. Tilanne olisi eri, jos tontteja luovutettaisiin valtuuston päättämällä tavalla noin 50kpl vuodessa. 2) Rajoitus koskee vain pientä ryhmää (41 henkilöä), joten heidän mahdollisuutensa osallistua arvontaan ovat tarpeettomasti ja epätasapuolisesti rajatut. Muutosehdotusta kannattivat Aku Leijala, Ville Salminen, Jussi Määttä, Matti Kaurila, Marko Kari, Hannu Valtanen, Ulla Seppälä ja Kari Virtanen. Muutosehdotusta ei hyväksytty yksimielisesti, joten puheenjohtaja ilmoitti että asiasta on äänestettävä. Puheenjohtaja ehdotti, että asiast äänestetän niin, että ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Jani Ekmanin muutosehdotusta äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 31 JAA ääntä ja 16 EI ääntä, 4 poissa. JAA äänestivät Felipe Sini, Granström Anneli, Björk Tony, Harinen Ari Polkko Aleksander, Hedberg Hans, Gustafsson Stefan, Tamm Irja, Salonen Antti, Toikka Anna-Mari, Aallonharja Piia, Fleming Johanna, Piili Noora, Kaihlaranta Kati, Suominen Tero, Valtonen Martin, Oittinen Paula, Kajanti Carl-Johan, Hakapää Minna, Karkinen Ronja, Orko Maarit, Kähkönen Jani, Huhmarniemi Saara, Aintila Anna, Kilappa Antti, Kämpe-Hellenius Jerri, Ronkainen Tuovi, Jeremejew Miisa, Kjerin Ulf, Sahiluoma Anna ja Lankinen Arttu EI äänestivät Virtanen Kari, Kaurila Matti, Ekman Jani, Valtanen Hannu, Määttä Jussi, Kari Marko, Leijala Aku, Lundell Patrik, Ylikoski Jukka, Blom Urho, Männikkö Kim, Seppälä Ulla, Salminen Ville, Virkki Leena, Åström Kim ja Haapaniemi Timo Poissa: Reetta Hyvärinen, Kim Liljequist, Josephine Frimodig ja Marjut Frantsi-Lankia. Jani Ekmanin lisäysesitys päätösehdotukseen: Lisätään haku- ja varausperusteisiin: \"Tonttiarvonnassa etusijalle asetetaan hakijat, jotka sitoutuvat ostamaan tontin.\" Perustelut: Kirkkonummen kunta investoi tällä hetkellä erittäin merkittävästi mm. kiinteistöihin, mikä lisää painetta vahvistaa lyhyen aikavälin kassavirtaa. Tonttien myyminen tuottaa tuloja välittömästi, jotka ovat tärkeitä investointien rahoittamiseksi, velkataakan kasvun hillitsemiseksi ja kunnan taloudellisen tasapainon säilyttämiseksi. Vuokraaminen tuottaa tuloja pidemmällä aikavälillä, mutta ei tue yhtä tehokkaasti akuuttia tämänhetkistä rahoitustarvetta. Lisäysehdotusta kannattivat Aku Leijala, Ville Salminen, Matti Kaurila, Marko Kari, Hannu Valtanen, Kari Virtanen, Ulla Seppälä ja Jussi Määttä. Lisäysehdotusta ei hyväksytty yksimielisesti, joten puheenjohtaja ilmoitti että asiasta on äänestettävä. Puheenjohtaja ehdotti, että asiast äänestetän niin, että ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Jani Ekmanin lisäysehdotusta äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 34 JAA ääntä ja 13 EI ääntä, 4 poissa. JAA äänestivät Kämpe-Hellenius Jerri, Salonen Antti, Kähkönen Jani, Ronkainen Tuovi, Polkko Aleksander, Orko Maarit, Suominen Tero, Toikka Anna-Mari, Tamm Irja, Fleming Johanna, Jeremejew Miisa, Hedberg Hans, Björk Tony, Lankinen Arttu, Aintila Anna, Gustafsson Stefan, Karkinen Ronja, Felipe Sini, Hakapää Minna, Kilappa Antti, Oittinen Paula, Valtonen Martin, Kaihlaranta Kati, Granström Anneli, Virkki Leena, Aallonharja Piia, Lundell Patrik, Huhmarniemi Saara, Kajanti Carl-Johan, Kjerin Ulf, Männikkö Kim, Harinen Ari, Piili Noora ja Sahiluoma Anna EI äänestivät Virtanen Kari, Seppälä Ulla, Määttä Jussi, Salminen Ville, Haapaniemi Timo, Kaurila Matti, Leijala Aku, Valtanen Hannu, Ekman Jani, Kari Marko, Åström Kim, Blom Urho ja Ylikoski Jukka Poissa: Reetta Hyvärinen, Kim Liljequist, Josephine Frimodig ja Marjut Frantsi-Lankia",
+        "paatos": "Kunnanvaltuusto päätti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Vuokrausehdot_Juhlakallio-Tolsanmäki (kv)",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241871-10-116111.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kauppaehdot_Juhlakallio-Tolsanmäki (kv)",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241871-10-116110.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Myyntihinnat_Juhlakallio-Tolsanmäki 21 tonttia",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241871-10-115802.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Juhlakallio ja Tolsanmäki omakotitontit kartalla",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241871-10-115801.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Juhlakallio ja Tolsanmäki maaperä- ja rakennettavuusselvitys 20230414",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241871-10-115803.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Juhlakallio ja Tolsanmäki rakennustapaohje_Optimized 20240226",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241871-10-115804.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Jani Ekman",
+          "kind": "vastaehdotus",
+          "text": null,
+          "source": "order",
+          "party": "kok"
+        }
+      ]
+    },
+    {
+      "id": "20241871-11",
+      "ordinal": "11",
+      "title": "Luksia, Kuntayhtymän perussopimuksen muuttaminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241871-11",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 8 Luksia, Perussopimusluonnos, 1.1.2025",
+        "oheismateriaali": "Kuvake Otsikko Käsittelypyyntö Kuntayhtymän perussopimuksen muuttaminen, Luksia Luksia, Kuntayhtymän perussopimuksen muuttaminen Kunnanvaltuusto 18.11.2024 § 96 304/00.04.02/2024",
+        "paatosehdotus": "Kunnanhallitus esittää kunnanvaltuustolle, että valtuusto 1 hyväksyy liitteenä olevan perussopimuksen 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Luksia, Perussopimusluonnos, 1.1.2025",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241871-11-115658.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Käsittelypyyntö Kuntayhtymän perussopimuksen muuttaminen, Luksia",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241871-11-115660.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20241871-12",
+      "ordinal": "12",
+      "title": "Kunnanvaltuuston kokousaikataulu kevätkaudelle 2025",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241871-12",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus esittää kunnanvaltuustolle, että valtuusto päättää kokoontua keväällä 2025 seuraavan mukaisesti: 3.2.2025 3.3.2025 14.4.2025 19.5.2025 16.6.2025 (uuden valtuuston ensimmäinen kokous)",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241871-13",
+      "ordinal": "13",
+      "title": "Eron myöntäminen valtuutetulle ja varavaltuutetun kutsuminen (KY)",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241871-13",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto 1 myöntää eron Katja Ylisiurualle valtuutetun tehtävästä 2 päättää todeta, että valtuuston puheenjohtaja kutsuu Katja Ylisiuruan sijaan jäljellä olevaksi toimikaudeksi asianomaisen puolueen järjestyksessä ensimmäisen varavaltuutetun (Kati Kaihlaranta) 3 päättää merkitä tiedokseen, että keskusvaalilautakunta arvioi tarpeen määrätä uuden varavaltuutetun",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241871-14",
+      "ordinal": "14",
+      "title": "Eron myöntäminen tarkastuslautakunnan varajäsenen tehtävästä (S.P-L.) ja uuden varajäsenen valitseminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241871-14",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Sisko Päiviö-Laitiselle tarkastuslautakunnan varajäsenyydestä 2 valita Kristiina Ahosen uudeksi varajäseneksi tarkastuslautakuntaan Sisko Päiviö-Laitisen tilalle kauden 2025 loppuun",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto 1 myöntää eron Sisko Päiviö-Laitiselle tarkastuslautakunnan varajäsenyydestä 2 valitsee uuden varajäsenen tarkastuslautakuntaan Sisko Päiviö-Laitisen tilalle kauden 2025 loppuun",
+        "kasittely": "Jäsen Sini Felipen (SDP) ehdotus uudeksi varajäseneksi: Kristiina Ahonen",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Sisko Päiviö-Laitiselle tarkastuslautakunnan varajäsenyydestä 2 valita Kristiina Ahosen uudeksi varajäseneksi tarkastuslautakuntaan Sisko Päiviö-Laitisen tilalle kauden 2025 loppuun"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241871-15",
+      "ordinal": "15",
+      "title": "Eron myöntäminen sivistys- ja vapaa-aikalautakunnan jäsenyydestä ja uuden jäsenen valitseminen, (M.O.)",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241871-15",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Maarit Orkolle sivistys- ja vapaa-aikalautakunnan jäsenyydestä 2 valita Sea Eklundin uudeksi jäseneksi Maarit Orkon tilalle sivistys- ja vapaa-aikalautakuntaan toimikauden loppuun",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto 1 myöntää eron Maarit Orkolle sivistys- ja vapaa-aikalautakunnan jäsenyydestä 2 valitsee uuden jäsenen Maarit Orkon tilalle sivistys- ja vapaa-aikalautakuntaan toimikauden loppuun",
+        "kasittely": "Saara Huhmarniemen (Vihr) ehdotus uudeksi jäseneksi: Sea Eklund",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Maarit Orkolle sivistys- ja vapaa-aikalautakunnan jäsenyydestä 2 valita Sea Eklundin uudeksi jäseneksi Maarit Orkon tilalle sivistys- ja vapaa-aikalautakuntaan toimikauden loppuun"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    }
+  ],
+  "id": "20241871",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20241871"
+}

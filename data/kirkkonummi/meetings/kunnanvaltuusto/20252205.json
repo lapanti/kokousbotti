@@ -1,0 +1,476 @@
+{
+  "title": "Kunnanvaltuusto Pöytäkirja 08.12.2025 klo 18:00 - 21:07 ⁄ Tarkastettu Kirkkonummen kunnantalo, Kirkkonummi-sali | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Kunnanvaltuusto",
+  "doctype": "Pöytäkirja",
+  "date": "2025-12-08",
+  "items": [
+    {
+      "id": "20252205-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252205-1",
+      "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Kokous todettiin lailliseksi ja päätösvaltaiseksi",
+        "selostus": "Kunnanvaltuuston kokouskutsu on julkaistu kunnan verkkosivulla 3.12.2025. Samana päivänä kutsu on toimitettu valtuutetuille ja varavaltuutetuille"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252205-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252205-2",
+      "decision": "Pöytäkirjantarkastajiksi valittiin Heidi Castrén ja Johanna Fleming",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanvaltuusto päättää valita kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan",
+        "paatos": "Pöytäkirjantarkastajiksi valittiin Heidi Castrén ja Johanna Fleming"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252205-3",
+      "ordinal": "3",
+      "title": "Länsirata Oy:n osakassopimuksen hyväksyminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252205-3",
+      "decision": "Kunnanvaltuusto päätti olla hyväksymättä osakassopimusta esitetyssä muodossaan. Evästyksenä mahdollisiin jatkoneuvotteluihin, kunta toteaa olevansa valmis erikseen rahoittamaan Veikkolan seisakkeen toteuttamista siihen liittyvine yhteyksineen 15 M€ + normaali maarakennusindeksin mukainen kustannusnousu, toteutuneita kustannuksia vastaan. Rahoittamisen ehtoina ovat: 1. Pohjois-Kirkkonummen liikennekäytävän osayleiskaava ja siihen pohjautuva ratasuunnitelma saavuttaa lainvoiman. 2. Veikkolan seisakkeen, liittyvine yhteyksineen, sekä muiden Kirkkonummen rata-alueen tiejärjestelyiden toteuttamisesta laaditaan seikkaperäinen vastuunjakotaulukko liitteen 2.2, osayleiskaavan ja ratasuunnitelman pohjalta. 3. Kirkkonummen päättäessä liittyä myöhemmin osakassopimukseen, em. erillisrahoitus huomioidaan täysimääräisesti ja yhdenvertaisesti yhtiön rahoitusosuutena. 4. Radan liikennöinnistä aiheutuvat kulut ml. operointikulut, kalustohankinnat ja mahdolliset käyttöön kohdistettavat pääomakulut, ja näiden vaikutus kuntatalouteen on arvioitu. Kirkkonummi päättää mahdollisesta sitoutumisesta 2. vaiheen rahoittamiseen erikseen myöhemmin. Valtuutetut Saara Huhmarniemi (vihreät), Sanni Jäppinen (vihreät), Lauri Lavanti (vihreät), Miisa Jeremejew (vihreät), Maarit Orko (vihreät) sekä Eero Lankia (keskusta) jättivät päätöksestä eriävän mielipiteen",
+      "votes": [
+        {
+          "jaa": [
+            "Aallonharja Piia",
+            "Kähkönen Jani",
+            "Hakapää Minna",
+            "Ekman Jani",
+            "Enqvist Minna",
+            "Lahti Viveca",
+            "Hedberg Hans",
+            "Frimodig Josephine",
+            "Felipe Sini",
+            "Ragnell Sami",
+            "Fleming Johanna",
+            "Kiukas Maiju",
+            "Björk Tony",
+            "Korkman Nadia",
+            "Karkinen Ronja",
+            "Åström Kim",
+            "Kaurila Matti",
+            "Kari Marko",
+            "Suominen Tero",
+            "Tapio Suvi",
+            "Valtonen Martin",
+            "Haapaniemi Timo",
+            "Liljequist Kim",
+            "Sahiluoma Anna",
+            "Kjerin Ulf",
+            "Taussi Henri",
+            "Kock Fredrik",
+            "Adlercreutz Anders",
+            "Piili Noora",
+            "Ronkainen Tuovi",
+            "Kilappa Antti",
+            "Valli Lauri",
+            "Blom Urho",
+            "Vasenius Thomas",
+            "Aintila Anna",
+            "Ylitolonen Oona",
+            "Kettunen Noora",
+            "Lindgren Viveca",
+            "Engström Miika",
+            "Lankinen Arttu",
+            "Castrén Heidi",
+            "Granström Anneli"
+          ],
+          "ei": [
+            "Huhmarniemi Saara",
+            "Orko Maarit",
+            "Jäppinen Sanni",
+            "Lankia Eero",
+            "Haapasaari Sari",
+            "Jeremejew Miisa",
+            "Niemi Edla",
+            "Lahti Jukka",
+            "Lavanti Lauri"
+          ],
+          "tyhja": [],
+          "totals": {
+            "jaa": 42,
+            "ei": 9,
+            "tyhja": 0
+          },
+          "parties": {
+            "jaa": {
+              "ps": 4,
+              "prok": 4,
+              "kok": 14,
+              "vas": 1,
+              "sdp": 5,
+              "rkp": 11,
+              "vihr": 2,
+              "kd": 1
+            },
+            "ei": {
+              "vihr": 5,
+              "kesk": 2,
+              "vas": 1,
+              "sdp": 1
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "asian jatkokäsittelyä",
+            "ei_label": "asian pöydälle jättämistä",
+            "jaa_kind": "jatkokasittely",
+            "ei_kind": "jatkokasittely",
+            "kind": "procedural_substantive",
+            "rationale": "Keskustelun aikana jätettiin muutosehdotuksia seuraavasti: Saara Huhmarniemen ehdotus asian pöydälle jättämiseksi: Pöydällepanon aikana järjestetään asukkaiden keskustelu- ja kuulemistilaisuus, jossa asia ja päätösehdotuksen vaikutukset esitellään kuntalaisille.",
+            "winner": null,
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat asian jatkokäsittelyä äänestävät JAA ja ne jotka kannattavat asian pöydälle jättämistä äänestävät EI — annettiin 42 JAA ja 9 EI ääntä."
+          }
+        },
+        {
+          "jaa": [
+            "Korkman Nadia",
+            "Hakapää Minna",
+            "Taussi Henri",
+            "Piili Noora",
+            "Kilappa Antti",
+            "Kjerin Ulf",
+            "Åström Kim",
+            "Aallonharja Piia",
+            "Liljequist Kim",
+            "Björk Tony",
+            "Enqvist Minna",
+            "Granström Anneli",
+            "Fleming Johanna",
+            "Lankinen Arttu",
+            "Castrén Heidi",
+            "Engström Miika",
+            "Frimodig Josephine",
+            "Kari Marko",
+            "Valli Lauri",
+            "Kock Fredrik",
+            "Niemi Edla",
+            "Felipe Sini",
+            "Karkinen Ronja",
+            "Aintila Anna",
+            "Kähkönen Jani",
+            "Lahti Viveca",
+            "Vasenius Thomas",
+            "Haapaniemi Timo",
+            "Kettunen Noora",
+            "Suominen Tero",
+            "Ronkainen Tuovi",
+            "Valtonen Martin",
+            "Kaurila Matti",
+            "Adlercreutz Anders",
+            "Hedberg Hans",
+            "Ekman Jani"
+          ],
+          "ei": [
+            "Ragnell Sami",
+            "Kiukas Maiju",
+            "Tapio Suvi",
+            "Orko Maarit",
+            "Ylitolonen Oona",
+            "Lindgren Viveca",
+            "Haapasaari Sari",
+            "Huhmarniemi Saara",
+            "Jäppinen Sanni",
+            "Jeremejew Miisa",
+            "Lankia Eero",
+            "Blom Urho",
+            "Lavanti Lauri",
+            "Sahiluoma Anna",
+            "Lahti Jukka"
+          ],
+          "tyhja": [],
+          "totals": {
+            "jaa": 36,
+            "ei": 15,
+            "tyhja": 0
+          },
+          "parties": {
+            "jaa": {
+              "rkp": 11,
+              "prok": 4,
+              "kok": 8,
+              "ps": 4,
+              "vas": 2,
+              "vihr": 2,
+              "sdp": 5
+            },
+            "ei": {
+              "kok": 6,
+              "kd": 1,
+              "vihr": 5,
+              "kesk": 2,
+              "sdp": 1
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta",
+            "ei_label": "Maiju Kiukaksen vastaehdotusta",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": "jaa",
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat pohjaehdotusta äänestävät JAA ja ne jotka kannattavat Maiju Kiukaksen vastaehdotusta äänestävät EI — annettiin 36 JAA ja 15 EI ääntä."
+          }
+        }
+      ],
+      "sections": {
+        "liitteet": "Numero Otsikko 1\n1 Länsirata Oy osakassopimus 5.11.2025 FINAL päätöksentekoon (pdf 246.22 kb) 2\n2 LIITE 1. Rahoitussitoumus 5.11.2025 päätöksentekoon (pdf 217.35 kb) 3\n3 LIITE 2. Rakentamishankkeen tekninen liite 5.11.2025 (pdf 90.97 kb) 4\n4\n2.1 Espoo-Hista-Suunnitelmakartta asemaseutu (pdf 2.25 mb) 5\n5\n2.2 Kirkkonummi-Veikkola-Suunnitelmakartta asemaseutu (pdf 3.76 mb) 6\n6\n2.3 Lohja suunnitelmakartta asemanseutu 1 (pdf 2.23 mb) 7\n7\n2.4 Lohja suunnitelmakartta asemanseutu 2 (pdf 2.23 mb) 8\n8\n2.5 Vihti Suunnitelmakartta asemaseutu (pdf 1.78 mb) 9\n9 LIITE 3. Luonnos Osakkeenomistajien yksimielinen päätös Helsingin osakkeiden suunnattu hankinta 5.11.2025 (pdf 102.74 kb) 10\n10 LIITE 4 Osakekauppakirja Helsingin osakkeiden suunnattu hankinta 5.11.2025 päätöksentekoon (pdf 146.80 kb) 11\n11\n4.1 SVOP-arvio (pdf 135.66 kb) 12\n12 LIITE 5. Luonnos Osakkeenomistajien yksimielinen päätös suunnattu maksuton osakeanti 5.11.2025 (pdf 94.52 kb) 13\n13 LIITE 6. Osapuolten yhteystiedot (pdf 75.59 kb) 14\n14 Kuntaosakkaiden sitoumus toisen rakentamisvaiheen rahoittamisesta (pdf 80.31 kb) 15\n15 Eriävä mielipide, Kv 8.12.2025 § 115 (pdf 62.88 kb) 16\n16 Eriävä mielipide, Eero Lankia (pdf 212.54 kb) Kokousasian teksti Länsirata Oy:n osakassopimuksen hyväksyminen Kunnanvaltuusto 08.12.2025 § 115 74/08.01.00/2024",
+        "paatosehdotus": "Kunnanhallitus esittää, että kunnanvaltuusto ei hyväksy osakassopimusta esitetyssä muodossaan. Evästyksenä mahdollisiin jatkoneuvotteluihin, kunta toteaa olevansa valmis erikseen rahoittamaan Veikkolan seisakkeen toteuttamista siihen liittyvine yhteyksineen 15 M€ + normaali maarakennusindeksin mukainen kustannusnousu, toteutuneita kustannuksia vastaan. Rahoittamisen ehtoina ovat: 1. Pohjois-Kirkkonummen liikennekäytävän osayleiskaava ja siihen pohjautuva ratasuunnitelma saavuttaa lainvoiman. 2. Veikkolan seisakkeen, liittyvine yhteyksineen, sekä muiden Kirkkonummen rata-alueen tiejärjestelyiden toteuttamisesta laaditaan seikkaperäinen vastuunjakotaulukko liitteen 2.2, osayleiskaavan ja ratasuunnitelman pohjalta. 3. Kirkkonummen päättäessä liittyä myöhemmin osakassopimukseen, em. erillisrahoitus huomioidaan täysimääräisesti ja yhdenvertaisesti yhtiön rahoitusosuutena. 4. Radan liikennöinnistä aiheutuvat kulut ml. operointikulut, kalustohankinnat ja mahdolliset käyttöön kohdistettavat pääomakulut, ja näiden vaikutus kuntatalouteen on arvioitu. Kirkkonummi päättää mahdollisesta sitoutumisesta 2. vaiheen rahoittamiseen erikseen myöhemmin",
+        "kasittely": "Puheenjohtaja julisti keskustelun päättyneeksi. Keskustelun aikana jätettiin muutosehdotuksia seuraavasti: Saara Huhmarniemen ehdotus asian pöydälle jättämiseksi: Pöydällepanon aikana järjestetään asukkaiden keskustelu- ja kuulemistilaisuus, jossa asia ja päätösehdotuksen vaikutukset esitellään kuntalaisille. Perustelu: Kuntalain mukaan valtuuston on pidettävä huolta monipuolisista ja vaikuttavista osallistumisen ja vaikuttamisen mahdollisuuksista ja menetelmistä esimerkiksi järjestämällä keskustelu- ja kuulemistilaisuuksia. Kirkkonummen kuntastrategian mukaan kaiken toiminnan lähtökohta on avoimuus ja läpinäkyvyys sekä kunnan toiminta on osallistavaa. Kyseessä on yksi Kirkkonummen tärkeimmistä päätöksistä vuosikymmeniin, joten on kunnan arvojen mukaista järjestää asiasta vähintään keskustelu- ja kuulemistilaisuus. Asukkaiden kuuleminen on erityisen tärkeää tilanteessa, jossa kunnanhallituksen esitys poikkeaa kunnanjohtajan esityksestä, eikä kunnanhallituksen tekemästä esityksestä ole saatavilla asiantuntija-arviota. Pöydällepanoehdotusta kannattivat Lauri Lavanti, Jukka Lahti ja Sari Haapasaari. Pöydällepanoehdotusta ei hyväksytty yksimielisesti, joten puheenjohtaja ilmoitti että asiasta on äänestettävä. Puheenjohtaja ehdotti että asiasta äänestetään niin, että ne jotka kannattavat asian jatkokäsittelyä äänestävät JAA ja ne jotka kannattavat asian pöydälle jättämistä äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 42 JAA ääntä ja 9 EI ääntä. Asian käsittelyä päätettiin jatkaa. JAA äänestivät Aallonharja Piia, Kähkönen Jani, Hakapää Minna, Ekman Jani, Enqvist Minna, Lahti Viveca, Hedberg Hans, Frimodig Josephine, Felipe Sini, Ragnell Sami, Fleming Johanna, Kiukas Maiju, Björk Tony, Korkman Nadia, Karkinen Ronja, Åström Kim, Kaurila Matti, Kari Marko, Suominen Tero, Tapio Suvi, Valtonen Martin, Haapaniemi Timo, Liljequist Kim, Sahiluoma Anna, Kjerin Ulf, Taussi Henri, Kock Fredrik, Adlercreutz Anders, Piili Noora, Ronkainen Tuovi, Kilappa Antti, Valli Lauri, Blom Urho, Vasenius Thomas, Aintila Anna, Ylitolonen Oona, Kettunen Noora, Lindgren Viveca, Engström Miika, Lankinen Arttu, Castrén Heidi ja Granström Anneli. EI äänestivät Huhmarniemi Saara, Orko Maarit, Jäppinen Sanni, Lankia Eero, Haapasaari Sari, Jeremejew Miisa, Niemi Edla, Lahti Jukka ja Lavanti Lauri. Maiju Kiukaksen vastasehdotus: Kunnanvaltuusto 1 hyväksyy liitteen mukaisessa muodossa Länsirata Oy:tä koskevan osakassopimuksen liitteineen ja kuntaosakkaiden sitoumuksen toisen rakentamisvaiheen rahoittamisesta osakassopimuksen rahoitussitoumus liitteen mukaisesti. 2 sitoutuu Länsirata Oy:n ratahankkeen ensimmäisen rakentamisvaiheen rahoittamiseen enintään 15 miljoonalla eurolla ja vastaa Länsirata Oy:n 520 miljoonan euron vieraan pääoman ehtoisen rahoituksen tai Suomen valtion muutoin järjestelmän rahoituksen kustannuksista enintään 1,24 prosentilla. 3 hyväksyy Helsingin kaupungin omistamien osakkeiden hankinnan Länsirata Oy:lle ja sen, että Länsirata Oy:n sijoitettua vapaata omaa pääomaa voidaan käyttää mahdollisen tasausmaksun ja sen loppuerän suorittamiseksi Helsingin kaupungille. 4 hyväksyy osakassopimuksen mukaisen maksuttoman suunnatun osakeannin, jonka jälkeen Kirkkonummen kunnan osuus Länsirata Oy:n rakentamisvaiheen aikaisesta osakeomistuksesta on 1,24 prosenttia koko osakekannasta. 5 valtuuttaa kunnanhallituksen hyväksymään osakassopimukseen ja liitteisiin mahdollisia muutoksia, joilla ei ole suhteellisesti arvioiden merkittäviä vaikutuksia Kirkkonummen kunnan rahoitusosuuksiin eikä kuntaosakkaiden kokonaisrahoitusvastuuseen, ja että kunnanjohtaja valtuutetaan hyväksymään osakassopimukseen ja sen liitteisiin vähäisiä teknisiä tarkennuksia ja, 6 valtuuttaa kunnanjohtajan allekirjoittamaan osakassopimus ja järjestelyyn liittyvät muut asiakirjat edellyttäen, että muut osakassopimuksen osapuolet hyväksyvät asiakirjat vastaavan sisältöisenä ja kuntaosakkaat hyväksyvät ratahankkeen toisen vaiheen rahoituksen liitteen mukaisessa muodossa, ja että kuntaosakkaiden yhdessä hankkima kirjanpitolautakunnan hyvinvointialue- ja kuntajaoston lausunto hankkeen käsittelystä kunnan kirjanpidossa ei osoita merkittäviä alaskirjausriskejä. 7 evästää, että kunta pyrkii minimoimaan riskejä neuvottelemalla lisäsopimuksen, joka määrittää tarkat ja lopulliset enimmäismäärät, joidenka yli osakas ei missään tapauksessa joudu suorittamaan yhtiölle, kun lasketaan mukaan kustannusnousu, rahoituskustannukset, ja muut mahdolliset lisäerät. 8 toteaa, että kunnanvaltuuston päätös pannaan täytäntöön mahdollisista valituksista huolimatta lainvoimaa odottamatta. Vastaehdotusta kannattivat Jukka Lahti, Viveca Lindgren, Oona Ylitolonen, Sami Ragnell, Lauri Lavanti, Maarit Orko, Saara Huhmarniemi, Sari Haapasaari, Eero Lankia, Sanni Jäppinen ja Anna Sahiluoma. Vastaehdotusta ei hyväksytty yksimielisesti joten puheenjohtaja ilmoitti että asiasta on äänestettävä. Puheenjohtaja ehdotti että asiasta äänestetään niin, että ne jotka kannattavat pohjaehdotusta äänestävät JAA ja ne jotka kannattavat Maiju Kiukaksen vastaehdotusta äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 36 JAA ääntä ja 15 EI ääntä. Pohjaehdotus sai enemmän ääniä ja voitti. JAA äänestivät Korkman Nadia, Hakapää Minna, Taussi Henri, Piili Noora, Kilappa Antti, Kjerin Ulf, Åström Kim, Aallonharja Piia, Liljequist Kim, Björk Tony, Enqvist Minna, Granström Anneli, Fleming Johanna, Lankinen Arttu, Castrén Heidi, Engström Miika, Frimodig Josephine, Kari Marko, Valli Lauri, Kock Fredrik, Niemi Edla, Felipe Sini, Karkinen Ronja, Aintila Anna, Kähkönen Jani, Lahti Viveca, Vasenius Thomas, Haapaniemi Timo, Kettunen Noora, Suominen Tero, Ronkainen Tuovi, Valtonen Martin, Kaurila Matti, Adlercreutz Anders, Hedberg Hans ja Ekman Jani EI äänestivät Ragnell Sami, Kiukas Maiju, Tapio Suvi, Orko Maarit, Ylitolonen Oona, Lindgren Viveca, Haapasaari Sari, Huhmarniemi Saara, Jäppinen Sanni, Jeremejew Miisa, Lankia Eero, Blom Urho, Lavanti Lauri, Sahiluoma Anna ja Lahti Jukka. Lauri Lavannin jättämä evästysehdotus: Länsiradan ilmasto- ja ympäristövaikutukset Mikäli Kirkkonummen valtuusto päätyy hyväksymään Länsirata Oyn osakassopimuksen, valtuusto evästää, että Länsirata-hankkeen toteuttamisessa tulee käyttää hiilineutraalia betonia ja terästä ilmastopäästöjen minimoimiseksi. Lisäksi hankkeen luontohaittojen vähentämiseksi ja ekologisten yhteyksien turvaamiseksi ja vahvistamiseksi tulee toteuttaa kaikki mahdolliset lieventämistoimet. Evästysehdotusta kannattivat Saara Huhmarniemi ja Maarit Orko. Evästysehdotusta ei käsitelty, koska kunnanvaltuusto päätti olla hyväksymättä osakassopimusta. Kunnanvaltuusto piti tauon tämän pykälän jälkeen klo 19.45 – 20.05",
+        "paatos": "Kunnanvaltuusto päätti olla hyväksymättä osakassopimusta esitetyssä muodossaan. Evästyksenä mahdollisiin jatkoneuvotteluihin, kunta toteaa olevansa valmis erikseen rahoittamaan Veikkolan seisakkeen toteuttamista siihen liittyvine yhteyksineen 15 M€ + normaali maarakennusindeksin mukainen kustannusnousu, toteutuneita kustannuksia vastaan. Rahoittamisen ehtoina ovat: 1. Pohjois-Kirkkonummen liikennekäytävän osayleiskaava ja siihen pohjautuva ratasuunnitelma saavuttaa lainvoiman. 2. Veikkolan seisakkeen, liittyvine yhteyksineen, sekä muiden Kirkkonummen rata-alueen tiejärjestelyiden toteuttamisesta laaditaan seikkaperäinen vastuunjakotaulukko liitteen 2.2, osayleiskaavan ja ratasuunnitelman pohjalta. 3. Kirkkonummen päättäessä liittyä myöhemmin osakassopimukseen, em. erillisrahoitus huomioidaan täysimääräisesti ja yhdenvertaisesti yhtiön rahoitusosuutena. 4. Radan liikennöinnistä aiheutuvat kulut ml. operointikulut, kalustohankinnat ja mahdolliset käyttöön kohdistettavat pääomakulut, ja näiden vaikutus kuntatalouteen on arvioitu. Kirkkonummi päättää mahdollisesta sitoutumisesta 2. vaiheen rahoittamiseen erikseen myöhemmin. Valtuutetut Saara Huhmarniemi (vihreät), Sanni Jäppinen (vihreät), Lauri Lavanti (vihreät), Miisa Jeremejew (vihreät), Maarit Orko (vihreät) sekä Eero Lankia (keskusta) jättivät päätöksestä eriävän mielipiteen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": "Liite 1",
+          "title": "Länsirata Oy osakassopimus 5.11.2025 FINAL päätöksentekoon",
+          "size": "pdf 246.22 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252205-3-134501.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": "Liite 2",
+          "title": "LIITE 1. Rahoitussitoumus 5.11.2025 päätöksentekoon",
+          "size": "pdf 217.35 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252205-3-134502.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": "Liite 3",
+          "title": "LIITE 2. Rakentamishankkeen tekninen liite 5.11.2025",
+          "size": "pdf 90.97 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252205-3-134503.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": "Liite 4",
+          "title": "Liite 2.1 Espoo-Hista-Suunnitelmakartta asemaseutu",
+          "size": "pdf 2.25 mb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252205-3-134504.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": "Liite 5",
+          "title": "Liite 2.2 Kirkkonummi-Veikkola-Suunnitelmakartta asemaseutu",
+          "size": "pdf 3.76 mb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252205-3-134505.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": "Liite 6",
+          "title": "Liite 2.3 Lohja suunnitelmakartta asemanseutu 1",
+          "size": "pdf 2.23 mb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252205-3-134555.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": "Liite 7",
+          "title": "Liite 2.4 Lohja suunnitelmakartta asemanseutu 2",
+          "size": "pdf 2.23 mb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252205-3-134556.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": "Liite 8",
+          "title": "Liite 2.5 Vihti Suunnitelmakartta asemaseutu",
+          "size": "pdf 1.78 mb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252205-3-134506.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": "Liite 9",
+          "title": "LIITE 3. Luonnos Osakkeenomistajien yksimielinen päätös Helsingin osakkeiden suunnattu hankinta 5.11.2025",
+          "size": "pdf 102.74 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252205-3-134507.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": "Liite 10",
+          "title": "LIITE 4 Osakekauppakirja Helsingin osakkeiden suunnattu hankinta 5.11.2025 päätöksentekoon",
+          "size": "pdf 146.80 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252205-3-134508.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": "Liite 11",
+          "title": "Liite 4.1 SVOP-arvio",
+          "size": "pdf 135.66 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252205-3-134509.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": "Liite 12",
+          "title": "LIITE 5. Luonnos Osakkeenomistajien yksimielinen päätös suunnattu maksuton osakeanti 5.11.2025",
+          "size": "pdf 94.52 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252205-3-134510.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": "Liite 13",
+          "title": "LIITE 6. Osapuolten yhteystiedot",
+          "size": "pdf 75.59 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252205-3-134511.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": "Liite 14",
+          "title": "Kuntaosakkaiden sitoumus toisen rakentamisvaiheen rahoittamisesta",
+          "size": "pdf 80.31 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252205-3-134557.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": "Liite 15",
+          "title": "Eriävä mielipide, Kv 8.12.2025 § 115",
+          "size": "pdf 62.88 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252205-3-135262.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": "Liite 16",
+          "title": "Eriävä mielipide, Eero Lankia",
+          "size": "pdf 212.54 kb",
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252205-3-135443.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20252205-4",
+      "ordinal": "4",
+      "title": "Omavelkaisen takauksen antaminen Kirkkonummen Tennis - Kyrkslätts Tennis r.y. perustettavan yhtiön lukuun käsittävän tennishallin rakentamiseksi keskustan urheilupuistoon",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252205-4",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanvaltuusto päättää 1 myöntää omavelkaisen 1 536 000 euron suuruisen takauksen Kirkkonummen Tennis - Kyrkslätts Tennis ry:n, y-tunnus 0459496-9, perustettavan yhtiön lukuun otettavalle lainalle, joka on 80 % 1 920 000 euron suuruisesta lainasta ehdoilla, että Kirkkonummen kunta saa parhaalla etusijalla olevan, takauksen määräisen, kiinnityksen yhdistyksen rakentamaan vuokraoikeuteen ja yhdistyksen rakentamaan rakennukseen edellä mainitun takauksen vakuudeksi. Laina kattaa 80 % hankkeen 2,4 milj. euron kokonaiskustannuksista. Yhdistyksen omarahoitusosuus kattaa loput eli 480 000 euroa rakentamiskustannuksista. 2 oikeuttaa kunnanhallituksen päättämään kaikki muut tarpeelliseksi katsomansa takausehdot. Kunnanhallitus hyväksyi kokouksessaan 1.12.2025 seuraavan evästyksen: Kunta laatii periaatteet, joiden pohjalta se jatkossa tukee tai ei tue kuntalaisten liikkumista tai kilpaurheilua mahdollistavia hankkeita",
+        "kasittely": "Valtuutettu Martin Valtonen ilmoitti olevansa esteellinen, hän ei osallistunut asian käsittelyyn eikä päätöksentekoon. Kirkkonummen Tennis – Kyrkslätts Tennis ry:n edustajat Antti-Jaakko Alanko ja Jussi Karhunen esittelivät asiaa kokouksessa, klo 20.08 – 20.44",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti päätösehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252205-5",
+      "ordinal": "5",
+      "title": "Sosiaali-, terveys- ja pelastuspalveluiden käytössä olevien kiinteistöjen yhtiöittäminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252205-5",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanvaltuusto päättää, että 1 kunta perustaa yhtiön, jonka tehtävänä on omistaa ja hallinnoida Länsi-Uudenmaan hyvinvointialueelle vuokrattavia kiinteistöjä. 2 Kirkkonummen kunta luovuttaa vaiheessa 1 apporttiomaisuutena perustettavalle osakeyhtiölle Masalan terveysaseman (kiinteistötunnus 257-460-1-90, Puolukkamäki 12, 02430, Masala) vuokratontilla sekä vastaanottaa osana luovutusta yhtiön oman pääoman SVOP-rahasto-osuuksia kiinteistön tasearvon edestä. (31.12.2025 tasearvo 653 903,13 euroa) 3 Kirkkonummen kunta luovuttaa vaiheessa 1 kaupalla perustettavalle osakeyhtiölle Kirkkonummen työkeskuksen (kiinteistötunnus 257-496-23-46, Hietapellontie 7, 02400, Kirkkonummi) vuokratontilla kaupalla kiinteistön tasearvolla. Kauppa rahoitetaan osittain kunnan antolainalla sekä osittain yhtiön oman pääoman SVOP-rahasto-sijoituksella. (31.12.2025 tasearvo 258 634,38 euroa) 4 Kirkkonummen kunta luovuttaa vaiheessa 1 kaupalla perustettavalle osakeyhtiölle hoivakoti Lehmuskartanon (kiinteistötunnus 257-416-7-2, Piippolanrinne 1, 02400 Kirkkonummi) vuokratontilla kaupalla kiinteistön tasearvolla. Kauppa rahoitetaan osittain kunnan antolainalla sekä osittain yhtiön oman pääoman SVOP-rahasto-sijoituksella. (31.12.2025 tasearvo 3 580 340,65 euroa) 5 vastikkeeksi kiinteistöjen luovutuksista kunta saa omistukseensa perustettavan yhtiön koko osakekannan (100 osaketta) 6 Kirkkonummen kunta voi luovuttaa vaiheessa 2 myöhemmin määriteltävällä siirtotavalla ja siirtoarvolla osakeyhtiölle Paloaseman (kiinteistötunnus 257-464-3-78, Upinniementie 56, 02480, Kirkkonummi) sekä Öljyntorjuntavarikon (pysyvä rakennustunnus 102444075K, Sokeritehtaantie 20, 02460 Kantvik) mikäli kiinteistöä ei myydä ulkopuoliselle toimijalle tai hyvinvointialueelle 7 valtuuttaa talousjohtajan valmistelemaan uuden osakeyhtiön perustamisen sosiaali- terveys- ja pelastustoimen kohteille ja allekirjoittamaan perustamiseen liittyvät asiakirjat 8 valtuuttaa talousjohtajan valmistelemaan ja allekirjoittamaan kiinteistöjärjestelyjen edellyttämät kauppakirjat ja apporttisopimukset 9 valtuuttaa kunnangeodeetin valmistelemaan ja kunnanjohtajan allekirjoittamaan maanvuokrasopimukset. Tonttien vuosivuokra on 6 % tontin pääoma-arvosta muissa kohteissa ja hoivakoti Lehmuskartanon osalta 5 % tontin pääoma-arvosta. 10 kunnanhallitus valitsee perustettavan yhtiön hallituksen jäsenet 11 korko sidotaan referenssikorkoon markkinaehtoisella marginaalilla",
+        "kasittely": "Kuntakehitysjohtaja Anna-Kaisa Kauppinen esitteli asiaa. Valtuutettu Ronja Karkinen poistui tämän pykälän alussa klo 20.46 ja henkilöstöjohtaja Lea Pääkkönen pykälän jälkeen klo 21.03",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti päätösehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252205-6",
+      "ordinal": "6",
+      "title": "Det finlandssvenska kompetenscentret inom det sociala området, osakkeiden siirto Länsi-Uudenmaan hyvinvointialueelle",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252205-6",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanvaltuusto päättää siirtää omistamansa Det finlandssvenska kompetenscentret inom det sociala området osakkeet Länsi-Uudenmaan hyvinvointialueelle. Osakkeista, joita Kirkkonummella on 10, LUVN maksaa osakkeiden nimellisarvon à 80 euroa",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti päätösehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252205-7",
+      "ordinal": "7",
+      "title": "Lisämäärärahaesitys, Kirkkonummen Vesi -liikelaitoksen investoinnit",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252205-7",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanvaltuusto päättää korottaa vesiliikelaitoksen investointien määrärahaa 3 200 000 eurolla",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti päätösehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252205-8",
+      "ordinal": "8",
+      "title": "Yhteisten palveluiden talousarvion 2025 lisämäärärahaesitys",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252205-8",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanvaltuusto päättää hyväksyä yhteisten palveluiden vuoden 2025 talousarvion toimintakatteeseen 300 000 euron lisämäärärahan",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti päätösehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252205-9",
+      "ordinal": "9",
+      "title": "Sidonnaisuusilmoitukset ja sidonnaisuuksien ilmoittamisvelvollisuuden noudattamisen valvonta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252205-9",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanvaltuusto päättää merkitä sidonnaisuusrekisterin tiedoksi",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti päätösehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252205-10",
+      "ordinal": "10",
+      "title": "Eron myöntäminen suomenkielisen kasvatus- ja koulutuslautakunnan jäsenyydestä (YT) sekä uuden jäsenen valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252205-10",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Yuliia Toloselle suomenkielisen kasvatus- ja koulutuslautakunnan jäsenyydestä 2 valita Maj Åberg-Hildén uudeksi jäseneksi suomenkieliseen kasvatus- ja koulutuslautakuntaan Yuliia Tolosen tilalle toimikauden loppuun",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanvaltuusto päättää 1 myöntää eron Yuliia Toloselle suomenkielisen kasvatus- ja koulutuslautakunnan jäsenyydestä 2 valita Maj Åberg-Hildén uudeksi jäseneksi suomenkieliseen kasvatus- ja koulutuslautakuntaan Yuliia Tolosen tilalle toimikauden loppuun",
+        "kasittely": "Kim Liljequist (RKP): uudeksi jäseneksi ehdotetaan Maj Åberg-Hildén",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Yuliia Toloselle suomenkielisen kasvatus- ja koulutuslautakunnan jäsenyydestä 2 valita Maj Åberg-Hildén uudeksi jäseneksi suomenkieliseen kasvatus- ja koulutuslautakuntaan Yuliia Tolosen tilalle toimikauden loppuun"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    }
+  ],
+  "id": "20252205",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20252205"
+}

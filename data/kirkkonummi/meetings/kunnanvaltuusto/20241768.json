@@ -1,0 +1,686 @@
+{
+  "title": "Kunnanvaltuusto Pöytäkirja 17.06.2024 klo 18:00 - 21:50 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Kunnanvaltuusto",
+  "doctype": "Pöytäkirja",
+  "date": "2024-06-17",
+  "items": [
+    {
+      "id": "20241768-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241768-1",
+      "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Kokous todettiin lailliseksi ja päätösvaltaiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241768-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241768-2",
+      "decision": "Pöytäkirjantarkastajiksi valittiin Jussi Määttä ja Noora Piili",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanvaltuusto päättää valita kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan",
+        "paatos": "Pöytäkirjantarkastajiksi valittiin Jussi Määttä ja Noora Piili"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241768-3",
+      "ordinal": "3",
+      "title": "Asuntomessujen järjestäminen Kirkkonummella 2030",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241768-3",
+      "decision": "Kunnanvaltuusto päätti hakea asuntomessuja Kirkkonummelle, Strömsbyn alueelle, vuodelle 2030, lopullinen päätös asuntomessujen järjestämisestä tehdään edellyttäen, että sopimusneuvotteluissa päästään hyväksyttävään ratkaisuun yhdessä asuntomessuorganisaation kanssa. Lisäksi kunnanvaltuusto päätti hyväksyä seuraavan ponnen: Tavoitteena on tukea laajasti Kirkkonummen kehittymistä ja myös rantojen saavutettavuutta sekä merellisyyttä kuntalaisille. Suunnittelussa edistetään Kantvikin kehityskuvassa osoitettujen uimarantojen toteuttamista. Oheiskohteina otetaan huomioon myös uudet julkiset rakennushankkeet, jotka ovat kunnalle merkittäviä investointeja asukkaiden hyvinvointiin",
+      "votes": [
+        {
+          "jaa": [
+            "Purra Riikka",
+            "Björk Tony",
+            "Leijala Aku",
+            "Liljequist Kim",
+            "Tamm Irja",
+            "Åström Kim",
+            "Virtanen Kari",
+            "Hakapää Minna",
+            "Lankinen Arttu",
+            "Kämpe-Hellenius Jerri",
+            "Virkki Leena",
+            "Fleming Johanna",
+            "Kilappa Antti",
+            "Männikkö Kim",
+            "Hedberg Hans",
+            "Frimodig Josephine",
+            "Lundell Patrik",
+            "Kajanti Carl-Johan",
+            "Oksanen Pekka",
+            "Aallonharja Piia",
+            "Haapaniemi Timo",
+            "Piili Noora",
+            "Kosonen Liisa",
+            "Aintila Anna",
+            "Orko Maarit",
+            "Kähkönen Jani",
+            "Blom Urho",
+            "Myllyniemi Markus",
+            "Hyvärinen Reetta",
+            "Salminen Ville",
+            "Felipe Sini",
+            "Huhmarniemi Saara",
+            "Suominen Tero",
+            "Jeremejew Miisa",
+            "Gustafsson Stefan",
+            "Oittinen Paula",
+            "Granström Anneli",
+            "Toikka Anna-Mari",
+            "Kjerin Ulf",
+            "Ylisiurua Katja",
+            "Salonen Antti",
+            "Valtonen Martin",
+            "Sahiluoma Anna",
+            "Lankia Eero"
+          ],
+          "ei": [
+            "Valtanen Hannu",
+            "Ylikoski Jukka",
+            "Kari Marko",
+            "Kaurila Matti",
+            "Seppälä Ulla",
+            "Määttä Jussi"
+          ],
+          "tyhja": [],
+          "totals": {
+            "jaa": 44,
+            "ei": 6,
+            "tyhja": 0
+          },
+          "parties": {
+            "jaa": {
+              "ps": 6,
+              "rkp": 12,
+              "pro yl": 5,
+              "vihr": 8,
+              "kok": 7,
+              "sdp": 4,
+              "vas": 1,
+              "kesk": 1
+            },
+            "ei": {
+              "kok": 5,
+              "ps": 1
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta",
+            "ei_label": "Markko Karin muutosehdotusta",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": "jaa",
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Markko Karin muutosehdotusta äänestävät EI — annettiin 44 JAA ja 6 EI ääntä."
+          }
+        },
+        {
+          "jaa": [
+            "Björk Tony",
+            "Kjerin Ulf",
+            "Blom Urho",
+            "Hedberg Hans",
+            "Liljequist Kim",
+            "Huhmarniemi Saara",
+            "Lundell Patrik",
+            "Hyvärinen Reetta",
+            "Kilappa Antti",
+            "Åström Kim",
+            "Kämpe-Hellenius Jerri",
+            "Lankinen Arttu",
+            "Kähkönen Jani",
+            "Orko Maarit",
+            "Aintila Anna",
+            "Tamm Irja",
+            "Salonen Antti",
+            "Suominen Tero",
+            "Männikkö Kim",
+            "Oksanen Pekka",
+            "Piili Noora",
+            "Aallonharja Piia",
+            "Frimodig Josephine",
+            "Felipe Sini",
+            "Ylisiurua Katja",
+            "Kosonen Liisa",
+            "Jeremejew Miisa",
+            "Fleming Johanna",
+            "Purra Riikka",
+            "Kajanti Carl-Johan",
+            "Hakapää Minna",
+            "Virkki Leena",
+            "Myllyniemi Markus",
+            "Sahiluoma Anna",
+            "Valtonen Martin",
+            "Leijala Aku",
+            "Gustafsson Stefan",
+            "Salminen Ville",
+            "Granström Anneli",
+            "Toikka Anna-Mari",
+            "Oittinen Paula",
+            "Lankia Eero"
+          ],
+          "ei": [
+            "Seppälä Ulla",
+            "Kari Marko",
+            "Ylikoski Jukka",
+            "Kaurila Matti",
+            "Määttä Jussi",
+            "Virtanen Kari",
+            "Valtanen Hannu",
+            "Haapaniemi Timo"
+          ],
+          "tyhja": [],
+          "totals": {
+            "jaa": 42,
+            "ei": 8,
+            "tyhja": 0
+          },
+          "parties": {
+            "jaa": {
+              "rkp": 12,
+              "kok": 5,
+              "vihr": 8,
+              "pro yl": 5,
+              "ps": 6,
+              "sdp": 4,
+              "vas": 1,
+              "kesk": 1
+            },
+            "ei": {
+              "kok": 7,
+              "ps": 1
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta",
+            "ei_label": "Jussi Määtän lisäysehdotusta",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": null,
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Jussi Määtän lisäysehdotusta äänestävät EI — annettiin 42 JAA ja 8 EI ääntä."
+          }
+        }
+      ],
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Asuntomessujen esiselvitys Kirkkonmmi_JLL Kirkkonummen strategia 2024 Asuntomessujen järjestäminen Kirkkonummella 2030 Kunnanvaltuusto 17.06.2024 § 57 423/14.00.00/2024",
+        "paatosehdotus": "Kunnanhallitus esittää kunnanvaltuustolle asuntomessujen hakemista Kirkkonummelle, Strömsbyn alueelle, vuodelle 2030, lopullinen päätös asuntomessujen järjestämisestä tehdään edellyttäen, että sopimusneuvotteluissa päästään hyväksyttävään ratkaisuun yhdessä asuntomessuorganisaation kanssa",
+        "kasittely": "Kunnanjohtaja Virpi Sailas, JLL:n konsultti Markus Hagelstam, asemakaavapäällikkö Simon Store ja yhdyskuntatekniikan johtaja Anna-Kaisa Kauppinen esittelivät asiaa kokouksessa. Projektiryhmän jäsenet kaavoitusarkkitehti Leena Kankaanpää ja elinkeino- ja markkinointiasiantuntija Katja Harri olivat myös läsnä kokouksessa tämän pykälän aikana. Konsultti Markus Hagelstam poistui kokouksesta pykälän käsittelyn aikana klo 18.32, asemakaavapäällikkö Simon Store, kaavoitusarkkitehti Leena Kankaanpää ja elinkeino- ja markkinointikoordinaattori Katja Harri sekä kunnanvaltuuston I varapuheenjohtaja Reetta Hyvärinen poistuivat tämän pykälän jälkeen klo 20.15, ja varavaltuutettu Anna Presnukhina saapui kokoukseen hänen tilalleen. Puheenjohtaja julisti keskustelun päättyneeksi ja totesi, että keskustelun aikana on tehty muutos- ja ponsiesityksiä seuraavasti: Valtuutettu Marko Karin muutosehdotus: Viime vuosina asuntomessut ovat tuottaneet merkittäviä tappioita ja kävijämäärät ovat laskeneet huomattavasti huippuvuosista. Suurimmat tappiot ovat olleet useita miljoonia euroja. Esimerkiksi Loviisassa asuntomessujen budjetti paisui alkuperäisestä 9 miljoonasta eurosta 40 prosentilla, kun valtuusto joutui myöntämään lisämäärärahoja. Kaupunki on vastannut infrastruktuurista, kuten kaduista, sähköistä, vedestä ja viemäreistä, joiden kustannukset ovat myös kallistuneet. Asuntomessut aiheuttavat siis aina kunnalle merkittäviä kuluja. Ymmärrän, että asuntomessut voivat olla kiinnostava tapahtuma kunnille, joilla on muuttotappiota, mutta Kirkkonummi kasvaa jo nyt niin paljon kuin kaavoitus sallii. Lisäksi samana vuonna Kirkkonummi saa runsaasti näkyvyyttä 700-vuotisjuhliensa vuoksi. Ehdotan, että Kirkkonummi ei lähde hakemaan asuntomessuja. Muutosehdotusta kannattivat Kaurila Matti, Määttä Jussi, Seppälä Ulla ja Ylikoski Jukka. Muutosehdotusta ei hyväksytty yksimielisesti, joten puheenjohtaja ilmoitti että asiasta on äänestettävä. Puheenjohtaja ehdotti, että asiasta äänestetään niin, että ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Markko Karin muutosehdotusta äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 44 JAA ääntä ja 6 EI ääntä, 1 poissa. Pohjaehdotus sai enemmän ääniä ja voitti. JAA äänestivät: Purra Riikka, Björk Tony, Leijala Aku, Liljequist Kim, Tamm Irja, Åström Kim, Virtanen Kari, Hakapää Minna, Lankinen Arttu, Kämpe-Hellenius Jerri, Virkki Leena, Fleming Johanna, Kilappa Antti, Männikkö Kim, Hedberg Hans, Frimodig Josephine, Lundell Patrik, Kajanti Carl-Johan, Oksanen Pekka, Aallonharja Piia, Haapaniemi Timo, Piili Noora, Kosonen Liisa, Aintila Anna, Orko Maarit, Kähkönen Jani, Blom Urho, Myllyniemi Markus, Hyvärinen Reetta, Salminen Ville, Felipe Sini, Huhmarniemi Saara, Suominen Tero, Jeremejew Miisa, Gustafsson Stefan, Oittinen Paula, Granström Anneli, Toikka Anna-Mari, Kjerin Ulf, Ylisiurua Katja, Salonen Antti, Valtonen Martin, Sahiluoma Anna ja Lankia Eero (suullisesti) EI äänestivät: Valtanen Hannu, Ylikoski Jukka, Kari Marko, Kaurila Matti, Seppälä Ulla ja Määttä Jussi. Valtuutettu Jussi Määtän lisäysehdotus päätökseen: Mikäli Kirkkonummen kunnanvaltuusto päättää edistää asuntomessuhanketta Kirkkonummen kunnanvaltuusto päättää, että erillistä neuvotteluihin liittyvää korvausta/kynnysrahaa ei makseta sopimusosapuolelle. Lisäysehdotusta kannattivat Kari Marko, Valtanen Hannu, Ylikoski Jukka, Haapaniemi Timo, Kaurila Matti, Seppälä Ulla ja Björk Tony. Lisäysehdotusta ei hyväksytty yksimielisesti, joten puheenjohtaja ilmoitti että asiasta on äänestettävä. Puheenjohtaja ehdotti, että asiasta äänestetään niin, että ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Jussi Määtän lisäysehdotusta äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 42 JAA ääntä ja 8 EI ääntä, 1 poissa. JAA äänestivät: Björk Tony, Kjerin Ulf, Blom Urho, Hedberg Hans, Liljequist Kim, Huhmarniemi Saara, Lundell Patrik, Hyvärinen Reetta, Kilappa Antti, Åström Kim, Kämpe-Hellenius Jerri, Lankinen Arttu; Kähkönen Jani, Orko Maarit, Aintila Anna, Tamm Irja, Salonen Antti, Suominen Tero, Männikkö Kim, Oksanen Pekka, Piili Noora, Aallonharja Piia, Frimodig Josephine, Felipe Sini, Ylisiurua Katja, Kosonen Liisa, Jeremejew Miisa, Fleming Johanna, Purra Riikka, Kajanti Carl-Johan, Hakapää Minna, Virkki Leena, Myllyniemi Markus, Sahiluoma Anna, Valtonen Martin, Leijala Aku, Gustafsson Stefan, Salminen Ville, Granström Anneli, Toikka Anna-Mari, Oittinen Paula ja Lankia Eero (suullisesti) EI äänestivät: Seppälä Ulla, Kari Marko, Ylikoski Jukka, Kaurila Matti, Määttä Jussi, Virtanen Kari, Valtanen Hannu ja Haapaniemi Timo. I varapuheenjohtajan Reetta Hyvärisen ponsiehdotus: Tavoitteena on tukea laajasti Kirkkonummen kehittymistä ja myös rantojen saavutettavuutta sekä merellisyyttä kuntalaisille. Suunnittelussa edistetään Kantvikin kehityskuvassa osoitettujen uimarantojen toteuttamista. Oheiskohteina otetaan huomioon myös uudet julkiset rakennushankkeet, jotka ovat kunnalle merkittäviä investointeja asukkaiden hyvinvointiin. Ponsiehdotusta kannattivat Orko Maarit, Tamm Irja, Myllyniemi Markus, Jeremejew Miisa, Oittinen Paula, Fleming Johanna, Huhmarniemi Saara, Toikka Anna-Mari, Salminen Ville, Kjerin Ulf, Ylisiurua Katja, Lundell Patrik, Aintila Anna, Gustafsson Stefan, Valtonen Martin, Kaurila Matti, Virtanen Kari ja Määttä Jussi. Puheenjohtajan tiedustellessa ponsiehdotus hyväksyttiin yksimielisesti. Tämän pykälän jälkeen pidettiin 10 minuutin tauko",
+        "paatos": "Kunnanvaltuusto päätti hakea asuntomessuja Kirkkonummelle, Strömsbyn alueelle, vuodelle 2030, lopullinen päätös asuntomessujen järjestämisestä tehdään edellyttäen, että sopimusneuvotteluissa päästään hyväksyttävään ratkaisuun yhdessä asuntomessuorganisaation kanssa. Lisäksi kunnanvaltuusto päätti hyväksyä seuraavan ponnen: Tavoitteena on tukea laajasti Kirkkonummen kehittymistä ja myös rantojen saavutettavuutta sekä merellisyyttä kuntalaisille. Suunnittelussa edistetään Kantvikin kehityskuvassa osoitettujen uimarantojen toteuttamista. Oheiskohteina otetaan huomioon myös uudet julkiset rakennushankkeet, jotka ovat kunnalle merkittäviä investointeja asukkaiden hyvinvointiin"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Asuntomessujen esiselvitys Kirkkonmmi_JLL",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241768-3-109316.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Kirkkonummen strategia 2024",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241768-3-109323.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Marko Kari",
+          "kind": "vastaehdotus",
+          "text": null,
+          "source": "order",
+          "party": "kok"
+        }
+      ]
+    },
+    {
+      "id": "20241768-4",
+      "ordinal": "4",
+      "title": "Kylmälän vesiosuuskunnan vesihuolto-omaisuuden ja liiketoiminnan siirtäminen Kirkkonummen Vedelle",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241768-4",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 1 Sopimus_Kylmälän_vok_kh10062024 Kylmälän vesiosuuskunnan vesihuolto-omaisuuden ja liiketoiminnan siirtäminen Kirkkonummen Vedelle Kunnanvaltuusto 17.06.2024 § 58 46/14.05.00.00/2024",
+        "paatosehdotus": "Kunnanhallitus esittää kunnanvaltuustolle, että kunnanvaltuusto 1 hyväksyy Kylmälän vesiosuuskunnan vesihuolto-omaisuuden ja liiketoiminnan siirtämisen liiketoimintakaupalla Kirkkonummen Vesi -liikelaitokselle liitteenä olevan sopimuksen mukaisilla ehdoilla 2 valtuuttaa Kirkkonummen Vesi -liikelaitoksen johtajan tekemään tarvittavia tarkistuksia lopulliseen sopimukseen ja tarkentamaan sopimukseen luovutushetken tilanteen (välitilinpäätöksen) mukaisesti kauppahinnan arvon, sekä tarkentamaan sopimuksen liitteiden sisällön kaupantekoajankohtana voimassa olevien tietojen ja tilanteen mukaisesti sekä allekirjoittamaan sopimuksen. Vesiosuuskunnan välitilinpäätöksen kaupantekohetkestä tekee Kirkkonummen kunnan tilintarkastusyhteisö. Mikäli välitilinpäätöksessä tulee esille seikkoja, joita Kylmälän vesiosuuskunta ei ole aiemmin tuonut esille, on Kirkkonummen Vesi -liikelaitoksella oikeus vaatia vesiosuuskunnan tekemään kustannuksellaan korjaavat toimenpiteet tai vetäytyä sopimuksesta. 3 päättää lisätä Kirkkonummen Vesi -liikelaitoksen vuoden 2024 talousarvion investointiohjelmaan 2 200 000 euroa Kylmälän vesiosuuskunnan liiketoiminnan ja verkosto-omaisuuden hankintaa varten, ja talousarvion toimintakuluihin 150 000 euron määräraha omaisuuden vastaanottamisen edellyttämiä toimenpiteitä sekä rahoituskuluja varten",
+        "kasittely": "Valtuutettu Maarit Orko ilmoitti olevansa jäävi ja poistui kokouksesta tämän pykälän käsittelyn ja päätöksenteon ajaksi. Yhdyskuntatekniikan johtaja Anna-Kaisa Kauppinen esitteli asiaa kokouksessa",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Sopimus_Kylmälän_vok_kh10062024",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241768-4-109753.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20241768-5",
+      "ordinal": "5",
+      "title": "Hallintosäännön uudistaminen 1.9.2024 alkaen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241768-5",
+      "decision": "Kunnanvaltuusto päätti hyväksyä oheisen esityksen kunnan uudeksi hallintosäännöksi 1.9.2024 lukien",
+      "votes": [
+        {
+          "jaa": [
+            "Gustafsson Stefan",
+            "Oksanen Pekka",
+            "Salminen Ville",
+            "Åström Kim",
+            "Virkki Leena",
+            "Haapaniemi Timo",
+            "Purra Riikka",
+            "Kähkönen Jani",
+            "Valtanen Hannu",
+            "Kari Marko",
+            "Kilappa Antti",
+            "Lankinen Arttu",
+            "Ylikoski Jukka",
+            "Seppälä Ulla",
+            "Suominen Tero",
+            "Kosonen Liisa",
+            "Kaurila Matti",
+            "Sahiluoma Anna",
+            "Leijala Aku",
+            "Blom Urho",
+            "Määttä Jussi",
+            "Virtanen Kari",
+            "Aallonharja Piia",
+            "Salonen Antti",
+            "Lankia Eero"
+          ],
+          "ei": [
+            "Aintila Anna",
+            "Hedberg Hans",
+            "Lundell Patrik",
+            "Piili Noora",
+            "Oittinen Paula",
+            "Granström Anneli",
+            "Fleming Johanna",
+            "Ylisiurua Katja",
+            "Huhmarniemi Saara",
+            "Frimodig Josephine",
+            "Jeremejew Miisa",
+            "Tamm Irja",
+            "Toikka Anna-Mari",
+            "Felipe Sini",
+            "Orko Maarit",
+            "Männikkö Kim",
+            "Valtonen Martin",
+            "Hakapää Minna",
+            "Presnukhina Anna",
+            "Myllyniemi Markus",
+            "Kjerin Ulf"
+          ],
+          "tyhja": [
+            "Kajanti Carl-Johan",
+            "Björk Tony",
+            "Liljequist Kim",
+            "Kämpe-Hellenius Jerri"
+          ],
+          "totals": {
+            "jaa": 25,
+            "ei": 21,
+            "tyhja": 4
+          },
+          "parties": {
+            "jaa": {
+              "rkp": 1,
+              "sdp": 2,
+              "ps": 6,
+              "kok": 12,
+              "pro yl": 3,
+              "kesk": 1
+            },
+            "ei": {
+              "rkp": 7,
+              "pro yl": 2,
+              "vihr": 8,
+              "ps": 1,
+              "sdp": 2,
+              "vas": 1
+            },
+            "tyhja": {
+              "rkp": 4
+            }
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta",
+            "ei_label": "Markus Myllyniemen muutosehdotsta",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": "jaa",
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Markus Myllyniemen muutosehdotsta äänestävät EI — annettiin 25 JAA ja 21 EI ääntä."
+          }
+        }
+      ],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 2 Kirkkonummen kunnan hallintosääntö 1.9.2024 alkaen, kunnanvaltuuston hyväksymä 17.6.2024 Hallintosäännön uudistaminen 1.9.2024 alkaen Kunnanvaltuusto 17.06.2024 § 59 504/00.01.01/2024",
+        "paatosehdotus": "Kunnanhallitus esittää kunnanvaltuustolle, että se päättää hyväksyä oheisen esityksen kunnan uudeksi hallintosäännöksi 1.9.2024 lukien",
+        "kasittely": "Kunnanlakimies Hannu Sorvari esitteli asiaa kokouksessa. Puheenjohtaja julisti keskustelun päättyneeksi ja totesi, että keskustelun aikana valtuutettu Markus Myllyniemi oli jättänyt seuraavan muutosehdotuksen: Valtuutettu Markus Myllyniemen muutosesitys hallintosäännön sivulle 75: Vammais- ja vanhusneuvoston sekä nuorisovaltuuston edustajalla on läsnäolo- ja puheoikeus sivistys- ja vapaa-aikalautakunnassa, yhdyskuntatekniikan lautakunnassa sekä suomen- ja ruotsinkielisissä kasvatus- ja koulutuslautakunnissa. Läsnäolo-oikeutta ei ole silloin, kun käsiteltäviin asiakirjoihin sisältyy salassa pidettäviä tietoja. Muutosehdotusta kannattivat Jeremejew Miisa, Orko Maarit, Fleming Johanna, Huhmarniemi Saara, Granström Anneli, Oittinen Paula, Tamm Irja, Ylisiurua Katja, Toikka Anna-Mari, Kjerin Ulf ja Lundell Patrik. Muutosehdotusta ei hyväksytty yksimielisesti, joten puheenjohtaja ilmoitti että asiasta on äänestettävä. Puheenjohtaja ehdotti, että asiasta äänestetään niin, että ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Markus Myllyniemen muutosehdotsta äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 25 JAA ääntä, 21 EI ääntä, 4 tyhjää, 1 poissa Pohjaehdotus sai enemmän ääniä ja voitti. JAA äänestivät: Gustafsson Stefan, Oksanen Pekka, Salminen Ville, Åström Kim, Virkki Leena, Haapaniemi Timo, Purra Riikka, Kähkönen Jani, Valtanen Hannu, Kari Marko, Kilappa Antti,Lankinen Arttu, Ylikoski Jukka, Seppälä Ulla, Suominen Tero, Kosonen Liisa, Kaurila Matti, Sahiluoma Anna, Leijala Aku, Blom Urho, Määttä Jussi, Virtanen Kari, Aallonharja Piia, Salonen Antti ja Lankia Eero (suullisesti) EI äänestivät: Aintila Anna, Hedberg Hans, Lundell Patrik, Piili Noora, Oittinen Paula, Granström Anneli; Fleming Johanna, Ylisiurua Katja, Huhmarniemi Saara, Frimodig Josephine, Jeremejew Miisa, Tamm Irja, Toikka Anna-Mari, Felipe Sini, Orko Maarit, Männikkö Kim, Valtonen Martin, Hakapää Minna, Presnukhina Anna, Myllyniemi Markus ja Kjerin Ulf. Tyhjää äänestivät: Kajanti Carl-Johan, Björk Tony, Liljequist Kim ja Kämpe-Hellenius Jerri",
+        "paatos": "Kunnanvaltuusto päätti hyväksyä oheisen esityksen kunnan uudeksi hallintosäännöksi 1.9.2024 lukien",
+        "selostus": "Kunnanhallitus päätti kokouksessaan 10.6.2024 muuttaa hallintosäännön pykälää 66, joka koskee palvelussuhteeseen ottamista ja sijaisten määräämistä. Päätöksen mukaan, johtavat viranhaltijat nimittää kunnanhallitus ja lautakunnat niin, että kunnanhallitukselle tuodaan johtavat viranhaltijat mukaan lukien hallintojohtaja, talousjohtaja ja henkilöstöjohtaja ja lautakunnille tuodaan toimialajohtajien alaisuudessa toimivat johtavat viranhaltijat. Nämä kirjaukset on merkitty hallintosääntöluonnokseen punaisella pykäliin 28, 33 ja 66. Kunnanhallituksen päätös vaikuttaa osittain myös sijaisten määräämiseen, mikä on huomioitu pykälän otsikon mukaisesti. Lisäksi tarkennetaan kunnanvaltuustoa koskevassa pykälässä 26 olevaa asemakaavojen hyväksymismenettelyä niin, että silloin kun valtuusto ei päätä asemakaavasta, sen hyväksyy kunnanhallitus hallintosäännön 28 pykälän kohdan 12 mukaisesti. Tämä vaikuttaa ko. pykälän ao. momentin kohtien numerointiin. Myös tämä muutos on merkitty hallintosääntöluonnokseen punaisella"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kirkkonummen kunnan hallintosääntö 1.9.2024 alkaen, kunnanvaltuuston hyväksymä 17.6.2024",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241768-5-110784.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Markus Myllyniemi",
+          "kind": "vastaehdotus",
+          "text": "Valtuutettu Markus Myllyniemen muutosesitys hallintosäännön sivulle 75: Vammais- ja vanhusneuvoston sekä nuorisovaltuuston edustajalla on läsnäolo- ja puheoikeus sivistys- ja vapaa-aikalautakunnassa, yhdyskuntatekniikan lautakunnassa sekä suomen- ja ruotsinkielisissä kasvatus- ja koulutuslautakunnissa. Läsnäolo-oikeutta ei ole silloin, kun käsiteltäviin asiakirjoihin sisältyy salassa pidettäviä tietoja. Muutosehdotusta kannattivat Jeremejew Miisa, Orko Maarit, Fleming Johanna, Huhmarniemi Saara, Granström Anneli, Oittinen Paula, Tamm Irja, Ylisiurua Katja, Toikka Anna-Mari, Kjerin Ulf ja Lundell Patrik. Muutosehdotusta ei hyväksytty yksimielisesti, joten puheenjohtaja ilmoitti että asiasta on äänestettävä",
+          "source": "introduction",
+          "party": "vihr"
+        }
+      ]
+    },
+    {
+      "id": "20241768-6",
+      "ordinal": "6",
+      "title": "Nissniku-talon rakennushanke, toimitilapalvelujen lautakunnan lisämäärärahaesitys teleskooppikatsomoa varten",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241768-6",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus esittää kunnanvaltuustolle, että kunnan talousarviossa hyväksyttyä Nissniku -talon rakennushankkeen kokonaiskustannusta korotetaan 220 000 eurolla, jolloin hankkeen kokonaiskustannus on 37 070 000 euroa",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241768-7",
+      "ordinal": "7",
+      "title": "Vastaus valtuustoaloitteeseen 1/2024: Monikulttuurisuusneuvoston perustaminen Kirkkonummelle",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241768-7",
+      "decision": "Kunnanvaltuusto päätti 1 pitää selostusosan mukaisen vastauksen valtuustoaloitteeseen 1/2024: Monikulttuurisuusneuvoston perustamisesta Kirkkonummelle riittävänä. 2 että, monikulttuurisuusneuvoston mahdollista perustamista tai perustamatta jättämistä selvitetään ja tuodaan esimerkkeineen ja kustannusvaikutuksineen myöhemmin päätöksentekoon valmisteltuna",
+      "votes": [
+        {
+          "jaa": [
+            "Seppälä Ulla",
+            "Aallonharja Piia",
+            "Kämpe-Hellenius Jerri",
+            "Oksanen Pekka",
+            "Lankinen Arttu",
+            "Åström Kim",
+            "Blom Urho",
+            "Frimodig Josephine",
+            "Hakapää Minna",
+            "Lundell Patrik",
+            "Hedberg Hans",
+            "Haapaniemi Timo",
+            "Kilappa Antti",
+            "Kjerin Ulf",
+            "Valtonen Martin",
+            "Salonen Antti",
+            "Granström Anneli",
+            "Piili Noora",
+            "Männikkö Kim",
+            "Kajanti Carl-Johan",
+            "Määttä Jussi",
+            "Virkki Leena",
+            "Björk Tony",
+            "Felipe Sini",
+            "Kaurila Matti",
+            "Kosonen Liisa",
+            "Gustafsson Stefan",
+            "Kähkönen Jani",
+            "Valtanen Hannu",
+            "Kari Marko",
+            "Suominen Tero",
+            "Liljequist Kim",
+            "Ylikoski Jukka",
+            "Lankia Eero"
+          ],
+          "ei": [
+            "Fleming Johanna",
+            "Presnukhina Anna",
+            "Toikka Anna-Mari",
+            "Orko Maarit",
+            "Myllyniemi Markus",
+            "Aintila Anna",
+            "Ylisiurua Katja",
+            "Tamm Irja",
+            "Oittinen Paula",
+            "Jeremejew Miisa",
+            "Huhmarniemi Saara",
+            "Virtanen Kari"
+          ],
+          "tyhja": [
+            "Leijala Aku",
+            "Salminen Ville",
+            "Purra Riikka"
+          ],
+          "totals": {
+            "jaa": 34,
+            "ei": 12,
+            "tyhja": 3
+          },
+          "parties": {
+            "jaa": {
+              "kok": 10,
+              "ps": 5,
+              "rkp": 11,
+              "sdp": 3,
+              "pro yl": 4,
+              "kesk": 1
+            },
+            "ei": {
+              "sdp": 1,
+              "vihr": 8,
+              "rkp": 1,
+              "vas": 1,
+              "kok": 1
+            },
+            "tyhja": {
+              "pro yl": 1,
+              "ps": 2
+            }
+          },
+          "direction": {
+            "jaa_label": "Kim Liljequistin muutosehdotusta",
+            "ei_label": "Markus Myllyniemen muutosehdotusta",
+            "jaa_kind": "vastaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": null,
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat Kim Liljequistin muutosehdotusta äänestävät JAA, ja ne jotka kannattavat Markus Myllyniemen muutosehdotusta äänestävät EI — annettiin 34 JAA ja 12 EI ääntä."
+          }
+        },
+        {
+          "jaa": [
+            "Leijala Aku",
+            "Blom Urho",
+            "Purra Riikka",
+            "Piili Noora",
+            "Aallonharja Piia",
+            "Åström Kim",
+            "Kari Marko",
+            "Haapaniemi Timo",
+            "Seppälä Ulla",
+            "Oksanen Pekka",
+            "Virtanen Kari",
+            "Kähkönen Jani",
+            "Valtanen Hannu",
+            "Salonen Antti",
+            "Suominen Tero",
+            "Määttä Jussi",
+            "Lankinen Arttu",
+            "Ylikoski Jukka",
+            "Granström Anneli",
+            "Kaurila Matti",
+            "Salminen Ville"
+          ],
+          "ei": [
+            "Lundell Patrik",
+            "Aintila Anna",
+            "Kilappa Antti",
+            "Toikka Anna-Mari",
+            "Ylisiurua Katja",
+            "Hedberg Hans",
+            "Myllyniemi Markus",
+            "Huhmarniemi Saara",
+            "Virkki Leena",
+            "Orko Maarit",
+            "Männikkö Kim",
+            "Frimodig Josephine",
+            "Gustafsson Stefan",
+            "Presnukhina Anna",
+            "Kämpe-Hellenius Jerri",
+            "Liljequist Kim",
+            "Oittinen Paula",
+            "Fleming Johanna",
+            "Kosonen Liisa",
+            "Valtonen Martin",
+            "Hakapää Minna",
+            "Kajanti Carl-Johan",
+            "Felipe Sini",
+            "Tamm Irja",
+            "Jeremejew Miisa",
+            "Björk Tony",
+            "Kjerin Ulf",
+            "Lankia Eero"
+          ],
+          "tyhja": [],
+          "totals": {
+            "jaa": 21,
+            "ei": 28,
+            "tyhja": 0
+          },
+          "parties": {
+            "jaa": {
+              "pro yl": 3,
+              "kok": 9,
+              "ps": 7,
+              "sdp": 2
+            },
+            "ei": {
+              "rkp": 12,
+              "pro yl": 2,
+              "vihr": 8,
+              "vas": 1,
+              "kok": 2,
+              "sdp": 2,
+              "kesk": 1
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta",
+            "ei_label": "voittanutta, Kim Liljequistin muutosehdosta",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "other",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": "ei",
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat voittanutta, Kim Liljequistin muutosehdosta äänestävät EI — annettiin 21 JAA ja 28 EI ääntä."
+          }
+        }
+      ],
+      "initiative": {
+        "ref": "1/2024",
+        "proposer": "tus   Kunnanvaltuuston kokouksessa 5.2.2024 valtuutetut Katja Ylisiurua ja Johanna Fleming",
+        "party": null,
+        "name": "Johanna Fleming"
+      },
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Valtuustoaloite monikulttuurisuusneuvoston perustamisesta Kirkkonummelle Vastaus valtuustoaloitteeseen 1/2024: Monikulttuurisuusneuvoston perustaminen Kirkkonummelle Kunnanvaltuusto 17.06.2024 § 61 120/12.03.00/2024",
+        "paatosehdotus": "Kunnanhallitus 1 antaa selostusosan mukaisen vastauksen valtuustoaloitteeseen 1/2024: Monikulttuurisuusneuvoston perustaminen Kirkkonummelle ja esittää kunnanvaltuustolle, että valtuusto pitää vastausta riittävänä ja aloitetta loppuun käsiteltynä. 2 esittää kunnanvaltuustolle, ettei Monikulttuurisuusneuvostoa perusteta Kirkkonummelle",
+        "kasittely": "Jäsen Anna Sahiluoma poistui kokouksesta tämän pykälän käsittelyn aikana klo 21.30. Puheenjohtaja julisti keskustelun päättyneeksi ja totesi, että keskustelun aikana valtuutetut Kim Liljequist ja Markus Myllyniemi olivat tehneet muutosehdotuksia seuraavasti: Valtuutettu Kim Liljequistin muutosehdotus: Pykälä 2 korvataan tekstillä: Monikulttuurisuusneuvoston mahdollisesta perustamisesta tai perustamatta jättämisestä ei päätetä tässä kokouksessa, vaan asia selvitetään ja tuodaan esimerkkeineen ja kustannusvaikutuksineen myöhemmin päätöksentekoon valmisteltuna. Muutosehdotusta kannattivat Hedberg Hans, Kjerin Ulf, Kajanti Carl-Johan, Aintila Anna, Valtonen Martin, Kosonen Liisa, Frimodig Josephine, Björk Tony, Lundell Patrik ja Gustafsson Stefan. Valtuutettu Markus Myllyniemen muutosehdotus: Kunnanvaltuusto 1 päättää pitää selostusosan mukaista vastausta valtuustoaloitteeseen 1/2024: Monikulttuurisuusneuvoston perustaminen Kirkkonummelle riittävänä ja aloitetta loppuun käsiteltynä. 2 aloittaa valmistelut, jotta monikulttuurisuusneuvoston olisi mahdollista aloittaa toimintansa Kirkkonummella seuraavalla valtuustokaudella. Muutosehdotusta kannattivat Fleming Johanna, Ylisiurua Katja, Presnukhina Anna, Tamm Irja, Oittinen Paula, Jeremejew Miisa, Kjerin Ulf, Huhmarniemi Saara, Toikka Anna-Mari, Aintila Anna, Orko Maarit, Josephine Frimodig ja Lundell Patrik. Muutosehdotuksia ei hyväksytty yksimielisesti, joten puheenjohtaja ilmoitti että muutosehdotuksista on äänestettävä. Puheenjohtaja ehdotti, että asiasta äänestetään niin, että ne jotka kannattavat Kim Liljequistin muutosehdotusta äänestävät JAA, ja ne jotka kannattavat Markus Myllyniemen muutosehdotusta äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 34 JAA ääntä ja 12 EI ääntä, 3 tyhjää, 2 poissa. Kim Liljequistin muutosehdotus sai enemmän ääniä ja voitti. JAA äänestivät: Seppälä Ulla, Aallonharja Piia, Kämpe-Hellenius Jerri, Oksanen Pekka, Lankinen Arttu, Åström Kim, Blom Urho, Frimodig Josephine, Hakapää Minna, Lundell Patrik, Hedberg Hans, Haapaniemi Timo, Kilappa Antti, Kjerin Ulf, Valtonen Martin, Salonen Antti, Granström Anneli, Piili Noora, Männikkö Kim, Kajanti Carl-Johan, Määttä Jussi, Virkki Leena, Björk Tony, Felipe Sini, Kaurila Matti, Kosonen Liisa, Gustafsson Stefan, Kähkönen Jani, Valtanen Hannu, Kari Marko, Suominen Tero, Liljequist Kim, Ylikoski Jukka ja Lankia Eero (suullisesti). EI äänestivät: Fleming Johanna, Presnukhina Anna, Toikka Anna-Mari, Orko Maarit, Myllyniemi Markus, Aintila Anna, Ylisiurua Katja, Tamm Irja, Oittinen Paula, Jeremejew Miisa, Huhmarniemi Saara ja Virtanen Kari Tyhjää äänestivät: Leijala Aku, Salminen Ville ja Purra Riikka. Tämän jälkeen puheenjohtaja ilmoitti , että asiasta äänestetään niin, että ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat voittanutta, Kim Liljequistin muutosehdosta äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 21 JAA ääntä ja 28 EI ääntä, 2 poissa. Kim Liljequistin muutosehdotus sai enemmän ääniä ja voitti. JAA äänestivät: Leijala Aku, Blom Urho, Purra Riikka, Piili Noora, Aallonharja Piia, Åström Kim, Kari Marko, Haapaniemi Timo, Seppälä Ulla, Oksanen Pekka, Virtanen Kari, Kähkönen Jani, Valtanen Hannu, Salonen Antti, Suominen Tero, Määttä Jussi, Lankinen Arttu, Ylikoski Jukka, Granström Anneli, Kaurila Matti ja Salminen Ville. EI äänestivät: Lundell Patrik, Aintila Anna, Kilappa Antti, Toikka Anna-Mari, Ylisiurua Katja, Hedberg Hans, Myllyniemi Markus, Huhmarniemi Saara, Virkki Leena, Orko Maarit, Männikkö Kim, Frimodig Josephine, Gustafsson Stefan, Presnukhina Anna, Kämpe-Hellenius Jerri, Liljequist Kim, Oittinen Paula, Fleming Johanna, Kosonen Liisa, Valtonen Martin, Hakapää Minna, Kajanti Carl-Johan, Felipe Sini, Tamm Irja, Jeremejew Miisa, Björk Tony, Kjerin Ulf ja Lankia Eero (suullisesti)",
+        "paatos": "Kunnanvaltuusto päätti 1 pitää selostusosan mukaisen vastauksen valtuustoaloitteeseen 1/2024: Monikulttuurisuusneuvoston perustamisesta Kirkkonummelle riittävänä. 2 että, monikulttuurisuusneuvoston mahdollista perustamista tai perustamatta jättämistä selvitetään ja tuodaan esimerkkeineen ja kustannusvaikutuksineen myöhemmin päätöksentekoon valmisteltuna"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtuustoaloite monikulttuurisuusneuvoston perustamisesta Kirkkonummelle",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241768-7-103569.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Kim Liljequist",
+          "kind": "vastaehdotus",
+          "text": null,
+          "source": "order",
+          "party": "rkp"
+        },
+        {
+          "proposer": "Markus Myllyniemi",
+          "kind": "vastaehdotus",
+          "text": null,
+          "source": "order",
+          "party": "vihr"
+        }
+      ]
+    },
+    {
+      "id": "20241768-8",
+      "ordinal": "8",
+      "title": "Työllisyys- ja elinkeinoasioiden lautakunnan jäsenten ja varajäsenten valinta kaudelle 1.8.2024-31.5.2025",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241768-8",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti 1 valita työllisyys- ja elinkeinoasioiden lautakuntaan 11 jäsentä ja heille henkilökohtaiset varajäsenet toimikaudeksi 1.8.2.2024-31.5.2025 ja 2 valita työllisyys- ja elinkeinoasioiden lautakunnan jäsenten keskuudesta puheenjohtajan ja varapuheenjohtajan toimikaudeksi 1.8.2024-31.5.2025 seuraavasti: Kirkkonummen kunta: Urho Blom, (puh.johtaja) (KOK) / varajäsen Greger Englund (RKP) Ari Harinen (SDP) / varajäsen Sini Felipe (SDP) Ville Salminen (PS) / varajäsen Pekka Sinisalo (ProKirkkonummi) Johanna Fleming (Vihr) / varajäsen Henry Scheinin (Vihr) Pia Furu (RKP) / varajäsen Janina Rönnberg (RKP) Siuntion kunta: Stefan Svanfeldt / varajäsen Marko Suoknuuti Maria Koroma-Hintikka / varajäsen Tuija Aumala Vihdin kunta: Leila Terkomaa (varapuh.johtaja) / varajäsen Matti Waara Sami Järvinen / varajäsen Anita Lehikoinen Sari Metsäkivi / varajäsen Kari Viherkanto Petri Lehtiranta / varajäsen Tuija Sundberg",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto 1 valitsee työllisyys- ja elinkeinoasioiden lautakuntaan 11 jäsentä ja heille henkilökohtaiset varajäsenet toimikaudeksi 1.8.2.2024-31.5.2025 ja 2 valitsee työllisyys- ja elinkeinoasioiden lautakunnan jäsenten keskuudesta puheenjohtajan ja varapuheenjohtajan toimikaudeksi 1.8.2024-31.5.2025",
+        "kasittely": "Esitykset työllisyys- ja elinkeinoasioiden jäseniksi ja varajäseniksi Kirkkonummen kunnan osalta annettin seuraavasti: Vihreiden esitys lautakunnan jäseneksi (Myllyniemi Markus): Vihreät esittävät työllisyys- ja elinkeinolautakunnan varsinaiseksi jäseneksi Johanna Fleming ja varajäseneksi Henry Scheinin RKP:n ehdotus (Kim Liljequist): Varsinaiseksi jäseneksi Pia Furu, varajäsenekseen Janina Rönnberg. Varajäsen: Greger Englund. Perussuomalaisten esitys (Aallonharja Piia): Perussuomalaiset esittävät lautakunnan varsinaiseksi jäseneksi Ville Salmista. Pro Kirkkonummen esitys (Salonen Antti): ProKirkkonummi esittää lautakunnan varajäseneksi Pekka Sinisaloa. Kokoomuksen kv-ryhmä (Timo Haapaniemi) esittää lautakunnan jäseneksi ja puheenjohtajaksi Urho Blom. SDP:n esitys (Felipe Sini): SDP:n esitys työllisyys- ja elinkeinoasioiden lautakunnan jäseneksi: Ari Harinen, varajäseneksi Sini Felipe. Kaikkia ehdotuksia kannatettiin",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti 1 valita työllisyys- ja elinkeinoasioiden lautakuntaan 11 jäsentä ja heille henkilökohtaiset varajäsenet toimikaudeksi 1.8.2.2024-31.5.2025 ja 2 valita työllisyys- ja elinkeinoasioiden lautakunnan jäsenten keskuudesta puheenjohtajan ja varapuheenjohtajan toimikaudeksi 1.8.2024-31.5.2025 seuraavasti: Kirkkonummen kunta: Urho Blom, (puh.johtaja) (KOK) / varajäsen Greger Englund (RKP) Ari Harinen (SDP) / varajäsen Sini Felipe (SDP) Ville Salminen (PS) / varajäsen Pekka Sinisalo (ProKirkkonummi) Johanna Fleming (Vihr) / varajäsen Henry Scheinin (Vihr) Pia Furu (RKP) / varajäsen Janina Rönnberg (RKP) Siuntion kunta: Stefan Svanfeldt / varajäsen Marko Suoknuuti Maria Koroma-Hintikka / varajäsen Tuija Aumala Vihdin kunta: Leila Terkomaa (varapuh.johtaja) / varajäsen Matti Waara Sami Järvinen / varajäsen Anita Lehikoinen Sari Metsäkivi / varajäsen Kari Viherkanto Petri Lehtiranta / varajäsen Tuija Sundberg"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    }
+  ],
+  "id": "20241768",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20241768"
+}

@@ -1,0 +1,517 @@
+{
+  "title": "Kunnanhallitus Pöytäkirja 25.08.2025 klo 16:35 - 17:56 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Kunnanhallitus",
+  "doctype": "Pöytäkirja",
+  "date": "2025-08-25",
+  "items": [
+    {
+      "id": "20252121-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252121-1",
+      "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Kokous todettiin lailliseksi ja päätösvaltaiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252121-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252121-2",
+      "decision": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti. Pöytäkirjantarkastajiksi valittiin Ronja Karkinen ja Viveca Lindgren",
+      "votes": [],
+      "sections": {
+        "valmistelija": "hallinnon erityisasiantuntija Pia Bergström, etunimi.sukunimi@kirkkonummi.fi",
+        "paatosehdotus": "Kunnanhallitus päättää 1 valita kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan 2 tarkastaa tämän pöytäkirjan sähköisesti seuraavan aikataulun mukaan: Torstaina 28.8.2025 lähetetään pöytäkirja sähköpostitse pöytäkirjantarkastajille, jotka ilmoittavat hyväksymisestään viimeistään maanantaina 1.9.2025. Jos hyväksymisviestiä ei tule sihteerille em. ajankohtaan mennessä, pöytäkirja katsotaan hyväksytyksi. Pöytäkirja allekirjoitetaan sähköisesti. Tarkastettu pöytäkirja julkaistaan tiistaina 2.9.2025 kunnan verkkosivulla",
+        "paatos": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti. Pöytäkirjantarkastajiksi valittiin Ronja Karkinen ja Viveca Lindgren"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252121-3",
+      "ordinal": "3",
+      "title": "Hankintapäätös; Kunnan vakuutusturvaa koskevan tarjouskilpailun ratkaiseminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252121-3",
+      "decision": "perusteluineen tulee julkiseksi, kun päätös on allekirjoitettu. Toimivalta Kirkkonummen kunnan hallintosääntö § 96 (kunnanhallituksen hankintavaltuudet kunnan yhteisessä hankinnassa, jonka ennakoitu arvo on yli 500 000 €). Hankintapäätöksen ja -sopimuksen tekeminen Hankintasopimus ei synny hankintapäätöksen tiedoksiannolla, vaan edellyttää erillistä kirjallista sopimusta. EU-kynnysarvon ylittävässä hankinnassa hankintasopimus voidaan tehdä aikaisintaan 14 vuorokauden kuluttua, kun ehdokas tai tarjoa on saanut tai tämän katsotaan saaneen hankintapäätöksen ja valitusosoituksen tiedoksi",
+      "votes": [
+        {
+          "jaa": [
+            "Viveca Lindgren",
+            "Jani Kähkönen",
+            "Kim Åström",
+            "Anna Sahiluoma",
+            "Antti Kilappa"
+          ],
+          "ei": [
+            "Sanni Jäppinen",
+            "Ulf Kjerin",
+            "Sini Felipe",
+            "Ronja Karkinen",
+            "Sari Haapasaari Sari"
+          ],
+          "tyhja": [
+            "Kim Liljequist"
+          ],
+          "parties": {
+            "jaa": {
+              "kok": 3,
+              "ps": 1,
+              "prok": 1
+            },
+            "ei": {
+              "vihr": 2,
+              "rkp": 1,
+              "sdp": 1,
+              "kesk": 1
+            },
+            "tyhja": {
+              "rkp": 1
+            }
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta ilman evästystä",
+            "ei_label": "pohjaehdotusta evästyksellä",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "pohjaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": null,
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat pohjaehdotusta ilman evästystä äänestävät JAA, ja ne jotka kannattavat pohjaehdotusta evästyksellä äänestävät EI — annettiin 5 JAA ja 5 EI ääntä."
+          }
+        }
+      ],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 1 Vertailumuistio ja päätösehdotus Kirkkonummen kunta hankintapäätöksen liite Hankintapäätös; Kunnan vakuutusturvaa koskevan tarjouskilpailun ratkaiseminen Kunnanhallitus 25.08.2025 § 262 507/03.06.02/2025",
+        "valmistelija": "talousjohtaja Esa Lindell controller Ari Hasu etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää 1 valita selostusosassa tarkoitetun tarjouskilpailun voittajaksi molempien tarjouskorien osalta Keskinäinen vakuutusyhtiö Fennian (Y- tunnus: 0196826-7) / tarjouksen päiväys 28.7.2025. Voittaneen tarjoajan tarjous on kokonaistaloudellisesti edullisin tarjouspyynnössä määrätyin vertailuperustein vertaillen. 2 todeta, että tarjouskilpailun voittajaksi valitun tulee esittää hankintayksikön pyynnöstä tarjouspyynnössä ja tarjouspyynnön ESPD-asiakirjassa vaaditut tarjoajan soveltuvuutta koskevat hyväksyttävät selvitykset ennen hankintasopimuksen allekirjoittamista, 3 todeta, että hankintasopimus ei synny hankintapäätöksen tiedoksiannolla, vaan edellyttää erillistä kirjallista sopimusta, 4 päättää valtuuttaa kunnanjohtajan allekirjoittamaan puheena olevaa hankintaa koskevaan hankintasopimuksen sekä tekemään sopimuskauden aikana hankintasopimusta koskevat, sopimusehtojen mukaiset ratkaisut (kuten sopimuksen päättämistä ja optioiden käyttämistä koskevat ratkaisut)",
+        "kasittely": "Urho Blom ja Martin Valtonen ilmoittivat olevansa esteellisiä ja poistuivat kokouksesta tämän pykälän käsittelyn ja päätöksenteon ajaksi. Talousjohtaja Esa Lindell esitteli asiaa kokouksessa. Puheenjohtaja julisti keskustelun päättyneeksi ja totesi, että keskustelun aikana oli tehty seuraava evästysehdotus: Evästys (Ulf Kjerin): Että kunnan henkilöstön vapaa-ajan tapaturmavakuutus merkitään henkilöstölle. Tämä on huomattava henkilöstöetu. Evästysehdotusta kannatti Sari Haapasaari. Evästysehdotusta ei hyväksytty yksimielisesti, joten puheenjohtaja ilmoitti, että asiasta on äänestettävä. Puheenjohtaja ehdotti, että asiasta äänestetään niin, että ne jotka kannattavat pohjaehdotusta ilman evästystä äänestävät JAA, ja ne jotka kannattavat pohjaehdotusta evästyksellä äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 5 JAA-ääntä ja 5 EI-ääntä, 1 äänesti tyhjää. Äänestystuloksen ollessa tasan, puheenjohtajan ääni ratkaisee. Puheenjohtaja äänesti JAA, joten pohjaehdotus ilman evästystä voitti. JAA äänestivät Viveca Lindgren, Jani Kähkönen, Kim Åström, Anna Sahiluoma ja Antti Kilappa. EI äänestivät Sanni Jäppinen, Ulf Kjerin, Sini Felipe, Ronja Karkinen ja Sari Haapasaari Sari. Tyhjää äänesti Kim Liljequist",
+        "paatos": "perusteluineen tulee julkiseksi, kun päätös on allekirjoitettu. Toimivalta Kirkkonummen kunnan hallintosääntö § 96 (kunnanhallituksen hankintavaltuudet kunnan yhteisessä hankinnassa, jonka ennakoitu arvo on yli 500 000 €). Hankintapäätöksen ja -sopimuksen tekeminen Hankintasopimus ei synny hankintapäätöksen tiedoksiannolla, vaan edellyttää erillistä kirjallista sopimusta. EU-kynnysarvon ylittävässä hankinnassa hankintasopimus voidaan tehdä aikaisintaan 14 vuorokauden kuluttua, kun ehdokas tai tarjoa on saanut tai tämän katsotaan saaneen hankintapäätöksen ja valitusosoituksen tiedoksi",
+        "tiedoksi": "Tarjouksen jättäneet ja Söderberg & Partners Oy/Mia Timonen",
+        "selostus": "Aiemmat päätökset Kunnanhallitus on päätöksellään 26.5.2025 § 179 käynnistänyt ja hyväksynyt kunnan vakuutusturvaa koskevan tarjouskilpailun julkisena hankintana. Kunnanhallitus antoi päätöksessä kunnan valitsemalle vakuutusmeklarille Söderberg & Partners Oy:lle valtuuden kilpailuttaa hankinta liitteenä olevien tarjouspyyntöasiakirjojen mukaisesti pois lukien päätöksenteko. Hankinnan kohde Hankinnan kohteena on kunnan vakuutuspalvelut. Hankintailmoitukset ja tarjouspyyntö Hankintailmoitukseen liittyvä Vakuutustarjouspyyntö on päivätty 10.6.2025. Hankinnasta on julkaistu hankintalain edellyttämät hankintailmoitukset: - työ- ja elinkeinoministeriön julkisten hankintojen ilmoitusjärjestelmä (HILMA) -ilmoituksen julkaisupäivämäärä 11.6.2025 (ilmoituksen numero 2025-025995) - EU:n virallisen lehden täydennysosan verkkoversio (TED-tietokanta): ilmoituksen julkaisupäivämäärä 11.6.2025 (ilmoituksen numero 373396-1025). Hankittavan vakuutusturvapalvelun sisältö Tarjouskilpailun ehtojen perusteella hankittava vakuutusturvapalvelu on jaettu kahteen eri vakuutuskoriin, joka koostuu seuraavista vakuutustuotteista: Vakuutuskori I - Työtapaturma- ja ammattitautivakuutus - Vapaaehtoinen ryhmätapaturmavakuutus - Matkavakuutus - Etätyövakuutus (uusi vakuutusmuoto, joka korvaa nykyisen, henkilöstön vapaa-ajan vakuutuksen) Vakuutuskori II - Omaisuusvakuutus - Keskeytysvakuutus - Metsävakuutus - Oikeusturvavakuutus - Vastuuvakuutukset - Hallinnon vastuuvakuutus - Ajoneuvovakuutus Optiot Seuraavat vakuutustuotteet on jätetty erikseen sopimuskumppaniksi valitulta tilattaviksi optioiksi, joiden tilaamisen Kirkkonummen kunta ratkaisee erikseen: - henkilöstön vapaa-ajan vakuutus - rikosvakuutus Hankinnan ennakoitu arvo Hankinnan ennakoitu arvo on yksi miljoona euroa (alv 0 %). Saapuneet tarjoukset Todettu liitteessä 1 Tarjousvertailumuistio. Saapuneet tarjoukset ilmenevät liitteen kohdasta 3. Saapuneet tarjoukset ovat nähtävillä kokouksessa. Tarjouskilpailun perustiedot ja tarjousten vertailu Tarjouskilpailun perustiedot ja tarjousten vertailu on esitetty päätöksen liitteellä 1 Tarjousvertailumuistio. Tarjousten valintaperusteena on kokonaistaloudellinen edullisuus, jonka perusteena on halvin hinta. Päätöksen julkisuus Hankinta-asiakirjojen julkisuus: hankinnassa sovelletaan lakia viranomaisen toiminnan julkisuudesta (621/1999)"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "paatos_labels": 2,
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Vertailumuistio ja päätösehdotus Kirkkonummen kunta hankintapäätöksen liite",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252121-3-129767.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20252121-4",
+      "ordinal": "4",
+      "title": "Kiinteistön SIGGAS RN:o 7:105 määräalan hankinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252121-4",
+      "decision": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 2 Kartbilaga Kiinteistön SIGGAS RN:o 7:105 määräalan hankinta Kunnanhallitus 25.08.2025 § 263 679/10.00.01/2025",
+        "valmistelija": "kunnangeodeetti Otso Kärkkäinen etunimi.sukunimi@kirkkonummi.fi, puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kirkkonummen kunnanhallitus päättää 1 ostaa kiinteistön SIGGAS 257-404-7-105 noin 0,36 hehtaarin määräalan liitteenä olevan kauppakirjan ehdoin 5 400 euron kauppahintaan kiinnityksistä vapaana. 2 oikeuttaa kunnanjohtajan tekemään kauppakirjaan vähäisiä tarkistuksia ja valtuuttaa kunnanjohtajan allekirjoittamaan kauppakirjan",
+        "kasittely": "Kunnanjohtaja Virpi Sailas esitteli asiaa kokouksessa",
+        "paatos": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti",
+        "tiedoksi": "myyjä",
+        "selostus": "Hankittava maa-alue on Kirkkonummen yleiskaava 2020:ssa kyläkeskusten aluetta (kaavamerkintä AT). Muu selostus aiheesta on annettu oheismateriaalina, joka on salassa pidettävä. Kauppakirja on osittain salassa pidettävä"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kartbilaga",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252121-4-129108.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20252121-5",
+      "ordinal": "5",
+      "title": "Valtionosuusmuutokset 2025",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252121-5",
+      "decision": "perustuu kuntien yhdistymisen taloudellinen tukeen sekä digitalisaation kannustinjärjestelmään osoitettujen käyttämättömien määrärahojen osittaiseen palautukseen kuntien peruspalveluiden valtionosuuteen. Päätöksen vaikutus Kirkkonummen kunnalle myönnettyyn kunnan peruspalvelujen valtionosuuteen on 65 030 euroa. Muutos huomioidaan kunnan peruspalvelujen valtionosuuksien vuoden 2025 elokuun maksuerästä alkaen. Valtionvarainministeriön päätös ja oikaisuvaatimusohje ovat liitteenä",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 3",
+        "paatos": "perustuu kuntien yhdistymisen taloudellinen tukeen sekä digitalisaation kannustinjärjestelmään osoitettujen käyttämättömien määrärahojen osittaiseen palautukseen kuntien peruspalveluiden valtionosuuteen. Päätöksen vaikutus Kirkkonummen kunnalle myönnettyyn kunnan peruspalvelujen valtionosuuteen on 65 030 euroa. Muutos huomioidaan kunnan peruspalvelujen valtionosuuksien vuoden 2025 elokuun maksuerästä alkaen. Valtionvarainministeriön päätös ja oikaisuvaatimusohje ovat liitteenä",
+        "valmistelija": "talousjohtaja Esa Lindell etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää 1 merkitä ministeriön päätöksen tiedoksi 2 ettei päätökseen haeta muutosta",
+        "kasittely": "Kunnanjohtaja Virpi Sailas ja talousjohtaja Esa Lindell esittelivät asiaa kokouksessa",
+        "selostus": "Valtiovarainministeriö on tänään päättänyt lisätä kunnille myönnettävää kunnan peruspalvelujen valtionosuutta 1,58 euroa asukasta kohden vuodelle 2025 valtion vuoden 2025 II lisätalousarvioon perustuen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "paatos_labels": 3,
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Päätös kunnan peruspalvelujen valtionosuuden muutoksesta vuodelle 2025",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252121-5-129046.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20252121-6",
+      "ordinal": "6",
+      "title": "Talouden ja toiminnan kuukausiraportti 7/2025",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252121-6",
+      "decision": "Kunnanhallitus merkitsi kuukausiraportin 7/2025 tiedokseen",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 4 Talouden ja toiminnan kuukausiraportti 7 2025 Talouden ja toiminnan kuukausiraportti 7/2025 Kunnanhallitus 25.08.2025 § 265 506/02.02.00/2024",
+        "valmistelija": "talousjohtaja Esa Lindell etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus merkitsee kuukausiraportin 7/2025 tiedokseen",
+        "kasittely": "Talousjohtaja Esa Lindell esitteli asiaa kokouksessa",
+        "paatos": "Kunnanhallitus merkitsi kuukausiraportin 7/2025 tiedokseen",
+        "selostus": "Kuukausiraportointiin sisältää käyttötalouden ja investointien toteuman lisäksi tietoa asukasluvun ja työllisyystilanteen kehityksestä. Käyttötalouden toimintakate kasvoi heinäkuussa 8 % edelliseen vuoteen nähden, kun käytettävissä on 16,5 % enemmän määrärahaa kuin tilinpäätöksessä 2024. Toimintakatteen arvioidaan alittuvan 6,3 milj. euroa. Poistojen toteuma tulee ennusteen mukaan ylittymään 1,6 milj. euroa. Rahoituskustannukset tulevat ylittymään arviolta 0,5 milj. euroa. Tulos on heinäkuun lopun tilanteessa - 2,6 milj. euroa, kun tulokseen on otettu mukaan myös heinäkuun työmarkkinatukiosuuden menot 430 000 €. Talousarvioon mukainen ylijäämä on 2,9 milj. euroa. Ennustettu ylijäämä on 0,7 milj. euroa, jota on vähentänyt 0,8 milj. eurolla purettujen rakennusten arvon alennukset ja Wiggen ensimmäinen vuokraleasingerä 1,2 milj. euroa.. Investointien toteuma oli heinäkuussa 28,0 milj. euroa eli 61,7 % kun ajankohdan laskennallinen toteuma olisi 58,3 %. Verotuloja on saatu 1,7 % edellisvuoden heinäkuuhun nähden vähemmän. Yhteisöverotulot ovat vähentyneet 26,9 % edellisen vuoden heinäkuuhun verrattuna. Kuntaliitto on ennusteessaan 8/2025 arvioinut, että Kirkkonummen verotulot alittavat budjetin 4,4 milj. eurolla"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Talouden ja toiminnan kuukausiraportti 7 2025",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252121-6-129277.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20252121-7",
+      "ordinal": "7",
+      "title": "Vanhusneuvoston toimintasäännön päivittäminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252121-7",
+      "decision": "Kunnanhallitus päätti yksimielisesti 1 hyväksyä liitteenä olevan vanhusneuvoston toimintasäännön käsittelyn yhteydessä hyväksytyllä muutoksella. Toimintasääntö astuu voimaan välittömästi. 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 5 Kirkkonummen vanhusneuvoston toimintasääntö_25.8.2025 (2) Vanhusneuvoston toimintasäännön päivittäminen Kunnanhallitus 25.08.2025 § 266 502/00.00.01/2025",
+        "valmistelija": "Hallintojohtaja Jaana Suihkonen etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää 1 hyväksyä liitteenä olevan vanhusneuvoston toimintasäännön. Toimintasääntö astuu voimaan välittömästi. 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "kasittely": "Hallintojohtaja Jaana Suihkonen esitteli asiaa kokouksessa. Puheenjohtaja julisti keskustelun päättyneeksi ja totesi että keskustelun aikana Kim Åström oli tehnyt seuraavan muutosehdotuksen: Muutosehdotus (Kim Åström): § 5 viimeinen kappale uusi muotoilu Vanha muotoilu: ”Vanhusneuvosto valitsee lisäksi edustajan, jolla on läsnäolo- ja puheoikeus, sivistys- ja hyvinvointilautakuntaan, kuntakehityksen lautakuntaan sekä vammaisneuvostoon. Läsnäolo-oikeutta ei ole, jos käsiteltäviin asiakirjoihin sisältyy salassa pidettäviä tietoja.” Uusi muotoilu: “Vanhusneuvosto valitsee lisäksi edustajansa kunnan toimielimiin, joissa neuvoston edustajalla on kunnan hallintosäännön mukaisesti läsnäolo- ja puheoikeus.” Perustelu: Muihinkin kuin lueteltuihin toimielimiin on syytä valita edustaja, hallintosäännön siteeraus muilta osin epätarkoituksenmukaista. Muutosehdotusta kannattivat Urho Blom, Viveca Lindgren ja Antti Kilappa. Puheenjohtajan tiedustellessa muutosehdotus hyväksyttiin yksimielisesti",
+        "paatos": "Kunnanhallitus päätti yksimielisesti 1 hyväksyä liitteenä olevan vanhusneuvoston toimintasäännön käsittelyn yhteydessä hyväksytyllä muutoksella. Toimintasääntö astuu voimaan välittömästi. 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "tiedoksi": "vanhusneuvoston sihteeri",
+        "selostus": "Kirkkonummen kunnan hallintosäännön 17 §:n mukaan kunnanhallitus hyväksyy vaikuttamistoimielimen toimintasäännön. Kunnanhallitus on hyväksynyt vammaisneuvoston toimintasäännön 27.1.2025 § 33. Toimintasäännön mukaan vanhusneuvoston toimikausi on valtuustokauden mittainen eli neljä vuotta. 16.6.2025 voimaan astuneessa hallintosäännössä vaikuttamistoimielinten toimikaudeksi on kuitenkin määritelty kaksi vuotta. Näin ollen vanhusneuvoston toimintasääntöä on tarpeen päivittää. Toimikauden pituuden lisäksi toimintasääntöä ehdotetaan täsmennettävän edustusta koskevan pykälän osalta koska lautakuntien nimet ovat muuttuneet uuden valtuustokauden alusta. Tämän lisäksi toimintasääntöön ehdotetaan tehtäväksi joitain teknisiä korjauksia"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kirkkonummen vanhusneuvoston toimintasääntö_25.8.2025 (2)",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252121-7-129770.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Kim Åström",
+          "kind": "vastaehdotus",
+          "text": "Muutosehdotus (Kim Åström): § 5 viimeinen kappale uusi muotoilu Vanha muotoilu: ”Vanhusneuvosto valitsee lisäksi edustajan, jolla on läsnäolo- ja puheoikeus, sivistys- ja hyvinvointilautakuntaan, kuntakehityksen lautakuntaan sekä vammaisneuvostoon. Läsnäolo-oikeutta ei ole, jos käsiteltäviin asiakirjoihin sisältyy salassa pidettäviä tietoja.” Uusi muotoilu: “Vanhusneuvosto valitsee lisäksi edustajansa kunnan toimielimiin, joissa neuvoston edustajalla on kunnan hallintosäännön mukaisesti läsnäolo- ja puheoikeus.” Perustelu: Muihinkin kuin lueteltuihin toimielimiin on syytä valita edustaja, hallintosäännön siteeraus muilta osin epätarkoituksenmukaista. Muutosehdotusta kannattivat Urho Blom, Viveca Lindgren ja Antti Kilappa",
+          "source": "introduction",
+          "party": "kok"
+        }
+      ]
+    },
+    {
+      "id": "20252121-8",
+      "ordinal": "8",
+      "title": "Vammaisneuvoston toimintasäännön päivittäminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252121-8",
+      "decision": "Kunnanhallitus päätti yksimielisesti 1 hyväksyä liitteenä olevan vammaisneuvoston toimintasäännön käsittelyn yhteydessä hyväksytyllä muutoksella. Toimintasääntö astuu voimaan välittömästi. 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 6 Kirkkonummen vammaisneuvoston toimintasääntö_25.8.2025 (2) Vammaisneuvoston toimintasäännön päivittäminen Kunnanhallitus 25.08.2025 § 267 501/00.00.01/2025",
+        "valmistelija": "Hallintojohtaja Jaana Suihkonen etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää 1 hyväksyä liitteenä olevan vammaisneuvoston toimintasäännön. Toimintasääntö astuu voimaan välittömästi. 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "kasittely": "Hallintojohtaja Jaana Suihkonen esitteli asiaa kokouksessa. Muutosehdotus (Kim Åström): § 6 viimeinen kappale uusi muotoilu Vanha muotoilu: ”Vammaisneuvosto valitsee lisäksi edustajan, jolla on läsnäolo- ja puheoikeus, sivistys- ja hyvinvointilautakuntaan, kuntakehityksen lautakuntaan sekä vanhusneuvostoon. Läsnäolo-oikeutta ei ole, jos käsiteltäviin asiakirjoihin sisältyy salassa pidettäviä tietoja.” Uusi muotoilu: “Vammaisneuvosto valitsee lisäksi edustajansa kunnan toimielimiin, joissa neuvoston edustajalla on kunnan hallintosäännön mukaisesti läsnäolo- ja puheoikeus.” Perustelu: Muihinkin kuin lueteltuihin toimielimiin on syytä valita edustaja, hallintosäännön siteeraus muilta osin epätarkoituksenmukaista. Muutosehdotusta kannattivat Urho Blom ja Viveca Lindgren. Puheenjohtajan tiedustellessa muutosehdotus hyväksyttiin yksimielisesti",
+        "paatos": "Kunnanhallitus päätti yksimielisesti 1 hyväksyä liitteenä olevan vammaisneuvoston toimintasäännön käsittelyn yhteydessä hyväksytyllä muutoksella. Toimintasääntö astuu voimaan välittömästi. 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "tiedoksi": "vammaisneuvoston sihteeri",
+        "selostus": "Kirkkonummen kunnan hallintosäännön 17 §:n mukaan kunnanhallitus hyväksyy vaikuttamistoimielimen toimintasäännön. Kunnanhallitus on hyväksynyt vammaisneuvoston toimintasäännön 27.1.2025 § 32. Toimintasäännön mukaan vammaisneuvoston toimikausi on valtuustokauden mittainen eli neljä vuotta. 16.6.2025 voimaan astuneessa hallintosäännössä vaikuttamistoimielinten toimikaudeksi on kuitenkin määritelty kaksi vuotta. Näin ollen vammaisneuvoston toimintasääntöä on tarpeen päivittää. Toimikauden pituuden lisäksi toimintasääntöä ehdotetaan täsmennettävän kokoonpanoa koskeva pykälän osalta siten, että kunnanhallituksen nimeämä edustaja on edustettuna neuvostossa. Vammaisneuvoston jäsenten lukumääräksi ehdotetaan aiemman kymmenen sijaan enintään yhtätoista jäsentä ja heille henkilökohtaiset varajäsenet. Toimintasääntöön on myös lisätty hyvinvointialueen vammaisneuvoston jäsenten nimeämistä koskeva kohta. Tämän lisäksi toimintasääntöön ehdotetaan tehtäväksi joitain teknisiä korjauksia"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kirkkonummen vammaisneuvoston toimintasääntö_25.8.2025 (2)",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252121-8-129771.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20252121-9",
+      "ordinal": "9",
+      "title": "Vanhusneuvoston nimeäminen toimikaudelle 2025-2027",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252121-9",
+      "decision": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "hallinnon erityisasiantuntija Pia Bergström etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää nimetä vanhusneuvostoon vanhusjärjestöjen edustajat seuraavasti kaudelle 2025-2027: - Kyrkslätts pensionärer rf: jäsen Sonja Rönkkö, varajäsen Håkan Taubert - Eläkeliitto, K:nummen yhdistys: jäsen Seppo Nyqvist, varajäsen Ulla Haanperä - Kirkkonummi-Siuntion Eläkeläiset ry: jäsen Tuomo Tiitinen, varajäsen Irma Härkönen - Kyrkslätts Seniorer rf: jäsen Kaj Sjöblom, varajäsen Eja Björkqvist - Kirkkonummen Kansalliset seniorit ry: jäsen Irja Orava; varajäsen Kirsti Karlsson - Kirkkonummen Eläkkeensaajat ry: jäsen Pekka Jäppinen, varajäsen Riikka Sääjärvi",
+        "paatos": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti",
+        "tiedoksi": "valitut, vanhusneuvoston sihteeri",
+        "selostus": "Kirkkonummen kunnan hallintosäännön § 17 mukaan kunnassa on nuorisovaltuusto, vanhusneuvosto ja vammaisneuvosto. Kunnanhallitus asettaa ao. vaikuttamistoimielimet kahdeksi vuodeksi. Vanhusneuvosto valitsee tämän jälkeen keskuudestaan puheenjohtajan ja varapuheenjohtajan. Vanhusneuvostossa ovat edustettuina Kirkkonummella toimivat eläkeläisjärjestöt ja järjestöt ovat ehdottaneet jäseniksi ja varajäseniksi seuraavia henkilöitä: Järjestö, varsinainen jäsen / varajäsen Kyrkslätts pensionärer rf: Sonja Rönkkö / Håkan Taubert Eläkeliitto, K:nummen yhdistys: Seppo Nyqvist / Ulla Haanperä Kirkkonummi-Siuntion Eläkeläiset ry: Tuomo Tiitinen / Irma Härkönen Kyrkslätts Seniorer rf: Kaj Sjöblom / Eja Björkqvist Kirkkonummen Kansalliset seniorit ry: Irja Orava / Kirsti Karlsson Kirkkonummen Eläkkeensaajat ry: Pekka Jäppinen / Riikka Sääjärvi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252121-10",
+      "ordinal": "10",
+      "title": "Vammaisneuvoston nimeäminen toimikaudelle 2025-2027",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252121-10",
+      "decision": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "hallinnon erityisasiantuntija Pia Bergström etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää nimetä vammaisneuvoston toimikaudelle 2025–2027 seuraavalla kokoonpanolla: Kirkkonummen-Siuntion Sydänyhdistys: jäsen Jan Tallberg, varajäsen Tarja Piili Länsi-Uudenmaan AVH ry: jäsen Paula Tokoi, varajäsen Helena Paimela Kirkkonummen Seudun Invalidit ry: jäsen Marjaana Kämppi, varajäsen Tomi Kinnunen Kirkkonummen Reuma-Tules ry: jäsen Tarja Piili, varajäsen Paula Tokoi Kirkkonummen kehitysvammaisten tuki ry: jäsen Inger Karlsson, varajäsen Eira Palenius Kirkkonummen Seudun Mielenterveysyhdistys Kisu ry: jäsen Hellevi Varpio, varajäsen Johanna Laaksonen UUMU ry, Uudenmaan munuais- ja maksayhdistys: jäsen Juha-Matti Koskinen Helsingin Seudun Psoriasisyhdistys ry: jäsen Pekka Fredriksson, varajäsen Sune Främling Suomen Dystoniayhdistys ry: jäsen Stefan Taubert De Utvecklingsstördas Väl i Mellersta Nyland rf: jäsen: Kenneth Eriksson",
+        "paatos": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti",
+        "tiedoksi": "valitut, vammaisneuvoston sihteeri",
+        "selostus": "Kirkkonummen kunnan hallintosäännön § 17 mukaan kunnassa on nuorisovaltuusto, vanhusneuvosto ja vammaisneuvosto. Kunnanhallitus asettaa ao. vaikuttamistoimielimet kahdeksi vuodeksi. Vammaisneuvosto valitsee sitten keskuudestaan puheenjohtajan ja varapuheenjohtajan. Vammaisneuvostossa ovat edustettuina Kirkkonummella toimivat vammais- ja potilasjärjestöt, jotka ovat ehdottaneet vammaisneuvoston jäseniksi ja varajäseniki seuraavia henkilöitä: Kirkkonummen-Siuntion Sydänyhdistys varsinainen jäsen: Jan Tallberg varajäsen: Tarja Piili Länsi-Uudenmaan AVH ry varsinainen jäsen: Paula Tokoi varajäsen: Helena Paimela Kirkkonummen Seudun Invalidit ry varsinainen jäsen: Marjaana Kämppi varajäsen: Tomi Kinnunen Kirkkonummen Reuma-Tules ry varsinainen jäsen: Tarja Piili varajäsen: Paula Tokoi Kirkkonummen kehitysvammaisten tuki ry varsinainen jäsen: Inger Karlsson varajäsen: Eira Palenius Kirkkonummen Seudun Mielenterveysyhdistys Kisu ry varsinainen jäsen: Hellevi Varpio varajäsen: Johanna Laaksonen UUMU ry, Uudenmaan munuais- ja maksayhdistys varsinainen jäsen: Juha-Matti Koskinen varajäsen: - Helsingin Seudun Psoriasisyhdistys ry varsinainen jäsen: Pekka Fredriksson varajäsen: Sune Främling Suomen Dystoniayhdistys ry varsinainen jäsen: Stefan Taubert varajäsen: - De Utvecklingsstördas Väl i Mellersta Nyland rf: varsinainen jäsen: Kenneth Eriksson varajäsen: -"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252121-11",
+      "ordinal": "11",
+      "title": "Raja- ja Merivartiojoukkojen perinneyhdistys ry:n kirjahankkeen tukeminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252121-11",
+      "decision": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "Hallintojohtaja Jaana Suihkonen Talousasiantuntija Emma Collander etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää avustaa Raja- ja Merivartiojoukkojen perinneyhdistys ry:n kirjahankkeen kustannuksia 5 000 eurolla",
+        "paatos": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti",
+        "selostus": "Raja- ja Merivartiojoukkojen perinneyhdistys on 15.8.2025 julkaissut teoksen – Turvanasi tyynessä ja tyrskyissä – merivartioasemia ja -aluksia. Tämä on osa Rajavartiolaitoksen perinnetyötä. Yhdistys on saanut avustusta kirjaprojektia varten eri toimijoilta ja lähestynyt Kirkkonummen kuntaa 1.7.2025 saapuneella 5 000 euron suuruisella avustuspyynnöllä, jolla katetaan puuttuvat kustannukset. Yhdistys on perustellut hakemustansa Kirkkonummen kunnalle sillä, että kunta on omalta osaltaan tärkeä lenkki Suomen merialueiden turvaamisessa"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252121-12",
+      "ordinal": "12",
+      "title": "Ruotsinkielisen kasvatus- ja koulutuslautakunnan erottaminen (kv)",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252121-12",
+      "decision": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "Kunnanlakimies Hannu Sorvari etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää 1 ehdottaa kunnanvaltuustolle, että valtuusto päättää erottaa ruotsinkielisen kasvatus- ja koulutuslautakunnan 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "paatos": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti",
+        "selostus": "Kunnanvaltuuston 16.6.2025 pidetyssä kokouksessa on erehdyksessä käsitelty esitys ja tehty päätös, jossa on ollut virhe ruotsinkielisen kasvatus- ja koulutuslautakunnan kokoonpanossa. Virheen korjaamiseksi valtuuston on syytä erottaa aiemmin valittu lautakunta ja valita sen tilalle ao. lautakunta muutetussa kokoonpanossa (seuraava pykälä). Taustana tähän esitykseen on, että Keskustan ja RKP:n kahden vuoden kausiksi (puolet valtuustokaudesta) keskenään jakama lautakuntapaikka on määrätty 16.6.2025 tehdyllä valtuuston päätöksellä kaudeksi 2025-27 Keskustalle ja kaudeksi 2027-29 RKP:lle. Esityksen valmistellut luottamushenkilötoimikunta on kuitenkin tarkoittanut, että kausi 2025 -27 olisi RKP:n edustajilla ja kausi 2027-29 olisi Keskustan edustajilla. Siten lautakunnan kokoonpanosta on muodostunut erilainen, kuin luottamushenkilötoimikunnan päätöksessä"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252121-13",
+      "ordinal": "13",
+      "title": "Ruotsinkielisen kasvatus- ja koulutuslautakunnan jäsenten ja varajäsenten valinta kaudelle 2025-2027 (kv)",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252121-13",
+      "decision": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "hallinnon erityisasiantuntija Pia Bergström hallinnon asiantuntija Gunnel Ekström etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää 1 ehdottaa kunnanvaltuustolle, että valtuusto 1.1 päättää valita ruotsinkielisen kasvatus- ja koulutuslautakuntaan 9 jäsentä ja heille henkilökohtaiset varajäsenet kaudeksi 2025-2027 seuraavan mukaisesti: pj. Linda Basilier (RKP) / Merja Tarkiainen (RKP) vpj. Nina Halme (SDP) / Teppo Lampovaara (SDP) Petra Ekberg-Kontula (RKP) / Jenny Snellman (RKP) Stefan Gustafsson (RKP) / Oliver Lundqvist (RKP) Markku Alanne (KOK) / Kjell Wallenius (KOK) Irja Bergholm (Vas) / Kati Kaihlaranta (Vas) Rita Holopainen (KD) / Eerika Selin (KOK) Patrik Lundell (RKP.) / Joel Främling (RKP) Henry Scheinin (Vihreät) / Paula Oittinen (Vihreät). 1.2 päättää valita jäsenten keskuudesta ruotsinkieliselle kasvatus- ja opetuslautakunnalle puheenjohtajan ja varapuheenjohtajan kaudeksi 2025-2027. 2 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "paatos": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti",
+        "selostus": "Kirkkonummen kunnan hallintosäännön mukaan lautakunnan yleisenä tehtävänä on ohjata ja valvoa alaistaan toimialaa ja vastata palvelujen tuloksellisesta järjestämisestä. Lautakunnan tehtävänä on seurata ja arvioida palvelujen vaikuttavuutta ja varata asukkaille ja käyttäjille mahdollisuus osallistua palveluiden suunnitteluun ja kehittämiseen. Kasvatus- ja koulutuslautakuntien tehtäviin kuuluvat varhaiskasvatusta, esiopetusta, perusopetusta, toisen asteen koulutusta, ammatillisten kuntayhtymien järjestämää koulutusta ja koululaisten aamu- ja iltapäivätoimintaa koskevat asiat siltä osin kuin ne koskevat kyseessä olevaa kieliryhmää. Lautakuntien alaisuudessa toimivat asianomaiseen kieliryhmään kuuluvat kunnalliset ja yksityiset päiväkodit, perhepäivähoito, asukaspuistot sekä perusopetusta ja lukiokoulutusta antavat koulut ja oppilaitokset. Ruotsinkielisen kasvatus- ja koulutuslautakunnan erityisistä tehtävistä ja toimivallasta määrätään Kirkkonummen kunnan hallintosäännössä pykälässä 34. Valtuusto valitsee kuhunkin lautakuntaan jäsenet ja henkilökohtaiset varajäsenet, joihin sovelletaan, mitä varsinaisesta jäsenestä säädetään. Lautakuntien toimikausi on kaksi vuotta. Valtuusto valitsee jäsenten keskuudesta puheenjohtajan ja varapuheenjohtajan kahden vuoden toimikaudeksi. Lautakunnan enemmistön on oltava varsinaisia valtuutettuja tai varavaltuutettuja. Lautakunnan puheenjohtaja ja varapuheenjohtaja ovat varsinaisia valtuutettuja tai varavaltuutettuja. Kunnallisissa ja kuntien välisen yhteistoiminnan toimielimissä, lukuun ottamatta kunnanvaltuustoja, tulee olla sekä naisia että miehiä kumpiakin vähintään 40 prosenttia, jollei erityisistä syistä muuta johdu. Vaalikelpoisuudesta lautakuntaan ja valiokuntaan säädetään kuntalain pykälässä 74. Ruotsinkielisen kasvatus- ja koulutuslautakuntaan valitaan 9 jäsentä ja heille henkilökohtaiset varajäsenet"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252121-14",
+      "ordinal": "14",
+      "title": "Kunnan edustajien valinta Kuntapäiville Helsingissä 13.11.2025",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252121-14",
+      "decision": "Kunnanhallitus päätti valita seuraavat edustajat ja varaedustajat Kuntapäiville Helsingissä 13.11.2025: RKP: edustaja Ulf Kjerin, varaedustaja Martin Valtonen Keskusta: edustaja Sari Haapasaari, varaedustaja Marjut Frantsi-Lankia",
+      "votes": [],
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Kutsu Kuntapäiville Helsinkiin 13.11.2025 Ohje: Kuntapäivät 2025 Kunnan edustajien valinta Kuntapäiville Helsingissä 13.11.2025 Kunnanhallitus 25.08.2025 § 273 806/00.04.01/2024",
+        "valmistelija": "hallinnon asiantuntija Gunnel Ekström etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää valita kaksi (2) kunnan edustajaa ja heille varaedustajat Kuntapäiville Helsingissä 13.11.2025",
+        "paatos": "Kunnanhallitus päätti valita seuraavat edustajat ja varaedustajat Kuntapäiville Helsingissä 13.11.2025: RKP: edustaja Ulf Kjerin, varaedustaja Martin Valtonen Keskusta: edustaja Sari Haapasaari, varaedustaja Marjut Frantsi-Lankia",
+        "selostus": "Kuntaliiton sääntöjen mukaan yhdistyksen varsinainen kokous, Kuntapäivät, pidetään joka neljäs vuosi kuntavaalien jälkeen elo-marraskuussa. Suomen Kuntaliitto ry:n hallitus kutsuu Kuntapäivät koolle Helsinkiin 13.11.2025. Kokouspaikkana on Scandic Marina Congress Center, Katajanokanlaituri 7. Jäsenkunnat (kunnanhallitus tai –valtuusto) saavat valita liiton sääntöjen perusteella edustajia Kuntapäiville kunnan asukasluvun mukaan. Kunnan asukasluvulla tarkoitetaan väestötietojärjestelmän kuntavaaleja edeltävän vuodenvaihteen asukaslukua. Kunnan asukasluku Edustajia alle 20 000 asukasta 1 edustaja 20 001 - 100 000 asukasta 2 edustajaa yli 100 000 asukasta 3 edustajaa Jäsenkunta voi valita varsinaisille edustajille tarpeellisen määrän varaedustajia. Varaedustaja osallistuu Kuntapäiville varsinaisen edustajan ollessa estyneenä. Päätöksenteko Kuntapäivillä Jäsenkuntien äänimäärät Kuntapäivillä määräytyvät asukasluvun mukaan seuraavasti: Kunnan asukasluku Äänimäärä Enintään 10 000 asukasta 1 ääni 10 001 - 100 000 asukasta 2 ääntä yli 100 000 asukasta 20 ääntä Käsiteltävät asiat: Varsinaisten Kuntapäivien on käsiteltävä hallituksen antama, valtuuskunnan hyväksymä kertomus edellisten varsinaisten Kuntapäivien jälkeen tapahtuneesta yhdistyksen toiminnasta; päätettävä valtuuskunnan jäsenten palkkioista ja korvauksista; ja valittava valtuuskunnan jäsenet ja kullekin henkilökohtainen varajäsen seuraaviin varsinaisiin Kuntapäiviin kestäväksi toimikaudeksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Kutsu Kuntapäiville Helsinkiin 13.11.2025",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252121-14-125105.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Ohje: Kuntapäivät 2025",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252121-14-125106.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20252121-15",
+      "ordinal": "15",
+      "title": "Läsnäolo kunnanhallituksen kokouksessa",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252121-15",
+      "decision": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "Hallintojohtaja Jaana Suihkonen etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää, että hallintojohtajalla, henkilöstöjohtajalla, kuntakehitysjohtajalla, sivistysjohtajalla ja talousjohtajalla on läsnäolo- ja puheoikeus kunnanhallituksen kokouksissa",
+        "paatos": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti",
+        "selostus": "Kirkkonummen kunnan hallintosäännön 160 §:ssä määrätään läsnäolosta toimielimen kokouksessa. Toimielin, toimielimen puheenjohtaja tai toimielimen esittelijä päättää muiden kuin ko. pykälässä mainittujen henkilöiden läsnäolo- ja puheoikeudesta toimielimen kokouksessa. Käytännössä on todettu, että on tarkoituksenmukaista, että kunnan ylimmällä johdolla on läsnäolo- ja puheoikeus kunnanhallituksen kokouksissa. Sen vuoksi kunnanhallitukselle esitetään, että hallintojohtajalla, henkilöstöjohtajalla, kuntakehitysjohtajalla, sivistysjohtajalla ja talousjohtajalla on ko. oikeus"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252121-16",
+      "ordinal": "16",
+      "title": "Kunnanhallituksen ja valtuuston pöytäkirjanpitäjän ja sihteerin määrääminen (kv)",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252121-16",
+      "decision": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "Halllintojohtaja Jaana Suihkonen etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää 1 ottaa sihteerikseen hallintojohtajan ja varasihteeriksi kunnanlakimiehen. 2 ehdottaa kunnanvaltuustolle, että valtuusto määrää valtuuston sihteeriksi hallintojohtajan ja varasihteeriksi kunnanlakimiehen. 3 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "paatos": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti",
+        "selostus": "Kirkkonummen kunnan hallintosäännön 111 §:n mukaan valtuuston kokousten pöytäkirjanpitäjänä ja valtuuston sihteerinä toimii valtuuston määräämä viranhaltija. Kunnanhallituksen osalta vastaavaa kirjausta ei ole. On kuitenkin tarkoituksenmukaista, että kunnanhallitus päättää sihteerin ottamisesta kunnanhallituksen pöytäkirjan pitämistä ja muita toimielimen sihteerin tehtäviä varten. Hallintojohtaja voi määrätä erikseen pöytäkirjanpitäjän. Este- ja esteellisyystilanteita varten on lisäksi tarpeen valita varasihteeri molempiin toimielimiin"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252121-17",
+      "ordinal": "17",
+      "title": "Esittelijän ajankohtaiset asiat",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252121-17",
+      "decision": "Kunnanhallitus päätti merkitä ajankohtaiskatsauksen tiedoksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää merkitä ajankohtaiskatsauksen tiedoksi",
+        "paatos": "Kunnanhallitus päätti merkitä ajankohtaiskatsauksen tiedoksi",
+        "selostus": "Kunnanjohtaja Sailas Virpi esittelee ajankohtaisia valmisteluissa olevia asioita: - Västra-yhteistyön tilannekatsaus"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252121-18",
+      "ordinal": "18",
+      "title": "Kuntalain 92 §:n mukaista otto-oikeusmenettelyä varten saapuneet päätökset",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252121-18",
+      "decision": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 7 Päätösluettelo_15.-21.8.2025 Kuntalain 92 §:n mukaista otto-oikeusmenettelyä varten saapuneet päätökset Kunnanhallitus 25.08.2025 § 277 Viranhaltijapäätöksiä Viranhaltijapäätökset ovat kokonaisuudessaan liitteineen luettavissa kokousjärjestelmässä: (tiedostot / kunnanhallitus / viranhaltijapäätökset)",
+        "esittelija": "Kunnanjohtaja Virpi Sailas, etunimi.sukunimi@kirkkonummi.fi",
+        "paatosehdotus": "Kunnanhallitus merkitsee tiedokseen edellä mainitut kuntalain 92 §:n nojalla otto-oikeuden käyttämistä varten esitetyt päätökset ja päättää, että Kunnanhallitus ei ota asioita käsiteltäväkseen",
+        "paatos": "Kunnanhallitus päätti yksimielisesti päätösehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Päätösluettelo_15.-21.8.2025",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252121-18-129157.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20252121-19",
+      "ordinal": "19",
+      "title": "Pöytäkirjoja tiedoksi",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252121-19",
+      "decision": "Kunnanhallitus merkitsi pöytäkirjat tiedokseen",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 8 Kuntien edustajainkokouksen pöytäkirja 19.8.2025 9 Kommunernas representantskap 19.8.2025 protokoll 10\n, Uudenmaan maakuntavaltuusto 2025-2029 Pöytäkirjoja tiedoksi Kunnanhallitus 25.08.2025 § 278 Uudenmaan liitto, Kuntien edustajainkokous, 19.8.2025",
+        "esittelija": "Kunnanjohtaja Virpi Sailas, etunimi.sukunimi@kirkkonummi.fi",
+        "paatosehdotus": "Kunnanhallitus merkitsee pöytäkirjat tiedokseen",
+        "paatos": "Kunnanhallitus merkitsi pöytäkirjat tiedokseen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kuntien edustajainkokouksen pöytäkirja 19.8.2025",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252121-19-129219.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kommunernas representantskap 19.8.2025 protokoll",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252121-19-129221.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite, Uudenmaan maakuntavaltuusto 2025-2029",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252121-19-129222.PDF"
+        }
+      ],
+      "proposals": []
+    }
+  ],
+  "id": "20252121",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20252121"
+}

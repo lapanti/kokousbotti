@@ -1,0 +1,288 @@
+{
+  "title": "Yhdyskuntatekniikan lautakunta Pöytäkirja 05.06.2025 klo 18:00 - 19:56 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Yhdyskuntatekniikan lautakunta",
+  "doctype": "Pöytäkirja",
+  "date": "2025-06-05",
+  "items": [
+    {
+      "id": "20252085-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252085-1",
+      "decision": "Puheenjohtaja totesi kokouksen laillisesti koolle kutsutuksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Puheenjohtaja totesi kokouksen laillisesti koolle kutsutuksi ja päätösvaltaiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252085-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252085-2",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaisesti. Pöytäkirjantarkistajiksi valittiin Ronja Karkinen ja Teemu Kelkka. Lisäksi lautakunta päätti käsitellä ylimääräisenä asiana esityslistan ulkopuolelta §56 ”Oikaisuvaatimus kunnossapitopäällikön päätöksestä\"",
+      "votes": [
+        {
+          "jaa": [
+            "Snellman Jenny",
+            "Polkko Aleksander",
+            "Liljequist Kim",
+            "Salonen Antti",
+            "Kelkka Teemu",
+            "Sved Ann-Christine"
+          ],
+          "ei": [
+            "Åström Kim",
+            "Jäppinen Pekka",
+            "Karkinen Ronja",
+            "Ketola Tarja"
+          ],
+          "tyhja": [],
+          "named_by": "surname",
+          "totals": {
+            "jaa": 6,
+            "ei": 4,
+            "tyhja": 0
+          },
+          "as_written": {
+            "jaa": [
+              "Snellman",
+              "Polkko",
+              "Liljequist",
+              "Salonen",
+              "Kelkka",
+              "Sved"
+            ],
+            "ei": [
+              "Åström",
+              "Jäppinen P",
+              "Karkinen",
+              "Ketola"
+            ],
+            "tyhja": []
+          },
+          "names_from": "osallistujat",
+          "unresolved": [],
+          "parties": {
+            "jaa": {
+              "rkp": 3,
+              "prok": 1,
+              "pro yl": 1,
+              "kesk": 1
+            },
+            "ei": {
+              "kok": 1,
+              "sdp": 1,
+              "vihr": 2
+            },
+            "tyhja": {}
+          }
+        }
+      ],
+      "sections": {
+        "valmistelija": "hallinnon asiantuntija Suvi Wikström, etunimi.sukunimi@kirkkonummi.fi",
+        "paatosehdotus": "Yhdyskuntatekniikan lautakunta päättää 1 valita kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan 2 tarkastaa tämän pöytäkirjan sähköisesti seuraavan aikataulun mukaan: Pöytäkirja tarkastetaan tiistaina 10.6.2025. Jos hyväksymisviestiä ei tule sihteerille em. ajankohtaan mennessä, pöytäkirja katsotaan hyväksytyksi. Pöytäkirja allekirjoitetaan sähköisesti. Tarkastettu pöytäkirja asetetaan yleisesti nähtäville kunnan julkiseen tietoverkkoon keskiviikkona 11.6.2025",
+        "kasittely": "Pykälän käsittelyn aikana Aleksander Polkko pyysi työjärjestyspuheenvuoron ja teki seuraavan esityksen: ”Esitän että viime kokuksen pykälä 49 oikaisuvaatimus kunnossapitopäällikön päätöksestä otetaan uudelleen käsittelyyn tässä kokouksessa.” Teemu Kelkka kannatti esitystä. Ehdotusta ei kannatettu yksimielisesti, joten asiasta tulee äänestää. Ne, jotka kannattavat asian ottamista käsittelyyn, äänestävät JAA ja ne, jotka eivät kannata asian ottamasta käsittelyyn, äänestävät EI Puheenjohtaja päätti äänestyksen. Äänet jakautuvat seuraavasti: 6 JAA- ääntä (Snellman, Polkko, Liljequist, Salonen, Kelkka, Sved) 4 EI- ääntä (Åström, Jäppinen P., Karkinen, Ketola), jolloin asia päätettiin ottaa käsittelyyn. Lautakunta päätti käsitellä ensin listan ulkopuolelta otetun kokousasian ja sen jälkeen muut kokousasiat alkuperäisessä järjestyksessä. Pykälänumerointi täsmännetään pöytäkirjaan",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaisesti. Pöytäkirjantarkistajiksi valittiin Ronja Karkinen ja Teemu Kelkka. Lisäksi lautakunta päätti käsitellä ylimääräisenä asiana esityslistan ulkopuolelta §56 ”Oikaisuvaatimus kunnossapitopäällikön päätöksestä\""
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252085-3",
+      "ordinal": "3",
+      "title": "Oikaisuvaatimus kunnossapitopäällikön päätöksestä",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252085-3",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti: 1. Hylätä oikaisuvaatimuksen 2. Myöntää rakenteiden poistamiselle ja alueen ennallistamiselle lisäaikaa 01.06.2026 saakka 3. Jättää huomautusmaksun määräämättä, mikäli alue ennallistetaan määräajassa 4. Tiedottaa asukkaalle mahdollisuudesta hakea alueelle vuokrauslupaa Yhdyskuntatekniikan lautakunnan 15.05.2025 kokouksessa päättämän pykälän 48 mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kuntakehitysjohtaja Kauppinen Anna-Kaisa",
+        "kasittely": "Käsittelyn aikanaTeemu Kelkka teki seuraavan esityksen: ”Yhdyskuntatekniikanlautakunta päättää: 1. Hylätä oikaisuvaatimuksen 2. Myöntää rakenteiden poistamiselle ja alueen ennallistamiselle lisäaikaa 01.06.2026 saakka 3. Jättää huomautusmaksun määräämättä, mikäli alue ennallistetaan määräajassa 4. Tiedottaa asukkaalle mahdollisuudesta hakea alueelle vuokrauslupaa Yhdyskuntatekniikan lautakunnan 15.05.2025 kokouksessa päättämän pykälän 48 mukaisesti.” Kim Åström, Ann-Christne Sved ja Jenny Snellman kannattivat ehdotusta. Ehdotusta kannatettiin yksimielisesti",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti: 1. Hylätä oikaisuvaatimuksen 2. Myöntää rakenteiden poistamiselle ja alueen ennallistamiselle lisäaikaa 01.06.2026 saakka 3. Jättää huomautusmaksun määräämättä, mikäli alue ennallistetaan määräajassa 4. Tiedottaa asukkaalle mahdollisuudesta hakea alueelle vuokrauslupaa Yhdyskuntatekniikan lautakunnan 15.05.2025 kokouksessa päättämän pykälän 48 mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252085-4",
+      "ordinal": "4",
+      "title": "Talvikunnossapidon kustannukset 2024-2025",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252085-4",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaan",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko Talvikunnossapidon kustannukset 2024-2025 Talvikunnossapidon kustannukset 2024-2025 Yhdyskuntatekniikan lautakunta 05.06.2025 § 56 670/10.03.01.01/2022",
+        "valmistelija": "Kunnossapitoinsinööri Katriina Hultman etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kuntakehitysjohtaja Kauppinen Anna-Kaisa Yhdyskuntatekniikan lautakunta päättää merkitä tiedoksi katualueiden talvikunnossapidon kustannukset talvihoitokautena 2024-2025",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaan",
+        "selostus": "Kunnan kunnossapidettäviä väyliä on yhteensä noin 316 km (katuja 139 km, katujen vierellä olevat kevyen liikenteen väylät 122 km, muita kevyen liikenteen väyliä ja puistoraitteja 55 km ja pysäköintialueita n. 7 ha). Kunnossapitoalueet ja väylät on esitetty kunnan karttapalvelussa https://kirkkonummi.karttatiimi.fi/. Kadut on jaettu kolmeen talvikunnossapitoluokkaan, kunnossapitoluokkien eroja voi tarkastella nettisivuilta osoitteesta https://www.kirkkonummi.fi/talvikunnossapito Kirkkonummen kunnan alueella on talvikaudella 2024-2025 on kaksi kokonaishintaista aluehoitourakkaa: Kirkkonummen aluehoitourakka 1 (Masala, Sundet, Sarvvik, Veikkola ja keski-Kirkkonummen kiinteistöt) Kirkkonummen Aluehoitourakka 2 (Keskusta ja Kt 51 eteläinen puoli ja kiinteistöjen piha-alueiden hoito) Urakat on kilpailutettu ja urakoitsijat valittu avoimella menettelyllä. Urakka käsittää mm. sopimukseen sisältyvien katujen ja kevyen liikenteen väylien sekä kiinteistöjen pihojen talvi ja kesähoitotyöt sekä kesällä viheralueiden hoitotyöt, katujen kesähoidon ja puhtaanapitotyöt. Kunnossapitopalvelut esittää talvikunnossapidon kustannukset vastuullamme olevien katualueiden osalta. Sopimusten kesto: Aluehoitourakka 1; 1.11.2023-31.10.2026 Aluehoitourakka 2; 1.11.2024-31.10.2027 Urakoiden talvikunnossapito kustannukset muodostuvat urakan kiinteistä maksueristä, urakkaan lisättävien alueiden kustannuksista, sekä yksikköhintaisista lisätöistä esim. lumen poisajo ja kunnossapitoa haittaavien ajoneuvojen lähisiirroista. Talvikaudella 2024–2025 vähäinen lumisade vähensi talvikunnossapidon lisätöiden tarvetta. Lumen poiskuljetuksia ja ajoneuvojen lähisiirtoja tehtiin vain vähän. Toteutuneet kustannukset hoitokausittain raportoidaan yhdyskuntatekniikan lautakunnalle vuosittain. Talvikauden 2024–2025 talvikunnossapitokustannukset katualueiden osalta: Aluehoitourakka 1 (Masala, Sundet, Sarvvik, Veikkola) 269 324,71 euroa. Maksuerät 1.10.2024-31.5.2025: 264 648,48 € Urakkaan lisätyt alueet: 1327,76 € Lisätyöt: 1348,50 € (lähisiirrot) Veikkolan lokakuun talvipäivystys: 2000 € Aluehoitourakka 2 (Keskusta ja KT 51 etelä) 357 414,36 € Maksuerät 1.11.2024-31.5.2025: 350844,20 € Urakkaan lisätyt alueet: 619 € Lisätyöt: 4281,31 € (Lumen poisajo keskustasta ja lähisiirrot) Keskustan lokakuun talvipäivystys: 2000 € Kustannukset on ilmoitettu ilman alv. Katualueiden talvikunnossapidon kustannukset kaudella 1.10.2024-31.5.2025 yhteensä 626 739,07euroa"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Talvikunnossapidon kustannukset 2024-2025",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252085-4-125796.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20252085-5",
+      "ordinal": "5",
+      "title": "Pilottiprojektin \"Talvipyöräilyn kehittäminen Kirkkonummella\" hyväksyminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252085-5",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti: 1.Hyväksyä talvipyöräilyn pilotointiprojektin toteutettavaksi Kirkkonummen keskusta-alueella talvikaudella 2025–2026, olemassa olevan määrärahan puitteissa 2. Hyväksyä pilottiprojektin laatukriteerit esitetyllä tavalla. 3. Todeta, että reitistö määrittyy aluehoitourakoitsijan tarjouksen perusteella ja voi poiketa alun perin suunnitellusta 35,5 km reitistä. Sekä evästää seuraavasti: Tutkitaan mahdollisuutta yhteistyöhön Ely -keskuksen kanssa Överbyntien osalta, jotta reitistö saataisiin mahdollisimman hyvin toimivaksi ja ehyeksi. Tarkastellaan reitistön järkevyyttä Abrahamsintien ja Purokummuntien osalta. Lisätään Munkinniitynpolku reitistöön",
+      "votes": [],
+      "sections": {
+        "valmistelija": "Kunnossapitopäällikkö Annika Selart etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kuntakehitysjohtaja Kauppinen Anna-Kaisa Yhdyskuntatekniikan lautakunta päättää: 1. Hyväksyä talvipyöräilyn pilotointiprojektin toteutettavaksi Kirkkonummen keskusta-alueella talvikaudella 2025–2026, olemassa olevan määrärahan puitteissa 2. Hyväksyä pilottiprojektin laatukriteerit esitetyllä tavalla. 3. Todeta, että reitistö määrittyy aluehoitourakoitsijan tarjouksen perusteella ja voi poiketa alun perin suunnitellusta 35,5 km reitistä",
+        "kasittely": "Käsittelyn aikana Teemu Kelkka teki seuraavan evästysehdotuksen: ”Tutkitaan mahdollisuutta yhteistyöhön Ely -keskuksen kanssa Överbyntien osalta, jotta reitistö saataisiin mahdollisimman hyvin toimivaksi ja ehyeksi. Tarkastellaan reitistön järkevyyttä Abrahamsintien ja Purokummuntien osalta.” Ronja Karkinen ja Tarja Ketola kannattivat evästystä. Evästystä kannatettiin yksimielisesti. Pekka Jäppinen teki seuraavan evästysehdotuksen: ” Lisätään Munkinniitynpolku reitistöön”. Ronja Karkinen, Tarja Ketola, Teemu Kelkka ja Jenny Snellman kannattivat evästystä. Evästystä kannatettiin yksimielisesti",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti: 1.Hyväksyä talvipyöräilyn pilotointiprojektin toteutettavaksi Kirkkonummen keskusta-alueella talvikaudella 2025–2026, olemassa olevan määrärahan puitteissa 2. Hyväksyä pilottiprojektin laatukriteerit esitetyllä tavalla. 3. Todeta, että reitistö määrittyy aluehoitourakoitsijan tarjouksen perusteella ja voi poiketa alun perin suunnitellusta 35,5 km reitistä. Sekä evästää seuraavasti: Tutkitaan mahdollisuutta yhteistyöhön Ely -keskuksen kanssa Överbyntien osalta, jotta reitistö saataisiin mahdollisimman hyvin toimivaksi ja ehyeksi. Tarkastellaan reitistön järkevyyttä Abrahamsintien ja Purokummuntien osalta. Lisätään Munkinniitynpolku reitistöön",
+        "selostus": "Kirkkonummen kunnan strategisena tavoitteena on vähentää liikenteen hiilidioksidipäästöjä ja edistää kestävää ja terveellistä liikkumista. Talvipyöräilyn edistäminen tukee näitä tavoitteita, mahdollistaen ympärivuotisen pyöräilyn turvallisissa olosuhteissa. Opinnäytetyön \"Talvipyöräilyn kehittäminen Kirkkonummella\" (Annika Selart, 2025) mukaan suurimmat esteet talvipyöräilylle ovat heikko talvikunnossapito, turvallisuuden puutteet ja infrastruktuurin kehittämättömyys. Vertailut muihin kaupunkeihin, kuten Ouluun ja Helsinkiin, osoittavat, että hyvälaatuinen talvikunnossapito ja priorisoidut pääreitit lisäävät talvipyöräilyn suosiota merkittävästi. Työhön voi tutustua osoitteessa: https://www.theseus.fi/handle/10024/879999 Osana kehittämistä esitetään keskustan alueelle 35,5 kilometrin pilotointireittiä, jolla testataan tehostettua ja laadukkaampaa talvikunnossapitoa. Pilottialueen lopullinen laajuus tarkentuu aluehoitourakoitsijan tarjouksen perusteella, ja se toteutetaan olemassa olevan määrärahan puitteissa. Pilotin aikana käytetään erityisiä laatukriteerejä ja seurataan asiakastyytyväisyyttä. Pilotin tuloksia voidaan hyödyntää kuntastrategian päivittämisessä, ja laajentaa toimintamallia koko kunnan kattavaksi. Pilottiprojekti: •Pilottialue käsittää 35,5 km keskustan alueen pääreittejä (jalkakäytävät ja pyöräilyreitit). •Reitit on valittu käyttäen Kirkkonummen kävelyn ja pyöräilyn kehittämisohjelman tavoitteita sekä olemassa olevaa liikenneverkkoa. •Talvikunnossapidon laadun parantamiseen käytetään uusia tehtäväkortteja (laatuvaatimuksia), jotka määrittelevät tarkasti esimerkiksi aurauksen ja hiekoituksen ajoituksen ja laadun jalkakäytävien ja pyöräilyväylien osalta. Pilottiprojektin tehostettu aurauksen tehtäväkortti: 1. Yleiskuvaus Tehtävä : Tehostetun aurauksen suorittaminen talvipyöräilyn kehittämisen pilottialueella. Kohdealue: Pyöräilyreitit ja kävely- ja pyöräilyväylät, joilla on merkitystä talvipyöräilyn kannalta. Reitit yhdistävät tärkeät palvelut, kuten liikennekeskukset, koulut, päiväkodit ja muut julkiset kohteet. Tavoite : Parantaa talvipyöräilyn edellytyksiä sekä turvallisuutta. Varmistetaan, että pyöräilyreitit ovat aurattuja ja esteettömiä heti lumentulon jälkeen. 2. Toimenpiteet ja työohjeet A.Lumenauraus (tehostettu) Käynnistysraja : Tehostettu auraus aloitetaan, kun lunta on kertynyt 2–3 cm pyöräilyreiteillä. Pyöräilyyn tarkoitetut väylät aurataan ensimmäisenä, rinnakkaisesti muiden ajoväylien kanssa, mikäli pyöräilyväylät sijaitsevat niiden yhteydessä. Ajoitus ja kiireellisyys : Pyöräilyreitit aurataan aamuliikenteen alkuun mennessä (klo 7:00) sekä iltapäiväliikenteeseen ajoittuen (klo 16:00 mennessä), jotta ne olisivat aina käytettävissä työmatka-aikoina. Lumipyryjen aikana aurauksia suoritetaan säännöllisin väliajoin tarvittavalla tiheydellä lumikerroksen pitäminen ohuena ja väylien käytettävyyden maksimoimiseksi. Reunojen ja liittymien tarkistus : Tehostetussa aurauksessa varmistetaan, että reittien liittymät ja reunat jäävät esteettömiksi pyöräilyyn, jolloin vältetään vaaralliset lumipenkat ja epätasaisuudet. Kävelyväylät eristetään selkeästi pyöräilyväylistä, mikäli mahdollista, välttääkseen yhteentörmäykset. B.Liukkaudentorjunta (tehostettu) Hiekoitus ja suolaus pyöräilyreiteillä : Talvipyöräilyn reitit hiekoitetaan säännöllisesti liukkauden estämiseksi, erityisesti kaarteissa, risteyksissä ja laskuissa. Suolausta käytetään harkiten erityisesti kohteissa, joissa liukkaus voi aiheuttaa pyöräilijöille kaatumisriskin. Jatkuva seuranta : Tehostetun aurauksen lisäksi tarkastellaan ja arvioidaan liukkauden tilanne jokaisella aurauksella. Jos keliolosuhteet vaativat, lisähiekoituksia suoritetaan. Toimenpiteiden seuranta ja dokumentointi : Auran jälkeen reitit tarkastetaan visuaalisesti, erityisesti kaarteissa ja jyrkemmissä kohdissa. Kaikki suoritteet kirjataan pilottiprojektin seurantajärjestelmään Routaan, ja olosuhteista sekä suoritetuista toimenpiteistä raportoidaan säännöllisesti projektin edistymisen arvioimiseksi. Kerätään käyttäjäpalautetta talvipyöräilyreittien käytettävyydestä projektin kehittämiseksi. Yhteyshenkilöt ja hätätilanteet : Kirkkonummen kunnan talvipyöräilyn pilottiprojektin vastaava. Mahdolliset turvallisuusriskit pyöräilyreiteillä ilmoitetaan kunnossapitoyksikölle, joka järjestää nopean lisäaurauksen tai liukkaudentorjunnan. Kustannusarvio: Pilotin kustannukset tehostetusta kunnossapidosta ovat arviolta 10 000 €/km talvikaudella 2025–2026. Kustannukset sisältävät lisäauraukset ja nopeutetun hiekoituksen sekä lumen pois ajot. Tarkka kustannusarvio saadaan aluehoitourakoitsijan tarjousvaiheessa. Projektilla voidaan mahdollisesti saavuttaa säästöjä esimerkiksi onnettomuuksien ja terveydenhuoltokustannusten vähenemisen kautta. Pilottia kokeillaan talvikaudella 2025–2026. Kauden jälkeen analysoidaan työtulokset ja tuodaan ne lautakunnan tietoon. Tämän jälkeen päätetään jatkosta. Tulevaisuudessa tehostettu talvikunnossapito voisi sisältyä aluehoitourakkaan. Pilottiprojektin reitit (mustalla)"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": [
+        {
+          "proposer": "Teemu Kelkka",
+          "kind": "evastysehdotus",
+          "text": "”Tutkitaan mahdollisuutta yhteistyöhön Ely -keskuksen kanssa Överbyntien osalta, jotta reitistö saataisiin mahdollisimman hyvin toimivaksi ja ehyeksi. Tarkastellaan reitistön järkevyyttä Abrahamsintien ja Purokummuntien osalta.” Ronja Karkinen ja Tarja Ketola kannattivat evästystä. Evästystä kannatettiin yksimielisesti",
+          "source": "introduction",
+          "party": "kesk"
+        },
+        {
+          "proposer": "Pekka Jäppinen",
+          "kind": "evastysehdotus",
+          "text": "” Lisätään Munkinniitynpolku reitistöön”. Ronja Karkinen, Tarja Ketola, Teemu Kelkka ja Jenny Snellman kannattivat evästystä. Evästystä kannatettiin yksimielisesti",
+          "source": "introduction",
+          "party": "sdp"
+        }
+      ]
+    },
+    {
+      "id": "20252085-6",
+      "ordinal": "6",
+      "title": "Yhdyskuntatekniikan lautakunnan vuoden 2025 osavuosikatsaus, tilanne 30.4",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252085-6",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaan",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko Osavuosikatsaus tilanteesta 30.4.2025, yhdyskuntatekniikan lautakunta Yhdyskuntatekniikan lautakunnan vuoden 2025 osavuosikatsaus, tilanne 30.4 Yhdyskuntatekniikan lautakunta 05.06.2025 § 59 677/02.02.02/2024\n- vuoden 2025 osavuosikatsaus liitteineen",
+        "valmistelija": "kuntakehitysjohtaja Anna-Kaisa Kauppinen, elinvoimajohtaja Simon Store, kuntatekniikkapäällikkö Toni Keski-Lusa, kunnangeodeetti Otso Kärkkäinen, paikkatietopäällikkö Markku Korhonen, kunnanarkkitehti Tero Luomajärvi, hallintopäällikkö Kia Forsell etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kuntakehitysjohtaja Kauppinen Anna-Kaisa Yhdyskuntatekniikan lautakunta päättää 1. hyväksyä omalta osaltaan osavuosikatsauksen tilanteesta 30.4.2025 2. toimittaa osavuosikatsausliitteen kunnanhallitukselle ja edelleen kunnanvaltuustolle tiedoksi 3. tarkastaa pöytäkirjan tämän kokousasian osalta kokouksessa",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaan",
+        "selostus": "Vuoden 2025 talousarvion täytäntöönpano-ohjeen mukaan kuntatason raportoinnista vastaa kunnanhallitus, joka toimielinten omien osavuosikatsausten perusteella laatii osavuosikatsauksen kunnanvaltuustolle (tilanne 30.4.). Kuntakehityksen toimialan elinvoimapalvelut-palveluryhmään kuuluvat tonttipalvelut, paikkatietopalvelut ja kaavoitus- ja liikennejärjestelmäpalvelut sekä infrapalvelujen palveluryhmä ovat laatineet osavuosikatsauksen ajalta 1.1.-30.4.2025. Osavuosikatsaus sisältää tuloslaskelman ja määrärahojen sekä raportoitavissa olevien toiminnallisten mittarien toteutumatilanteen samalta ajanjaksolta. Vuoden 2025 talousarvioon on kirjattu riskienhallintaan liittyvät olennaiset riskit ja niiden riskiarviot. Riskien sekä sisäisen valvonnan suunnitelman toteutumisen vaikutuksesta talouteen ja toimintaan voidaan olennaisten poikkeamien osalta raportoida jo osavuosikatsauksessa. Kunkin toimielimen ulkoisten toimintatulojen ja -menojen erotus eli toimintakate on valtuuston nähden sitova lukuun ottamatta työmarkkinatuen kuntaosuuteen ja HSL:n yhteistyöhön varattuja määrärahoja, jotka ovat erikseen sitovia. Talousarvion tuloslaskelmaosan tehtävätasoiset määrärahat ja tuloarviot ovat kunnanhallitusta sitovia. Investointiosan määrärahoista tehtävätasolla sitovia ovat ATK-ohjelmat ja käyttöönottoprojektit, muut pitkävaikutteiset menot ja irtain omaisuus. Hankeryhmätasolla sitovia määrärahoja ja tuloarvioita ovat maa- ja vesialueet, liikenneväylät ja puistot, liikunta- ja virkistysalueet, muut kiinteät rakenteet ja laitteet, talonrakentamisen peruskorjaushankkeet sekä osakkeet ja osuudet. Liikenneväylät ja puistot sekä liikunta- ja virkistysalueet hankeryhmien määrärahaa saa käyttää muihin taloussuunnitelmavuosien hankkeisiin kunnanhallituksen päätöksellä, jos talousarviovuoden jonkin hankkeen toteuttamista ei ole voitu aloittaa. Liitteenä oleva osavuosikatsaus on laadittu talousyksikön antamien ohjeiden mukaisesti. Vastuuhenkilöt seuraavat toteumaa lisäksi kuukausittain, erityisesti ostopalveluita ja/tai projekteja, tekevät ennusteita loppuvuoden käyttömenojen toteutumisesta sekä korjaavia toimenpiteitä talousarvioylitysten välttämiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Osavuosikatsaus tilanteesta 30.4.2025, yhdyskuntatekniikan lautakunta",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252085-6-126425.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20252085-7",
+      "ordinal": "7",
+      "title": "Oikaisuvaatimus kunnossapitoinsinöörin päätökseen työmaaliittymästä",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252085-7",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaan",
+      "votes": [],
+      "sections": {
+        "valmistelija": "kunnossapitoinsinööri Annika Virtalaine etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kuntakehitysjohtaja Kauppinen Anna-Kaisa Yhdyskuntatekniikan lautakunta päättää hylätä oikaisuvaatimuksen selostusosan mukaisiin perusteluihin vedoten",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaan",
+        "tiedoksi": "kunnossapitopäällikkö, kunnossapitoinsinöörit, oikaisuvaatimuksen lähettäjä",
+        "selostus": "Vanhan Rantatien ja Heikkiläntien risteysalueen geometria on haastava, ja risteys on jo entuudestaan tiedetty vaaralliseksi. Risteysalue on mäen päällä ja Vanha Rantatie kaartuu risteyksen läheisyydessä niin, että näkemät ovat risteyksessä joka suuntaan heikot. Vanhalla Rantatiellä Heikkiläntien itäpuolella risteyksen välittömässä läheisyydessä on linja-autopysäkki, johon kulkee suojatie Vanhan Rantatien yli. Linja-autopysäkin läheisyys lisää jalankulkuliikennettä ja lisää risteysalueen näkemäesteitä. Risteysalueen turvallisuutta ollaan parantamassa Tolsanmäen urakan yhteydessä, jolloin risteykseen lisätään liikennevalot sekä keskisaarekkeet. Jatke Oy:llä on käynnissä osoitteessa Heikkiläntie 1 (kiinteistötunnus: 257-437-1-166) kerrostalorakennustyömaa. Kohteessa on pidetty katulupalausuntoon liittyvä katselmus 27.3.2025, jolloin urakoitsija on kysynyt työmaaliittymän luvasta ja heitä on ohjattu hakemaan liittymälle erillinen lupa Lupapiste.fi-palvelun kautta. Lupahakemus työmaaliittymälle on jätetty Lupapisteeseen 10.4.2025. Hakemuksen käsittelyvaiheessa 15.4.2025 luvan hakijalta on pyydetty lisätietoja liittymän rakentamiseen ja käyttöön liittyen. Hakijalta on muun muassa kysytty, miten työmaaliikenne aiotaan toteuttaa, onko kohteessa liikenteenohjaajat työmaaliikenteen kulkiessa ja millaisia rakenteita liittymä vaatii. Kysymyksiin ei saatu vastausta. 22.4.2025 kunnossapidon suorittaman valvontakierroksen yhteydessä havaittiin, että liittymä on kohteeseen rakennettu ja se on aktiivisessa liikennöintikäytössä, vaikka lupahakemusta ei oltu vielä käsitelty eikä urakoitsijalta oltu saatu vastauksia tarkentaviin kysymyksiin. Asiasta oltiin yhteydessä urakoitsijaan välittömästi Lupapisteen kautta, ja luvan hakijaa kehotettiin käyttämään liikenteenohjaajaa työmaaliittymää käytettäessä sekä laatimaan liikennejärjestelysuunnitelma liikennöinnin toteuttamisesta. Työmaaliittymä on rakennettu ennen lupakäsittelyprosessia entuudestaan vaaralliseksi tunnettuun risteykseen ja liikennöintiä on jatkettu kunnossapidon asettamista ehdoista huolimatta ilman liikenteenohjaajien käyttämistä. Kunnossapidon suorittamien valvontakierrosten yhteydessä on seurattu, miten työmaaliittymää käytetään. Työmaaliittymää käytetään niin, että Vanhaa Rantatietä lännestä Kirkkonummen keskustan suunnasta tulevat kuorma-autot ajavat Heikkiläntien risteyksen ohi ja peruuttavat työmaaliittymästä sisään. Työmaaliittymästä poistuminen tapahtuu niin, että ajoneuvot lähtevät Vanhaa Rantatietä joko itään tai länteen. Idän suuntaan liittyvät ajoneuvot tulevat pienestä kulmasta ja näkemä Vanhaa Rantatietä lännestä ajavalla ajoneuvolla on työmaaliittymästä liikenteeseen liittyvään ajoneuvoon heikko. Länteen päin lähtevät ajoneuvot kääntyvät liittymässä lähes u-käännöksen kaltaisen käännöksen, jolloin liittyvä ajoneuvo hetkellisesti sulkee koko Vanhan Rantatien. 24.4.2025 urakoitsijalta saatiin liikennejärjestelysuunnitelma, jota käytiin yhdessä läpi kunnossapitotiimin kesken. Kunnossapitoinsinööriltä pyydettiin tässä vaiheessa lausunto luvalle ja kunnossapitoinsinööri ei puoltanut liittymää siihen liittyvien liikenneturvallisuuspuutteiden ja kaavanvastaisuuden vuoksi. Näihin syihin vedoten lupahakemus evättiin. Urakoitsija halusi kohteeseen katselmuksen, joka pidettiin 30.4.2025. Katselmuksessa käytiin muun muassa läpi syitä ensimmäisen hakemuksen epäämiselle. Urakoitsijalle kerrottiin myös siitä, että työmaaliittymä on tällä hetkellä luvaton eikä lupaa sen kautta liikennöinnille ole annettu. Urakoitsija kertoi kohteen liikenteellisistä haasteista: Heikkiläntien varrella oleva muuntamorakennus hankaloittaa Heikkiläntien puolen mahdollisuuksia liittymän rakentamiselle, Heikkiläntien varrella on asuintaloja ja jalankulkuliikennettä ja Heikkiläntie on lisäksi kapea. Urakoitsija ei halunnut ohjata raskasta liikennettä Heikkiläntien puolelle. Urakoitsija vakuutti, että työmaaliittymän nykyisen sijainnin ansiosta kohteessa ei yleisellä katualueella tapahdu ollenkaan raskaiden ajoneuvojen peruuttamista eikä ajoneuvot poistu liittymästä missään tilanteessa vasemmalle kohti Kirkkonummen keskustaa. Katselmuksen 30.4.2025 aikana kunnan työntekijät kuitenkin todistivat useata tilannetta, joissa näitä kahta periaatetta rikottiin. Katselmukselle osallistuneet kunnossapitoinsinöörit nostivat esille huolen siitä, että Vanhalla Rantatiellä Heikkiläntien risteyksen itäpuolella on risteyksen välittömässä läheisyydessä linja-autopysäkki, jolle kulkee Vanhan Rantatien yli myös suojatie. Kunnossapitopalveluiden näkemys oli, että jos liittymän kautta kulkeva liikennöinti hyväksyttäisiin, tulisi liittymää käytettäessä urakoitsijan käyttää 2–4 liikenteenohjaajaa (Vanha Rantatie ajosuunta itään ja länteen, Heikkiläntie, jalankulkijoiden suojatie). Urakoitsija ehdotti kohteeseen valo-ohjausta, mutta sitä ei nähty soveltuvaksi kyseiseen kohteeseen, jossa liikennöinti on epäsäännöllistä ja liikenteen pysäyttämisen tarpeet lyhyitä. Lisäksi vaihtoehtoiseksi suorittamistavaksi ehdotettiin kadulta tapahtuvaa nostotyötä. Katselmuksessa keskusteltiin mahdollisuudesta ohjata pitkät elementtirekat nykyisen työmaaliittymän kautta, jolloin Heikkiläntielle muuntamon eteläpuolelle rakennettaisiin toinen liittymä, jota käytetään pääasiallisena työmaaliittymänä. Tällöin Vanhan Rantatien ja Heikkiläntien risteyksessä olevaa työmaaliittymää käytettäisiin vain niiden ajoneuvojen liikennöintiin, jotka eivät mahdu liikennöimään toisesta työmaaliittymästä. Tällöin kohteessa tarvitaan liikenteenohjaajat pysäyttämään muu liikenne alueella. Kunnossapitopalveluiden mukaan tätä ratkaisua voidaan harkita, mutta lupaa kyseiselle liikennöinnille ei katselmuksessa voida antaa. Katselmuksen aikana käytiin läpi erilaisia vaihtoehtoisia järjestelyjä, joita voitaisiin liikennöinnin mahdollistamiseksi tehdä. Kunnossapitopalvelut painottivat katselmuksen aikana, että tämän katselmuksen perusteella emme myönnä lupaa liittymän kautta kulkevalle liikenteelle ja katselmuksen tarkoituksena on vain keskustella erilaisista vaihtoehdoista ja mahdollisuuksista. Kunnossapitopalvelut painottivat myös sitä, että todellinen lupaprosessi käydään Lupapisteen kautta ja hakemuksen perusteella käymme keskustelua tiimin sisällä siitä, onko kyseiselle liittymälle mahdollisuutta lupaa myöntää. Kunnossapitoyksikkö tunnistaa urakoitsijan luettelemat haasteet. Kyseiset haasteet eivät kuitenkaan vähennä nykyisen ratkaisun liikenneturvallisuusriskejä. Liikennöinti työmaaliittymästä on aloitettu ennen lupakäsittelyn päätöstä, liikennöinti tapahtuu ilman asianmukaisia liikennejärjestelyjä ja urakoitsija ei ole noudattanut Kunnossapitopalveluiden kehotuksia, vaan urakoitsija on jatkanut liikennöintiä piittaamatta kehotuksista, ohjeistuksista ja lupaprosessista. Urakoitsija jätti uuden hakemuksen liittymälle 7.5.2025. Asiasta pidettiin palaveri 8.5.2025 kunnossapitoinsinöörien, kunnossapitoasiantuntijan ja kunnossapitopäällikön kesken. Palaverissa käytiin läpi erilaisia vaihtoehtoja työmaaliikenteen toteuttamiselle ja yhteisenä näkemyksenä työmaaliittymähakemuksen päätökselle oli, että hakemus tulee hyväksyä Heikkiläntien puolella muuntamon eteläpuolella olevan liittymän osalta ja evätä Vanhan Rantatien ja Heikkiläntien risteykseen tulevan liittymän osalta. Asiasta keskusteltiin myös liikennesuunnittelijan kanssa, joka puolsi kunnossapitoyksikön näkemystä liittymän vaarallisuudesta. 8.5.2025 lupahakemus hyväksyttiin vain Heikkiläntielle muuntamon eteläpuoleiselle liittymälle. Kunnossapitopalvelut näkevät luvan epäämisen olevan perusteltua, sillä työmaaliittymä on rakennettu jo ennalta vaaralliseksi luokitellulle risteysalueelle, työmaaliittymä on otettu käyttöön ennen lupaprosessin läpikäymistä, ja urakoitsija ei ole noudattanut kunnossapitopalveluiden asettamia ehtoja muun muassa liikenteenohjaajien käyttämisestä. Urakoitsija on jatkanut liittymän käyttämistä evätyistä päätöksistä huolimatta muuttamatta toimintaansa. Luvan myöntäminen hakemuksen mukaiselle työmaaliittymälle on vastuukysymys ja edellä mainittujen perusteluiden vuoksi liittymää ja urakoitsijan toimintaa ei voida nähdä liikenneturvallisuutta tukevina, ja työmaaliittymän käyttö on kehotettu lopettamaan välittömästi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252085-8",
+      "ordinal": "8",
+      "title": "Veikkola alueen 18 Paasitie ym. katualueiden haltuunoton kasvillisuuskorvaukset",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252085-8",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaan",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko koontilaskelma Veikkola alueen 18 Paasitie ym. katualueiden haltuunoton kasvillisuuskorvaukset Yhdyskuntatekniikan lautakunta 05.06.2025 § 60 310/10.00.01/2025",
+        "valmistelija": "Maankäyttöasiantuntija Laura Tuovinen etunimi.sukunimi@kirkkonummi.fi, puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kuntakehitysjohtaja Kauppinen Anna-Kaisa Yhdyskuntatekniikan lautakunta päättää 1 maksaa katualueen lunastustoimituksen TN:o 2025-755374 kasvillisuuskorvaukset , yhteensä 51 572,23 euroa, Veikkolan alueen 18 Paasitie ym. haltuunotettujen katualueiden asianosaisille omistajille tai haltijoille päätöksen liitteenä olevan korvauslaskelman mukaisesti. 2 että korvaussummaan lisätään lunastuslain (laki kiinteän omaisuuden ja erityisten oikeuksien lunastuksesta, 603/1977) 95.1 § mukainen kuuden prosentin korko haltuunottohetkestä maksupäivään. 3 että päätös voidaan panna täytäntöön odottamatta sen lainvoimaisuutta",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaan",
+        "tiedoksi": "korvausten saajat, taloushallinto, Maanmittauslaitos",
+        "selostus": "Alueidenkäyttölain (132/1999) 95 §:n mukaan kunta voi ottaa haltuunsa katualueen, kun sitä koskeva lunastusmenettely on pantu vireille. Kunta on hakenut Maanmittauslaitokselta lunastustoimitusta, joka on tullut vireille 2.4.2025 toimitusnumerolla 2025-755374. Veikkolan alueen 18 Paasitie ym. katualueiden haltuunotto tehtiin 6.5.2025. Haltuunotettava katualue käsittää Paasitien ja Impivaarantien välillä Paasitie-Lamminpääntie sekä Lamminpääntieltä Lamminjärvelle johtavan kevyen liikenteen väylän. Alueidenkäyttölain 108 §:n mukaan kunnalle siirtyvällä alueella olevat rakennukset, puut, istutukset ja laitteet on kunnan korvattava maanomistajalle. Kunta maksaa kasvillisuuskorvaukset asianosaisille kiinteistön omistajille tai haltijoille haltuunottokatselmuksen jälkeen. Asianosaisten mahdolliset muut vaatimukset käsitellään Maanmittauslaitoksen pitämässä maankäyttö- ja rakennuslain mukaisessa lunastustoimituksessa. Kasvillisuuskorvausten määrittämiseen on käytetty Maanmittauslaitoksen lunastustoimituksia varten laadittuja viimeisimpiä korvaussuosituksia, ohje ”Arviointi- ja korvaustiedot 2024”. Päätöksen liitteenä on koontilaskelma kasvillisuuskorvauksista. Kiinteistökohtainen erittely annetaan tiedoksi vain asianosaisen kiinteistön omistajalle tai haltijalle. Päätökseen tyytymätön voi hakea siihen muutosta vireillä olevassa maanmittaustoimituksessa 2025-755374. Päätöksen liitteet: koontilaskelma kasvillisuuskorvauksista ilman korkoa kiinteistökohtaiset erittelyt korvauksista (annetaan tiedoksi vain asianosaisen kiinteistön omistajalle tai haltijalle), 24 kpl"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "koontilaskelma",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252085-8-126310.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20252085-9",
+      "ordinal": "9",
+      "title": "Länsilenkki, katu- ja vesihuollon saneeraus, urakoitsijan valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252085-9",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaan",
+      "votes": [],
+      "sections": {
+        "valmistelija": "rakennuttajainsinööri Jarkko Salminen etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kuntakehitysjohtaja Kauppinen Anna-Kaisa Yhdyskuntatekniikan lautakunta päättää hyväksyä Länsilenkki, katu- ja vesihuollon saneerauksen urakoitsijaksi kelpoisuusehdot täyttävien tarjousten joukosta suurimmat kokonaispisteet saaneen (95,80 pistettä) Louhintahiekka Oy:n urakkahintaan 1 830 000,00 € (alv 0 %)",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaan",
+        "selostus": "Kuntakehityksen Infrapalvelut on pyytänyt Länsilenkki, katu- ja vesihuollon saneerauksen urakkatarjoukset Cloudia tarjouspalvelussa 30.4.2025, jota on täydennetty lisäkirjeellä 5.5.2025. Kyseessä on kansallinen hankinta ja avoin hankintamenettely. Tarjousten vastaanottamisen määräaika oli 28.5.2025 klo 12.00. Tarjouspyynnön mukaan urakoitsija valitaan kelpoisuusehdot täyttävien tarjousten joukosta korkeimmat pisteet saanut tarjoaja. Tarjouksen vertailuperusteena on tarjouksen kokonaistaloudellinen edullisuus, jonka arviointiperusteena on tarjouksen hinta. Urakkatarjouksen arvostus on 80 % maksimipistemäärästä, yksikköhintaluettelon arvostus on 10 % maksipistemäärästä ja konetuntien yksikköhintaluettelon arvostus on 10 % maksimipistemäärästä. Hinnan painoarvo tarjousvertailussa on 100 % (max. 100,00 vertailupistettä). Rakennustyö käsittää Kirkkonummen Ravalsin asuinalueella sijaitsevan Länsilenkki nimisen asemakaavakadun ja kunnallistekniikan saneerauksen. Investoinnille on varattu vuoden 2025 talousarvioissa kaduille 600 000 € ja vesihuollolle 200 000 €. Urakan laskennallinen kustannusarvio (sisältäen rakennusosat ja työmaatehtävät) on 2 212 771 €. Urakka jatkuu vuodelle 2026. Määräaikaan mennessä saatiin viisi (5) kpl tarjouksia, joista kaikki olivat tarjouspyynnön mukaisia. Hyväksytyn tarjouksen jättivät KMS Palvelut Oy, Louhintahiekka Oy, Marttilan Maanrakennus Oy, Rajukivi Oy ja Uudenmaan Infrapalvelut Oy. Parhaimmat pisteet sai Louhintahiekka Oy (vertailuhinta 3 479 216,00 €) yhteispisteillä 95,80/100. Vertailuhinta muodostuu urakkatarjouksesta, yksikköhintaluettelosta ja konetuntien yksikköhintaluettelosta. Urakkasopimukseen tuleva hinta on parhaimmat kokonaispisteet saaneen tarjoajan liite A urakkatarjous"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252085-10",
+      "ordinal": "10",
+      "title": "Ilmoitusasioita tiedoksi",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252085-10",
+      "decision": "Puheenjohtaja totesi, että ilmoitusasioita ei ole",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Yhdyskuntatekniikan lautakunta merkitsee ilmoitusasiat tiedokseen",
+        "paatos": "Puheenjohtaja totesi, että ilmoitusasioita ei ole"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    }
+  ],
+  "id": "20252085",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20252085"
+}

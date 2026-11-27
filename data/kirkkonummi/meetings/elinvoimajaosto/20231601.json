@@ -1,0 +1,75 @@
+{
+  "title": "Elinvoimajaosto Pöytäkirja 12.12.2023 klo 17:00 - 18:12 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Elinvoimajaosto",
+  "doctype": "Pöytäkirja",
+  "date": "2023-12-12",
+  "items": [
+    {
+      "id": "20231601-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231601-1",
+      "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Kokous todettiin lailliseksi ja päätösvaltaiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231601-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231601-2",
+      "decision": "Elinvoimajaosto päätti päätösesityksen mukaisesti. Pöytäkirjantarkastajiksi valittiin Jenny Mäkinen ja Marko Kari",
+      "votes": [],
+      "sections": {
+        "valmistelija": "johtava kielenkääntäjä Pia Bergström, etunimi.sukunimi@kirkkonummi.fi",
+        "paatosehdotus": "Elinvoimajaosto päättää 1 valita kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan 2 tarkastaa tämän pöytäkirjan sähköisesti seuraavan aikataulun mukaan: Torstaina 14.12.2023 lähetetään pöytäkirja sähköpostitse pöytäkirjantarkastajille, jotka ilmoittavat hyväksymisestään viimeistään maanantaina 18.12.2023. Jos hyväksymisviestiä ei tule sihteerille em. ajankohtaan mennessä, pöytäkirja katsotaan hyväksytyksi. Pöytäkirja allekirjoitetaan sähköisesti. Pöytäkirja on nähtävänä tiistaina 19.12.2023 kunnan verkkosivulla",
+        "paatos": "Elinvoimajaosto päätti päätösesityksen mukaisesti. Pöytäkirjantarkastajiksi valittiin Jenny Mäkinen ja Marko Kari"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231601-3",
+      "ordinal": "3",
+      "title": "TE-uudistuksen tilannekatsaus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231601-3",
+      "decision": "Elinvoimajaosto merkitsi TE-uudistuksen tilannekatsauksen tiedoksi",
+      "votes": [],
+      "sections": {
+        "valmistelija": "palvelupäällikkö Tony Sandström etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Elinvoimajaosto merkitsee TE-uudistuksen tilannekatsauksen tiedoksi",
+        "kasittely": "Palvelupäällikkö Tony Sandström esitteli asiaa kokouksessa. Hän poistui kokouksesta tämän asian käsittelyn jälkeen klo 17.55",
+        "paatos": "Elinvoimajaosto merkitsi TE-uudistuksen tilannekatsauksen tiedoksi",
+        "selostus": "Työ- ja elinkeinoministeriö esittää Kirkkonummen, Vihdin ja Siuntion muodostaman työllisyysalueen hyväksymistä. Työllisyyden ja yrittäjyyden ministerityöryhmä käsitteli 21.11.2023 työllisyysalueiden muodostumista. Kirkkonummen, Vihdin ja Siuntion muodostama alue täyttää työ- ja elinkeinoministeriön mukaan työvoimapalveluiden järjestämislain vaatimukset 20 000 henkilön työvoimapohjasta sekä laadulliset lisäedellytykset maantieteellisesti yhtenäisestä alueesta ja työmarkkinoiden ja työssäkäynnin kannalta toimivasta alueesta. Kirkkonummen, Siuntion ja Vihdin yhteinen valmistelutyö jatkuu ja konkretisoituu aluepäätöksen myötä. Työn alla suunnittelu esimerkiksi palveluiden, organisaation ja työllisyysalueiden välisen yhteistyön osalta"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231601-4",
+      "ordinal": "4",
+      "title": "Muut asiat",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231601-4",
+      "decision": null,
+      "votes": [],
+      "sections": {},
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    }
+  ],
+  "id": "20231601",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20231601"
+}

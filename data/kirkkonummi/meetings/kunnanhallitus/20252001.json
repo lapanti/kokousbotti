@@ -1,0 +1,683 @@
+{
+  "title": "Kunnanhallitus Pöytäkirja 17.03.2025 klo 16:30 - 18:45 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Kunnanhallitus",
+  "doctype": "Pöytäkirja",
+  "date": "2025-03-17",
+  "items": [
+    {
+      "id": "20252001-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252001-1",
+      "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Kokous todettiin lailliseksi ja päätösvaltaiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252001-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252001-2",
+      "decision": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti. Pöytäkirjantarkastajiksi valittiin Sanni Jäppinen ja Kati Kaihlaranta",
+      "votes": [],
+      "sections": {
+        "valmistelija": "halinnon asiantuntija Gunnel Ekström, etunimi.sukunimi@kirkkonummi.fi",
+        "paatosehdotus": "Kunnanhallitus päättää 1 valita kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan 2 tarkastaa tämän pöytäkirjan sähköisesti seuraavan aikataulun mukaan: Torstaina 20.3.2025 lähetetään pöytäkirja sähköpostitse pöytäkirjantarkastajille, jotka ilmoittavat hyväksymisestään viimeistään maanantaina 24.3.2025. Jos hyväksymisviestiä ei tule sihteerille em. ajankohtaan mennessä, pöytäkirja katsotaan hyväksytyksi. Pöytäkirja allekirjoitetaan sähköisesti. Pöytäkirja on nähtävänä tiistaina 26.3.2025 kunnan verkkosivulla. Yleinen oikaisuvaatimusaika alkaa keskiviikkona 2.4.2025",
+        "paatos": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti. Pöytäkirjantarkastajiksi valittiin Sanni Jäppinen ja Kati Kaihlaranta"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252001-3",
+      "ordinal": "3",
+      "title": "Tolsanportin eteläinen asemakaava (14201), tarkistetun asemakaavaehdotuksen asettaminen julkisesti nähtäville AKL 65 §:n ja MRA 27 §:n mukaisesti",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252001-3",
+      "decision": "Kunnanhallitus päätti ehdotuksen mukaisesti",
+      "votes": [
+        {
+          "jaa": [
+            "Timo Haapaniemi",
+            "Arttu Lankinen",
+            "Anneli Granström",
+            "Matti Kaurila",
+            "Ulf Kjerin",
+            "Carl-Johan Kajanti",
+            "Ari Harinen"
+          ],
+          "ei": [
+            "Antti Kilappa",
+            "Kati Kaihlaranta",
+            "Anna Sahiluoma",
+            "Saara Huhmarniemi",
+            "Sanni Jäppinen",
+            "Anna Aintila"
+          ],
+          "tyhja": [],
+          "totals": {
+            "jaa": 7,
+            "ei": 6,
+            "tyhja": 0
+          },
+          "parties": {
+            "jaa": {
+              "kok": 2,
+              "ps": 2,
+              "rkp": 2,
+              "sdp": 1
+            },
+            "ei": {
+              "pro yl": 1,
+              "vas": 1,
+              "kok": 1,
+              "vihr": 2,
+              "rkp": 1
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta illman evästystä",
+            "ei_label": "pohjaehdotusta Sanni Jäppisen evästyksellä",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "pohjaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": null,
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat pohjaehdotusta illman evästystä äänestävät JAA, ja ne jotka kannattavat pohjaehdotusta Sanni Jäppisen evästyksellä äänestävät EI — annettiin 7 JAA ja 6 EI ääntä."
+          }
+        }
+      ],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 1\n1 Asemakaavakartta_14201_Tolsanportti_eteläinen_fi_sv 2\n_2_Asemakaava_määräyksineen_fi_sv 3 kh\n_3_Havainnekuva 8\n_4_Ote_Kirkkonummen_ajantasa-asemakaavasta 9\n_5_Kunnan_maanomistus 10\n_6_Luontoselvitys 11\n_7_Liito-oravaselvitys 12\n_8_Kaupallinen_selvitys 13\n_10_Liikenneselvitys 14\n_11_Louhintasuunnitelma 15\n_12_Meluilmoituksen_meluselvitys 16\n_13_Meluselvitys 17\n_14_Hulevesiselvitys 18\n_15_Museoviraston_lausunto_arkeologisten_tutkimusten_riittavyydesta 19\n_16_Kaavan_ilmastovaikutusten_arviointi_raportti 20\n_17_Louhinnan_kustannukset Tolsanportin eteläinen asemakaava (14201), tarkistetun asemakaavaehdotuksen asettaminen julkisesti nähtäville AKL 65 §:n ja MRA 27 §:n mukaisesti Kunnanhallitus 17.03.2025 § 87 306/10.02.03/2024",
+        "selostus": "_14201_Tolsanportti_eteläinen_fi 4 kh 20250220_Beskrivning_14201_Tollsporten_Södra 5 kh Tolsanportti_eteläinen_ehdotusvaihe_palautekooste_fi 6 kh Tolsanportti_eteläinen_ehdotusvaihe_palautekooste_sv 7",
+        "valmistelija": "elinvoimajohtaja Simon Store, kaavoitusarkkitehti Anniina Lehtonen etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää 1 hyväksyä tämän asian liitteen mukaiset kaavoittajan vastineet kaavan valmisteluaineistosta saatuihin lausuntoihin ja mielipiteisiin. 2 asettaa Tolsanportin eteläisen asemakaavan tarkistetun kaavaehdotuksen, piir.nro 3513, ja siihen liittyvät asiakirjat julkisesti nähtäville AKL 65 §:n ja MRA 27 §:n mukaisesti vähintään 30 vuorokauden ajaksi. 3 pyytää kaavaehdotuksesta lausunnot seuraavilta tahoilta: Kirkkonummen kunta: - elinkeinotoimi - tonttipalvelut - paikkatietopalvelut - rakennusvalvonta - ympäristönsuojelu - investointipalvelut - kunnossapitopalvelut - sivistys- ja vapaa-aikapalvelut - kulttuuri- toimi, liikuntapalvelut - vammaisneuvosto - vanhusneuvosto - Kirkkonummen Vesi Muut viranomaiset: - Uudenmaan liitto - Uudenmaan elinkeino-, liikenne- ja ympäristökeskus - Espoon seudun ympäristöterveys - HSY Helsingin seudun ympäristöpalvelut – kuntayhtymä - HSL Helsingin seudun liikenne –kuntayhtymä - Länsi-Uudenmaan pelastuslaitos - Länsi-Uudenmaan poliisilaitos - Länsi-Uudenmaan museo Yritykset: - Caruna Espoo Oy - Fortum Power and Heat Oy - DNA Oy - Elisa Oyj - TeliaSonera Finland Oyj - Digita Oy Yhdistykset ja järjestöt: - Kirkkonummen Pienkiinteistöyhdistys ry - Kyrkslätts Hembygdsförening r.f. - Kirkkonummen ympäristöyhdistys ry - Kyrkslätts Natur och Miljö r.f. - Kirkkonummen yrittäjät ry - Kyrkslätt Landsbygdsförening r.f. - MTK-Uusimaa - Eteläinen metsäreviiri ry - Metsäkeskus - Kirkkonummen Riistanhoitoyhdistys - Yksityisteiden tiekunnat 4 että ennen asemakaavan hyväksymistä kunnanvaltuustossa on kunnan ja kaavoituksen kautta taloudellista hyötyä saavien alueen maanomistajien kesken oltava hyväksytyt ja allekirjoitetut maankäyttösopimukset",
+        "kasittely": "Elinvoimajohtaja Simon Store esitteli asiaa. Jäsen Carl-Johan Kajanti saapui kokoukseen tämän pykälän käsittelyn aikana klo 16.53. Puheenjohtaja julisti keskustelun päättyneeksi ja totesi, että keskustelun aikana Sanni Jäppinen on jättänyt seuraavan evästysehdotuksen: Evästys jatkoon: Tonttialueiden vihersuunnitelmissa huomioidaan luonnonmonimuotoisuus. Evästysehdotusta kannattivat Saara Huhmarniemi, Kati Kaihlaranta ja Anna Aintila. Evästysehdotusta ei hyväksytty yksimielisesti, joten puheenjohtaja ilmoitti että asiasta on äänestettävä. Puheenjohtaja ehdotti että asiasta äänestetään niin, että ne jotka kannattavat pohjaehdotusta illman evästystä äänestävät JAA, ja ne jotka kannattavat pohjaehdotusta Sanni Jäppisen evästyksellä äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 7 JAA ääntä ja 6 EI ääntä. Pohjaehdotus ilman evästystä sai enemmän ääniä ja voitti. JAA äänestivät Timo Haapaniemi, Arttu Lankinen, Anneli Granström, Matti Kaurila, Ulf Kjerin, Carl-Johan Kajanti ja Ari Harinen. EI äänestivät Antti Kilappa, Kati Kaihlaranta, Anna Sahiluoma, Saara Huhmarniemi, Sanni Jäppinen ja Anna Aintila",
+        "paatos": "Kunnanhallitus päätti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite 1 Asemakaavakartta_14201_Tolsanportti_eteläinen_fi_sv",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252001-3-122183.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite_2_Asemakaava_määräyksineen_fi_sv",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252001-3-122188.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "kh Selostus_14201_Tolsanportti_eteläinen_fi",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252001-3-122184.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "kh 20250220_Beskrivning_14201_Tollsporten_Södra",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252001-3-122189.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "kh Tolsanportti_eteläinen_ehdotusvaihe_palautekooste_fi",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252001-3-122185.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "kh Tolsanportti_eteläinen_ehdotusvaihe_palautekooste_sv",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252001-3-122190.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite_3_Havainnekuva",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252001-3-120827.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite_4_Ote_Kirkkonummen_ajantasa-asemakaavasta",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252001-3-120828.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite_5_Kunnan_maanomistus",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252001-3-120829.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite_6_Luontoselvitys",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252001-3-120830.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite_7_Liito-oravaselvitys",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252001-3-120831.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite_8_Kaupallinen_selvitys",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252001-3-120832.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite_10_Liikenneselvitys",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252001-3-120834.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite_11_Louhintasuunnitelma",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252001-3-120836.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite_12_Meluilmoituksen_meluselvitys",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252001-3-120835.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite_13_Meluselvitys",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252001-3-120837.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite_14_Hulevesiselvitys",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252001-3-120838.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite_15_Museoviraston_lausunto_arkeologisten_tutkimusten_riittavyydesta",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252001-3-120839.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite_16_Kaavan_ilmastovaikutusten_arviointi_raportti",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252001-3-120840.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite_17_Louhinnan_kustannukset",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252001-3-120841.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Sanni Jäppinen",
+          "kind": "evastysehdotus",
+          "text": "Evästys jatkoon: Tonttialueiden vihersuunnitelmissa huomioidaan luonnonmonimuotoisuus. Evästysehdotusta kannattivat Saara Huhmarniemi, Kati Kaihlaranta ja Anna Aintila. Evästysehdotusta ei hyväksytty yksimielisesti, joten puheenjohtaja ilmoitti että asiasta on äänestettävä",
+          "source": "introduction",
+          "party": "vihr"
+        }
+      ]
+    },
+    {
+      "id": "20252001-4",
+      "ordinal": "4",
+      "title": "Tolsanportin pohjoinen asemakaava ja asemakaavan muutos (14200), tarkistetun asemakaavaehdotuksen asettaminen julkisesti nähtäville AKL 65 §:n ja MRA 27 §:n mukaisesti",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252001-4",
+      "decision": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 21\n1_Asemakaavakartta_14200_Tolsanportti_pohjoinen_fi_sv 22 kh\n_2_Asemakaava_määräyksineen_fi_sv 23 kh\n_3_Havainnekuva 28\n_4_Ote_Kirkkonummen_ajantasa-asemakaavasta 29\n_5_Kunnan_maanomistus 30\n_6_Luontoselvitys 31\n_7_Noroselvitys 32\n_8_Liito-oravaselvitys 33\n_9_Kaupallinen_selvitys 34\n_11_Liikenneselvitys 35\n_12_Louhintasuunnitelma 36\n_13_Meluilmoituksen_meluselvitys 37\n_14_Meluselvitys 38\n_15_Hulevesiselvitys 39\n_16_Museoviraston_lausunto_arkeologisten_tutkimusten_riittavyydesta 40\n_17_Kaavan_ilmastovaikutusten_arviointi_raportti 41\n_18_Louhinnan_kustannukset Tolsanportin pohjoinen asemakaava ja asemakaavan muutos (14200), tarkistetun asemakaavaehdotuksen asettaminen julkisesti nähtäville AKL 65 §:n ja MRA 27 §:n mukaisesti Kunnanhallitus 17.03.2025 § 88 933/10.02.03/2022",
+        "selostus": "_14200_Tolsanportti_pohjoinen 24 kh 20250220_Beskrivning_14200_Tollsporten_Norra 25 kh Tolsanportti_pohjoinen_ehdotusvaihe_palautekooste_fi 26 kh Tolsanportti_pohjoinen_ehdotusvaihe_palautekooste_sv 27",
+        "valmistelija": "elinvoimajohtaja Simon Store, kaavoitusarkkitehti Anniina Lehtonen etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää 1 hyväksyä tämän asian liitteen mukaiset kaavoittajan vastineet kaavan ehdotusaineistosta saatuihin lausuntoihin ja muistutuksiin. 2 asettaa Tolsanportin pohjoisen asemakaavan ja asemakaavan muutoksen tarkistetun kaavaehdotuksen, piir.nro 3511, ja siihen liittyvät asiakirjat julkisesti nähtäville AKL 65 §:n ja MRA 27 §:n mukaisesti vähintään 30 vuorokauden ajaksi. 3 pyytää kaavaehdotuksesta lausunnot seuraavilta tahoilta: Kirkkonummen kunta: - elinkeinotoimi - tonttipalvelut - paikkatietopalvelut - rakennusvalvonta - ympäristönsuojelu - investointipalvelut - kunnossapitopalvelut - sivistys- ja vapaa-aikapalvelut - kulttuuri- toimi, liikuntapalvelut - vammaisneuvosto - vanhusneuvosto - Kirkkonummen Vesi Muut viranomaiset: - Uudenmaan liitto - Uudenmaan elinkeino-, liikenne- ja ympäristökeskus - Väylävirasto - Espoon seudun ympäristöterveys - HSY Helsingin seudun ympäristöpalvelut – kuntayhtymä - HSL Helsingin seudun liikenne –kuntayhtymä - Länsi-Uudenmaan pelastuslaitos - Länsi-Uudenmaan poliisilaitos - Länsi-Uudenmaan museo Yritykset: - Caruna Espoo Oy - Fortum Power and Heat Oy - DNA Oy - Elisa Oyj - TeliaSonera Finland Oyj - Digita Oy Yhdistykset ja järjestöt: - Kirkkonummen Pienkiinteistöyhdistys ry - Kyrkslätts Hembygdsförening r.f. - Kirkkonummen ympäristöyhdistys ry - Kyrkslätts Natur och Miljö r.f. - Kirkkonummen yrittäjät ry - Helsingin seudun kauppakamari - Kyrkslätt Landsbygdsförening r.f. - MTK-Uusimaa - Eteläinen metsäreviiri ry - Metsäkeskus - Kirkkonummen Riistanhoitoyhdistys - Yksityisteiden tiekunnat 4 että ennen asemakaavan hyväksymistä kunnanvaltuustossa on kunnan ja kaavoituksen kautta taloudellista hyötyä saavien alueen maanomistajien kesken oltava hyväksytyt ja allekirjoitetut maankäyttösopimukset",
+        "kasittely": "Elinvoimajohtaja Simon Store esitteli asiaa ja hän poistui kokouksesta tämän pykälän jälkeen klo 17.38",
+        "paatos": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite 1_Asemakaavakartta_14200_Tolsanportti_pohjoinen_fi_sv",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252001-4-122191.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "kh Liite_2_Asemakaava_määräyksineen_fi_sv",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252001-4-122194.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "kh Selostus_14200_Tolsanportti_pohjoinen",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252001-4-122192.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "kh 20250220_Beskrivning_14200_Tollsporten_Norra",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252001-4-122195.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "kh Tolsanportti_pohjoinen_ehdotusvaihe_palautekooste_fi",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252001-4-122193.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "kh Tolsanportti_pohjoinen_ehdotusvaihe_palautekooste_sv",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252001-4-122196.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite_3_Havainnekuva",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252001-4-120850.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite_4_Ote_Kirkkonummen_ajantasa-asemakaavasta",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252001-4-120851.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite_5_Kunnan_maanomistus",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252001-4-120852.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite_6_Luontoselvitys",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252001-4-120853.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite_7_Noroselvitys",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252001-4-120855.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite_8_Liito-oravaselvitys",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252001-4-120857.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite_9_Kaupallinen_selvitys",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252001-4-120856.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite_11_Liikenneselvitys",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252001-4-120858.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite_12_Louhintasuunnitelma",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252001-4-120860.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite_13_Meluilmoituksen_meluselvitys",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252001-4-120861.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite_14_Meluselvitys",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252001-4-120862.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite_15_Hulevesiselvitys",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252001-4-120863.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite_16_Museoviraston_lausunto_arkeologisten_tutkimusten_riittavyydesta",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252001-4-120864.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite_17_Kaavan_ilmastovaikutusten_arviointi_raportti",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252001-4-120865.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite_18_Louhinnan_kustannukset",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252001-4-120866.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20252001-5",
+      "ordinal": "5",
+      "title": "Överbyntien jalankulku- ja pyöräilyväylä välille Karlbergintie-Granbackantie: hankeen lisääminen vuoden 2025 investointiohjelmaan ja määrärahan siirtäminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252001-5",
+      "decision": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "Projektipäällikkö Hannu Ruhanen etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää 1 lisätä vuoden 2025 talousarvion investointiohjelmaan liikenneväylät ja puistot osioon kohtaan katu- ja rakennussuunnittelu hankkeen Överbyntien jalankulku- ja pyöräilyväylä. 2 siirtää hankkeelle Överbyntien jalankulku- ja pyöräilyväylä määrärahan investointiohjelman sisältä liikenneväylät ja puistot osiosta hankkeelta 9488 Mustikkarinne 20 000 €. Mustikkarinteen hanke ei ole käynnistynyt",
+        "paatos": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252001-6",
+      "ordinal": "6",
+      "title": "Jolkbyån raittisilta; hankkeen lisääminen investointiohjelmaan ja määrärahan siirtäminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252001-6",
+      "decision": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "Projektipäällikkö Hannu Ruhanen etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää 1 lisätä vuoden 2025 talousarvion investointiohjelmaan liikenneväylät ja puistot osioon kohtaan katu- ja rakennussuunnittelu hankkeen Jolkbyån raittisilta. 2 siirtää hankkeelle Jolkbyån raittisilta määrärahan investointiohjelman sisällä liikenneväylät ja puistot osiossa hankkeelta 9488 Mustikkarinne 50 000 €. Mustikkarinteen hanke ei ole käynnistynyt",
+        "paatos": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252001-7",
+      "ordinal": "7",
+      "title": "Kiinteistökannan myyntisuunnitelman 2025-2035 ja purkusuunnitelman 2025-2030 hyväksyminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252001-7",
+      "decision": "Kunnanhallitus päätti yksimielisesti hyväksyä liitteenä olevat myynti- ja purkusuunnitelman sekä Killinmäen rakennusten 1, 7 ja 8 siirron salkusta C2 salkkuun C3 seuraavalla muutoksella: liitteen tekstiä Karubyn koulun osalta (s 18) muutetaan seuraavasti: ”Myytävä maa-alue määriteltävä ennen myyntiä ( lohkominen yms.) kunnanvaltuuston evästyksen määrittelemällä tavalla”. Lisäksi kunnanhallitus hyväksyi yksimielisesti seuraavan evästyksen: Liitettä päivitetään sisältämään myös kiinteistöjen koot, sekä myytäväksi suunnitellun osuuden tästä. Yleiskaavan alueilla myytävien kohteiden osalta, mietittävä, paitsi myytävän tontin kokoa, myös mahdollisia ostajakandidaatteja poisrajaavien ehtojen miellekkyyttä. Tavoitteena hyvä ettei pelkkään asumiseen siirry, mutta jos sitovuustaso ei ole riittävä, tästä uhkaa muodostua ostajakandidaatteja eriarvoistava asia. Kohteissa, joissa on suuret ylläpitokulut, olisi hyvä riittävän nopeasti laskea minimihintatasoa ja toimia muutoin tarjouskilpailuperiaatteella, mikäli tavoitehintaan ei saada sopivia ostajaehdokkaita. Hallitus muistuttaa myös periaatteesta, että kohteet pitää myydä mahdollisimman riskivapaina niin, että kuntotarkastukset ovat aina riittävän tuoreita ja kattavia. Myyntihinnan maksimoinnin ollessa hankalaa tai tulevien riskien ollessa hankalasti arvioitavissa, ja varsinkin matalan hinnan kohteilla, myynti-ilmoituksessa ja luovutussopimuksessa kiinteistöt pitää myydä riskistä vapaina ja tarvittaessa halvemmalla (vrt purkukuntoinen ei suojelluissa kohteissa)",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 42\n1 Myyntisuunnitelma 2025-2035 43\n2 Purkusuunnitelma 2025-2030 Kiinteistökannan myyntisuunnitelman 2025-2035 ja purkusuunnitelman 2025-2030 hyväksyminen Kunnanhallitus 17.03.2025 § 91 406/02.07.00/2021",
+        "valmistelija": "Kiinteistöpäällikkö Mia Nieminen etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää hyväksyä liitteenä olevat myynti- ja purkusuunnitelman sekä Killinmäen rakennusten 1, 7 ja 8 siirron salkusta C2 salkkuun C3",
+        "kasittely": "Kuntakehitysjohtaja Anna-Kaisa Kauppinen esitteli asiaa. Puheenjohtaja julisti keskustelun päättyneeksi ja totesi, että keskustelun aikana Carl-Johan Kajanti on tehnyt muutos- ja evästysehdotuksen seuraavasti: Muutosehdotus Carl-Johan Kajanti: Muutos: liitteen tekstiä Karubyn koulun osalta (s 18) muutetaan seuraavasti: ”Myytävä maa-alue määriteltävä ennen myyntiä ( lohkominen yms.) kunnanvaltuuston evästyksen määrittelemällä tavalla”. Muutosehdotusta kannattivat Timo Haapaniemi, Matti Kaurila, Anneli Granström, Anna Aintila ja Kati Kaihlaranta. Puheenjohtajan tiedustellessa muutosehdotus hyväksyttiin yksimielisesti. Evästysehdotus Carl-Johan Kajanti: Evästys: Liitettä päivitetään sisältämään myös kiinteistöjen koot, sekä myytäväksi suunnitellun osuuden tästä. Yleiskaavan alueilla myytävien kohteiden osalta, mietittävä, paitsi myytävän tontin kokoa, myös mahdollisia ostajakandidaatteja poisrajaavien ehtojen miellekkyyttä. Tavoitteena hyvä ettei pelkkään asumiseen siirry, mutta jos sitovuustaso ei ole riittävä, tästä uhkaa muodostua ostajakandidaatteja eriarvoistava asia. Kohteissa, joissa on suuret ylläpitokulut, olisi hyvä riittävän nopeasti laskea minimihintatasoa ja toimia muutoin tarjouskilpailuperiaatteella, mikäli tavoitehintaan ei saada sopivia ostajaehdokkaita. Hallitus muistuttaa myös periaatteesta, että kohteet pitää myydä mahdollisimman riskivapaina niin, että kuntotarkastukset ovat aina riittävän tuoreita ja kattavia. Myyntihinnan maksimoinnin ollessa hankalaa tai tulevien riskien ollessa hankalasti arvioitavissa, ja varsinkin matalan hinnan kohteilla, myynti-ilmoituksessa ja luovutussopimuksessa kiinteistöt pitää myydä riskistä vapaina ja tarvittaessa halvemmalla (vrt purkukuntoinen ei suojelluissa kohteissa). Evästysehdotusta kannattivat Timo Haapaniemi ja Matti Kaurila. Puheenjohtajan tiedustellessa evästysehdotus hyväksyttiin yksimielisesti",
+        "paatos": "Kunnanhallitus päätti yksimielisesti hyväksyä liitteenä olevat myynti- ja purkusuunnitelman sekä Killinmäen rakennusten 1, 7 ja 8 siirron salkusta C2 salkkuun C3 seuraavalla muutoksella: liitteen tekstiä Karubyn koulun osalta (s 18) muutetaan seuraavasti: ”Myytävä maa-alue määriteltävä ennen myyntiä ( lohkominen yms.) kunnanvaltuuston evästyksen määrittelemällä tavalla”. Lisäksi kunnanhallitus hyväksyi yksimielisesti seuraavan evästyksen: Liitettä päivitetään sisältämään myös kiinteistöjen koot, sekä myytäväksi suunnitellun osuuden tästä. Yleiskaavan alueilla myytävien kohteiden osalta, mietittävä, paitsi myytävän tontin kokoa, myös mahdollisia ostajakandidaatteja poisrajaavien ehtojen miellekkyyttä. Tavoitteena hyvä ettei pelkkään asumiseen siirry, mutta jos sitovuustaso ei ole riittävä, tästä uhkaa muodostua ostajakandidaatteja eriarvoistava asia. Kohteissa, joissa on suuret ylläpitokulut, olisi hyvä riittävän nopeasti laskea minimihintatasoa ja toimia muutoin tarjouskilpailuperiaatteella, mikäli tavoitehintaan ei saada sopivia ostajaehdokkaita. Hallitus muistuttaa myös periaatteesta, että kohteet pitää myydä mahdollisimman riskivapaina niin, että kuntotarkastukset ovat aina riittävän tuoreita ja kattavia. Myyntihinnan maksimoinnin ollessa hankalaa tai tulevien riskien ollessa hankalasti arvioitavissa, ja varsinkin matalan hinnan kohteilla, myynti-ilmoituksessa ja luovutussopimuksessa kiinteistöt pitää myydä riskistä vapaina ja tarvittaessa halvemmalla (vrt purkukuntoinen ei suojelluissa kohteissa)"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite 1 Myyntisuunnitelma 2025-2035",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252001-7-120701.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite 2 Purkusuunnitelma 2025-2030",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252001-7-120702.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Carl-Johan Kajanti",
+          "kind": "vastaehdotus",
+          "text": "”Myytävä maa-alue määriteltävä ennen myyntiä ( lohkominen yms.) kunnanvaltuuston evästyksen määrittelemällä tavalla”. Muutosehdotusta kannattivat Timo Haapaniemi, Matti Kaurila, Anneli Granström, Anna Aintila ja Kati Kaihlaranta",
+          "source": "introduction",
+          "party": "rkp"
+        }
+      ]
+    },
+    {
+      "id": "20252001-8",
+      "ordinal": "8",
+      "title": "Liittymispäätös Hansel Oy:n yhteishankinta, Turvallisuustekniikka, järjestelmät ja laitteet 2024–2030",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252001-8",
+      "decision": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "Tietohallintojohtaja Lea Blomberg, turvallisuusasiantuntija Heikki Saarnio ja hankinta-asiantuntija Taina Väre etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää 1 että Kirkkonummen kunta liittyy Turvallisuustekniikka, järjestelmät ja laitteet 2024–2030 puitejärjestelynä toteutettavaan yhteishankintaan 2 valtuuttaa talouspalvelun keskitetyn hankintatoimen ja hankintojen ohjauksen hankinta-asiantuntijan tekemään sähköisen liittymisilmoituksen kohdan 1. mukaiseen yhteishankintaan liittymisen 3 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "paatos": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+        "tiedoksi": "Hansel Oy, tietohallintojohtaja, turvallisuusasiantuntija ja hankinta-asiantuntijat",
+        "selostus": "Hankinnan kohteen kuvaus Hansel Oy on yhteishankintayksikkö, joka kilpailutti Turvallisuustekniikka, järjestelmät ja laitteet 2024–2030 dynaamisena hankintajärjestelmänä (DPS). Yhteishankinnan arvioitu sopimuskausi on 02.12.2024 - 31.12.2030. Hankintasopimusten viimeinen voimassaolopäivä on 31.12.2040. Kirkkonummen kunnan liittyminen edellä mainittuun yhteishankintaan on tarkoituksenmukaista, koska liittymällä turvallisuustekniikan, järjestelmien ja laitteiden hankintaan saadaan maantieteellisesti hyvin saatavilla olevat palvelut sekä hyvät sopimusehdot sopimukseen. Puitejärjestelyn sisäisellä kilpailutuksella kunta voi hankkia: Luokka 1 Kokonaispalvelu: Rikosilmoitin-, Kameravalvonta- ja Kulunvalvontajärjestelmät Luokka 5 Työajanseurantajärjestelmät Julkisista hankinnoista ja käyttöoikeussopimuksista annetun lain 20 §:n mukaan hankintayksikkö voi hankkia tavaroita ja palveluita yhteishankintayksiköltä käyttäen yhteishankintayksikön tekemää hankintasopimusta, 42 §:ssä tarkoitettua puitejärjestelyä taikka 49 §:ssä tarkoitettua dynaamista hankintajärjestelmää. Hankintayksikön katsotaan täyttäneen hankintalain mukaiset velvoitteensa, kun se hankkii tavaroita tai palveluja yhteishankintayksiköltä taikka hankkii tavaroita, palveluja taikka rakennusurakoita käyttäen yhteishankintayksikön tekemää hankintasopimusta, 42 §:ssä tarkoitettua puitejärjestelyä taikka 49 §:ssä tarkoitettua dynaamista hankintajärjestelmää. Hansel Oy on yllä mainitun lain mukainen yhteishankintayksikkö. Hankintayksikkö ei sitoudu mihinkään minimiostomääriin, vaan hankintoja tehdään tarpeen mukaan ja kulloisten määrärahojen puitteissa. Liittymisen arvo sopimuskaudelle on noin 2.000.000,00 euroa (alv 0 %). Kirkkonummen kunta ei liity hankintaan tällä päätöksellä, vaan vasta myöhemmin tehtävällä liittymisilmoituksella, jonka talouspalvelun keskitetyn hankintatoimen ja hankintojen ohjauksen hankinta-asiantuntija tekee sähköisesti Hansel Oy:n verkkopalvelussa. Toimivalta: Kirkkonummen kunnan hallintosääntö 1.1.2025 § 96, toimielimen hankintavaltuus (Kv 9.12.2024 § 106)"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252001-9",
+      "ordinal": "9",
+      "title": "Vastaus valtuustoaloitteeseen 7/2023: Kirkkonummen kunnan tulee selvittää mahdollisuus järjestää keskustelutilaisuus liikenneturvallisuudesta, Kv",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252001-9",
+      "decision": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "initiative": {
+        "ref": "7/2023",
+        "proposer": "utakunta päätti päätösehdotuksen mukaisesti     Selostus   Valtuutettu Kim Liljequist, RKP",
+        "party": "rkp",
+        "name": "Kim Liljequist"
+      },
+      "sections": {
+        "valmistelija": "hallintopäällikkö Tiina Koivisto liikennesuunnittelija Marko Suni etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää antaa kunnanvaltuustolle selostusosan mukaisen vastauksen valtuustoaloitteeseen 7/2023: Kirkkonummen kunnan tulee selvittää mahdollisuus järjestää keskustelutilaisuus liikenneturvallisuudesta ja ehdottaa, että valtuusto pitää vastausta riittävänä ja aloitetta loppuun käsiteltynä",
+        "kasittely": "Kuntakehitysjohtaja Anna-Kaisa Kauppinen poistui kokouksesta tämän pykälän jälkeen klo 18.17",
+        "paatos": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252001-10",
+      "ordinal": "10",
+      "title": "Sydkustens landskapsförbund r.f., kunnan edustajien valinta vuosikokoukseen 24.4.2025",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252001-10",
+      "decision": "Kunnanhallitus päätti yksimielisesti 1 valita Kirkkonummen kunnan edustajat ja varaedustajat Sydkustens landskapsförbund r.f.:n vuosikokoukseen 24.4.2025 seuraavasti: Stefan Gustafsson, varalle Josephine Frimodig Linda Basilier , varalle Tony Björk Thorolf Sjölund, varalle Kim Åström Mikael Korkman, ei varaedustajaa 2 olla antamatta erityistä evästystä kunnan edustajille",
+      "votes": [],
+      "sections": {
+        "valmistelija": "hallinnon asiantuntija Gunnel Ekström, etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää 1 valita Kirkkonummen kunnan edustajat ja varaedustajat Sydkustens landskapsförbund r.f.:n vuosikokoukseen 24.4.2025. 2 mahdollisen evästyksen antamisesta kunnan edustajille",
+        "paatos": "Kunnanhallitus päätti yksimielisesti 1 valita Kirkkonummen kunnan edustajat ja varaedustajat Sydkustens landskapsförbund r.f.:n vuosikokoukseen 24.4.2025 seuraavasti: Stefan Gustafsson, varalle Josephine Frimodig Linda Basilier , varalle Tony Björk Thorolf Sjölund, varalle Kim Åström Mikael Korkman, ei varaedustajaa 2 olla antamatta erityistä evästystä kunnan edustajille",
+        "selostus": "Sydkustens landskapsförbund r.f.:n vuosikokous pidetään 24.4.2025 klo 13.30 Paraisten kaupungintalolla. Jäsenkuntia on pyydetty valitsemaan kokousedustajansa mahdollisimman pian. Jäsenkunnat valitsevat enintään yhden varsinaisen edustajan jokaista tuhatta ruotsinkielistä asukasta kohti, yhteensä kuitenkin enintään 10 edustajaa sekä heille henkilökohtaiset varaedustajat. Äänestyksessä jokaisella kunnalla on yksi ääni jokaista tuhatta ruotsinkielistä asukasta kohti, kuitenkin enintään 10 ääntä. Kokouskutsun liitteenä olevan vaaliluettelon mukaan 31.12.2023 Kirkkonummella asui 6099 ruotsinkielistä, joten Kirkkonummi saa nimetä enintään seitsemän edustajaa. Kunnanhallitus päätti nimetä kunnan edustajat ja varaedustajat 17.4.2024 pidettyyn vuosikokoukseen seuraavasti: Stefan Gustafsson, varalle Josephine Frimodig Linda Basilier , varalle Tony Björk Thorolf Sjölund, varalle Kim Åström Mikael Korkman, ei varaedustajaa Vuosikokouksessa käsitellään sääntömääräisten asioiden lisäksi muun muassa vuoden 2024 palkkioita ja korvauksia (palkkiosääntö) sekä valitaan liiton hallitukseen uudet varsinaiset jäsenet ja henkilökohtaiset varajäsenet niiden tilalle, jotka ovat vuorossa erota. Kirkkonummen kunnan edustaja Thorolf Sjölund on vuorossa erota, joten hänen tilalle on valittava uusi hallitusjäsen. Esityslistan mukaan yhtiökokouksessa käsitellään seuraavat asiat: Kokouksen avaus Kokouksen puheenjohtajan, varapuheenjohtajan ja sihteerin valinta Nimenhuuto ja vaaliluettelon vahvistaminen Laillisuuden ja päätösvaltaisuuden toteaminen Esityslistan hyväksyminen Pöytäkirjantarkastajien ja ääntenlaskijoiden valinta Äänestysvalmisteluvaliokunnan valinta Tilinpäätös, toimintakertomus ja tilintarkastajan lausunto vuodesta 2025 Tilinpäätöksen vahvistaminen ja vastuuvapauden myöntäminen hallitukselle ja muille tilivelvollisille Vuosiraportti 2025 Vuoden 2025 jäsenmaksujen vahvistaminen Toimintasuunnitelma vuodelle 2025 Palkkiot ja korvaukset vuonna 2025 Vuoden 2025 talousarvio Sydkustens landskapsförbundin puheenjohtajan valinta Hallituksen varsinaisten jäsenten ja henkilökohtaisten varajäsenten valinta Tilintarkastajan ja varatilitarkastajan valinta vuodelle 2025 Muut asiat Kokouksen päättäminen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252001-11",
+      "ordinal": "11",
+      "title": "Kuntarahoitus Oyj:n yhtiökokous 25.3.2025",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252001-11",
+      "decision": "Kunnanhallitus päätti yksimielisesti 1 nimetä Ari Harisen kunnan yhtiökokousedustajaksi Kuntarahoitus Oyj:n yhtiökokoukseen 25.3.2025 2 olla antamatta erityistä evästystä tiökokousedustajalle 3 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+      "votes": [],
+      "sections": {
+        "valmistelija": "hallinnon asiantuntija Gunnel Ekström etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää 1 nimetä kunnan yhtiökokousedustaja Kuntarahoitus Oyj:n yhtiökokoukseen 25.3.2025 2 mahdollisen evästyksen antamisesta yhtiökokousedustajalle 3 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "paatos": "Kunnanhallitus päätti yksimielisesti 1 nimetä Ari Harisen kunnan yhtiökokousedustajaksi Kuntarahoitus Oyj:n yhtiökokoukseen 25.3.2025 2 olla antamatta erityistä evästystä tiökokousedustajalle 3 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "tiedoksi": "Kuntarahoitus Oyj:lle, valitulle edustajalle",
+        "selostus": "Kunnanhallitus on päätöksellään 11.3.2024 § 69 valinnut Tuovi Ronkaisen Kirkkonummen kunnan yhtiökokousedustajaksi kaudelle 2024-2025. Tuovi Ronkainen on ilmoittanut ettei kokouspäivämäärä sovi hänelle. Kuntarahoitus Oyj:n osakkeenomistajat kutsutaan varsinaiseen yhtiökokoukseen, joka pidetään tiistaina 25.3.2025 kello 10.00 alkaen Helsingissä Kuntarahoituksen toimitiloissa. Kokoukseen ilmoittautuneiden vastaanottaminen ja valtakirjojen tarkastus sekä kahvitarjoilu alkaa kokouspaikalla kokouspäivänä 25.3.2025 kello 9.00. Fyysisen osallistumisen lisäksi osakkeenomistajilla on mahdollisuus seurata yhtiökokousta Microsoft Teams -verkkolähetyksenä. Verkkolähetyksen välityksellä ei voi esittää kysymyksiä tai käyttää muutoin puheoikeutta, eikä verkkolähetyksen seuraaminen tarkoita osallistumista yhtiökokoukseen. Puhe- ja äänioikeuttaan verkkolähetystä seuraavat osakkeenomistajat voivat käyttää vain kokouspaikalla asiamiehen välityksellä. Yhtiökokouksessa käsitellään seuraavat asiat: 1. Kokouksen avaaminen 2. Kokouksen järjestäytyminen 3. Pöytäkirjantarkastajien ja ääntenlaskun valvojien valitseminen 4. Kokouksen laillisuuden toteaminen 5. Läsnä olevien toteaminen ja ääniluettelon vahvistaminen 6. Vuoden 2024 tilinpäätöksen, toimintakertomuksen ja tilintarkastuskertomuksen esittäminen 7. Tilinpäätöksen 2024 vahvistaminen 8. Taseen osoittaman voiton käyttäminen ja osingonjaosta päättäminen 9. Vastuuvapaudesta päättäminen hallituksen jäsenille, toimitusjohtajalle ja toimitusjohtajan sijaiselle 10. Hallituksen jäsenten, tilintarkastajan ja kestävyysraportoinnin varmentajan palkkiosta päättäminen 11. Hallituksen jäsenten lukumäärästä päättäminen 12. Hallituksen jäsenten valitseminen 13. Tilintarkastajan valitseminen 14. Kestävyysraportoinnin varmentajan valitseminen 15. Kokouksen päättäminen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252001-12",
+      "ordinal": "12",
+      "title": "Länsirata Oy:n varsinainen yhtiökokous 9.4.2025",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252001-12",
+      "decision": "Kunnanhallitus päätti yksimielisesti 1 nimetä kunnanjohtajan Virpi Sailaksen kunnan edustajaksi ja hallintojohtajan Jaana Suihkosen kunnan varaedustajaksi Länsirata Oy:n yhtiökokoukseen 9.4.2025 2 antaa seuraavan evästyksen yhtiökokousedustajalle: Keskusteltaessa yhtiökokouksessa hankkeen toteutuksesta ja rahoituksesta, on keskustelun yhteydessä tuotava esille kunnanvaltuuston hankkeesta 5.2.2024 tekemä evästys; ”Tänään käsiteltävänä olevan länsiradan osuudet Salo-Hajalan ja Espoo-Histan ensimmäiset osat toteutuessaan eivät saavuta Kirkkonummen Veikkolaa. Kunnanvaltuusto, kunnanhallituksen päätöksen lisäksi evästää neuvottelijamme siitä, että kunta maksaa erikseen päätettävän kuntaosuutensa ratahankkeesta aikaisintaan siinä vaiheessa, kun rata rakennetaan Veikkolan asemalle saakka.” sekä kunnanhallituksen 24.6.2024 tekemä evästys; Kunnanhallitus evästää neuvotteluja varsinaisesta osakassopimuksesta siten, että Kirkkonummen maksuosuus Helsinki Turku radan (Länsirata) rakentamiskustannuksista tulisi rajoittua suuruudeltaan Veikkolan seisakkeen rakentamiskustannuksiin.”",
+      "votes": [],
+      "sections": {
+        "valmistelija": "hallinnon erityisasiantuntija Pia Bergström etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Kunnanjohtaja Sailas Virpi Kunnanhallitus päättää 1 ehdottaa kunnanjohtaja Virpi Sailasta kunnan edustajaksi ja hallintojohtaja Jaana Suihkosta kunnan varaedustajaksi Länsirata Oy:n yhtiökokoukseen 9.4.2025 2 mahdollisen evästyksen antamisesta yhtiökokousedustajalle",
+        "kasittely": "Puheenjohtaja julisti keskustelun päättyneeksi, ja totesi että keskustelun aikana Matti Kaurila on tehnyt seuraavan evästysehdotuksen: Kunnanhallituksen evästys yhtiökokousedustajalle (Kaurila Matti): Keskusteltaessa yhtiökokouksessa hankkeen toteutuksesta ja rahoituksesta, on keskustelun yhteydessä tuotava esille kunnanvaltuuston hankkeesta 5.2.2024 tekemä evästys; ”Tänään käsiteltävänä olevan länsiradan osuudet Salo-Hajalan ja Espoo-Histan ensimmäiset osat toteutuessaan eivät saavuta Kirkkonummen Veikkolaa. Kunnanvaltuusto, kunnanhallituksen päätöksen lisäksi evästää neuvottelijamme siitä, että kunta maksaa erikseen päätettävän kuntaosuutensa ratahankkeesta aikaisintaan siinä vaiheessa, kun rata rakennetaan Veikkolan asemalle saakka.” sekä kunnanhallituksen 24.6.2024 tekemä evästys; Kunnanhallitus evästää neuvotteluja varsinaisesta osakassopimuksesta siten, että Kirkkonummen maksuosuus Helsinki Turku radan (Länsirata) rakentamiskustannuksista tulisi rajoittua suuruudeltaan Veikkolan seisakkeen rakentamiskustannuksiin.” Evästysehdotusta kannattivat Timo Haapaniemi, Carl-Johan Kajanti, Anneli Granström, Ulf Kjerin ja Arttu Lankinen. Puheenjohtajan tiedustellessa evästysehdotus hyväksyttiin yksimielisesti",
+        "paatos": "Kunnanhallitus päätti yksimielisesti 1 nimetä kunnanjohtajan Virpi Sailaksen kunnan edustajaksi ja hallintojohtajan Jaana Suihkosen kunnan varaedustajaksi Länsirata Oy:n yhtiökokoukseen 9.4.2025 2 antaa seuraavan evästyksen yhtiökokousedustajalle: Keskusteltaessa yhtiökokouksessa hankkeen toteutuksesta ja rahoituksesta, on keskustelun yhteydessä tuotava esille kunnanvaltuuston hankkeesta 5.2.2024 tekemä evästys; ”Tänään käsiteltävänä olevan länsiradan osuudet Salo-Hajalan ja Espoo-Histan ensimmäiset osat toteutuessaan eivät saavuta Kirkkonummen Veikkolaa. Kunnanvaltuusto, kunnanhallituksen päätöksen lisäksi evästää neuvottelijamme siitä, että kunta maksaa erikseen päätettävän kuntaosuutensa ratahankkeesta aikaisintaan siinä vaiheessa, kun rata rakennetaan Veikkolan asemalle saakka.” sekä kunnanhallituksen 24.6.2024 tekemä evästys; Kunnanhallitus evästää neuvotteluja varsinaisesta osakassopimuksesta siten, että Kirkkonummen maksuosuus Helsinki Turku radan (Länsirata) rakentamiskustannuksista tulisi rajoittua suuruudeltaan Veikkolan seisakkeen rakentamiskustannuksiin.”",
+        "selostus": "Länsirata Oy:n osakkeenomistajat on kutsuttu varsinaiseen yhtiökokoukseen, joka pidetään keskiviikkona 9.4.2025 kello 8.30 Helsingissä, liikenne- ja viestintäministeriö os. Eteläesplanadi 4. Varsinaisessa yhtiökokouksessa käsitellään osakeyhtiölain, yhtiöjärjestyksen ja osakassopimuksen mukaisesti sille kuuluvat asiat. Kokouksessa käsiteltävät asiat: Kokouksen avaaminen Kokouksen järjestäytyminen Pöytäkirjan tarkastajien ja ääntenlaskun valvojien valitseminen Kokouksen laillisuuden toteaminen Läsnä olevien toteaminen ja ääniluettelon vahvistaminen Yhtiön toiminnan ja talouden esittely sekä raportointi yritysvastuusta Tilinpäätös 1.1.–31.12.2024 ja tilintarkastuskertomus Toimenpiteet, joihin vahvistetun taseen mukainen voitto/tappio antaa aihetta Vastuuvapauden myöntäminen hallituksen jäsenille ja toimitusjohtajalle Hallituksen jäsenten palkkiosta päättäminen Hallituksen jäsenten lukumäärästä päättäminen Hallituksen jäsenten valitseminen Hallituksen puheenjohtajan ja varapuheenjohtajan valinta Tilintarkastajan valinta ja palkkiosta päättäminen Muut asiat Kokouksen päättäminen Kevään 2024 yhtiökokouksessa kuntaa edusti kunnanjohtaja Virpi Sailas"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252001-13",
+      "ordinal": "13",
+      "title": "Kunnanvaltuuston 3.3.2025 tekemien päätösten laillisuus ja täytäntöönpano",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252001-13",
+      "decision": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "hallinnon asiantuntija Gunnel Ekström, gunnel.ekstrom@kirkkonummi.fi",
+        "esittelija": "Kunnanjohtaja Virpi Sailas, etunimi.sukunimi@kirkkonummi.fi",
+        "paatosehdotus": "Kunnanhallitus toteaa kuntalain 96 §:n tarkoittamassa mielessä, että kunnanvaltuuston 3.3.2025 tekemät päätökset ovat syntyneet oikein eivätkä ole muutenkaan lain eivätkä asetuksen vastaisia, joten ne voidaan esteettä panna täytäntöön. Lisäksi kunnanhallitus tekee erilliset täytäntöönpanopäätökset seuraavasti: § 21 Kiinteistön BRÅTAÄNG 257-431-1-28 kantatilan hankinta",
+        "paatos": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "paatos_labels": 6,
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252001-14",
+      "ordinal": "14",
+      "title": "Kuntalain 92 §:n mukaista otto-oikeusmenettelyä varten saapuneet päätökset",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252001-14",
+      "decision": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 44 Päätösluettelo, 6. - 17.3.2025 Kuntalain 92 §:n mukaista otto-oikeusmenettelyä varten saapuneet päätökset Kunnanhallitus 17.03.2025 § 98 Toimielinten pöytäkirjoja Työlliisyys- ja elinkeinoasioiden lautakunta 4.3.2025 Suomenkielinen kasvatus- ja koulutuslautakunta 4.3.2025 Ruosinkielinen kasvatus- ja koulutuslautakunta 5.3.2025 Sivistys- ja vapaa-aikalautakunta 6.3.2025 Keskusvaalilautakunta 10.3.2025, 12.3.2025 ja 13.3.2025 Viranhaltijapäätöksiä Viranhaltijapäätökset ovat kokonaisuudessaan liitteineen luettavissa kokousjärjestelmässä: (tiedostot / kunnanhallitus / viranhaltijapäätökset)",
+        "esittelija": "Kunnanjohtaja Virpi Sailas, etunimi.sukunimi@kirkkonummi.fi",
+        "paatosehdotus": "Kunnanhallitus merkitsee tiedokseen edellä mainitut kuntalain 92 §:n nojalla otto-oikeuden käyttämistä varten esitetyt päätökset ja päättää, että Kunnanhallitus ei ota asioita käsiteltäväkseen",
+        "paatos": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Päätösluettelo, 6. - 17.3.2025",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20252001-14-122356.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20252001-15",
+      "ordinal": "15",
+      "title": "Pöytäkirjoja tiedoksi",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252001-15",
+      "decision": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "esittelija": "Kunnanjohtaja Virpi Sailas, etunimi.sukunimi@kirkkonummi.fi",
+        "paatosehdotus": "Kunnanhallitus merkitsee pöytäkirjat tiedokseen",
+        "paatos": "Kunnanhallitus päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20252001-16",
+      "ordinal": "16",
+      "title": "Muut asiat",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252001-16",
+      "decision": null,
+      "votes": [],
+      "sections": {},
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    }
+  ],
+  "id": "20252001",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20252001"
+}

@@ -1,0 +1,572 @@
+{
+  "title": "Yhdyskuntatekniikan lautakunta Pöytäkirja 29.09.2022 klo 17:00 - 20:45 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Yhdyskuntatekniikan lautakunta",
+  "doctype": "Pöytäkirja",
+  "date": "2022-09-29",
+  "items": [
+    {
+      "id": "20221205-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221205-1",
+      "decision": "Puheenjohtaja totesi kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi. Asiantuntijoina kokouksessa olivat läsnä kaavoitusarkkitehti Maria Pudas kunnanarkkitehti Tero Luomajärvi asemakaavapäällikkö Simon Store kuntatekniikkapäällikkö Toni Keski-Lusa",
+      "votes": [],
+      "sections": {
+        "valmistelija": "yhdyskuntatekniikan lautakunnan sihteeri Monica Smeds, etunimi.sukunimi@kirkkonummi.fi",
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Puheenjohtaja totesi kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi. Asiantuntijoina kokouksessa olivat läsnä kaavoitusarkkitehti Maria Pudas kunnanarkkitehti Tero Luomajärvi asemakaavapäällikkö Simon Store kuntatekniikkapäällikkö Toni Keski-Lusa"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20221205-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221205-2",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti valita Pekka Jäppisen ja Aleksander Polkko tarkastamaan tämän kokouksen pöytäkirjan edellä mainitun aikataulun mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "yhdyskuntatekniikan lautakunnan sihteeri Monica Smeds, etunimi.sukunimi@kirkkonummi.fi",
+        "paatosehdotus": "Yhdyskuntatekniikan lautakunta päättää 1 valita kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan 2 tarkastaa tämän pöytäkirjan sähköisesti seuraavan aikataulun mukaan: Pöytäkirja lähetetään sähköpostitse pöytäkirjantarkastajille, jotka ilmoittavat hyväksymisestään viimeistään tiistaina 4.10.2022. Jos hyväksymisviestiä ei tule sihteerille em. ajankohtaan mennessä, pöytäkirja katsotaan hyväksytyksi. Pöytäkirja allekirjoitetaan sähköisesti. Pöytäkirja on nähtävänä keskiviikkona 5.10.2022 kunnan verkkosivulla. Yleinen oikaisuvaatimusaika alkaa torstaina 13.10.2022",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti valita Pekka Jäppisen ja Aleksander Polkko tarkastamaan tämän kokouksen pöytäkirjan edellä mainitun aikataulun mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20221205-3",
+      "ordinal": "3",
+      "title": "Yhdyskuntatekniikan lautakunnan talousarvioesitys vuodelle 2023 ja taloussuunnitteluvuosille 2024 - 2025",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221205-3",
+      "decision": "Yhdyskuntatekniikan lautakunta päättää 1 esittää kunnanhallitukselle ja edelleen kunnanvaltuustolle toimielimen vuoden 2023 talousarvion ja vuosien 2024-2025 taloussuunnitelman kokouksessa muutetun liitteen mukaisesti 2 evästää viranhaltijoita seuraavasti: Kunnan uudistaessa metsästrategiaansa erityistä huomiota tulee kiinnittää siihen, että kunnan metsien hoito ja käyttö on kunnalle tuloa tuottavaa ja että metsien uusiutumiskykyä, ts. vuotuista kasvua voidaan kestävästi nostaa myös ilmastopoliittisista syistä. Metsätalouden aikaansaamia tuloja ja sen aiheuttamia menoja on siten seurattava vuosittain",
+      "votes": [
+        {
+          "jaa": [
+            "Sanni Jäppinen",
+            "Ronja Karkinen"
+          ],
+          "ei": [
+            "Josephine Frimodig",
+            "Teemu Kelkka",
+            "Kim Liljequist",
+            "Pekka Jäppinen",
+            "Aleksander Polkko",
+            "Antti Salonen",
+            "Jenny Snellman",
+            "Hannu Valtanen",
+            "Matti Kaurila"
+          ],
+          "tyhja": [],
+          "totals": {
+            "jaa": 2,
+            "ei": 9,
+            "tyhja": 0
+          },
+          "parties": {
+            "jaa": {
+              "vihr": 2
+            },
+            "ei": {
+              "rkp": 3,
+              "kesk": 1,
+              "sdp": 1,
+              "ps": 1,
+              "pro yl": 1,
+              "kok": 2
+            },
+            "tyhja": {}
+          }
+        },
+        {
+          "jaa": [
+            "Sanni Jäppinen",
+            "Ronja Karkinen"
+          ],
+          "ei": [
+            "Josephine Frimodig",
+            "Teemu Kelkka",
+            "Kim Liljequist",
+            "Pekka Jäppinen",
+            "Aleksander Polkko",
+            "Antti Salonen",
+            "Jenny Snellman",
+            "Hannu Valtanen",
+            "Matti Kaurila"
+          ],
+          "tyhja": [],
+          "totals": {
+            "jaa": 2,
+            "ei": 9,
+            "tyhja": 0
+          },
+          "parties": {
+            "jaa": {
+              "vihr": 2
+            },
+            "ei": {
+              "rkp": 3,
+              "kesk": 1,
+              "sdp": 1,
+              "ps": 1,
+              "pro yl": 1,
+              "kok": 2
+            },
+            "tyhja": {}
+          }
+        },
+        {
+          "jaa": [
+            "Pekka Jäppinen",
+            "Sanni Jäppinen",
+            "Ronja Karkinen"
+          ],
+          "ei": [
+            "Josephine Frimodig",
+            "Teemu Kelkka",
+            "Kim Liljequist",
+            "Aleksander Polkko",
+            "Antti Salonen",
+            "Jenny Snellman",
+            "Hannu Valtanen",
+            "Matti Kaurila"
+          ],
+          "tyhja": [],
+          "totals": {
+            "jaa": 3,
+            "ei": 8,
+            "tyhja": 0
+          },
+          "parties": {
+            "jaa": {
+              "sdp": 1,
+              "vihr": 2
+            },
+            "ei": {
+              "rkp": 3,
+              "kesk": 1,
+              "ps": 1,
+              "pro yl": 1,
+              "kok": 2
+            },
+            "tyhja": {}
+          }
+        },
+        {
+          "jaa": [
+            "Sanni Jäppinen",
+            "Ronja Karkinen"
+          ],
+          "ei": [
+            "Josephine Frimodig",
+            "Teemu Kelkka",
+            "Kim Liljequist",
+            "Pekka Jäppinen",
+            "Aleksander Polkko",
+            "Antti Salonen",
+            "Jenny Snellman",
+            "Hannu Valtanen",
+            "Matti Kaurila"
+          ],
+          "tyhja": [],
+          "totals": {
+            "jaa": 2,
+            "ei": 9,
+            "tyhja": 0
+          },
+          "parties": {
+            "jaa": {
+              "vihr": 2
+            },
+            "ei": {
+              "rkp": 3,
+              "kesk": 1,
+              "sdp": 1,
+              "ps": 1,
+              "pro yl": 1,
+              "kok": 2
+            },
+            "tyhja": {}
+          }
+        }
+      ],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko Yhdyskuntatekniikan lautakunnan talousarvio 2023 ja suunnitelmavuodet 2024-2025_YT ltk 29.9.2022\n- Yhdyskuntatekniikan lautakunnan talousarvio 2023 ja suunnitelmavuodet 2024-2025_Yt ltk 29.9.2022",
+        "oheismateriaali": "Kuvake Otsikko Kehys 2023-2025 pr5, Kh 27.6.2022 Yhdyskuntatekniikan lautakunnan talousarvioesitys vuodelle 2023 ja taloussuunnitteluvuosille 2024 - 2025 Yhdyskuntatekniikan lautakunta 29.09.2022 § 105 618/02.02.00/2022",
+        "valmistelija": "yhdyskuntatekniikan johtaja Anna-Kaisa Kauppinen, hallintopäällikkö Sirpa Salminen, kunnanarkkitehti Tero Luomajärvi, kuntatekniikkapäällikkö Toni Keski-Lusa, kunnangeodeetti Otso Kärkkäinen, etunimi.sukunimi@kirkkonummi.fi Kunnanhallitus hyväksyi kokouksessaan 27.6.2022 § 237 vuoden 2023 talousarvion laadintakehyksen. Oheismateriaalina oleva kehys on laadittu palvelualuekohtaisesti ulkoisten tulojen ja menojen osalta. Erikseen sitovan HSL:n määrärahaa koskeva kehys on annettu erillisinä. Toimielinten on jätettävä talousarvioesityksensä viimeistään 21.10.2022 kunnanhallitukselle. Hyväksyessään kehyksen kunnanhallitus kehotti kaikkia palvelualueita laatimaan vuoden 2023 talousarvioehdotuksensa palvelualuetasoisen toimintakatteen ja erikseen sitovan HSL:n määrärahan kehystavoitteiden mukaisesti ja kiinnittämään erityistä huomiota siihen, että talousarviovuoden sitovat toiminnalliset tavoitteet asetetaan siten, että ne tukevat Kirkkonummen kunnan taloudellisen tilan tasapainottamista suunnittelukauden aikana. Kunnanhallitus myös päätti, että talouden sopeuttaminen Kirkkonummen kunnassa käynnistetään välittömästi. Talouden sitova sopeutustarve määräytyy siten, että kunnan kustannusrakenne johtaa ylijäämäiseen tulokseen vuosina 2024 ja 2025. Tällöin vuoden 2023 talousarviokehyksen tuloksen sitova tavoite on +10 M€ ylijäämää. Tämä tarkoitti koko kunnan osalta yhteensä 2,6 milj. euron säästötavoitetta, josta yhdyskuntatekniikan palvelualueen osuus on 702 285 euroa. Tästä on osoitettu 124 000 euron säästötavoite yhdyskuntatekniikan lautakunnalle ja 107 000 € säästötavoite HSLn määrärahoihin",
+        "esittelija": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa",
+        "paatosehdotus": "Yhdyskuntatekniikan lautakunta päättää esittää kunnanhallitukselle ja edelleen kunnanvaltuustolle toimielimen vuoden 2023 talousarvion ja vuosien 2024-2025 taloussuunnitelman liitteen mukaisesti",
+        "kasittely": "Käsittelyn aikana annettiin seuraavat ehdotukset. Pj. Matti Kaurilan muutosehdotus: Suonsyrjän p-alueen suunnittelu ja rakentaminen (esityksessä 2023-2024) ja Impivaaranpolun ja p-alueen (koulun ja päiväkodin länsipuolella) suunnittelu ja rakentaminen (esityksessä 2024-2025) vaihtavat toteutusajankohtia. Antti Salonen, Aleksander Polkko, Kim Liljequist, Hannu Valtanen, Teemu Kelkka, Jenny Snellman ja Josephine Frimodig kannattivat Matti Kaurilan muutosehdotusta (1). Yhdyskuntatekniikan lautakunta hyväksyi Kaurilan muutosehdotuksen yksimielisesti. Pj. Matti Kaurilan ehdotus; poisto sitovista toiminnallisista tavoitteista : Poistetaan sitovista toiminnallisista tavoitteista; - Kunnossapitourakoissa ei vielä käytössä Stage-5 tason päästövaatimusta käytettävälle työkonekalustolle. Uusissa urakkakilpailutuksissa vaaditaan käytettävältä työkonekalustolta vähintään Stage5 tason päästövaatimusta. Antti Salonen, Kim Liljequist, Josephine Frimodig, Jenny Snellman, Hannu Valtanen, Aleksander Polkko ja Teemu Kelkka kannattivat Matti Kaurilan ehdotusta (2). Puheenjohtaja totesi, että Kaurilan ehdotusta (2) oli kannatettu, mutta koska lautakunta ei kannattanut sitä yksimielisesti, ehdotuksesta pitää äänestää. Puheenjohtaja ehdotti seuraavan äänestysjärjestyksen: JAA = pohjaehdotus, EI = Matti Kaurilan ehdotus (2). Lautakunta hyväksyi äänestysjärjestyksen. Sähköisesti toimitetussa äänestyksessä annettiin 2 JAA-ääntä (Sanni Jäppinen ja Ronja Karkinen) 9 EI-ääntä (Josephine Frimodig, Teemu Kelkka, Kim Liljequist, Pekka Jäppinen, Aleksander Polkko, Antti Salonen, Jenny Snellman, Hannu Valtanen ja Matti Kaurila) 0 TYHJÄ 0 POISSA Puheenjohtaja totesi, että koska äänestyksessä annettiin 2 JAA-ääntä ja 9 EI-ääntä, Kaurilan ehdotus (2) voitti. Pj. Matti Kaurilan ehdotus; lisäys ja muutos sitoviin toiminnallisiin tavoitteisiin. Ensimmäiseen sitovaan tavoitteeseen : KUNTASTRATEGIAN MUKAISEN VÄESTÖKASVUN SEKÄ STRATEGIAN MUKAISTEN ASUINRAKENTAMISEN TAVOITTEIDEN toteutumiseksi kuntaan tarvitaan uutta asuntorakentamista, mitä varten tarvitaan uusia asemakaava-alueita. Tavoite Kuntastrategian ja MAL-sopimusten mukaisten kaavoitustavoitteiden toteutuminen. Hannu Valtanen, Teemu Kelkka, Kim Liljequist, Aleksander Polkko, Antti Salonen ja Jenny Snellman kannattivat Matti Kaurilan ehdotusta (3). Puheenjohtaja totesi, että Kaurilan ehdotusta (3) oli kannatettu, mutta koska lautakunta ei kannattanut sitä yksimielisesti, ehdotuksesta pitää äänestää. Puheenjohtaja ehdotti seuraavan äänestysjärjestyksen: JAA = pohjaehdotus, EI = Matti Kaurilan ehdotus (3). Lautakunta hyväksyi äänestysjärjestyksen. Sähköisesti toimitetussa äänestyksessä annettiin 2 JAA-ääntä (Sanni Jäppinen ja Ronja Karkinen) 9 EI-ääntä (Josephine Frimodig, Teemu Kelkka, Kim Liljequist, Pekka Jäppinen, Aleksander Polkko, Antti Salonen, Jenny Snellman, Hannu Valtanen ja Matti Kaurila) 0 TYHJÄ 0 POISSA Puheenjohtaja totesi, että koska äänestyksessä annettiin 2 JAA-ääntä ja 9 EI-ääntä, Kaurilan ehdotus (3) voitti. Kim Liljequistin muutosehdotus: Sitovat toiminnalliset tavoitteet / nykytilanne: Tontinmyynti- ja vuokratuloja tarvitaan vahvistamaan kunnan taloustilannetta. Omakotitonttituotanto kunnan omistamalle maalle on ollut viime vuosina vähäistä. Tavoite: POISTETAAN KOHTA \"PITKÄN AIKAVÄLIN\", ELI JÄLJELLE JÄÄ: Tavoitteena on VÄHINTÄÄN 50 luovutettua omakotitonttia sekä tuottajamuotoisten tonttien rakennusoikeus 5000 k-m2 vuodessa\". Matti Kaurila, Aleksander Polkko, Antti Salonen, Jenny Snellman, Teemu Kelkka, Josephine Frimodig ja Hannu Valtanen kannattivat Kim Liljequistin muutosehdotusta (4). Puheenjohtaja totesi, että Liljequistin ehdotusta (4) oli kannatettu, mutta koska lautakunta ei kannattanut sitä yksimielisesti, ehdotuksesta pitää äänestää. Puheenjohtaja ehdotti seuraavan äänestysjärjestyksen: JAA = pohjaehdotus, EI = Kim Liljequistin ehdotus (4). Lautakunta hyväksyi äänestysjärjestyksen. Sähköisesti toimitetussa äänestyksessä annettiin 3 JAA-ääntä (Pekka Jäppinen, Sanni Jäppinen ja Ronja Karkinen) 8 EI-ääntä (Josephine Frimodig, Teemu Kelkka, Kim Liljequist, Aleksander Polkko, Antti Salonen, Jenny Snellman, Hannu Valtanen ja Matti Kaurila) 0 TYHJÄ 0 POISSA Puheenjohtaja totesi, että koska äänestyksessä annettiin 3 JAA-ääntä ja 8 EI-ääntä, Liljequistin ehdotus (4) voitti. Hannu Valtasen evästysehdotus: Kunnan uudistaessa metsästrategiaansa erityistä huomiota tulee kiinnittää siihen, että kunnan metsien hoito ja käyttö on kunnalle tuloa tuottavaa ja että metsien uusiutumiskykyä, ts. vuotuista kasvua voidaan kestävästi nostaa myös ilmastopoliittisista syistä. Metsätalouden aikaansaamia tuloja ja sen aiheuttamia menoja on siten seurattava vuosittain. Matti Kaurila, Teemu Kelkka, Kim Liljequist, Josephine Frimodig, Antti Salonen, Pekka Jäppinen ja Jenny Snellman kannattivat Hannu Valtasen evästysehdotusta (5). Puheenjohtaja totesi, että Valtasen evästysehdotusta (5) oli kannatettu, mutta koska lautakunta ei kannattanut sitä yksimielisesti, ehdotuksesta pitää äänestää. Puheenjohtaja ehdotti seuraavan äänestysjärjestyksen: JAA = pohjaehdotus, EI = Hannu Valtasen evästysehdotus (5). Lautakunta hyväksyi äänestysjärjestyksen. Sähköisesti toimitetussa äänestyksessä annettiin 2 JAA-ääntä (Sanni Jäppinen ja Ronja Karkinen) 9 EI-ääntä (Josephine Frimodig, Teemu Kelkka, Kim Liljequist, Pekka Jäppinen, Aleksander Polkko, Antti Salonen, Jenny Snellman, Hannu Valtanen ja Matti Kaurila) 0 TYHJÄ 0 POISSA Puheenjohtaja totesi, että koska äänestyksessä annettiin 2 JAA-ääntä ja 9 EI-ääntä, Valtasen evästysehdotus lisätään päätökseen. Kim Liljequistin muutosehdotus: Urakoissa ei tällä hetkellä ohjausta hiilidioksidipäästöjen vähentämiseksi. Rakennetaan mahdollisuuksien mukaan urakkakilpailutuksia siten, että urakoissa voi a) saada tietyn määrän laatupisteitä esittämällä vaihtoehtoisen suunnitelman, joka vähentää hankkeen rakentamisesta aiheutuvia päästöjä tai b) vaihtoehtoisesti päästövähennykset ja ilmastotavoitteet lisätään tarjouspyyntöön ehdottomina vaatimuksina, jolloin valintakriteerinä on 100 pistettä (%) halvin hinta ilmastokriteerit huomioon ottaen. Muutosehdotusta ei kannatettu, joten se raukesi. Teemu Kelkan muutosehdotus: Urakoissa ei tällä hetkellä ohjausta hiilidioksidipäästöjen vähentämiseksi. Muutetaan urakkakilpailutuksia siten, että urakoissa voidaan harkinnan mukaan ottaa huomioon päästöjä vähentäviä tavoitteita. Sanni Jäppinen, Kim Liljequist, Pekka Jäppinen ja Jenny Snellman kannattivat Teemu Kelkan muutosehdotusta (7). Yhdyskuntatekniikan lautakunta hyväksyi Kelkan muutosehdotuksen yksimielisesti",
+        "paatos": "Yhdyskuntatekniikan lautakunta päättää 1 esittää kunnanhallitukselle ja edelleen kunnanvaltuustolle toimielimen vuoden 2023 talousarvion ja vuosien 2024-2025 taloussuunnitelman kokouksessa muutetun liitteen mukaisesti 2 evästää viranhaltijoita seuraavasti: Kunnan uudistaessa metsästrategiaansa erityistä huomiota tulee kiinnittää siihen, että kunnan metsien hoito ja käyttö on kunnalle tuloa tuottavaa ja että metsien uusiutumiskykyä, ts. vuotuista kasvua voidaan kestävästi nostaa myös ilmastopoliittisista syistä. Metsätalouden aikaansaamia tuloja ja sen aiheuttamia menoja on siten seurattava vuosittain",
+        "tiedoksi": "Kunnanhallitus"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Yhdyskuntatekniikan lautakunnan talousarvio 2023 ja suunnitelmavuodet 2024-2025_YT ltk 29.9.2022",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20221205-3-80409.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Kehys 2023-2025 pr5, Kh 27.6.2022",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20221205-3-76386.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Matti Kaurila",
+          "kind": "vastaehdotus",
+          "text": null,
+          "source": "order",
+          "party": "kok"
+        },
+        {
+          "proposer": "Kim Liljequist",
+          "kind": "vastaehdotus",
+          "text": null,
+          "source": "order",
+          "party": "rkp"
+        },
+        {
+          "proposer": "Hannu Valtanen",
+          "kind": "evastysehdotus",
+          "text": null,
+          "source": "order",
+          "party": "kok"
+        }
+      ]
+    },
+    {
+      "id": "20221205-4",
+      "ordinal": "4",
+      "title": "Masalanportin kaava-alueen 1. vaiheen kunnallistekniikan rakentaminen, rakennusurakan vastaanotto",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221205-4",
+      "decision": null,
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko Masalanportin 1. vaiheen vastaanottopöytäkirja allekirjoitettu_yt ltk 29.9.2022_liite Masalanportin kaava-alueen 1. vaiheen kunnallistekniikan rakentaminen, rakennusurakan vastaanotto Yhdyskuntatekniikan lautakunta 29.09.2022 § 106 447/10.03.01.00/2020\n- Masalanportin 1. vaiheen vastaanottopöytäkirja allekirjoitettu_yt ltk 29.9.2022",
+        "valmistelija": "kuntatekniikkapäällikkö Toni Keski-Lusa, etunimi.sukunimi@kirkkonummi.fi Yhdyskuntatekniikan lautakunta päätti 20.5.2021 § 74 valita Masalanportin kaava-alueen 1. vaiheen kunnallistekniikan rakennusurakoitsijaksi kelpoisuusehdot täyttävien tarjousten joukosta halvimman tarjoushinnan perusteella Oy Göran Hagelberg Ab:n hintaan 608 000 € (hinnat alv 0 %). Hankkeen kustannusarvio oli 827 000 € (hinnat alv 0 %). Urakka valmistui 23.7.2022 ja kohde siirrettiin kunnan hoitoon 28.7.2022. Taloudellinen loppuselvitys hyväksyttiin 27.7.2022. Sopimuksen mukainen urakka-aika oli 30.6.2022 asti. Urakka viivästyi alkuperäisestä aikataulustaan urakoitsijasta johtumattomista syistä. Urakkasopimuksen mukaisesti maksuerät ovat laskutuskelpoisia, kun hanke on valmis ja vastaanotettu. Urakan loppuhinta oli 729 500,24 €. Urakassa on tullut lisä- ja muutostöitä mm. pilaantuneen maan aiheuttamista töistä ja tästä johtuvista muutoksista vesihuollon järjestelmiin. Lisä- ja muutostöiden osuus lopullisesta urakkasummasta on 20,8 %. Hankkeelle on varattu 500 000 € vuoden 2021 yhdyskuntatekniikan lautakunnan käyttösuunnitelman investointiohjelmassa ja talousarviosuunnitelmassa vuodelle 2022 on varattu 750 000 € ja vuodelle 2023 on varattu 200 000 €",
+        "esittelija": "veti asian pois listalta. Kuntatekniikkapäällikkö Toni Keski-Lusa poistui kokouksesta tämän jälkeen klo 18.59. Tauko klo 18.59-19.05",
+        "paatosehdotus": "Yhdyskuntatekniikan lautakunta päättää todeta Masalanportin kaava-alueen 1. vaiheen kunnallistekniikan rakennusurakan vastaanotetuksi ja merkitä vastaanottopöytäkirjan ja taloudellisen loppuselvityksen tiedokseen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Masalanportin 1. vaiheen vastaanottopöytäkirja allekirjoitettu_yt ltk 29.9.2022_liite",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20221205-4-79469.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20221205-5",
+      "ordinal": "5",
+      "title": "Kuntakeskuksen 2. vaiheen osayleiskaava (hanke 18000), osayleiskaavan hyväksyminen MRL 37 §:n mukaisesti",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221205-5",
+      "decision": "Yhdyskuntatekniikan lautakunta päättää esittää kunnanhallitukselle, että kunnanhallitus 1 hyväksyy Kuntakeskuksen 2. vaiheen osayleiskaavaehdotuksesta saatuun palautteeseen laaditut perustellut kannanotot (ns. kaavoittajan vastineet) tämän asian liitteen mukaisesti 2 hyväksyy Kuntakeskuksen 2. vaiheen osayleiskaavan (piir. 3464) huomioiden kokouksessa yksimielisesti hyväksytyn muutosehdotuksen (Neidonkallion läheisen uuden asuinalueen A-kaavamerkintä muutetaan kaavaluonnoksessa esitetyn ja kuntastrategian mukaisesti AP-kaavamerkinnäksi) ja siihen liittyvät asiakirjat MRL 37 §:n mukaisesti sekä esittää ne edelleen kunnanvaltuuston hyväksyttäväksi",
+      "votes": [],
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko 3464_Kuntakeskuksen_2vaiheen_oyk_Kaavakartta_määräykset 3464_Kuntakeskuksen 2vaiheen oyk_Kaavaselostus 3464_Kuntakeskuksen 2vaiheen oyk_Kaavaselostus_sv 3464_Kuntakeskuksen_2vaiheen_oyk_Kaavaselostuksen liitteet_1-5 3464_Kuntakeskuksen_2vaiheen_oyk_Kaavaselostuksen liitteet_6-12 3472_Kuntakeskuksen_2vaiheen_oyk_Kaavaselostuksen liitteet_13-18 3464_Kuntakeskuksen_2vaiheen_oyk_Kaavaselostuksen liitteet_19-21 3464_Kuntakeskuksen 2vaiheen oyk_Vastineet 3464_Kuntakeskuksen 2vaiheen oyk_Vastineet_sv Kuntakeskuksen 2. vaiheen osayleiskaava (hanke 18000), osayleiskaavan hyväksyminen MRL 37 §:n mukaisesti Yhdyskuntatekniikan lautakunta 29.09.2022 § 107 661/10.02.02/2019",
+        "valmistelija": "kaavoitusarkkitehti Maria Pudas, kunnanarkkitehti Tero Luomajärvi, etunimi.sukunimi@kirkkonummi.fi Osayleiskaavan taustaa ja tavoitteet Osayleiskaavahanke on käynnistetty kunnanvaltuuston vuonna 2010 hyväksymän kaavoitusohjelman mukaisena suunnitteluhankkeena. Kaava kuulutettiin vireille vuoden 2012 alussa. Hanke käynnistyi yhdyskuntatekniikan lautakunnan hyväksyttyä hankkeen alkuperäisen osallistumis- ja arviointisuunnitelman 15.12.2011 (§ 116). Osayleiskaavan päivitetty osallistumis- ja arviointisuunnitelma on käsitelty kuntatekniikan lautakunnassa 14.6.2018 (§ 86). Osayleiskaavan laatiminen perustuu kunnanvaltuuston hyväksymään Kirkkonummen kaavoitusohjemaan vuosille 2021-2025 (5.10.2020 § 78). Osayleiskaavalla mahdollistetaan muun muassa kaavoitusohjelman mukainen Myllytorpan alueen asemakaavoitus. Osayleiskaavan tarkoituksena on ratkaista Kirkkonummen kuntakeskuksen pohjoisosan kehittämisen suuntaviivat sekä luoda edellytykset alueen kehittämiselle Kirkkonummen maankäytön kehityskuvan 2040 ja 2060 (Demos Helsinki/ Sweco Finland, 2020) sekä Kuntakeskuksen kehityskuvan 2040 (Kirkkonummen kunta, 2016) mukaisesti. Tavoitteena on toteuttaa suunnittelualueelle kuntakeskustaa täydentävää pientaloasumista sekä asukkaita palvelevia toimintoja, kuten virkistysmahdollisuuksien kehittämistä. Suunnittelun tavoitteena on siis uuden rakentamisen ohjaaminen yhdyskuntarakenteellisesti kannattaville alueille sekä ekologisen verkoston ja muiden suojeluarvojen turvaaminen. Kaavaehdotus ja sen pohjalta laadittu ilmastovaikutusten arviointi Kunnanhallitus päätti kokouksessaan 26.4.2021 (§ 151) asettaa Kuntakeskuksen 2. vaiheen osayleiskaavaehdotuksen (piir. 3424) nähtäville MRL 65 §:n ja MRA 19 §:n mukaisesti. Ehdotus oli julkisesti nähtävillä 31.5. - 2.7.2021, ja siitä saatiin yhteensä 24 muistutusta sekä 25 viranomaislausuntoa. Annetuista lausunnoista sekä muistutuksista on laadittu yhteenvedot sekä kaavoittajan perustellut kannanotot (ns. kaavoittajan vastineet), jotka ovat osa kaava-aineistoa. Muistutuksissa korostui kiinteistökohtaiset huomiot muun muassa kaavamerkinnöistä ja aluerajauksista. Lisäksi korostui alueen arvokas luonto ja maisemalliset arvot. Lausunnoissa korostuivat laajempina kokonaisuuksina muun muassa seuraavat asiat ja tavoitteet: Yhdyskuntarakenne ja liikennejärjestelmät Ilmastotavoitteiden toteutuminen Humaljärven ranta-alueen asemakaavoitus Kaavan vaikutukset maa- ja metsätalouteen Kaavaehdotuksen nähtävillä olon jälkeen osayleiskaavan vaikutusselvityksiä on täydennetty ilmastovaikutusten arvioinnilla (Ramboll Finland Oy, 2022), joka laadittiin nähtävilä olleen kaavaehdotuksen pohjalta. Ilmastonäkökulmasta on perusteltua, että yhdyskuntarakennetta tiivistetään sekä laajennetaan hallitusti lähellä kuntakeskusta ja sen monipuolisia palveluja. Myös osayleiskaavassa osoitettuihin lähivirkistysalueisiin, monipuolisiin ulkoilureitteihin sekä kävelyn ja pyöräilyn yhteyksiin suhtauduttiin arviossa myönteisesti. Ne kannustavat liikkumaan alueella pyöräillen ja jalan. Kriittisesti arviossa tuotiin esiin, että suurin osa uudesta rakentamisesta on pientalovaltaista matalan tehokkuuden aluetta, jotka lisäksi on osoitettu joukkoliikenteen saavutettavuuden kannalta heikkoon sijaintiin. Tämä johtaa henkilöautoilun osuuden kasvuun kaava-alueen kulkutapajakaumasta (93 %) sekä viheralueiden pinta-alojen pienenemiseen ja pirstoutumiseen. Osayleiskaavaehdotuksesta saadun palautteen sekä ilmastovaikutusten arvioinnissa esitettyjen huomioiden ja suositusten mukaisesti osayleiskaavan sisältöön on tehty muutoksia. Keskeisesti osayleiskaavahankkeen suunnittelua ovat ohjanneet myös aiemmin laaditut selviytykset sekä Uudenmaan elinkeino-, liikenne- ja ympäristökeskuksen (ELY) sekä Metsähallituksen luonnonsuojelulain 65 §:n mukaiset lausunnot Natura-arviosta (2020). Hyväksymiskäsittelyyn valmisteltu osayleiskaava Keskeisimpiä ilmastovaikutusten arvioinnin mukaisia muutoksia hyväksymiskäsittelyyn valmistellussa osayleiskaavassa on, että toteutusjärjestykseen on otettu osayleiskaavassa vahvemmin kantaa ja aluetehokkuuksia on tarkistettu, jotta alueet eivät toteudu yhdyskuntarakenteen kannalta tehottomina tai epätarkoituksenmukaisessa järjestyksessä. Näin ollen pohjoisimmat asemakaavoitettavat asuntoalueet on osoitettu osayleiskaavassa reservialueen (/res) merkinnällä. Lisäksi kaava-alueen eteläosan, Neidonkallion läheistä uutta asuntoaluetta on laajennettu ja muutettu tehokkaamman rakentamisen mahdollistavaksi asuntoalueeksi (A). Laajentamisen johdosta urheilu- ja virkistyspalvelujen alue (VU) on poistettu kaavakartalta sekä työpaikka-alue (TP) Gesterbyssä on muutettu asemakaavoitettavaksi pientalovaltaiseksi asuntoalueeksi (AP). Kyseiset alueet ovat myös MAL 2019 suunnitelman mukaista maankäytön ensisijaista kehittämisvyöhykettä sekä Uusimaa-kaava 2050:n mukaista taajamatoimintojen kehittämisvyöhykettä, jota tulee maakuntakaavan mukaisesti tehostaa nykyiseen rakenteeseen, erityisesti keskuksiin ja asemanseutuihin tukeutuen ja joukkoliikenteen, kävelyn ja pyöräilyn edellytyksiä parantaen. Asuntoalueen (A) merkintä sallii pientalovaltaisen rakentamisen lisäksi myös kerrostalojen rakentamisen alueelle. Käytännössä kyse on kuitenkin pienkerrostaloista, jotka soveltuvat ympäristöön. Tätä ohjaa myös asumisen alueita koskeva yleismääräys, jonka mukaan rakentamisen sovittamiseen maisemaan, olevaan rakennuskantaan ja luonnonolosuhteisiin on kiinnitettävä erityistä huomiota. Yhdyskuntarakenteen kannalta muut keskeiset muutokset hyväksymiskäsittelyyn valmisteltuun osayleiskaavaan koskevat kaava-alueen pohjoisosien erillispientalojen asuntoalueita (AO/nro). Ensinnäkin erillispientalojen asuntoalueiden kaavamääräystä on tarkennettu lausuntojen mukaisesti. Toiseksi osayleiskaavassa on osoitettu ja erotettu indeksillä kaksi uutta erillispientalojen asuntoaluetta (AO-1 ja AO-2). Myös asuntoalueiden rajauksiin sekä kahden tilan laskennallisten rakennuspaikkojen lukumääriin on tehty muutoksia yhteisymmärryksessä maanomistajien kanssa. Volsintien varren ja maisemallisesti arvokkaan Ingelsin peltoalueen (MA) rajaamat asuntoalueet, jonne ei ole tarkoituksenmukaista osoittaa merkittävän tehokasta rakentamista, on osoitettu osayleiskaavassa AO-1/nro alueina asemakaavoitusta edellyttävän AP-aluemerkinnän sijaan. Myös Koivuhaantien varren viimeiset tilat on osoitettu hajarakennus-alueeksi (AO-1/2). Kaavamääräyksin AO-1 alueella mahdollistetaan yli 7500 m 2 suuruisten rakennuspaikkojen jakaminen molempien rakennuspaikkojen liityttyä alueelliseen vesihuollon verkostoon. Uuden rakennuspaikan vähimmäiskoko on tällöin 2 500 m 2 . Rakennusoikeuden osalta määrätään samoin kuin erillispientalojen asuntoalueilla (AO/nro). Osayleiskaavassa mahdollistetaan Humaljärven ranta-alueen muuttaminen osittain ympärivuotiseen asumiseen pääosin AO-2 merkinnällä. AO-2 alueella ympärivuotista asumista on kuitenkin rajoitettu siten, että osayleiskaavan hyväksymisajankohdan mukaisen tilan yhdelle rakennuspaikalle saa rakentaa yhden yksiasuntoisen erillispientalon tai loma-asunnon. Tilan muut mahdolliset rakennuspaikat on toteutettava loma-asuntoina. Lisäksi vain yksi tilan rakennuspaikoista saa sijaita rantavyöhykkeellä. Muut rakennuspaikat on toteutettava vähintään 100 metrin etäisyydelle rantaviivasta. Myös rakennusoikeutta on rajoitettu. Näin ollen Humaljärven AO-2 alueella ympärivuotista asumista mahdollistetaan ohjeellisesti kymmenelle rakennuspaikalle. Sekä ELY että Uudenmaan liitto ovat lausunnoissaan tuoneet esiin, että Humaljärven ranta-alueen muuttaminen ympärivuotiseen asuinkäyttöön edellyttää asemakaavoitusta. Lausuntojen mukaisesti osa ranta-alueen asuntoalueista on osoitettu näin ollen myös asemakaavoitettavaksi pientalovaltaiseksi asuntoalueeksi (AP/res). Näiden lisäksi osayleiskaavan yleismääräyksiä on täydennetty hiilineutraalisuuteen liittyvillä yleismääräyksillä, jonka mukaan alueella on edistettävä ilmastomyönteistä suunnittelua tarkoituksenmukaisilla toteutuskeinoilla, sekä pyrkimällä kompensoimaan hiilinielujen ja -varastojen vähentymistä. Tarkempia mahdollisia toteutuskeinoja on esitetty yleismääräyksissä yhteensä viisi. Myös maakuntakaavan mukaista itä-länsisuuntaista viheryhteyden huomioimista on vahvistettu osoittamalla kaikille Humaljärven etelärannan asuntoalueille (AO/nro, AO-1/nro) seudullisesti merkittävän ekologisen käytävän merkintä (/eko). Näiden lisäksi kaavakartalle ja -määräyksiin on tehty myös muita muutoksia ja teknisiä korjauksia. Tarkemmin muutokset on esitelty ns. kaavoittajan vastineissa sekä kaavaselostuksen kappaleessa 5.4.4. Asiakirjat Kaavakartta kaavamääräyksineen (piir. 3464) Kaavaselostus liitteineen Kaavoittajan perustellut kannanotot (ns. kaavoittajan vastineet) tarkistetusta asemakaavaehdotuksesta saatuihin lausuntoihin. Luettelo muistutuksen antajista (ei julkinen asiakirja)",
+        "esittelija": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa",
+        "paatosehdotus": "Yhdyskuntatekniikan lautakunta päättää esittää kunnanhallitukselle, että kunnanhallitus 1 hyväksyy Kuntakeskuksen 2. vaiheen osayleiskaavaehdotuksesta saatuun palautteeseen laaditut perustellut kannanotot (ns. kaavoittajan vastineet) tämän asian liitteen mukaisesti 2 hyväksyy Kuntakeskuksen 2. vaiheen osayleiskaavan (piir. 3464) ja siihen liittyvät asiakirjat MRL 37 §:n mukaisesti sekä esittää ne edelleen kunnanvaltuuston hyväksyttäväksi",
+        "kasittely": "Käsittelyn aikana pj. Matti Kaurila teki seuraavan muutosesityksen : Neidonkallion läheisen uuden asuinalueen A-kaavamerkintä muutetaan kaavaluonnoksessa esitetyn ja kuntastrategian mukaisesti AP-kaavamerkinnäksi. Hannu Valtanen, Aleksander Polkko, Kim Liljequist, Jenny Snellman, Sanni Jäppinen, Ronja Karkinen, Antti Salonen, Teemu Kelkka, Pekka Jäppinen ja Josephine Frimodig kannattivat Matti Kaurilan muutosesitystä. Yhdyskuntatekniikan lautakunta hyväksyi muutosehdotuksen yksimielisesti",
+        "paatos": "Yhdyskuntatekniikan lautakunta päättää esittää kunnanhallitukselle, että kunnanhallitus 1 hyväksyy Kuntakeskuksen 2. vaiheen osayleiskaavaehdotuksesta saatuun palautteeseen laaditut perustellut kannanotot (ns. kaavoittajan vastineet) tämän asian liitteen mukaisesti 2 hyväksyy Kuntakeskuksen 2. vaiheen osayleiskaavan (piir. 3464) huomioiden kokouksessa yksimielisesti hyväksytyn muutosehdotuksen (Neidonkallion läheisen uuden asuinalueen A-kaavamerkintä muutetaan kaavaluonnoksessa esitetyn ja kuntastrategian mukaisesti AP-kaavamerkinnäksi) ja siihen liittyvät asiakirjat MRL 37 §:n mukaisesti sekä esittää ne edelleen kunnanvaltuuston hyväksyttäväksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "3464_Kuntakeskuksen_2vaiheen_oyk_Kaavakartta_määräykset",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20221205-5-79763.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "3464_Kuntakeskuksen 2vaiheen oyk_Kaavaselostus",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20221205-5-79753.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "3464_Kuntakeskuksen 2vaiheen oyk_Kaavaselostus_sv",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20221205-5-79754.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "3464_Kuntakeskuksen_2vaiheen_oyk_Kaavaselostuksen liitteet_1-5",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20221205-5-79752.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "3464_Kuntakeskuksen_2vaiheen_oyk_Kaavaselostuksen liitteet_6-12",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20221205-5-79749.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "3472_Kuntakeskuksen_2vaiheen_oyk_Kaavaselostuksen liitteet_13-18",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20221205-5-79750.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "3464_Kuntakeskuksen_2vaiheen_oyk_Kaavaselostuksen liitteet_19-21",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20221205-5-79751.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "3464_Kuntakeskuksen 2vaiheen oyk_Vastineet",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20221205-5-79760.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "3464_Kuntakeskuksen 2vaiheen oyk_Vastineet_sv",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20221205-5-79759.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Matti Kaurila",
+          "kind": "vastaehdotus",
+          "text": "Neidonkallion läheisen uuden asuinalueen A-kaavamerkintä muutetaan kaavaluonnoksessa esitetyn ja kuntastrategian mukaisesti AP-kaavamerkinnäksi. Hannu Valtanen, Aleksander Polkko, Kim Liljequist, Jenny Snellman, Sanni Jäppinen, Ronja Karkinen, Antti Salonen, Teemu Kelkka, Pekka Jäppinen ja Josephine Frimodig kannattivat Matti Kaurilan muutosesitystä. Yhdyskuntatekniikan lautakunta hyväksyi muutosehdotuksen yksimielisesti",
+          "source": "introduction",
+          "party": "kok"
+        }
+      ]
+    },
+    {
+      "id": "20221205-6",
+      "ordinal": "6",
+      "title": "Läntisen Gesterbyn asemakaavan muutos ja laajennus (hanke 12203), asemakaavan hyväksyminen MRL 52 §:n mukaisesti",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221205-6",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko 3471_LantinenGesterby_Kaavakartta_maaraykset 3471_Lantinen Gesterby_Kaavaselostus 3471_Lantinen Gesterby_Kaavaselostus_sv 3471_Lantinen Gesterby_Kaavaselostuksen liitteet_1-5 3471_Lantinen Gesterby_Kaavaselostuksen liitteet_6-10 3471_Lantinen Gesterby_Yhteenveto lausunnoista_vastineet 3471_Lantinen Gesterby_Yhteenveto lausunnoista_vastineet_sv Läntisen Gesterbyn asemakaavan muutos ja laajennus (hanke 12203), asemakaavan hyväksyminen MRL 52 §:n mukaisesti Yhdyskuntatekniikan lautakunta 29.09.2022 § 108 540/10.02.03/2020",
+        "valmistelija": "kaavoitusarkkitehti Maria Pudas, asemakaavapäällikkö Simon Store, etunimi.sukunimi@kirkkonummi.fi Taustaa Läntisen Gesterbyn asemakaava sisältyy Kirkkonummen kunnanvaltuuston hyväksymään kaavoitusohjelmaan 2021-2025. Kaavahanke kuulutettiin vireille 24.6.2020, ja sen tarkistettu osallistumis- ja arviointisuunnitelma hyväksyttiin yhdyskuntatekniikan lautakunnan käsittelyssä 29.9.2021 (§ 127). Kaavaehdotus Kunnanhallitus päätti kokouksessaan 11.10.2021 (§ 443) asettaa Läntisen Gesterbyn asemakaavaehdotuksen (piir. 3453) nähtäville MRL 65 §:n ja MRA 27 §:n mukaisesti. Ehdotus oli julkisesti nähtävillä 25.10.-26.11.2021, ja siitä saatiin yhteensä kuusi muistutusta sekä 14 viranomaislausuntoa. Saadun palautteen mukaisesti kaavakartalle tehtiin muutoksia ja maankäyttö- ja rakennusasetuksen 32 §:n mukaisesti tarkistettu kaavaehdotus (piir. 3467) asetettiin kunnanhallituksen päätöksellä 23.5.2022 (§ 170) uudelleen nähtäville. Tarkistettu kaavaehdotus oli julkisesti nähtävillä 13.6. - 19.8.2022, ja siitä saatiin yhteensä kaksi lausuntoa. Muistutuksia ei jätetty. Lausuntoihin laaditut ns. kaavoittajan perustellut vastineet ovat osa kaava-aineistoa. Kaavan tavoitteet Läntisen Gesterbyn asemakaavamuutoksen tavoitteena on parantaa alueen lähipalveluita sekä eheyttää alueen yhdyskuntarakennetta ja taajamakuvaa, jotta asuinalue säilyy elinvoimaisena ja vireänä. Asemakaava vastaa ensisijaisesti kaupan tarpeeseen mutta asemakaavaratkaisujen myötä myös alueen kävelyn ja pyöräilyn yhteydet sekä julkisen liikenteen toiminnallisuudet paranevat. Tällä on merkittävä vaikutus alueen liikenneturvallisuuteen sekä taajamakuvaan. Asemakaavan keskeisenä tavoitteena on myös Gesterbyn alueen täydennysrakentaminen sekä ikäihmisten välimuotoisen asumisen mahdollistaminen. Hyväksymiskäsittelyyn valmisteltu asemakaava Asemakaavaehdotuksesta (piir. 3453) saatu palaute vahvisti erityisesti tarvetta täydentää alueen esteettömyysvaatimuksia. Haluttiin, että alueen keskeiset palvelut ovat mahdollisimman monen käyttäjän saavutettavissa. Esteettömyydestä hyötyvät näin ollen kaikki käyttäjäryhmät. Yleismääräyksiin on lisätty KL- ja AK-1 korttelialueita sekä Hevoshaansillan ja Hevoshaanrinteen katualueita koskevat yleismääräykset esteettömyydestä. Esteettömyyttä koskevien täydennysten lisäksi lausuntojen ja muistutusten mukaisesti yleinen pysäköintialue (LP) Vilhonkummuntieltä siirrettiin Hevoshaan ja Hevosmäen väliselle alueelle, joka on kaavamuutoksen kohteena olevassa Gesterbyn rakennuskaavassa vapaa-aikatalon korttelialuetta (YV). Kaavaa myös täydennettiin liito-oravan elinpiirin säilyttämistä koskevilla kaavamerkinnöillä ja -määräyksillä (VL/eko, s-1). Hevosmäenpuiston sekä Varsahaan lähivirkistysalueet on osoitettu liito-oravan elinpiirin kannalta tärkeiksi alueiksi (VL/eko), ja liito-oravalle soveltuvat kolo- ja papanapuut on rajattu varovaisuusperiaatetta noudattaen s-1 merkinnällä. Tarkistetun asemakaavaehdotuksen nähtävillä olon jälkeen s-1 osa-alueen rajausta myös laajennettiin, siten että rajaus ulottuu VL/eko merkinnän alueella vähintään 15 metrin etäisyydelle liito-oravalle soveltuvista kolopuista. Lisäksi tarkistetun asemakaavaehdotuksen nähtävillä olon jälkeen on erillispientalojen korttelialueiden (AO) tehokkuusluku tarkistettu nykytilannetta vastaavaksi (e=0.25). Keskeisiä muutoksia ehdotusvaiheessa tehtiin myös liikerakennusten korttelialueen (KL) sekä kerrostalokorttelialueiden (AK) suhteen. Näiden rakennusoikeutta nostettiin hieman, ja sen myötä tonttirajoja sekä rakennusaloja myös muutettiin. Myös kyseisten korttelialueiden kaavamääräyksiä muokattiin. Merkittävimpinä muutoksina mainittakoon KL-korttelialueen rakennuksen viherkattoa sekä kerrostalokortteleiden massiivipuurunkoisuutta edellyttävistä määräyksistä luopuminen. Näiden muutosten lisäksi ehdotusvaiheessa kaava-alueen rajausta myös hieman laajennettiin autopaikkojen korttelialueella (LPA 416) kunnan kiinteistöä laajemmalle alueelle, jotta tarvittava määrä autopaikkoja saadaan osoitettua alueelle. Maankäyttösopimukset Ennen asemakaavan hyväksymistä kunnanvaltuustossa on kunnan ja tarvittavien maanomistajatahojen kesken oltava lainvoimainen maankäyttösopimus. Tämän lisäksi suunnittelualueen pysäköintijärjestelyt on oltava osapuolten välillä sovittuna. Asiakirjat Kaavakartta kaavamääräyksineen (piir. 3471) Kaavaselostus liitteineen Kaavoittajan perustellut kannanotot (ns. kaavoittajan vastineet) tarkistetusta asemakaavaehdotuksesta saatuihin lausuntoihin",
+        "esittelija": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa",
+        "paatosehdotus": "Yhdyskuntatekniikan lautakunta päättää esittää kunnanhallitukselle, että kunnanhallitus 1 hyväksyy Läntisen Gesterbyn tarkistetusta asemakaavaehdotuksesta saatuun palautteeseen laaditut perustellut kannanotot (ns. kaavoittajan vastineet) tämän asian liitteen mukaisesti 2 hyväksyy Läntisen Gesterbyn asemakaavan (piir. 3471) ja siihen liittyvät asiakirjat MRL 52 §:n mukaisesti sekä esittää ne edelleen kunnanvaltuuston hyväksyttäväksi 3 ennen Läntisen Gesterbyn asemakaavan hyväksymistä kunnanvaltuustossa kunnan ja määrättyjen maanomistajien kesken on oltava lainvoimainen maankäyttösopimus",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "3471_LantinenGesterby_Kaavakartta_maaraykset",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20221205-6-79735.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "3471_Lantinen Gesterby_Kaavaselostus",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20221205-6-79736.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "3471_Lantinen Gesterby_Kaavaselostus_sv",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20221205-6-79737.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "3471_Lantinen Gesterby_Kaavaselostuksen liitteet_1-5",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20221205-6-79741.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "3471_Lantinen Gesterby_Kaavaselostuksen liitteet_6-10",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20221205-6-79744.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "3471_Lantinen Gesterby_Yhteenveto lausunnoista_vastineet",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20221205-6-79728.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "3471_Lantinen Gesterby_Yhteenveto lausunnoista_vastineet_sv",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20221205-6-79729.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20221205-7",
+      "ordinal": "7",
+      "title": "Tontinosan myynti, määräala 257-437-1-131-M606",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221205-7",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko Kauppakirja 257-437-1-131-M606 Tontinosan myynti, määräala 257-437-1-131-M606 Yhdyskuntatekniikan lautakunta 29.09.2022 § 109 978/10.00.02/2022",
+        "valmistelija": "maankäyttöinsinööri Niklas Wickholm, etunimi.sukunimi@kirkkonummi.fi Kirkkonummen kunta omistaa noin 500 m 2 :n suuruisen määräalan 257-437-1-131-M606, joka on osa Juhlakallion asemakaavan korttelin 732 asuinpientalotonttia (kaavamerkintä \"AP\") toimien tontin ajoyhteytenä Vanhalta Rantatieltä kaavamerkinnällä \"ajo\". Tonttipalvelut on neuvotellut tontinosan myynnistä tontin omistajalle. Kiinteistönmuodostamislain 62 §:n nojalla ostajalla on oikeus saada tontinosa omistukseensa tarvittaessa lunastamalla. Kunta on saanut määräalan vaihdossa Juhlakallion asemakaavan maankäyttösopimuksen mukaisella kaupalla, jonka yksikköhintaan tämän luovutuksen kauppahinta perustuu. Päätöksen liitteet: Määräalan kauppakirja Ostajan yhteystiedot (ei julkaistava)",
+        "esittelija": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa",
+        "paatosehdotus": "Yhdyskuntatekniikan lautakunta 1 päättää, että Kirkkonummen kunta myy tontin osan, joka on noin 500 m2:n suuruinen määräala 257-437-1-131-M606, liitteenä olevan kauppakirjan ehdoin liitteessä mainitulle ostajalle kauppahintaan 3 500 euroa. Kauppakirja on allekirjoitettava neljän kuukauden kuluessa myyntipäätöksen lainvoimaisuudesta. 2 oikeuttaa ja valtuuttaa yhdyskuntatekniikan johtajan tekemään kauppakirjaan vähäisiä tarkistuksia ja allekirjoittamaan kauppakirjan",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaisesti",
+        "tiedoksi": "ostaja"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kauppakirja 257-437-1-131-M606",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20221205-7-79347.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20221205-8",
+      "ordinal": "8",
+      "title": "Sopimus kauppahinnan alennuksesta koskien Haapiorinteen asemakaava-alueen korttelin 4078 tontin 2 osan myyntiä",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221205-8",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko Sopimus kauppahinnan alennuksesta Haapiorinne_4078-2_tontinosa",
+        "oheismateriaali": "Kuvake Otsikko Myydyn tontinosan liitekartta Erittely kustannuksista Sopimus kauppahinnan alennuksesta koskien Haapiorinteen asemakaava-alueen korttelin 4078 tontin 2 osan myyntiä Yhdyskuntatekniikan lautakunta 29.09.2022 § 110 532/10.02.02/2019",
+        "valmistelija": "kunnangeodeetti Otso Kärkkäinen, etunimi.sukunimi@kirkkonummi.fi Kirkkonummen kunta on myynyt yksityishenkilölle Kirkkonummella 14.10.2021 allekirjoitetulla kauppakirjalla noin 348 m 2 :n suuruisen määräalan, joka on Haapiorinteen asemakaavan korttelin 4078 erillispientalojen korttelialueen (kaavamerkintä AO) tontin 2 osa. Kaupan kohde myytiin kauppahintaan 23 600 euroa. Sittemmin myyty määräala on lohkottu osaksi tonttia. Kaupan kohteessa sijaitsee sen pohjoispuoleista naapuritonttia palveleva viemärijohto, joka liittyy korttelin eteläpuoleisella lähivirkistysalueella kunnalliseen viemäriverkkoon. Viemärin tarkastuskaivot sijaitsevat myydyllä tontinosalla. Viemärijohtoa ei ole huomioitu asemakaavassa johtovarauksena, eikä sille ollut perustettu johtorasitetta. Johtolinja jää osittain rakennettavan omakotitalon perustusten alle. Tonttipalvelut on sopinut vesilaitoksen ja katselmuksessa ostajan kanssa, että ostaja siirtää johdon vesilaitoksen osoittamaan liitoskohtaan Sokerimestarintiellä. Korvattavat kustannukset käsittävät kaivuun ja johtosiirron. Korvausvastuu kaupan kohteen laatuvirheestä on myyjällä. Kaupan kohteessa on savimaata, jonne oli haudattuna puun kantoja juurineen sekä metalliromua ym. sekalaista jätettä. Tonttipalvelut on sopinut katselmuksessa ostajan kanssa, että ostaja vie pois maa-aineksen kantoineen ja jätteineen. Haudattujen kantojen vuoksi maa-ainesta on myydyllä tontinosalla kaivettu ja korvattu uudella maa-aineksella noin 1,8 metrin syvyydeltä ja noin 140 m 2 :n alalta. Korvattavat kustannukset käsittävät kaivuun, kuormauksen, kuljetuksen, jätteiden vastaanoton ja mainitun määrän korvaavaa maa-ainesta. Korvausvastuu kaupan kohteen laatuvirheestä on myyjällä. Tonttipalvelut ja ostaja ovat pitäneet tontilla katselmukset 31.5.2022 ja 6.6.2022. Tonttipalvelut on neuvotellut ostajan kanssa liitteenä olevan maakaaren (540/1995) 2 luvun mukaisen sopimuksen kauppahinnan alennuksesta kaupan kohteen laatuvirheen johdosta. Päätöksen liitteet: Sopimus kauppahinnan alennuksesta liitteineen Päätöksen oheismateriaali: Erittely kustannuksista Myydyn tontinosan liitekartta",
+        "esittelija": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa",
+        "paatosehdotus": "Yhdyskuntatekniikan lautakunta 1 päättää, että Kirkkonummen kunta myyjänä ja ostaja tekevät maakaaren 2 luvun 17 § mukaisen laatuvirheen johdosta sanotun lain 2 luvun 31 § mukaisen sopimuksen kauppahinnan alennuksesta koskien Kirkkonummella 14.10.2021 allekirjoitettua noin 348 m2:n suuruisen määräalan (Haapiorinteen asemakaavan korttelin 4078 erillispientalojen korttelialueen tontin 2 osa) kauppaa. Kauppahinnan alennus on määrältään 21 343,41 euroa 2 valtuuttaa ja oikeuttaa yhdyskuntatekniikan johtajan allekirjoittamaan sopimuksen ja tekemään siihen vähäisiä tarkistuksia 3 päättää, että päätös voidaan panna täytäntöön odottamatta sen lainvoimaisuutta (kuntalaki 143 §)",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaisesti",
+        "tiedoksi": "ostaja"
+      },
+      "lang": "fi",
+      "text_encoding": "repaired",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Sopimus kauppahinnan alennuksesta Haapiorinne_4078-2_tontinosa",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20221205-8-79645.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Myydyn tontinosan liitekartta",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20221205-8-79646.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Erittely kustannuksista",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20221205-8-79648.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20221205-9",
+      "ordinal": "9",
+      "title": "Palokuntakiinteistöjen korjausavustus vuonna 2022",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221205-9",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko Kirkkonummen palokunnat kiinteistöavustushakemus liitteineen 2022_liite_yt ltk 29.9.2022 Palokuntakiinteistöjen korjausavustus vuonna 2022 Yhdyskuntatekniikan lautakunta 29.09.2022 § 289 461/02.05.01.01/2022\n- Avustushakemus liitteineen, Kirkkonummen palokunnat",
+        "valmistelija": "hallintosihteeri Monica Smeds, etunimi.sukunimi@kirkkonummi.fi Yhdyskuntatekniikan lautakunnan vuoden 2022 käyttösuunnitelmassa on 30 000 € suuruinen määräraha vapaapalokuntien rakennusten peruskorjauksiin. Vapaapalokuntien kattojärjestö Kyrkslätts Brandkårer - Kirkkonummen Palokunnat rf on 30.8.2022 jättänyt kuntaan Kirkkonummen vapaapalokuntien yhteisen avustushakemuksen vuodelle 2022, jossa esitetään, että vuotuinen palokuntakiinteistöjen korjausmääräraha jaetaan tasan jäsenpalokuntien kesken. Kirkkonummella toimii kahdeksan vapaapalokuntaa: Bobäck FBK, Evitskog FBK, Kylmälä FBK, Kyrkslätt FBK, Långvik FBK, Navala FBK, Oitbacka FBK-VPK, Veikkola VPK-FBK. Avustusten maksatus tapahtuu toteutuneiden kustannusten mukaan, tilitysten perusteella. Vuoden 2022 osalta tilitykset tulee toimittaa kunnan kirjaamoon viimeistään 21.12.2022. Tilityksestä tulee käydä ilmi vapaapalokunnan nimi, osoitetiedot, yhdistyksen rekisterinumero tai Y-tunnus, pankkiyhteystiedot, yhteyshenkilö sekä puhelinnumero",
+        "esittelija": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa",
+        "paatosehdotus": "Yhdyskuntatekniikan lautakunta päättää 1 myöntää avustusta vapaapalokuntien rakennusten peruskorjauksiin vuonna 2022 kullekin Kirkkonummen vapaapalokunnalle (Bobäck FBK, Evitskog FBK, Kylmälä FBK, Kyrkslätt FBK, Långvik FBK, Navala FBK, Oitbacka FBK-VPK, Veikkola VPK-FBK) hakemuksen mukaisesti 3 750 €, yhteensä 30 000 € 2 että avustukset maksetaan toteutuneiden kustannusten mukaan tilitysten perusteella 3 että tilitykset tulee toimittaa kuntaan 21.12.2022 mennessä 4 tarkastaa pöytäkirjan tämän kokousasian osalta tässä kokouksessa",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kirkkonummen palokunnat kiinteistöavustushakemus liitteineen 2022_liite_yt ltk 29.9.2022",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20221205-9-80410.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20221205-10",
+      "ordinal": "10",
+      "title": "Yhdyskuntatekniikan lautakunnan kokoukset vuonna 2023 ja siihen liittyvät määräykset",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221205-10",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "hallintosihteeri Monica Smeds, etunimi.sukunimi@kirkkonummi.fi Kunnan hallintosäännön 21 luvun pykälissä 148 - 172 säädetään kokousmenettelystä. Hallintosäännön 152 §:n mukaan kunnan toimielimen kokoukset pidetään toimielimen päättämänä aikana ja päättämässä paikassa. Kokous pidetään myös, milloin puheenjohtaja katsoo kokouksen tarpeelliseksi tai enemmistö toimielimen jäsenistä tekee puheenjohtajalle esityksen sen pitämisestä ilmoittamansa asian käsittelyä varten. Tällöin puheenjohtaja määrää kokousajan. Puheenjohtaja voi perustellusta syystä peruuttaa kokouksen. Hallintosäännön 157 §:n mukaan toimielimen jäsenen, joka on estynyt saapumasta kokoukseen, on kutsuttava varajäsen sijaansa. Poikkeustapauksessa puheenjohtaja, esittelijä tai toimielimen sihteeri voi toimittaa kutsun varajäsenelle. Varajäsenen voi kutsua myös yksittäisen asian käsittelyyn. Hallintosäännön 158 §:n mukaan kunnan eri toimielinten kokouksissa on jäsenten ja esittelijän lisäksi läsnäolo- ja puheoikeus kunnanjohtajalla ja kunnanhallituksen puheenjohtajalla. Kunnanhallitus nimeää varsinaisten jäsentensä keskuudesta edustajat lautakuntiin. Yhdyskuntatekniikan lautakunnan kokouksessa nuorisovaltuuston edustajalla on puhe- ja läsnäolo-oikeus. Nuorisovaltuuston edustajalla ei ole läsnäolo-oikeutta silloin, kun käsiteltäviin asiakirjoihin liittyy salassapidettäviä tietoja. Muiden henkilöiden läsnäolosta ja puheoikeudesta päättää asianomainen toimielin, toimielimen puheenjohtaja tai toimielimen esittelijä. Hallintosäännön 153-154 § mukaan kokouskutsu tai tieto siitä, milloin ja mistä kutsu on sähköisesti noudettavissa lähetetään kunnan antamaan viralliseen sähköpostiosoitteeseen. Kutsu lähetetään jäsenten lisäksi niille, joilla on läsnäolo-oikeus tai -velvollisuus yhdyskuntatekniikan lautakunnan kokouksessa. Kutsun vastaanottajat ovat velvollisia pitämään vastaanottavan sähköpostin toimintakuntoisena sekä varmistamaan pääsyn kokousjärjestelmään ennen kokousta. Yhdyskuntatekniikan lautakunnan esityslistat liitteineen julkaistaan kunnan internetsivuilla hallintosäännön 155 § mukaisesti",
+        "esittelija": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa",
+        "paatosehdotus": "Yhdyskuntatekniikan lautakunta päättää 1 kokoontua vuonna 2023 torstaisin klo 17.00 seuraavasti: 26.1.2023 16.2.2023 30.3.2023 27.4.2023 25.5.2023 15.6.2023 31.8.2023 7.9.2023 28.9.2023 26.10.2023 23.11.2023 14.12.2023 Ylimääräisistä kokouksista päätetään erikseen. Kokoukset järjestetään Kirkkonummen kunnan kunnantalon kokoushuoneissa tai etänä sähköisinä kokouksina. Sellaiset kokoukset joissa käsitellään suurempia kaava-asioita pidetään läsnäkokouksina, koska vuorovaikutus ja tiedonvälitys ovat live-kokouksissa etäkokouksia parempia 2 kokouskutsu lähetetään sähköisesti jäsenille vähintään neljä päivää ennen kokousta 3 että lautakunnan pöytäkirjat tarkastaa sähköisesti kaksi lautakunnan valitsemaa pöytäkirjantarkastajaa viimeistään kokousta seuraavana tiistaina. Jos tiistai ei ole työpäivä, pöytäkirja tarkistetaan seuraavana työpäivänä 4 että lautakunnan pöytäkirja julkaistaan kunnan verkkosivuilla tarkistuspäivää seuraavana työpäivänä 5 että viranhaltijoista ovat kokouksissa läsnä yhdyskuntatekniikan johtaja esittelijänä, yhdyskuntatekniikan johtajan määräämä pöytäkirjanpitäjä sekä yhdyskuntatekniikan johtajan määräämät muut viranhaltijat asiantuntijoina. Esittelijän ollessa estynyt tai esteellinen, hänen sijaisenaan toimii yhdyskuntatekniikan johtajan sijainen. 6 edellä mainittuja menettelyjä noudatetaan toistaiseksi",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaisesti",
+        "tiedoksi": "Kielenkääntäjät, valmistelijat, kokouskalenteri"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20221205-11",
+      "ordinal": "11",
+      "title": "Ilmoitusasioita tiedoksi",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221205-11",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Yhdyskuntatekniikan lautakunta merkitsee ilmoitusasiat tiedokseen",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    }
+  ],
+  "id": "20221205",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20221205"
+}

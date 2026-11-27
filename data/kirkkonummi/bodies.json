@@ -1,0 +1,127 @@
+[
+  {
+    "id": "1",
+    "name": "Kunnanvaltuusto",
+    "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=1"
+  },
+  {
+    "id": "2",
+    "name": "Kunnanhallitus",
+    "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=2"
+  },
+  {
+    "id": "6",
+    "name": "Keskusvaalilautakunta",
+    "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=6"
+  },
+  {
+    "id": "135",
+    "name": "Kirkkonummen Vesi -liikelaitoksen johtokunta",
+    "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=135"
+  },
+  {
+    "id": "55036",
+    "name": "Kuntakehityksen lautakunta",
+    "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=55036"
+  },
+  {
+    "id": "1035",
+    "name": "Palvelutuotannon lautakunta",
+    "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=1035"
+  },
+  {
+    "id": "141",
+    "name": "Perusturvalautakunta",
+    "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=141"
+  },
+  {
+    "id": "142",
+    "name": "Rakennus- ja ympäristölautakunta",
+    "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=142"
+  },
+  {
+    "id": "55028",
+    "name": "Sivistys- ja hyvinvointilautakunta",
+    "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=55028"
+  },
+  {
+    "id": "7",
+    "name": "Sivistys- ja vapaa-aikalautakunta",
+    "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=7"
+  },
+  {
+    "id": "18339",
+    "name": "Suomenkielinen kasvatus- ja koulutuslautakunta",
+    "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=18339"
+  },
+  {
+    "id": "954",
+    "name": "Suomenkielinen varhaiskasvatus- ja opetuslautakunta",
+    "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=954"
+  },
+  {
+    "id": "953",
+    "name": "Svenska förskoleverksamhets- och utbildningsnämnden",
+    "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=953"
+  },
+  {
+    "id": "18340",
+    "name": "Svenska nämnden för fostran och utbildning",
+    "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=18340"
+  },
+  {
+    "id": "145",
+    "name": "Tarkastuslautakunta",
+    "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=145"
+  },
+  {
+    "id": "18341",
+    "name": "Toimitilapalvelujen lautakunta",
+    "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=18341"
+  },
+  {
+    "id": "40735",
+    "name": "Työllisyys- ja elinkeinoasioiden lautakunta",
+    "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=40735"
+  },
+  {
+    "id": "1033",
+    "name": "Yhdyskuntatekniikan lautakunta",
+    "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=1033"
+  },
+  {
+    "id": "29128",
+    "name": "Elinvoimajaosto",
+    "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=29128"
+  },
+  {
+    "id": "5",
+    "name": "Henkilöstöjaosto",
+    "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=5"
+  },
+  {
+    "id": "24",
+    "name": "Kuntakehitysjaosto",
+    "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=24"
+  },
+  {
+    "id": "137",
+    "name": "Nimistötoimikunta",
+    "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=137"
+  },
+  {
+    "id": "138",
+    "name": "Nuorisovaltuusto",
+    "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=138"
+  },
+  {
+    "id": "147",
+    "name": "Vammaisneuvosto",
+    "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=147"
+  },
+  {
+    "id": "148",
+    "name": "Vanhusneuvosto",
+    "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetings&id=148"
+  }
+]

@@ -1,0 +1,109 @@
+{
+  "title": "Vanhusneuvosto Pöytäkirja 30.01.2023 klo 10:00 - 13:00 / Ei tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Vanhusneuvosto",
+  "doctype": "Pöytäkirja",
+  "date": "2023-01-30",
+  "items": [
+    {
+      "id": "20231357-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231357-1",
+      "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi",
+      "sections": {
+        "valmistelija": "Vs. vanhusneuvoston sihteeri Hannu Sorvari etunimi.sukunimi@kirkkonummi.fi",
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Kokous todettiin lailliseksi ja päätösvaltaiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20231357-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231357-2",
+      "decision": "Pöytäkirjan tarkastajiksi valittiin Sonja Rönkkö ja Seppo Nyqvist",
+      "sections": {
+        "valmistelija": "Vs. vanhusneuvoston sihteeri Hannu Sorvari etunimi.sukunimi@kirkkonummi.fi ,",
+        "paatosehdotus": "Vanhusneuvosto päättää valita kaksi pöytäkirjantarkastajaa kokoukselle",
+        "paatos": "Pöytäkirjan tarkastajiksi valittiin Sonja Rönkkö ja Seppo Nyqvist"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20231357-3",
+      "ordinal": "3",
+      "title": "Vanhusneuvoston tutustuminen Kirkkonummen hyvinvointikeskukseen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231357-3",
+      "decision": "Merkittiin tiedoksi",
+      "sections": {
+        "valmistelija": "Kunnanlakimies Hannu Sorvari, etunimi.sukunimi@kirkkonummi.fi",
+        "kasittely": "Kirkkonummen vanhusneuvosto tutustui Sari Rannan johdolla Kirkkonummen hyvinvointikeskukseen",
+        "paatos": "Merkittiin tiedoksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20231357-4",
+      "ordinal": "4",
+      "title": "Länsi-Uudenmaan hyvinvointialueen edustajan katsaus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231357-4",
+      "decision": "Merkittiin tiedoksi",
+      "sections": {
+        "valmistelija": "Kunnanlakimies Hannu Sorvari, etunimi.sukunimi@kirkkonummi.fi",
+        "kasittely": "LUVN:n linjajohtaja Timo Tuominen antoi katsauksen koskien \"Kotona asumisen tukea\". Kts. erikseen lähetettyä aineistoa",
+        "paatos": "Merkittiin tiedoksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20231357-5",
+      "ordinal": "5",
+      "title": "Vanhusneuvoston jäsenten osallistumisraportit",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231357-5",
+      "decision": "Merkittiin tiedoksi",
+      "sections": {
+        "valmistelija": "kunnanlakimies Hannu Sorvari, etunimi.sukunimi@kirkkonummi.fi",
+        "paatos": "Merkittiin tiedoksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20231357-6",
+      "ordinal": "6",
+      "title": "Muut asiat",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231357-6",
+      "decision": null,
+      "sections": {
+        "valmistelija": "Kunnanlakimies Hannu Sorvari, etunimi.sukunimi@kirkkonummi.fi Keskusteltiin tulevasta Länsi-Uudenmaan hyvinvointialueen vanhusneuvoston kokouksesta. Otettiin esille, että kokouskutsu ja esityslista kokouksessa olisi toimitettava molemmilla kotimaisilla kielillä. Kekusteltiin hyvinvointipalveluiden takaisinsoittopalvelun onnistumisesta Kokous päättyi 13.22 Click or tap here to enter text. Click or tap here to enter text"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    }
+  ],
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20231357",
+  "id": "20231357"
+}

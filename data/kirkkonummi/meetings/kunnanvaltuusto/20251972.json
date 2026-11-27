@@ -1,0 +1,464 @@
+{
+  "title": "Kunnanvaltuusto Pöytäkirja 03.03.2025 klo 18:00 - 19:45 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Kunnanvaltuusto",
+  "doctype": "Pöytäkirja",
+  "date": "2025-03-03",
+  "items": [
+    {
+      "id": "20251972-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20251972-1",
+      "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Kokous todettiin lailliseksi ja päätösvaltaiseksi",
+        "selostus": "Kunnanvaltuuston kokouskutsu on julkaistu kunnan verkkosivulla 26.2.2025. Samana päivänä kutsu on toimitettu valtuutetuille ja varavaltuutetuille"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20251972-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20251972-2",
+      "decision": "Pöytäkirjantarkastajiksi valittiin Marjut Frantsi-Lankia ja Josephine Frimodig",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanvaltuusto päättää valita kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan",
+        "paatos": "Pöytäkirjantarkastajiksi valittiin Marjut Frantsi-Lankia ja Josephine Frimodig"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20251972-3",
+      "ordinal": "3",
+      "title": "Kiinteistön Bråtaäng 257-431-1-28 kantatilan hankinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20251972-3",
+      "decision": "Kunnanvaltuusto päätti 1 että Kirkkonummen kunta ostaa liitteenä olevan kauppakirjan ehdoin Kiinteistö Oy Masalan Niittylammelta, y-tunnus 0194241-1, noin 39,74 hehtaarin suuruisen kiinteistön Bråtaäng 257-431-1-28 niin, että kaupassa myyjälle pidätetään noin 5 hehtaarin suuruinen liitekartalla osoitettu määräala. Kiinteistö ostetaan kiinnityksistä vapaana kauppahintaan 1 400 000 euroa. 2 myöntää vuoden 2025 talousarvion investointiosan hankeryhmän ”maa- ja vesialueet” määrärahavaraukseen 1 400 000 euron suuruisen lisämäärärahan kiinteistön Bråtaäng 257-431-1-28 hankintaan. 3 päättää oikeuttaa kunnanjohtajan tekemään kauppakirjaan vähäisiä tarkistuksia ja valtuuttaa kunnanjohtajan allekirjoittamaan kauppakirjan niin, että kauppa on allekirjoitettava kolmen kuukauden kuluessa kunnanvaltuuston lainvoimaisesta päätöksestä. Lisäksi kunnanvaltuusto päätti yksimielisesti hyväksyä seuraavan evästyksen: Jatkosuunnittelussa asemakaavoituksen tavoitteena on kuntastrategian mukainen pientalovaltainen asuinalue",
+      "votes": [
+        {
+          "jaa": [
+            "Antti Salonen",
+            "Arttu Lankinen",
+            "Stefan Gustafsson",
+            "Anna Aintila",
+            "Martin Valtonen",
+            "Jussi Määttä",
+            "Urho Blom",
+            "Saara Brax",
+            "Patrik Lundell",
+            "Hannu Valtanen",
+            "Kim Männikkö",
+            "Carl-Johan Kajanti",
+            "Maija Jäntti",
+            "Anneli Granström",
+            "Kim Liljequist",
+            "Kari Virtanen",
+            "Ulf Kjerin",
+            "Antti Kilappa",
+            "Marko Kari",
+            "Riikka Purra",
+            "Piia Aallonharja",
+            "Kim Åström",
+            "Jerri Kämpe-Hellenius",
+            "Sini Felipe",
+            "Tero Suominen",
+            "Ville Salminen",
+            "Matti Kaurila",
+            "Josephine Frimodig",
+            "Timo Haapaniemi",
+            "Ari Harinen",
+            "Jukka Ylikoski",
+            "Ulla Seppälä",
+            "Anders Adlercreutz",
+            "Noora Piili",
+            "Jani Kähkönen",
+            "Tuovi Ronkainen",
+            "Hans Hedberg",
+            "Minna Hakapää"
+          ],
+          "ei": [
+            "Saara Huhmarniemi",
+            "Marjut Frantsi-Lankia",
+            "Kati Kaihlaranta",
+            "Ronja Karkinen",
+            "Anna-Mari Toikka",
+            "Miisa Jeremejew",
+            "Sanni Jäppinen",
+            "Aku Leijala",
+            "Maarit Orko",
+            "Reetta Hyvärinen",
+            "Johanna Fleming",
+            "Jani Ekman"
+          ],
+          "tyhja": [
+            "Elina Kärkimaa"
+          ],
+          "totals": {
+            "jaa": 38,
+            "ei": 12,
+            "tyhja": 1
+          },
+          "parties": {
+            "jaa": {
+              "pro yl": 4,
+              "ps": 7,
+              "rkp": 12,
+              "kok": 11,
+              "sdp": 4
+            },
+            "ei": {
+              "vihr": 7,
+              "kesk": 1,
+              "vas": 1,
+              "pro yl": 1,
+              "sdp": 1,
+              "kok": 1
+            },
+            "tyhja": {
+              "vihr": 1
+            }
+          },
+          "direction": {
+            "jaa_label": "asian jatkokäsittelyä",
+            "ei_label": "asian palauttamista",
+            "jaa_kind": "jatkokasittely",
+            "ei_kind": "jatkokasittely",
+            "kind": "procedural_substantive",
+            "rationale": "Puheenjohtaja julisti keskustelun päättyneeksi, ja totesi, että keskustelun aikana on jätetty palautusehdotus ja evästysehdotuksia seuraavasti: Palautetaan valmisteluun.",
+            "winner": null,
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat asian jatkokäsittelyä äänestävät JAA, ja ne jotka kannattavat asian palauttamista äänestävät EI — annettiin 38 JAA ja 12 EI ääntä."
+          }
+        },
+        {
+          "jaa": [
+            "Ulf Kjerin",
+            "Maija Jäntti",
+            "Saara Brax",
+            "Jerri Kämpe-Hellenius",
+            "Anneli Granström",
+            "Stefan Gustafsson",
+            "Patrik Lundell",
+            "Matti Kaurila",
+            "Urho Blom",
+            "Jani Kähkönen",
+            "Josephine Frimodig",
+            "Jani Ekman",
+            "Anders Adlercreutz",
+            "Carl-Johan Kajanti",
+            "Riikka Purra",
+            "Ari Harinen",
+            "Kim Männikkö",
+            "Antti Salonen",
+            "Tero Suominen",
+            "Marko Kari",
+            "Ville Salminen",
+            "Antti Kilappa",
+            "Kari Virtanen",
+            "Arttu Lankinen",
+            "Timo Haapaniemi",
+            "Hannu Valtanen",
+            "Noora Piili",
+            "Piia Aallonharja",
+            "Jukka Ylikoski",
+            "Jussi Määttä"
+          ],
+          "ei": [
+            "Minna Hakapää",
+            "Johanna Fleming",
+            "Kati Kaihlaranta",
+            "Sanni Jäppinen",
+            "Ronja Karkinen",
+            "Reetta Hyvärinen",
+            "Tuovi Ronkainen",
+            "Martin Valtonen",
+            "Sini Felipe",
+            "Anna-Mari Toikka",
+            "Miisa Jeremejew",
+            "Marjut Frantsi-Lankia",
+            "Saara Huhmarniemi",
+            "Maarit Orko",
+            "Elina Kärkimaa",
+            "Anna Aintila",
+            "Ulla Seppälä"
+          ],
+          "tyhja": [
+            "Kim Åström",
+            "Kim Liljequist",
+            "Aku Leijala",
+            "Hans Hedberg"
+          ],
+          "totals": {
+            "jaa": 30,
+            "ei": 17,
+            "tyhja": 4
+          },
+          "parties": {
+            "jaa": {
+              "rkp": 8,
+              "kok": 10,
+              "ps": 7,
+              "sdp": 2,
+              "pro yl": 3
+            },
+            "ei": {
+              "pro yl": 1,
+              "sdp": 3,
+              "vas": 1,
+              "vihr": 8,
+              "rkp": 2,
+              "kesk": 1,
+              "kok": 1
+            },
+            "tyhja": {
+              "kok": 1,
+              "rkp": 2,
+              "pro yl": 1
+            }
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta ilman Sanni Jäppisen evästystä",
+            "ei_label": "pohjaehdotusta Sanni Jäppisen evästyksellä",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "pohjaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": null,
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat pohjaehdotusta ilman Sanni Jäppisen evästystä äänestävät JAA, ja ne jotka kannattavat pohjaehdotusta Sanni Jäppisen evästyksellä äänestävät EI — annettiin 30 JAA ja 17 EI ääntä."
+          }
+        }
+      ],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 1 Kauppakirja BRÅTAÄNG 257-431-1-28_20250130 2 Karttaotteet 3 kpl kiinteistöstä BRÅTAÄNG 257-431-1-28 Kiinteistön Bråtaäng 257-431-1-28 kantatilan hankinta Kunnanvaltuusto 03.03.2025 § 21 90/10.00.01/2025",
+        "paatosehdotus": "Kunnanhallitus esittää kunnanvaltuustolle, että valtuusto 1 päättää, että Kirkkonummen kunta ostaa liitteenä olevan kauppakirjan ehdoin Kiinteistö Oy Masalan Niittylammelta, y-tunnus 0194241-1, kiinteistön Bråtaäng 257-431-1-28 niin, että kaupassa myyjälle pidätetään noin 5 hehtaarin suuruinen liitekartalla osoitettu määräala. Kiinteistö ostetaan kiinnityksistä vapaana kauppahintaan 1 400 000 euroa. 2 myöntää vuoden 2025 talousarvion investointiosan hankeryhmän ”maa- ja vesialueet” määrärahavaraukseen 1 400 000 euron suuruisen lisämäärärahan kiinteistön Bråtaäng 257-431-1-28 hankintaan. 3 päättää oikeuttaa kunnanjohtajan tekemään kauppakirjaan vähäisiä tarkistuksia ja valtuuttaa kunnanjohtajan allekirjoittamaan kauppakirjan niin, että kauppa on allekirjoitettava kolmen kuukauden kuluessa kunnanvaltuuston lainvoimaisesta päätöksestä",
+        "kasittely": "Kuntakehitysjohtaja Anna-Kaisa Kauppinen esitteli asiaa. Elinvoimajohtaja Simon Store sekä kunnangeodeetti Otso Kärkkäinen olivat myös läsnä vastaamassa kysymyksiin. Kokouksen puheenjohtajan Reetta Hyvärisen ehdotuksesta, kunnanjohtaja muuttaa selostusosan ensimmäisen kappaleen virkkeen ”Kunta on neuvotellut kiinteistön Bråtaäng RN:o 1:28 noin 35 hehtaarin suuruisen kantatilan hankinnasta siten, että kaupassa myyjälle pidätetään noin 5 hehtaarin suuruinen määräala.” kuulumaan seuraavasti: Kunta on neuvotellut kiinteistön Bråtaäng RN:o 1:28 noin 39,74 hehtaarin suuruisen kantatilan hankinnasta siten, että kaupassa myyjälle pidätetään noin 5 hehtaarin suuruinen määräala. Lisäksi kunnanvaltuuston päätökseen ja kauppakirjaan lisätään tieto kunnalle hankittavan kiinteistön Bråtaäng RN:o 1:28 pinta-alan suuruudesta (noin 39,74 hehtaaria). Puheenjohtaja julisti keskustelun päättyneeksi, ja totesi, että keskustelun aikana on jätetty palautusehdotus ja evästysehdotuksia seuraavasti: Palautetaan valmisteluun. (Huhmarniemi Saara): Valmistelun aikana selvitetään mahdollisuus ostaa koko kiinteistö kunnalle. Tämä antaisi kunnalle paremmat mahdollisuudet suunnitella ja toteuttaa alue joustavasti edistäen kuntastrategian tavoitteita. Palautusehdotusta kannattivat Ronja Karkinen, Johanna Fleming, Miisa Jeremejew, Jani Ekman, Kati Kaihlaranta, Anna-Mari Toikka, Maarit Orko, Elina Kärkimaa, Aku Leijala ja Marjut Frantsi-Lankia. Palautusehdotusta ei hyväksytty yksimielisesti, joten puheenjohtaja ilmoitti että asiasta on äänestettävä. Puheenjohtaja ehdotti, että asiasta äänestetään niin, että ne jotka kannattavat asian jatkokäsittelyä äänestävät JAA, ja ne jotka kannattavat asian palauttamista äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 38 JAA ääntä, 12 EI ääntä ja 1 tyhjä ääni. Asian jatkokäsittely sai enemmän ääniä ja voitti, joten asian käsittelyä päätettiin jatkaa. JAA äänestivät Antti Salonen, Arttu Lankinen, Stefan Gustafsson, Anna Aintila, Martin Valtonen, Jussi Määttä, Urho Blom, Saara Brax, Patrik Lundell, Hannu Valtanen, Kim Männikkö, Carl-Johan Kajanti, Maija Jäntti, Anneli Granström, Kim Liljequist, Kari Virtanen, Ulf Kjerin, Antti Kilappa, Marko Kari, Riikka Purra, Piia Aallonharja, Kim Åström, Jerri Kämpe-Hellenius, Sini Felipe, Tero Suominen, Ville Salminen, Matti Kaurila, Josephine Frimodig, Timo Haapaniemi, Ari Harinen, Jukka Ylikoski, Ulla Seppälä, Anders Adlercreutz, Noora Piili, Jani Kähkönen, Tuovi Ronkainen, Hans Hedberg ja Minna Hakapää. EI äänestivät Saara Huhmarniemi, Marjut Frantsi-Lankia, Kati Kaihlaranta, Ronja Karkinen, Anna-Mari Toikka, Miisa Jeremejew, Sanni Jäppinen, Aku Leijala, Maarit Orko, Reetta Hyvärinen, Johanna Fleming ja Jani Ekman. Tyhjää äänesti Elina Kärkimaa. Sanni Jäppisen evästys: Kaavan jatkosuunnittelussa huomioidaan kaavan käynnistämisen tavoitteet. Evästysehdotusta kannattivat Elina Kärkimaa, Maarit Orko, Saara Huhmarniemi, Anna-Mari Toikka, Miisa Jeremejew, Johanna Fleming, Kati Kaihlaranta ja Ronja Karkinen. Evästysehdotusta ei hyväksytty yksimielisesti, joten puheenjohtaja ilmoitti että asiasta on äänestettävä. Puheenjohtaja ehdotti, että asiasta äänestetään niin, että ne jotka kannattavat pohjaehdotusta ilman Sanni Jäppisen evästystä äänestävät JAA, ja ne jotka kannattavat pohjaehdotusta Sanni Jäppisen evästyksellä äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 30 JAA ääntä, 17 EI ääntä ja 4 tyhjää. JAA äänestivät Ulf Kjerin, Maija Jäntti, Saara Brax, Jerri Kämpe-Hellenius, Anneli Granström, Stefan Gustafsson, Patrik Lundell, Matti Kaurila, Urho Blom, Jani Kähkönen, Josephine Frimodig, Jani Ekman, Anders Adlercreutz, Carl-Johan Kajanti, Riikka Purra, Ari Harinen, Kim Männikkö, Antti Salonen, Tero Suominen, Marko Kari, Ville Salminen, Antti Kilappa, Kari Virtanen, Arttu Lankinen, Timo Haapaniemi, Hannu Valtanen, Noora Piili, Piia Aallonharja, Jukka Ylikoski ja Jussi Määttä. EI äänestivät Minna Hakapää, Johanna Fleming, Kati Kaihlaranta, Sanni Jäppinen, Ronja Karkinen, Reetta Hyvärinen, Tuovi Ronkainen, Martin Valtonen, Sini Felipe, Anna-Mari Toikka, Miisa Jeremejew, Marjut Frantsi-Lankia, Saara Huhmarniemi, Maarit Orko, Elina Kärkimaa, Anna Aintila ja Ulla Seppälä. Tyhjää äänestivät Kim Åström, Kim Liljequist, Aku Leijala ja Hans Hedberg. JAA sai enemmän ääniä, joten Sanni Jäppisen evästystä ei hyväksytty. Evästys (Kaurila Matti): Jatkosuunnittelussa asemakaavoituksen tavoitteena on kuntastrategian mukainen pientalovaltainen asuinalue. Evästysehdotusta kannattivat Ville Salminen, Saara Brax, Jani Ekman, Jukka Ylikoski, Aku Leijala, Hannu Valtanen, Urho Blom, Marko Kari, Kim Åström, Kari Virtanen, Ulla Seppälä, Piia Aallonharja, Jani Kähkönen, Maija Jäntti, Timo Haapaniemi, Anneli Granström, Jussi Määttä, Arttu Lankinen, Marjut Frantsi-Lankia, Martin Valtonen, Jerri Kämpe-Hellenius, Antti Salonen, Antti Kilappa, Ulf Kjerin ja Anna Aintila. Puheenjohtajan tiedustellessa Matti Kaurilan evästysehdotus hyväksyttiin yksimielisesti",
+        "paatos": "Kunnanvaltuusto päätti 1 että Kirkkonummen kunta ostaa liitteenä olevan kauppakirjan ehdoin Kiinteistö Oy Masalan Niittylammelta, y-tunnus 0194241-1, noin 39,74 hehtaarin suuruisen kiinteistön Bråtaäng 257-431-1-28 niin, että kaupassa myyjälle pidätetään noin 5 hehtaarin suuruinen liitekartalla osoitettu määräala. Kiinteistö ostetaan kiinnityksistä vapaana kauppahintaan 1 400 000 euroa. 2 myöntää vuoden 2025 talousarvion investointiosan hankeryhmän ”maa- ja vesialueet” määrärahavaraukseen 1 400 000 euron suuruisen lisämäärärahan kiinteistön Bråtaäng 257-431-1-28 hankintaan. 3 päättää oikeuttaa kunnanjohtajan tekemään kauppakirjaan vähäisiä tarkistuksia ja valtuuttaa kunnanjohtajan allekirjoittamaan kauppakirjan niin, että kauppa on allekirjoitettava kolmen kuukauden kuluessa kunnanvaltuuston lainvoimaisesta päätöksestä. Lisäksi kunnanvaltuusto päätti yksimielisesti hyväksyä seuraavan evästyksen: Jatkosuunnittelussa asemakaavoituksen tavoitteena on kuntastrategian mukainen pientalovaltainen asuinalue"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kauppakirja BRÅTAÄNG 257-431-1-28_20250130",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20251972-3-119842.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Karttaotteet 3 kpl kiinteistöstä BRÅTAÄNG 257-431-1-28",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20251972-3-120586.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Sanni Jäppinen",
+          "kind": "evastysehdotus",
+          "text": null,
+          "source": "order",
+          "party": "vihr"
+        },
+        {
+          "proposer": "Matti Kaurila",
+          "kind": "evastysehdotus",
+          "text": null,
+          "source": "order",
+          "party": "kok"
+        }
+      ]
+    },
+    {
+      "id": "20251972-4",
+      "ordinal": "4",
+      "title": "Vastaus valtuustoaloitteeseen 4/2023: Vieraslajien torjuntaan keskittyneiden nuorten kesätyöpaikkojen luomiseksi",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20251972-4",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti seuraavalla evästyksellä: Vuoden 2026 talousarviota laadittaessa tulee pohtia kuinka monta nuorta kesätyöntekijää tuolla 10 000€ summalla saisimme palkattua vieraslajien kitkentään valvotusti",
+      "votes": [],
+      "initiative": {
+        "ref": "4/2023",
+        "proposer": "Vihreiden valtuustoryhmän puheenjohtaja Markus Myllyniemi",
+        "party": "vihr",
+        "name": "Markus Myllyniemi"
+      },
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus esittää kunnanvaltuustolle alla olevan vastauksen valtuustoaloitteeseen 4/2023: Vieraslajien torjuntaan keskittyneiden nuorten kesätyöpaikkojen luomiseksi ja, että valtuusto pitää vastausta riittävänä ja aloitetta loppuun käsiteltynä",
+        "kasittely": "Puheenjohtaja julisti keskustelun päättyneeksi ja totesi, että keskustelun aikana Maarit Orko on jättänyt seuraavan evästysehdoksen: Evästys: Vuoden 2026 talousarviota laadittaessa tulee pohtia kuinka monta nuorta kesätyöntekijää tuolla 10 000€ summalla saisimme palkattua vieraslajien kitkentään valvotusti. Evästysehdotusta kannattivat Sanni Jäppinen, Johanna Fleming, Miisa Jeremejew, Saara Huhmarniemi, Anna-Mari Toikka, Elina Kärkimaa, Ronja Karkinen, Anna Aintila, Tuovi Ronkainen, Matti Kaurila, Patrik Lundell, Marjut Frantsi-Lankia, Kati Kaihlaranta ja Martin Valtonen. Puheenjohtajan tiedustellessa, evästysehdotus hyväksyttiin yksimielisesti",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti seuraavalla evästyksellä: Vuoden 2026 talousarviota laadittaessa tulee pohtia kuinka monta nuorta kesätyöntekijää tuolla 10 000€ summalla saisimme palkattua vieraslajien kitkentään valvotusti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": [
+        {
+          "proposer": "Maarit Orko",
+          "kind": "evastysehdotus",
+          "text": "Evästys: Vuoden 2026 talousarviota laadittaessa tulee pohtia kuinka monta nuorta kesätyöntekijää tuolla 10 000€ summalla saisimme palkattua vieraslajien kitkentään valvotusti. Evästysehdotusta kannattivat Sanni Jäppinen, Johanna Fleming, Miisa Jeremejew, Saara Huhmarniemi, Anna-Mari Toikka, Elina Kärkimaa, Ronja Karkinen, Anna Aintila, Tuovi Ronkainen, Matti Kaurila, Patrik Lundell, Marjut Frantsi-Lankia, Kati Kaihlaranta ja Martin Valtonen",
+          "source": "introduction",
+          "party": "vihr"
+        }
+      ]
+    },
+    {
+      "id": "20251972-5",
+      "ordinal": "5",
+      "title": "Eron myöntäminen varavaltuutetun tehtävästä (N.S) ja uuden varavaltuutetun nimeäminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20251972-5",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto 1 myöntää eron Niklas Sillmanille varavaltuutetun tehtävästä 2 merkitsee tiedokseen, että keskusvaalilautakunta arvioi tarpeen määrätä uuden varavaltuutetun",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20251972-6",
+      "ordinal": "6",
+      "title": "Eron myöntäminen Kirkkonummen Vesi -liikelaitoksen johtokunnan varajäsenen tehtävästä (N.S.), ja uuden varajäsenen nimeäminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20251972-6",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Niklas Sillmanille Kirkkonummen Vesi -liikelaitoksen johtokunnan varajäsenyydestä ja 2 valita Thomas Vaseniuksen uudeksi varajäseneksi Niklas Sillmanin tilalle toimikauden loppuun",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto 1 myöntää eron Niklas Sillmanille Kirkkonummen Vesi -liikelaitoksen johtokunnan varajäsenyydestä ja 2 valitsee uuden varajäsenen Niklas Sillmanin tilalle toimikauden loppuun",
+        "kasittely": "Kim Liljequist / RKP: RKP ehdottaa Thomas Vaseniusta uudeksi varajäseneksi",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Niklas Sillmanille Kirkkonummen Vesi -liikelaitoksen johtokunnan varajäsenyydestä ja 2 valita Thomas Vaseniuksen uudeksi varajäseneksi Niklas Sillmanin tilalle toimikauden loppuun"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20251972-7",
+      "ordinal": "7",
+      "title": "Vireillä olevat valtuustoaloitteet",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20251972-7",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "initiative": {
+        "ref": null,
+        "proposer": "nnanhallituksen on vuosittain maaliskuun ja lokakuun loppuun mennessä esitettävä valtuusto",
+        "party": null,
+        "name": null
+      },
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 3 Vireillä olevat valtuustoaloitteet, kh 24.2.2025 Vireillä olevat valtuustoaloitteet Kunnanvaltuusto 03.03.2025 § 25 1308/00.01.02/2019",
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto merkitsee liitteenä olevan luettelon vireillä olevista valtuustoaloitteista tiedoksi",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Vireillä olevat valtuustoaloitteet, kh 24.2.2025",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20251972-7-121062.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20251972-8",
+      "ordinal": "8",
+      "title": "Valtuustoaloite 2/2025: Kirkkonummen kunnan ja Omnian yhteistyön tiivistäminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20251972-8",
+      "decision": "Kunnanvaltuusto lähettää valtuustoaloitteen kunnanhallitukselle valmisteltavaksi",
+      "votes": [],
+      "initiative": {
+        "ref": "2/2025",
+        "proposer": "een kunnanhallitukselle valmisteltavaksi.     Selostus   SDP:n Kirkkonummen valtuustoryhmä",
+        "party": "sdp",
+        "name": null
+      },
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 4 Valtuustoaloite: Kirkkonummen kunnan ja Omnian yhteistyön tiivistäminen Valtuustoaloite 2/2025: Kirkkonummen kunnan ja Omnian yhteistyön tiivistäminen Kunnanvaltuusto 03.03.2025 § 26 200/00.04.02/2025",
+        "paatos": "Kunnanvaltuusto lähettää valtuustoaloitteen kunnanhallitukselle valmisteltavaksi",
+        "selostus": "SDP:n Kirkkonummen valtuustoryhmä jätti kunnanvaltuuston kokouksessa 3.3.2025 seuraavan valtuustoaloitteen: ”Kirkkonummen kunnan ja Omnian yhteistyön tiivistäminen Omnian toimipisteessä Kirkkonummella on laaja tarjonta ammatillisia opintoja. Ammattikoulutukseen haetaan perusopetuksen jälkeen ja se usein toimii takuupaikkana toisen asteen opiskelupaikasta. Lukioissa on keskiarvorajat, toki suosituille ammattialoille myös, mutta yleensä ammatillisesta koulutuksesta löytyy paikka myös hakijalle, jonka keskiarvo jää vaatimattomaksi. Ammattiopetus kantaa näin vahvaa yhteiskunnallista vastuuta, puhumattakaan siitä, että sieltä Suomi saa kaipaamiaan ammattiosaajia. Kaikki nuoret eivät myöskään ole perusopetuksen loppuessa valmiita siirtymään Kirkkonummelta kauemmaksi. Ehdotamme, että Kirkkonummen kunnan sivistystoimi selvittää, miten ammattiopinnot olisi mahdollista avata oppilaille jo perusopetuksen aikana. SDP:n Kirkkonummen valtuustoryhmä Tuovi Ronkainen, Sini Felipe, Ari Harinen ja Tero Suominen.” Valtuustoaloitteen allekirjoittivat Tuovi Ronkaisen, Sini Felipen, Ari Harisen ja Tero Suomisen lisäksi Nina Bogatenko,"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Valtuustoaloite: Kirkkonummen kunnan ja Omnian yhteistyön tiivistäminen",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20251972-8-121212.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20251972-9",
+      "ordinal": "9",
+      "title": "Valtuustoaloite 3/2025: Ikääntyvien hyvinvoinnin edistäminen ja toimintakyvyn tukeminen yhteistyössä hyvinvointialueen kanssa",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20251972-9",
+      "decision": "Kunnanvaltuusto lähettää valtuustoaloitteen kunnanhallitukselle valmisteltavaksi",
+      "votes": [],
+      "initiative": {
+        "ref": "3/2025",
+        "proposer": "litukselle valmisteltavaksi.   Selostus   Keskustan valtuustoryhmä / Marjut Frantsi-Lankia",
+        "party": "kesk",
+        "name": "Marjut Frantsi-Lankia"
+      },
+      "sections": {
+        "paatos": "Kunnanvaltuusto lähettää valtuustoaloitteen kunnanhallitukselle valmisteltavaksi",
+        "selostus": "Keskustan valtuustoryhmä / Marjut Frantsi-Lankia jätti kunnanvaltuuston kokouksessa 3.3.2025 seuraavan valtuustoaloitteen: ” Ikääntyvien hyvinvoinnin edistäminen ja toimintakyvyn tukeminen yhteistyössä hyvinvointialueen kanssa Ikääntymisen myötä toimintakyky alkaa ennemmin tai myöhemmin heiketä ja avun, tuen ja palvelujen tarve kasvaa. Toimintakyvyn heikentyessä mahdollisuus ulkoilla, harrastaa ja ylläpitää sosiaalisia kontakteja vähenee. Yksinäisyys lisääntyy ja mieli herkästi masentuu. Se edelleen heikentää toimintakykyä ja kotona pärjäämistä. Huono kierre syvenee ja palveluiden tarve voi kasvaa yllättävänkin nopeasti. Ikääntyneiden palvelut ovat murroksessa, kun hyvinvointialueet etsivät säästöjä. Palvelurakennetta kevennetään ja palvelukriteereitä kiristetään sekä teknologiaa ja digipalveluita kehitetään korvaamaan kasvokkaista palvelua. Yhä enemmän toivotaan myös omaisten hoivavastuun lisääntyvän. Muutokset palveluissa uhkaavat ikäihmisten hyvinvointia ja toimintakykyä, jos riittävää tukea ei ole enää tarjolla. Kunnan tärkeä lakisääteinen tehtävä on kaiken ikäisten kuntalaisten terveyden ja hyvinvoinnin edistäminen. Kirkkonummella se on tarkoittanut lähinnä liikuntapalveluiden tarjoamista. Mutta miten kunta edistää ikääntyvien hyvinvointia siinä vaiheessa kun toimintakyky ei enää riitä itsenäiseen liikuntaan ja ulkoiluun? Veikkolassa alkoi noin 15 vuotta sitten Brita Blombergin testamenttiprojekti. Se tarjosi alueen ikäihmisille palveluja, joita kunta ei tarjonnut. Vuosien ajan testamenttiprojekti järjesti yli 68-vuotiaille monenlaista palvelua, tukea ja apua mm. palveluohjausta ja etsivää vanhustyötä, seniorikahvilatoimintaa, hyvinvointipalveluja kuten jalkahoitoa, apua raskaissa pihatöissä tai ikkunoiden pesussa. Turvallisuutta edistäviä välineitä sekä ruokalippuja koulujen hävikkiruoan hyödyntämiseksi jaettiin. Lisäksi järjestettiin viikoittaista tuolijumppaa ja liikuntaa sekä yhteisiä asiointikyytejä, retkiä ja yhteisöllisiä juhlahetkiä. Testamenttiprojektin avulla ikäihmisiä aktivoitiin mm. yhdistysten ja vapaaehtoisten tuella. Alkuvuosina palveluohjaaja teki myös kotikäyntejä yksinäisten ikäihmisten luokse aktivoiden heitä mukaan toimintaan tai järjestäen heille tarvittavaa apua. Alueen ikäihmisten osallisuus, vertaistuki ja yhteisöllisyys lisääntyivät ja uusia ystävyyssuhteita syntyi vuosien varrella. Kunnan palvelujen tarve väheni ja hyvinvointi, toimeliaisuus ja toimintakyky lisääntyivät. BB-testamenttiprojekti päättyi viime vuonna varojen loppuessa. Me allekirjoittaneet valtuutetut esitämme, että kunnassa kehitetään yhteistyössä Länsi-Uudenmaan hyvinvointialueen sekä paikallisten yhdistysten ja vapaaehtoisten kanssa malli, jonka tarkoituksena on tarjota tukea kotona asuvien ikäihmisten hyvinvoinnin edistämiseksi ja toimintakyvyn ylläpitämiseksi BB-testamenttiprojektista saatujen kokemusten pohjalta. Ikäihmisten kokonaisvaltaista toimintakykyä on mahdollista ja välttämätöntä tukea esim. säännöllisten virikkeiden, harrastusten ja vertaistuen sekä osallisuuden avulla, jolloin raskaampien palveluiden kustannukset vähenevät. Kirkkonummella 3.3.2025 Marjut Frantsi-Lankia” Valtuustoaloitteen allekirjoittivat Marjut Frantsi-Lankian lisäksi Sini Felipe, Jukka Ylikoski, Anna Aintila, Antti Salonen, Johanna Fleming, Matti Kaurila, Miisa Jeremejew, Anna-Mari Toikka ja Kati Kaihlaranta"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20251972-10",
+      "ordinal": "10",
+      "title": "Valtuustoaloite 4/2025: Uusi uimaranta Kantvikin alueelle; Båtvikin rannan avaaminen kuntalaisten käyttöön",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20251972-10",
+      "decision": "Kunnanvaltuusto toimittaa valtuustoaloitteen kunnanhallitukselle valmisteltavaksi",
+      "votes": [],
+      "initiative": {
+        "ref": "4/2025",
+        "proposer": "anhallitukselle valmisteltavaksi.     Selostus   Vihreä valtuustoryhmä / Saara Huhmarniemi",
+        "party": "vihr",
+        "name": "Saara Huhmarniemi"
+      },
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Valtuustoaloite: Uusi uimaranta Kantvikin alueelle Valtuustoaloite 4/2025: Uusi uimaranta Kantvikin alueelle; Båtvikin rannan avaaminen kuntalaisten käyttöön Kunnanvaltuusto 03.03.2025 § 28 216/10.03.01.04/2025",
+        "paatos": "Kunnanvaltuusto toimittaa valtuustoaloitteen kunnanhallitukselle valmisteltavaksi",
+        "selostus": "Vihreä valtuustoryhmä / Saara Huhmarniemi jätti kunnanvaltuuston kokouksessa 3.3.2025 seuraavan valtuustoaloitteen: ”Uusi uimaranta Kantvikin alueelle - Båtvikin rannan avaaminen kuntalaisten käyttöön Merellisyys on jo pitkään ollut osa Kirkkonummen brändiä ja kunnan uusi slogan “Aallonharjalla 700 vuotta” viittaa myös Kirkkonummen merellisyyteen. Tästä huolimatta kuntalaisten pääsy merenrantaan ja rantojen saavutettavuus on ollut Kirkkonummen kompastuskivi. Vuosien varrella merenrannoista on esitetty useita visiokuvia, mutta tulokset ovat jääneet vähäisiksi. Kantvikin alueella Båtvikissa sijaitsee ainutlaatuinen ja pitkä luonnonhiekkaranta Pikkalanlahdella. Hiekkaranta jatkuu rannalta mereen syventyen loivasti, joten se olisi sopiva uimaranta myös lapsille. Hiekkaranta sijaitsee alueella, joka on tällä hetkellä aidattu, mutta hiekkaranta ei ole esimerkiksi asutuksen pihapiiriä. Kunnanvaltuuston päättämässä Kantvikin kehityskuvassa 2040 “Merellinen Kantvik” alueelle on merkitty uimaranta ja uusia asuinalueita. (https://kirkkonummi.fi/wp-content/uploads/files/591958ab9635eb872500014c/Kantvikin_kehityskuva_2040_-diarinumero.pdf) Me allekirjoittaneet valtuutetut esitämme, että Kirkkonummen kunta käynnistää viipymättä neuvottelut maanomistajan kanssa tavoitteena avata Båtvikin hiekkaranta kuntalaisten käyttöön esimerkiksi maanhankintojen, kaavahankkeen tai jokaisenoikeuksien avulla. Vihreä valtuustoryhmä Saara Huhmarniemi” Vihreän valtuustoryhmä / Saara Huhmarniemi, Johanna Fleming, Miisa Jeremejew, Maarit Orko, Ronja Karkinen, Markus Myllyniemi, Sanni Jäppinen, Reetta Hyvärinen ja Elina Kärkimaa. Vihreän valtuustoryhmän lisäksi valtuustoaloitteen allekirjoittivat myös Matti Kaurila ja Stefan Gustafsson"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtuustoaloite: Uusi uimaranta Kantvikin alueelle",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20251972-10-121525.PDF"
+        }
+      ],
+      "proposals": []
+    }
+  ],
+  "id": "20251972",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20251972"
+}

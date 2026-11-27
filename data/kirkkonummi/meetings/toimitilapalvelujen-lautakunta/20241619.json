@@ -1,0 +1,135 @@
+{
+  "title": "Toimitilapalvelujen lautakunta Pöytäkirja 08.01.2024 klo 17:00 - 18:48 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Toimitilapalvelujen lautakunta",
+  "doctype": "Pöytäkirja",
+  "date": "2024-01-08",
+  "items": [
+    {
+      "id": "20241619-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241619-1",
+      "decision": null,
+      "votes": [],
+      "sections": {},
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241619-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastaminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241619-2",
+      "decision": "Toimitilapalvelujen lautakunta valitsi tämän kokouksen pöytäkirjantarkastajiksi Marko Karin ja Johanna Järvisen",
+      "votes": [],
+      "sections": {
+        "esittelija": "Anna-Kaisa Kauppinen, yhdyskuntatekniikan johtaja, etunimi.sukunimi@kirkkonummi.fi",
+        "paatosehdotus": "Toimitilapalveluiden lautakunta valitsee kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan sähköisesti. Pöytäkirja tarkastetaan tiistaina 9.1.2024. Jos hyväksymisviestiä ei tule sihteerille em. ajankohtaan mennessä, pöytäkirja katsotaan hyväksytyksi. Tarkastettu pöytäkirja asetetaan yleisesti nähtäville kunnan julkiseen tietoverkkoon keskiviikkona 10.1.2024",
+        "paatos": "Toimitilapalvelujen lautakunta valitsi tämän kokouksen pöytäkirjantarkastajiksi Marko Karin ja Johanna Järvisen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241619-3",
+      "ordinal": "3",
+      "title": "Toimitilapalvelujen lautakunnan otto-oikeuden käyttäminen toimitilajohtajan viranhaltijapäätökseen 22.12.2023 § 58, Volskodin vuokraaminen alaikäisten ryhmäkodiksi 20.1.2024 alkaen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241619-3",
+      "decision": "Toimitilapalvelujen lautakunta päätti päätösehdotuksen mukaisesti",
+      "votes": [
+        {
+          "jaa": [
+            "Hedberg Hans",
+            "Björkqvist Matilda",
+            "Utriainen Elina",
+            "Jeremejew Miisa",
+            "Piili Noora",
+            "Lavanti Lauri"
+          ],
+          "ei": [
+            "Oksanen Pekka",
+            "Ekman Jani",
+            "Kari Marko",
+            "Järvinen Johanna"
+          ],
+          "tyhja": [],
+          "named_by": "surname",
+          "totals": {
+            "jaa": 6,
+            "ei": 4,
+            "tyhja": 0
+          },
+          "as_written": {
+            "jaa": [
+              "Hedberg",
+              "Björkqvist",
+              "Utriainen",
+              "Jeremejew",
+              "Piili",
+              "Lavanti"
+            ],
+            "ei": [
+              "Oksanen",
+              "Ekman",
+              "Kari",
+              "Järvinen"
+            ],
+            "tyhja": []
+          },
+          "names_from": "osallistujat",
+          "unresolved": [],
+          "parties": {
+            "jaa": {
+              "rkp": 2,
+              "pro yl": 2,
+              "vihr": 2
+            },
+            "ei": {
+              "sdp": 1,
+              "kok": 2,
+              "ps": 1
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "esittelijän päätösehdotusta",
+            "ei_label": "Jani Ekmanin muutosesitystä",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": "jaa",
+            "source": "parsed",
+            "evidence": "ne, jotka kannattavat esittelijän päätösehdotusta, äänestävät Jaa ja ne, jotka kannattavat Jani Ekmanin muutosesitystä, äänestävät Ei — Puheenjohtaja päätti äänestyksen ja totesi, että äänet jakautuivat seuraavasti: 6 Jaa-ääniä (Hedberg, Björkqvist, Utriainen, Jeremejew, Piili ja Lavanti) ja 4 Ei-ääniä (Oksanen, Ekman, Kari ja Järvinen)"
+          }
+        }
+      ],
+      "sections": {
+        "valmistelija": "toimitilajohtaja Kari Toikka, hallintopäällikkö Kia Forsell etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa Toimitilapalvelujen lautakunta päättää pitää voimassa toimitilajohtajan päätöksen 22.12.2023 § 58",
+        "kasittely": "Keskustelun aikana varapuheenjohtaja Jani Ekman teki seuraavan muutosesityksen: 1. Vuokrata Volskodin JST Aves Oy:lle seuraavin muutoksin lautakunnalle esitettyyn sopimukseen: - Lämmitys ja vesi eivät sisälly vuokraan - Tällä sopimuksella saa kiinteistöön perustaa yhden, enintään 21 henkilön, alaikäisten vastaanottoyksikön 2. Koska kiinteistö sijoittuu kunnan kiinteistösalkussa C-luokkaan, ei kunta tule tekemään merkittävämpiä investointeja kiinteistöön. Johanna Järvinen, Pekka Oksanen ja Marko Kari kannattivat Jani Ekmanin muutosesitystä. Puheenjohtaja totesi, että muutosesitystä ei kannatettu yksimielisesti, jolloin asiasta tulee äänestää. Puheenjohtaja käynnisti äänestyksen: ne, jotka kannattavat esittelijän päätösehdotusta, äänestävät Jaa ja ne, jotka kannattavat Jani Ekmanin muutosesitystä, äänestävät Ei. Puheenjohtaja päätti äänestyksen ja totesi, että äänet jakautuivat seuraavasti: 6 Jaa-ääniä (Hedberg, Björkqvist, Utriainen, Jeremejew, Piili ja Lavanti) ja 4 Ei-ääniä (Oksanen, Ekman, Kari ja Järvinen), jolloin esittelijän päätösehdotus voitti",
+        "paatos": "Toimitilapalvelujen lautakunta päätti päätösehdotuksen mukaisesti",
+        "tiedoksi": "JST Aves Oy, kiinteistöpäällikkö M.N, toimitilavuokrauksen asiantuntija T.D",
+        "selostus": "Toimitilapalvelujen lautakunta on 25.1.2023 § 9 päättänyt otto-oikeudesta ja otto-oikeuden käyttämisestä. Otto-oikeudella tarkoitetaan ylemmän viranomaisen mahdollisuutta ottaa omasta aloitteestaan alemman viranomaisen päättämä asia ratkaistavakseen. Kuntalain 92 §:n mukaan lautakunta tai sen puheenjohtaja voivat ottaa lautakunnan käsiteltäväksi asian, joka on kuntalain nojalla siirretty asianomaisen lautakunnan alaisen viranomaisen toimivaltaan. Lautakunta päätti mm. todeta, että ilmoitus otto-oikeuden käyttämisestä tehdään sähköisesti toimielimen puheenjohtajalle ja esittelijälle viimeistään oikaisuvaatimusajan sisällä. Toimitilapalvelujen lautakunnan puheenjohtaja on lautakunnan jäsenen pyynnöstä ilmoittanut 2.1.2024 käyttävänsä lautakunnan otto-oikeutta toimitilajohtajan 22.12.2023 § 58 päätökseen Volskodin vuokraamisesta alaikäisten ryhmäkodiksi 20.1.2024 alkaen. Otto-oikeuden käyttäminen merkitsee sitä, että viranhaltijan käsittelemä asia siirtyy kokonaan lautakunnan käsiteltäväksi. Lautakunnalla on asiaa käsitellessään sama toimivalta kuin viranhaltijalla on ollut. Lautakunta on velvollinen tekemään asiassa päätöksen. Käsiteltäväksi otetussa asiassa voidaan 1) tehdä uusi päätös, 2) aiemmin tehty päätös voidaan pysyttää, kumota tai muuttaa taikka 3) asia voidaan palauttaa päätöksen tehneen viranomaisen käsiteltäväksi. Toimitilajohtaja on 22.12.2023 § 58 päättänyt vuokrata entisen Volskodin kiinteistön päärakennuksen osoitteessa Volsintie 596 JST Aves Oy:lle 20.1.2024 alkaen alaikäisten yksin maahan saapuvien turvapaikanhakijoiden ja tilapäistä suojelua hakevien ryhmäkotitoimintaa varten. Vuokrattava pinta-ala on 2 157m2, ja vuokra on 15 000 € / kuukausi (alv 0 %). Vuokrantarkistus on sidottu kuluttajahintaindeksiin. Vuokraan sisältyvät lämpö, vesi ja kiinteistönhoito. Vuokralainen vastaa omalla kustannuksellaan vuokratilojen sähkönkulutuksesta, jätehuollosta, siivouksesta sekä pihanhoidosta. Vuokralaisen kanssa allekirjoitetaan erillinen vuokrasopimus, joka on toistaiseksi voimassa oleva ja se on irtisanottavissa molemmin puolin 6 kuukauden irtisanomisajalla. Lisäksi vuokraaja huolehtii siitä, että hankkii tarvittavat viranomaisluvat. Kunnan rakennusvalvonta on ilmoittanut, että ei ole estettä, että ko. toiminta sijoitetaan kiinteistöön. - Rakennukseen on tehty mittaavia remontteja vuosien 2019 ja 2020 aikana: - Wilo PVP-pumppaamon (kiinteistön jätevesipumppaamon) uusinta vuonna 2019 - lämmitysjärjestelmän uusiminen öljyn kulutuksen pienentämiseksi; uusi kattila ja ilmavesilämpöpumppu vuonna 2019 - TK3 IV-koneen korjaus vuonna 2020 ilmanvaihdon ongelmien korjaamiseksi WSP on vuonna 2019 laatinut kiinteistölle kuntotutkimuksen, joka on lähetetty vuokralaiselle tiedoksi. Vuokraamalla Volskoti ulkopuoliselle toimijalle kattaa kunta kiinteistön ylläpitokustannuksia ja saa pääomalleen tuottoa"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": [
+        {
+          "proposer": "Jani Ekman",
+          "kind": "vastaehdotus",
+          "text": "1. Vuokrata Volskodin JST Aves Oy:lle seuraavin muutoksin lautakunnalle esitettyyn sopimukseen: - Lämmitys ja vesi eivät sisälly vuokraan - Tällä sopimuksella saa kiinteistöön perustaa yhden, enintään 21 henkilön, alaikäisten vastaanottoyksikön 2. Koska kiinteistö sijoittuu kunnan kiinteistösalkussa C-luokkaan, ei kunta tule tekemään merkittävämpiä investointeja kiinteistöön. Johanna Järvinen, Pekka Oksanen ja Marko Kari kannattivat Jani Ekmanin muutosesitystä",
+          "source": "introduction",
+          "party": "kok"
+        }
+      ]
+    }
+  ],
+  "id": "20241619",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20241619"
+}

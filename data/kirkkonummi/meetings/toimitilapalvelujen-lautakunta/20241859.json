@@ -1,0 +1,40 @@
+{
+  "title": "Toimitilapalvelujen lautakunta Pöytäkirja 01.10.2024 klo 17:00 - 18:04 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Toimitilapalvelujen lautakunta",
+  "doctype": "Pöytäkirja",
+  "date": "2024-10-01",
+  "items": [
+    {
+      "id": "20241859-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241859-1",
+      "decision": null,
+      "votes": [],
+      "sections": {},
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241859-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastaminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241859-2",
+      "decision": "Toimitilapalvelujen lautakunta valitsi tämän kokouksen pöytäkirjantarkastajiksi ja Matilda Björkqvistin ja Marko Karin",
+      "votes": [],
+      "sections": {
+        "esittelija": "Yhdyskuntatekniikan johtajan sijainen toimitilajohtaja Kari Toikka",
+        "paatosehdotus": "Toimitilapalveluiden lautakunta valitsee kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan sähköisesti. Pöytäkirja tarkastetaan tiistaina 8.10.2024. Jos hyväksymisviestiä ei tule sihteerille em. ajankohtaan mennessä, pöytäkirja katsotaan hyväksytyksi. Tarkastettu pöytäkirja asetetaan yleisesti nähtäville kunnan julkiseen tietoverkkoon keskiviikkona 9.10.2024",
+        "paatos": "Toimitilapalvelujen lautakunta valitsi tämän kokouksen pöytäkirjantarkastajiksi ja Matilda Björkqvistin ja Marko Karin"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    }
+  ],
+  "id": "20241859",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20241859"
+}

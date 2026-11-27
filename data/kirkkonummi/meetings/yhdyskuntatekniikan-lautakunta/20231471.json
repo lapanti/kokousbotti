@@ -1,0 +1,628 @@
+{
+  "title": "Yhdyskuntatekniikan lautakunta Pöytäkirja 15.06.2023 klo 17:00 - 19:48 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Yhdyskuntatekniikan lautakunta",
+  "doctype": "Pöytäkirja",
+  "date": "2023-06-15",
+  "items": [
+    {
+      "id": "20231471-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231471-1",
+      "decision": "Puheenjohtaja totesi kokouksen laillisesti koolle kutsutuksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "valmistelija": "hallintosihteeri Suvi Wikström etunimi.sukunimi@kirkkonummi.fi",
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Puheenjohtaja totesi kokouksen laillisesti koolle kutsutuksi ja päätösvaltaiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231471-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231471-2",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaisesti. Pöytäkirjantarkistajiksi valittiin Antti Salonen ja Pekka Jäppinen",
+      "votes": [],
+      "sections": {
+        "valmistelija": "hallintosihteeri Suvi Wikström, etunimi.sukunimi@kirkkonummi.fi",
+        "paatosehdotus": "Yhdyskuntatekniikan lautakunta päättää 1 valita kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan 2 tarkastaa tämän pöytäkirjan sähköisesti seuraavan aikataulun mukaan: Perjantaina 16.6.2023 lähetetään pöytäkirja sähköpostitse pöytäkirjantarkastajille, jotka ilmoittavat hyväksymisestään viimeistään tiistaina 20.6.2023. Jos hyväksymisviestiä ei tule sihteerille em. ajankohtaan mennessä, pöytäkirja katsotaan hyväksytyksi. Pöytäkirja allekirjoitetaan sähköisesti. Pöytäkirja on nähtävänä keskiviikkona 21.6.2023 kunnan verkkosivulla. Yleinen oikaisuvaatimusaika alkaa torstaina 29.6.2023",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaisesti. Pöytäkirjantarkistajiksi valittiin Antti Salonen ja Pekka Jäppinen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231471-3",
+      "ordinal": "3",
+      "title": "Mustikkarinteen asemakaavan hyväksyminen (kh, kv)",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231471-3",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti: 1: esittää kunnanhallitukselle, että kunnanhallitus: 1.1.hyväksyy Mustikkarinteen asemakaavaehdotuksesta saatuun palautteeseen laaditut perustellut kannanotot (ns. kaavoittajan vastineet) tämän asian liitteen mukaisesti, 1.2 hyväksyy Mustikkarinteen asemakaavan (piir. 3469) ja siihen liittyvät asiakirjat MRL 52 §:n mukaisesti sekä esittää ne edelleen kunnanvaltuuston hyväksyttäväksi, 2. todeta, että ennen Mustikkarinteen asemakaavan hyväksymistä kunnanvaltuustossa kunnan ja määrättyjen maanomistajien kesken on oltava lainvoimainen maankäyttösopimus. 3. valtuuttaa valmistelijan tekemään teknisiä korjauksia kaavamateriaaliin. 4. että asemakaavan VL/eko/yk -alueella sijaitsevan kävelyn ja pyöräilyn yhteyden (Lillukkapolku) lähialueen maankäyttö muutetaan niin, että kyseinen yhteys sijoittuu kunnan omistukseen tulevalle alueelle. Sama koskee P-korttelialueen pohjoispuolista VP/yk -aluetta. 5. että, Mustikkarinteen kaava-alueella olevia -yk alueita ei saa aidata, Tämä tulee huomioida myös tehtävissä maankäyttösopimuksissa. 6. evästää kunnanhallitusta ottamaan huomioon kaavan alkuperäiset tavoitteet maankäyttösopimusten laadinnassa",
+      "votes": [
+        {
+          "jaa": [
+            "Kelkka Teemu",
+            "Liljequist Kim",
+            "Salonen Antti",
+            "Kaurila Matti",
+            "Frimodig Josephine",
+            "Snellman Jenny"
+          ],
+          "ei": [
+            "Polkko Aleksander",
+            "Karkinen Ronja",
+            "Valtanen Hannu",
+            "Jäppinen Sanni",
+            "Jäppinen Pekka"
+          ],
+          "tyhja": [],
+          "named_by": "surname",
+          "totals": {
+            "jaa": 6,
+            "ei": 5,
+            "tyhja": 0
+          },
+          "as_written": {
+            "jaa": [
+              "Kelkka",
+              "Liljequist",
+              "Salonen",
+              "Kaurila",
+              "Frimodig",
+              "Snellman"
+            ],
+            "ei": [
+              "Polkko",
+              "Karkinen",
+              "Valtanen",
+              "Jäppinen S",
+              "Jäppinen P"
+            ],
+            "tyhja": []
+          },
+          "names_from": "osallistujat",
+          "unresolved": [],
+          "parties": {
+            "jaa": {
+              "kesk": 1,
+              "rkp": 3,
+              "pro yl": 1,
+              "kok": 1
+            },
+            "ei": {
+              "ps": 1,
+              "vihr": 2,
+              "kok": 1,
+              "sdp": 1
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "asian jatkokäsittelyä",
+            "ei_label": "palautusehdotusta",
+            "jaa_kind": "jatkokasittely",
+            "ei_kind": "jatkokasittely",
+            "kind": "procedural_plain",
+            "rationale": null,
+            "winner": "jaa",
+            "source": "parsed",
+            "evidence": "Ne, jotka kannattavat asian jatkokäsittelyä, äänestävät JAA ja ne, jotka kannattavat palautusehdotusta, äänestävät Ei — Äänet jakautuivat seuraavasti: 6 JAA-ääntä (Kelkka, Liljequist, Salonen, Kaurila, Frimodig, Snellman) 5 Ei-ääntä (Polkko, Karkinen, Valtanen, Jäppinen S., Jäppinen P.)"
+          }
+        },
+        {
+          "jaa": [
+            "Salonen Antti",
+            "Kelkka Teemu",
+            "Valtanen Hannu",
+            "Liljequist Kim",
+            "Snellman Jenny",
+            "Jäppinen Pekka",
+            "Frimodig Josephine"
+          ],
+          "ei": [
+            "Polkko Aleksander",
+            "Jäppinen Sanni",
+            "Karkinen Ronja",
+            "Kaurila Matti"
+          ],
+          "tyhja": [],
+          "named_by": "surname",
+          "totals": {
+            "jaa": 7,
+            "ei": 4,
+            "tyhja": 0
+          },
+          "as_written": {
+            "jaa": [
+              "Salonen",
+              "Kelkka",
+              "Valtanen",
+              "Liljequist",
+              "Snellman",
+              "Jäppinen P",
+              "Frimodig"
+            ],
+            "ei": [
+              "Polkko",
+              "Jäppinen S",
+              "Karkinen",
+              "Kaurila"
+            ],
+            "tyhja": []
+          },
+          "names_from": "osallistujat",
+          "unresolved": [],
+          "parties": {
+            "jaa": {
+              "pro yl": 1,
+              "kesk": 1,
+              "kok": 1,
+              "rkp": 3,
+              "sdp": 1
+            },
+            "ei": {
+              "ps": 1,
+              "vihr": 2,
+              "kok": 1
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta",
+            "ei_label": "Ronja Karkisen vastaesitystä",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": "jaa",
+            "source": "parsed",
+            "evidence": "Ne, jotka kannattavat pohjaehdotusta, äänestävät JAA ja ne, jotka kannattavat Ronja Karkisen vastaesitystä, äänestävät EI — Äänet jakautuivat seuraavasti: 7 JAA-ääntä (Salonen, Kelkka, Valtanen, Liljequist, Snellman, Jäppinen P., Frimodig) 4 EI-ääntä (Polkko, Jäppinen S., Karkinen, Kaurila)"
+          }
+        },
+        {
+          "jaa": [
+            "Polkko Aleksander",
+            "Snellman Jenny",
+            "Kaurila Matti",
+            "Valtanen Hannu",
+            "Kelkka Teemu",
+            "Frimodig Josephine",
+            "Salonen Antti",
+            "Liljequist Kim"
+          ],
+          "ei": [
+            "Karkinen Ronja",
+            "Jäppinen Sanni"
+          ],
+          "tyhja": [
+            "Jäppinen Pekka"
+          ],
+          "named_by": "surname",
+          "totals": {
+            "jaa": 8,
+            "ei": 2,
+            "tyhja": 1
+          },
+          "as_written": {
+            "jaa": [
+              "Polkko",
+              "Snellman",
+              "Kaurila",
+              "Valtanen",
+              "Kelkka",
+              "Frimodig",
+              "Salonen",
+              "Liljequist"
+            ],
+            "ei": [
+              "Karkinen",
+              "Jäppinen S"
+            ],
+            "tyhja": [
+              "Jäppinen P"
+            ]
+          },
+          "names_from": "osallistujat",
+          "unresolved": [],
+          "parties": {
+            "jaa": {
+              "ps": 1,
+              "rkp": 3,
+              "kok": 2,
+              "kesk": 1,
+              "pro yl": 1
+            },
+            "ei": {
+              "vihr": 2
+            },
+            "tyhja": {
+              "sdp": 1
+            }
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta",
+            "ei_label": "Ronja Karkisen muutosesitystä",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": "jaa",
+            "source": "parsed",
+            "evidence": "Ne, jotka kannattavat pohjaehdotusta, äänestävät JAA ja ne, jotka kannattavat Ronja Karkisen muutosesitystä, äänestävät EI — Äänet jakautuivat seuraavasti: 8 JAA-ääntä (Polkko, Snellman, Kaurila, Valtanen, Kelkka, Frimodig, Salonen, Liljequist) 2 EI-ääntä (Karkinen, Jäppinen S.) 1 tyhjä (Jäppinen P.)"
+          }
+        }
+      ],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 3469 Mustikkarinne tarkistettu ehdotus 25052023_3469 Asemakaava 2100x594 liitteet 1_14 Vastineet_ehdotus 3469 Mustikkarinne tarkistettu ehdotus 30052023_3469 Asemakaava 2100x594 r Bemötanden_förslag bilagor_1_14 Blåbärsbrinkens_detaljplanebeskrivning_230606 Mustikkarinne_asemakaavaselostus_230530 Mustikkarinteen asemakaavan hyväksyminen (kh, kv) Yhdyskuntatekniikan lautakunta 15.06.2023 § 70 316/10.02.03/2020",
+        "valmistelija": "Asemakaavapäällikkö Simon Store etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa sijainen kunnanarkkitehti Tero Luomajärvi Yhdyskuntatekniikan lautakunta päättää: 1: esittää kunnanhallitukselle, että kunnanhallitus: 1.1.hyväksyy Mustikkarinteen asemakaavaehdotuksesta saatuun palautteeseen laaditut perustellut kannanotot (ns. kaavoittajan vastineet) tämän asian liitteen mukaisesti, 1.2 hyväksyy Mustikkarinteen asemakaavan (piir. 3469) ja siihen liittyvät asiakirjat MRL 52 §:n mukaisesti sekä esittää ne edelleen kunnanvaltuuston hyväksyttäväksi, 2. todeta, että ennen Mustikkarinteen asemakaavan hyväksymistä kunnanvaltuustossa kunnan ja määrättyjen maanomistajien kesken on oltava lainvoimainen maankäyttösopimus. 3. valtuuttaa valmistelijan tekemään teknisiä korjauksia kaavamateriaaliin",
+        "esittelija": "Tero Luomajärvi teki seuraavan lisäyksen päätösehdotukseen: Asemakaavan VL/eko/yk -alueella sijaitsevan kävelyn ja pyöräilyn yhteyden (Lillukkapolku) lähialueen maankäyttö muutetaan niin, että kyseinen yhteys sijoittuu kunnan omistukseen tulevalle alueelle. Sama koskee P-korttelialueen pohjoispuolista VP/yk -aluetta. Keskustelun aikana Sanni Jäppinen teki seuraavan palautusesityksen: Kaavakokonaisuutta tarkistetaan vastaamaan paremmin kaavan alkuperäisiä tavoitteita. Lisäksi VL/eko käytävän leveys kasvatetaan luonnosvaiheen leveyteen turvaamaan toimivat yhteydet etelä-pohjoissuunnan eläinten liikkumisen kaava-alueella ja suojeltavien direktiivilajien säilymisen alueella. Ronja Karkinen kannatti esitystä. Puheenjohtaja totesi, että esitystä ei kannatettu yksimielisesti, joten asiasta tulee äänestää. Äänestys: Puheenjohtaja käynnisti äänestyksen. Ne, jotka kannattavat asian jatkokäsittelyä, äänestävät JAA ja ne, jotka kannattavat palautusehdotusta, äänestävät Ei. Puheenjohtaja päätti äänestyksen. Äänet jakautuivat seuraavasti: 6 JAA-ääntä (Kelkka, Liljequist, Salonen, Kaurila, Frimodig, Snellman) 5 Ei-ääntä (Polkko, Karkinen, Valtanen, Jäppinen S., Jäppinen P.) jolloin käsittelyn jatkaminen voitti. Pekka Jäppinen teki seuraavan vastaesityksen: Mustikkarinteen kaava-alueella olevia -yk alueita ei saa aidata, Tämä tulee huomioida myös tehtävissä maankäyttösopimuksissa. Teemu Kelkka, Matti Kaurila, Antti Salonen, Ronja Karkinen, Hannu Valtanen, Jenny Snellman, Josephine Frimodig ja Kim Liljequist kannattivat esitystä. Puheenjohtaja totesi, että esitystä kannatettiin yksimielisesti. Sanni Jäppinen teki seuraavan vastaesityksen: Jos kaava ei mene palautukseen, lisäys päätösesitykseen: 4. Lautakunta evästää kunnanhallitusta ottamaan huomioon kaavan alkuperäiset tavoitteet maankäyttösopimusten laadinnassa. Hannu Valtanen, Ronja Karkinen, Pekka Jäppinen, Teemu Kelkka ja Matti Kaurila kannattivat esitystä. Puheenjohtaja totesi, että esitystä kannatettiin yksimielisesti. Ronja Karkinen teki seuraavan vastaesityksen: Muutetaan A -korttelialueet AP -korttelialueiksi. Sanni Jäppinen kannatti esitystä. Puheenjohtaja totesi, että esitystä ei kannateta yksimielisesti, joten asiasta tulee äänestää. Äänestys: Puheenjohtaja käynnisti äänestyksen. Ne, jotka kannattavat pohjaehdotusta, äänestävät JAA ja ne, jotka kannattavat Ronja Karkisen vastaesitystä, äänestävät EI. Puheenjohtaja päätti äänestyksen. Äänet jakautuivat seuraavasti: 7 JAA-ääntä (Salonen, Kelkka, Valtanen, Liljequist, Snellman, Jäppinen P., Frimodig) 4 EI-ääntä (Polkko, Jäppinen S., Karkinen, Kaurila), jolloin pohjaehdotus voitti. Ronja Karkinen teki seuraavan muutosesityksen: Ympäristöyksikkö on todennut lausunnossaan: \"AP-korttelialueelta 2175 poistetaan tontit, joiden alueella on kesällä 2017 tehty luvaton hakkuu sen jälkeen, kun liito-oravaselvityksen tekijä oli tehnyt ko. hakkuun viereisellä alueella havaintoja liito-oravan papanoista sekä kolopuista. Kaavaselostuksessa esitetään, että vuonna 2017 tehty taimikon harvennushakkuu ulottui liitooravalle soveltuvalle alueelle. On syytä tuoda esiin, että hakkuita tehtiin myös liito-oravalle tyypillisessä elinympäristössä, varttuneessa kuusikossa, jolta poistettiin mm. isoja kuusia sekä pienempiä puita myös reunalla olevien kolo- ja papanahaapojen vierestä. Liitooravaselvityksen tekijä oli sisällyttämässä kuusikkoa liito-oravan elinpiirirajaukseen, kunnes huomasi kuusikkoa harvennetun lepakkoselvitystä tehdessään. Hakkuilla on heikennetty liitooravan elinmahdollisuuksia luontoselvityksessä liito-oravan ydinalueeksi rajatun alueen vieressä alueella, joka oli tyypillistä liito-oravan käyttämää metsää. Alue on syytä ennallistaa liitooravalle tyypilliseksi elinympäristöksi.\" Varmistetaan, että 2175 tontilla ei ole rakennusoikeutta alueella, jossa hakkuita on tällä tavalla tehty. Sanni Jäppinen kannatti esitystä. Puheenjohtaja totesi, että esitystä ei kannateta yksimielisesti, joten asiasta tulee äänestää. Äänestys: Puheenjohtaja käynnisti äänestyksen. Ne, jotka kannattavat pohjaehdotusta, äänestävät JAA ja ne, jotka kannattavat Ronja Karkisen muutosesitystä, äänestävät EI. Puheenjohtaja päätti äänestyksen. Äänet jakautuivat seuraavasti: 8 JAA-ääntä (Polkko, Snellman, Kaurila, Valtanen, Kelkka, Frimodig, Salonen, Liljequist) 2 EI-ääntä (Karkinen, Jäppinen S.) 1 tyhjä (Jäppinen P.), jolloin pohjaehdotus voitti",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti: 1: esittää kunnanhallitukselle, että kunnanhallitus: 1.1.hyväksyy Mustikkarinteen asemakaavaehdotuksesta saatuun palautteeseen laaditut perustellut kannanotot (ns. kaavoittajan vastineet) tämän asian liitteen mukaisesti, 1.2 hyväksyy Mustikkarinteen asemakaavan (piir. 3469) ja siihen liittyvät asiakirjat MRL 52 §:n mukaisesti sekä esittää ne edelleen kunnanvaltuuston hyväksyttäväksi, 2. todeta, että ennen Mustikkarinteen asemakaavan hyväksymistä kunnanvaltuustossa kunnan ja määrättyjen maanomistajien kesken on oltava lainvoimainen maankäyttösopimus. 3. valtuuttaa valmistelijan tekemään teknisiä korjauksia kaavamateriaaliin. 4. että asemakaavan VL/eko/yk -alueella sijaitsevan kävelyn ja pyöräilyn yhteyden (Lillukkapolku) lähialueen maankäyttö muutetaan niin, että kyseinen yhteys sijoittuu kunnan omistukseen tulevalle alueelle. Sama koskee P-korttelialueen pohjoispuolista VP/yk -aluetta. 5. että, Mustikkarinteen kaava-alueella olevia -yk alueita ei saa aidata, Tämä tulee huomioida myös tehtävissä maankäyttösopimuksissa. 6. evästää kunnanhallitusta ottamaan huomioon kaavan alkuperäiset tavoitteet maankäyttösopimusten laadinnassa",
+        "selostus": "Taustaa Mustikkarinteen asemakaava sisältyy Kirkkonummen kunnanvaltuuston hyväksymään kaavoitusohjelmaan 2021-2025. Kaavahanke kuulutettiin vireille 11.1.2019, ja sen osallistumis- ja arviointisuunnitelma hyväksyttiin yhdyskuntatekniikan lautakunnan käsittelyssä 15.11.2018 (146 §). Kaavaehdotus Kunnanhallitus päätti kokouksessaan 29.3.2021 (§ 110) asettaa Mustikkarinteen asemakaavaehdotuksen nähtäville MRL 65 §:n ja MRA 27 §:n mukaisesti. Ehdotus oli julkisesti nähtävillä 26.4. - 28.5.2021, ja siitä saatiin yhteensä 6 muistutusta sekä 17 lausuntoa. Kaavaehdotuksesta pidettiin virtuaalinen asukastilaisuus 11.5.2021. Lisäksi asukkailla on ollut mahdollisuus tavata kaavoittajaa kaavoittajan vastaanotolla. Saadun palautteen mukaisesti kaavakartalle tehtiin muutoksia kaavaehdotukseen (piir. 3469). Lausuntoihin laaditut ns. kaavoittajan perustellut vastineet ovat osa kaava-aineistoa. Hyväksymiskäsittelyyn valmisteltu asemakaava Nähtävänä olleesta asemakaavaehdotuksesta saatu palaute liittyi pitkälti kiinteistökohtaiseen rakennuspaikkojen määrään ja rakennusoikeuteen. Lopullisessa kaavaehdotuksessa on tehty korjauksia maanomistajien palautteen perusteella. Viranomaispalautteessa on mm. tuotu esille kaavan vaikutukset ilmastoon, liikenteeseen ja saavutettavuuteen. Kriittisinä asioina on pidetty myös luonnonympäristön säilyttäminen mm. lahokaviosammaleen ja liito-oravan kannalta. Maankäyttösopimukset Ennen asemakaavan hyväksymistä kunnanvaltuustossa on kunnan ja tarvittavien maanomistajatahojen kesken oltava allekirjoitettu maankäyttösopimus. Asiakirjat Kaavakartta kaavamääräyksineen (piir. 3469) Kaavaselostus liitteineen Kaavoittajan perustellut kannanotot (ns. kaavoittajan vastineet) tarkistetusta asemakaavaehdotuksesta saatuihin lausuntoihin"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "3469 Mustikkarinne tarkistettu ehdotus 25052023_3469 Asemakaava 2100x594",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231471-3-93844.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "liitteet 1_14",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231471-3-93843.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Vastineet_ehdotus",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231471-3-93842.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "3469 Mustikkarinne tarkistettu ehdotus 30052023_3469 Asemakaava 2100x594 r",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231471-3-93847.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Bemötanden_förslag",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231471-3-93845.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "bilagor_1_14",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231471-3-93846.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Blåbärsbrinkens_detaljplanebeskrivning_230606",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231471-3-94080.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Mustikkarinne_asemakaavaselostus_230530",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231471-3-94079.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20231471-4",
+      "ordinal": "4",
+      "title": "Kirkkonummen kunnan kaavoituskatsaus 2022-2023",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231471-4",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti: 1 hyväksyä kaavoituskatsauksen 2 julkaista kaavoituskatsauksen kunnan kotisivuilla sekä monisteena, joka pidetään saatavana kunnantalon palvelupisteessä ja kirjastoissa. 3. valtuuttaa esittelijän tekemään teknisiä korjauksia aineistoon",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko Kaavoituskatsaus 2023 Kaavoituskatsaus 2023_RU Kirkkonummen kunnan kaavoituskatsaus 2022-2023 Yhdyskuntatekniikan lautakunta 15.06.2023 § 71 472/10.00.00/2023",
+        "valmistelija": "Kunnanarkkitehti Tero Luomajärvi etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa sijainen kunnanarkkitehti Tero Luomajärvi Yhdyskuntatekniikan lautakunta päättää 1 hyväksyä kaavoituskatsauksen 2 julkaista kaavoituskatsauksen kunnan kotisivuilla sekä monisteena, joka pidetään saatavana kunnantalon palvelupisteessä ja kirjastoissa",
+        "kasittely": "Lautakunta päätti yksimielisesti valtuuttaa esittelijän tekemään teknisiä korjauksia aineistoon",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti: 1 hyväksyä kaavoituskatsauksen 2 julkaista kaavoituskatsauksen kunnan kotisivuilla sekä monisteena, joka pidetään saatavana kunnantalon palvelupisteessä ja kirjastoissa. 3. valtuuttaa esittelijän tekemään teknisiä korjauksia aineistoon",
+        "selostus": "Perustelut Maankäyttö- ja rakennuslain pykälän 7 mukaan kunnan on vähintään kerran vuodessa laadittava katsaus kunnassa ja Uudenmaan maakunnassa vireillä olevista ja lähiaikoina vireille tulevista kaava-asioista. Kaavoituskatsauksessa esitellään kaavahankkeet lyhyesti sekä kerrotaan näiden käsittelyvaiheista. Katsauksen tiedot ovat luonteeltaan toteavia. Siinä ei linjata uusia asioita. Katsauksessa on myös tietoa liikennehankkeista. Lautakunnan evästys (ytl 16.6.2022, § 65) Käsitellessään kaavoituskatsausta 2021-2022 yhdyskuntatekniikan lautakunta päätti evästää katsauksen laatimista seuraavasti: lautakunta evästää tulevia kaavoituskatsauksia mahdollisuuksien mukaan tehtävän siten, että niissä esitetään hankkeen päätöksentekovaihe ja eteneminen lyhyesti ja ytimekkäästi. Katsauksien pitäisi pysyä sekä lyhyinä että riittävän informatiivisina, kuitenkin rasittamatta kunnan resursseja liikaa. Nyt käsittelyssä olevasta katsauksesta ilmenee vireillä olevien kaavahankkeiden suunnitteluvaiheet vuonna 2022 sekä arvio hankkeen etenemisestä vuonna 2023. Siitä pidemmälle ei ole perusteltua arvioida hankkeen etenemistä. Tämä siksi, etteivät hankkeet pääsääntöisesti etene esimerkiksi osallistumis- ja arviointisuunnitelmien tavoiteaikataulujen mukaisesti. Edellisen lisäksi katsausta on täydennetty kaavahankkeen suunnitteluprosessin kaaviolla. Asiakirjat Kirkkonummen kunnan kaavoituskatsaus 2022-2023"
+      },
+      "lang": "fi",
+      "text_encoding": "repaired",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kaavoituskatsaus 2023",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231471-4-93760.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kaavoituskatsaus 2023_RU",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231471-4-93761.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20231471-5",
+      "ordinal": "5",
+      "title": "Sepänkannas III -asemakaava-alueen tontin myyminen, kiinteistö 257-481-1-173, K4547T3",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231471-5",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko Kauppakirjan karttaliite Sepänkannas III -asemakaava-alueen tontin myyminen, kiinteistö 257-481-1-173, K4547T3 Yhdyskuntatekniikan lautakunta 15.06.2023 § 72 477/10.00.02/2019",
+        "valmistelija": "Maankäyttöinsinööri Aija Aunio etunimi.sukunimi@kirkkonummi.fi, puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa sijainen kunnanarkkitehti Tero Luomajärvi Yhdyskuntatekniikan lautakunta 1 päättää, että Kirkkonummen kunta myy Sepänkannas III -asemakaava-alueen tontin K4547T3, kiinteistötunnukseltaan 257-481-1-173, vuokraoikeuden haltijalle kauppahintaan 77 000 euroa. Kauppakirja on allekirjoitettava kolmen kuukauden kuluessa myyntipäätöksen lainvoimaisuudesta. 2 päättää oikeuttaa ja valtuuttaa yhdyskuntatekniikan johtajan laatimaan ja allekirjoittamaan kauppakirjan",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaisesti",
+        "tiedoksi": "ostaja",
+        "selostus": "Sepänkannas III asemakaava-alueen omakotitonttien myynti- ja vuokrausperusteet sekä myynti- ja vuokraushinnat on vahvistettu kunnanvaltuustossa 14.4.2014 (§ 33). Sepänkannaksella osoitteessa Kuokkatie 16 sijaitsevan tontin nykyinen vuokraoikeuden haltija haluaa ostaa tontin. Maanvuokrasopimuksessa vuokralaisella on tontin osto-optio käypään arvoon. Tontin pinta-ala on 808 m 2 ja rakennusoikeus 200 k-m 2 + 30 k-m 2 . Myyntihinta perustuu em. valtuuston vahvistamiin vuokrausperusteisiin. Kyseistä hinnoittelua on noudatettu kaikissa alueella tehdyissä tonttikaupoissa. Esityslistan oheismateriaali: myytävä tontti kartalla: https://kirkkonummi.karttatiimi.fi/link/3BsMan ostajan yhteystiedot"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kauppakirjan karttaliite",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231471-5-93732.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20231471-6",
+      "ordinal": "6",
+      "title": "Yhdyskuntatekniikan lautakunnan päätösvallan delegointi jätevesiverkostojen jätevesiautojen, imuautojen ja viemärikuvausten töiden hankinnassa",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231471-6",
+      "decision": "hankinnasta tuodaan yhdyskuntatekniikan lautakunnalle tiedoksi",
+      "votes": [],
+      "sections": {
+        "valmistelija": "hallintosihteeri Suvi Wikström etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa sijainen kunnanarkkitehti Tero Luomajärvi Yhdyskuntatekniikan lautakunta päättää: 1. delegoida oman toimivaltansa osalta jätevesiverkostojen jätevesiautojen, imuautojen ja viemärikuvausten töiden hankinnan vuosille 2023-2024 ja option käytöstä vuodelle 2025, Kirkkonummen Vesi -liikelaitoksen johtokunnalle. 2. tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "paatos": "hankinnasta tuodaan yhdyskuntatekniikan lautakunnalle tiedoksi",
+        "selostus": "Kirkkonummen kunnan hallintosäännön 89 §:n mukaisesti kunnanvaltuusto vahvistaa toimielinten ja viranhaltijoiden hankintavaltuudet. Kunnanvaltuusto on 16.12.2019 § 127 vahvistanut toimielinten ja viranhaltijoiden hankintavaltuudet toistaiseksi voimassaolevana. Kirkkonummen Vesi käyttää imuautoja mm. viemäriverkoston kunnossapitoon ja jätevesipumppaamoiden tilapäisiin ohituksiin. Kirkkonummen Vesi on näiden palvelujen suurin käyttäjä Kirkkonummen kunnan organisaatiosta, joten hankkeen kilpailutus ja vetovastuu on siitä syystä Vedellä. Viemärikuvaukset ovat osa verkoston kunnossapitoa. Normaalitoimenpiteenä viemärit pestään ja tulpataan ensin, jonka jälkeen viemärit kuvataan. Tästä syystä viemäreiden kuvaukset kilpailutetaan osana imuautopalveluita. Hankinnan laskennallinen kokonaisarvo on n. 750 000 €. Yhdyskuntatekniikan palvelualueen kunnallistekniikka- palvelujen ja toimitilapalveluiden osuus on hankinnan kokonaisarvosta n. 20 %. (10 % kunnallistekniikkapalvelut ja 10 % toimitilapalvelut). Yhdyskuntatekniikan lautakunnalle esitetään, että lautakunta delegoi omalta osaltaan Kirkkonummen Vesi -liikelaitoksen johtokunnalle jätevesiverkostojen jätevesiautojen, imuautojen ja viemärikuvausten töiden hankinnan. Yhdyskuntatekniikan lautakunta säilyttää itsellään em. urakkoihin suorittamiseen liittyvien mahdollisten lautakunnan alaisten viranhaltijapäätösten valvonnan"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "paatos_labels": 2,
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231471-7",
+      "ordinal": "7",
+      "title": "Vapaapalokuntakiinteistöjen korjausavustukset 2023",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231471-7",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "hallintosihteeri Suvi Wikström etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa sijainen kunnanarkkitehti Tero Luomajärvi Yhdyskuntatekniikan lautakunta päättää 1 myöntää avustusta vapaapalokuntien rakennusten peruskorjauksiin vuonna 2023 kullekin Kirkkonummen vapaapalokunnalle (Bobäck FBK, Evitskog FBK, Kylmälä FBK, Kyrkslätt FBK, Långvik FBK, Navala FBK, Oitbacka FBK-VPK, Veikkola VPK-FBK) hakemuksen mukaisesti 3 750 €, yhteensä 30 000 € 2 että avustukset maksetaan toteutuneiden kustannusten mukaan tilitysten perusteella 3 että tilitykset tulee toimittaa kuntaan 21.12.2023 mennessä 4 tarkastaa pöytäkirjan tämän kokousasian osalta tässä kokouksessa",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaisesti",
+        "selostus": "Yhdyskuntatekniikan lautakunnan vuoden 2023 käyttösuunnitelmassa on 30 000 € suuruinen määräraha vapaapalokuntien rakennusten peruskorjauksiin. Vapaapalokuntien kattojärjestö Kyrkslätts Brandkårer - Kirkkonummen Palokunnat rf on 31.5.2023 jättänyt kuntaan Kirkkonummen vapaapalokuntien yhteisen avustushakemuksen vuodelle 2023, jossa esitetään, että vuotuinen palokuntakiinteistöjen korjausmääräraha jaetaan tasan jäsenpalokuntien kesken. Kirkkonummella toimii kahdeksan vapaapalokuntaa: Bobäck FBK, Evitskog FBK, Kylmälä FBK, Kyrkslätt FBK, Långvik FBK, Navala FBK, Oitbacka FBK-VPK, Veikkola VPK-FBK. Avustusten maksatus tapahtuu toteutuneiden kustannusten mukaan, tilitysten perusteella. Vuoden 2023 osalta tilitykset tulee toimittaa kunnan kirjaamoon viimeistään 21.12.2023. Tilityksestä tulee käydä ilmi vapaapalokunnan nimi, osoitetiedot, yhdistyksen rekisterinumero tai Y-tunnus, pankkiyhteystiedot, yhteyshenkilö sekä puhelinnumero",
+        "liitteet": "- Avustushakemus liitteineen, Kirkkonummen palokunnat"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231471-8",
+      "ordinal": "8",
+      "title": "Juhlakallion ja Tolsanmäen katualueen haltuunottojen kasvillisuuskorvaukset, toimitusnumero 2023-712244",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231471-8",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko Koonti_haltuunotto 11.5 Juhlakallion ja Tolsanmäen katualueen haltuunottojen kasvillisuuskorvaukset, toimitusnumero 2023-712244 Yhdyskuntatekniikan lautakunta 15.06.2023 § 75 296/10.00.01/2023",
+        "valmistelija": "Maankäyttöasiantuntija Erika Märkälä etunimi.sukunimi@kirkkonummi.fi, puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa sijainen kunnanarkkitehti Tero Luomajärvi Yhdyskuntatekniikan lautakunta päättää 1 maksaa maanmittaustoimituksen TN:o 2023-712244 kasvillisuuskorvaukset , pääoma yhteensä 48 895,64 euroa, haltuunotetun katualueen asianosaisille omistajille ja haltijoille päätöksen liitteenä olevien korvauslaskelmien mukaisesti 2 että korvaussummaan lisätään lunastuslain (laki kiinteän omaisuuden ja erityisten oikeuksien lunastuksesta, 603/1977) 95.1 § mukainen kuuden prosentin korko haltuunottohetkestä maksupäivään 3 että päätös voidaan panna täytäntöön odottamatta sen lainvoimaisuutta 4 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaisesti",
+        "tiedoksi": "erittely kiinteistökohtaisesti korvauksen saajalle, taloushallinto, Maanmittauslaitos",
+        "selostus": "Maankäyttö- ja rakennuslain 95 §:n mukaan kunta voi ottaa haltuunsa katualueen, kun sitä ryhdytään rakentamaan tai muutoin tarvitaan käytettäväksi ja alueen erottamista koskeva kiinteistötoimitus on pantu vireille. Kunta on hakenut 13.4.2023 kiinteistötoimitusta Maanmittauslaitokselta. Toimitus on tullut vireille 14.4.2023 toimitusnumerolla 2023-712244. Haltuunotot tehtiin 11.5.2023. Katualueen haltuunotot käsittävät Tohtorinaukion, Vanhan Sairaalantien, Vanhan Heikkiläntien, Räätäli Bäckströmin kujan, Bisarintien, Ljunghedanpolun, Kuutamokujan, Åminnentien, Viulunrakentajantien ja Viulunrakentajankujan. Maankäyttö- ja rakennuslain 108 §:n mukaan kunnalle siirtyvällä alueella olevat rakennukset, puut, istutukset ja laitteet on kunnan korvattava maanomistajalle. Kunta maksaa kasvillisuuskorvaukset asianosaisille kiinteistön omistajille tai haltijoille haltuunottokatselmuksen jälkeen. Asianosaisten mahdolliset muut vaatimukset käsitellään Maanmittauslaitoksen pitämässä maankäyttö- ja rakennuslain mukaisessa lunastustoimituksessa. Kasvillisuuskorvausten määrittämiseen on käytetty Maanmittauslaitoksen lunastustoimituksia varten laadittuja ajantasaisia korvaussuosituksia, ohje \"Arviointi- ja korvaustiedot 2022\". Päätöksen liitteenä on korvauslaskelma. Kiinteistökohtaiset erittelyt lähetetään tiedoksi asianosaisille kiinteistön omistajille ja haltijoille. Päätökseen tyytymätön voi hakea siihen muutosta vireillä olevassa maanmittaustoimituksessa TN:o 2023-712244. Päätöksen liitteet: . korvauslaskelmat, haltuunotto 11.5.2023 (ei julkaistava) Päätöksen oheismateriaali: . koonti korvauslaskelmista"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Koonti_haltuunotto 11.5",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231471-8-93681.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20231471-9",
+      "ordinal": "9",
+      "title": "Juhlakallion ja Tolsanmäen katualueen haltuunottojen kasvillisuuskorvaukset, toimitusnumero 2023-712249",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231471-9",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko Koonti_haltuunotto 12.5 Juhlakallion ja Tolsanmäen katualueen haltuunottojen kasvillisuuskorvaukset, toimitusnumero 2023-712249 Yhdyskuntatekniikan lautakunta 15.06.2023 § 76 297/10.00.01/2023",
+        "valmistelija": "Maankäyttöasiantuntija Erika Märkälä etunimi.sukunimi@kirkkonummi.fi, puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa sijainen kunnanarkkitehti Tero Luomajärvi Yhdyskuntatekniikan lautakunta päättää 1 maksaa maanmittaustoimituksen TN:o 2023-712249 kasvillisuuskorvaukset , pääoma yhteensä 31 144,14 euroa, haltuunotetun katualueen asianosaisille omistajille ja haltijoille päätöksen liitteenä olevien korvauslaskelmien mukaisesti 2 että korvaussummaan lisätään lunastuslain (laki kiinteän omaisuuden ja erityisten oikeuksien lunastuksesta, 603/1977) 95.1 § mukainen kuuden prosentin korko haltuunottohetkestä maksupäivään 3 että päätös voidaan panna täytäntöön odottamatta sen lainvoimaisuutta 4 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaisesti",
+        "tiedoksi": "erittely kiinteistökohtaisesti korvauksen saajalle, taloushallinto, Maanmittauslaitos",
+        "selostus": "Maankäyttö- ja rakennuslain 95 §:n mukaan kunta voi ottaa haltuunsa katualueen, kun sitä ryhdytään rakentamaan tai muutoin tarvitaan käytettäväksi ja alueen erottamista koskeva kiinteistötoimitus on pantu vireille. Kunta on hakenut 13.4.2023 kiinteistötoimitusta Maanmittauslaitokselta. Toimitus on tullut vireille 14.4.2023 toimitusnumerolla 2023-712249. Haltuunotot tehtiin 12.5.2023. Katualueen haltuunotot käsittävät Vanhan Heikkiläntien, Axbodanpolun, Axbodantien, Edjanmäen, Tolsanmäen, Tolsankierroksen ja Sammalkallion. Maankäyttö- ja rakennuslain 108 §:n mukaan kunnalle siirtyvällä alueella olevat rakennukset, puut, istutukset ja laitteet on kunnan korvattava maanomistajalle. Kunta maksaa kasvillisuuskorvaukset asianosaisille kiinteistön omistajille tai haltijoille haltuunottokatselmuksen jälkeen. Asianosaisten mahdolliset muut vaatimukset käsitellään Maanmittauslaitoksen pitämässä maankäyttö- ja rakennuslain mukaisessa lunastustoimituksessa. Kasvillisuuskorvausten määrittämiseen on käytetty Maanmittauslaitoksen lunastustoimituksia varten laadittuja ajantasaisia korvaussuosituksia, ohje \"Arviointi- ja korvaustiedot 2022\". Päätöksen liitteenä on korvauslaskelma. Kiinteistökohtaiset erittelyt lähetetään tiedoksi asianosaisille kiinteistön omistajille ja haltijoille. Päätökseen tyytymätön voi hakea siihen muutosta vireillä olevassa maanmittaustoimituksessa TN:o 2023-712249. Päätöksen liitteet: . korvauslaskelmat, haltuunotto 12.5.2023 (ei julkaistava) Päätöksen oheismateriaali: . koonti korvauslaskelmista"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Koonti_haltuunotto 12.5",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231471-9-93689.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20231471-10",
+      "ordinal": "10",
+      "title": "Käyttöoikeus lampaiden laidunalueelle kiinteistöllä Nedergård 257-470-2-136",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231471-10",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti: 1 että Kirkkonummen kunta antaa Reetta Kandolinille, y-tunnus 3264080-3, käyttöoikeuden lampaiden laidunnukseen liitteenä olevan käyttöoikeussopimuksen ehdoin kiinteistöön Nedergård 257-470-2-136 kuuluvaan noin 2,9 hehtaarin suuruiseen alueeseen määräaikaisella käyttöoikeussopimuksella, joka päättyy 30.4.2029. Kunta perii käyttöoikeuden haltijalta kertakorvauksena 100 euroa. Käyttöoikeussopimuksen tarkoituksena on turvata luonnon monimuotoisuus alueelle laaditun hoito- ja käyttösuunnitelman mukaisesti. 2 oikeuttaa ja valtuuttaa yhdyskuntatekniikan johtajan tekemään sopimukseen vähäisiä tarkistuksia ja allekirjoittamaan sopimuksen. 3 että päätös voidaan panna täytäntöön odottamatta sen lainvoimaisuutta. (kuntalaki 143 §) 4 evästää, että mahdollisuuksien mukaan: 4.1. käyttöoikeuden haltija on velvollinen käyttöoikeuden päättyessä viemään pois omaisuutensa alueelta. Ellei tämä toimenpide ole suoritettu 6 kuukauden sisällä sopimuksen päättymisestä, Kirkkonummen kunnalla on oikeus poistaa rakenteet käyttöoikeuden haltijan kustannuksella. 4.2. sopimusasiakirjoihin lisätään myös kunnan puolelta irtisanomisaika",
+      "votes": [],
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Yleiskartta_Porkkala_Sunds&Lillkanskog Käyttöoikeus lampaiden laidunalueelle kiinteistöllä Nedergård 257-470-2-136 Yhdyskuntatekniikan lautakunta 15.06.2023 § 77 493/10.00.02/2023",
+        "valmistelija": "Maankäyttöasiantuntija Erika Märkälä etunimi.sukunimi@kirkkonummi.fi, puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa sijainen kunnanarkkitehti Tero Luomajärvi Yhdyskuntatekniikan lautakunta 1 päättää, että Kirkkonummen kunta antaa Reetta Kandolinille, y-tunnus 3264080-3, käyttöoikeuden lampaiden laidunnukseen liitteenä olevan käyttöoikeussopimuksen ehdoin kiinteistöön Nedergård 257-470-2-136 kuuluvaan noin 2,9 hehtaarin suuruiseen alueeseen määräaikaisella käyttöoikeussopimuksella, joka päättyy 30.4.2029. Kunta perii käyttöoikeuden haltijalta kertakorvauksena 100 euroa. Käyttöoikeussopimuksen tarkoituksena on turvata luonnon monimuotoisuus alueelle laaditun hoito- ja käyttösuunnitelman mukaisesti. 2 päättää oikeuttaa ja valtuuttaa yhdyskuntatekniikan johtajan tekemään sopimukseen vähäisiä tarkistuksia ja allekirjoittamaan sopimuksen. 3 päättää, että päätös voidaan panna täytäntöön odottamatta sen lainvoimaisuutta. (kuntalaki 143 §)",
+        "kasittely": "Käsittelyn aikana Kim Liljequist teki seuraavan evästysehdotuksen: Lautakunta evästää mahdollisuuksien mukaan, että - käyttöoikeuden haltija on velvollinen käyttöoikeuden päättyessä viemään pois omaisuutensa alueelta. Ellei tämä toimenpide ole suoritettu 6 kuukauden sisällä sopimuksen päättymisestä, Kirkkonummen kunnalla on oikeus poistaa rakenteet käyttöoikeuden haltijan kustannuksella. - sopimusasiakirjoihin lisätään myös kunnan puolelta irtisanomisaika. Puheenjohtaja totesi, että evästystä kannatettiin yksimielisesti",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti: 1 että Kirkkonummen kunta antaa Reetta Kandolinille, y-tunnus 3264080-3, käyttöoikeuden lampaiden laidunnukseen liitteenä olevan käyttöoikeussopimuksen ehdoin kiinteistöön Nedergård 257-470-2-136 kuuluvaan noin 2,9 hehtaarin suuruiseen alueeseen määräaikaisella käyttöoikeussopimuksella, joka päättyy 30.4.2029. Kunta perii käyttöoikeuden haltijalta kertakorvauksena 100 euroa. Käyttöoikeussopimuksen tarkoituksena on turvata luonnon monimuotoisuus alueelle laaditun hoito- ja käyttösuunnitelman mukaisesti. 2 oikeuttaa ja valtuuttaa yhdyskuntatekniikan johtajan tekemään sopimukseen vähäisiä tarkistuksia ja allekirjoittamaan sopimuksen. 3 että päätös voidaan panna täytäntöön odottamatta sen lainvoimaisuutta. (kuntalaki 143 §) 4 evästää, että mahdollisuuksien mukaan: 4.1. käyttöoikeuden haltija on velvollinen käyttöoikeuden päättyessä viemään pois omaisuutensa alueelta. Ellei tämä toimenpide ole suoritettu 6 kuukauden sisällä sopimuksen päättymisestä, Kirkkonummen kunnalla on oikeus poistaa rakenteet käyttöoikeuden haltijan kustannuksella. 4.2. sopimusasiakirjoihin lisätään myös kunnan puolelta irtisanomisaika",
+        "tiedoksi": "Reetta Kandolin",
+        "selostus": "Tonttipalvelut on neuvotellut Reetta Kandolinin, y-tunnus 3264080-3, kanssa noin 2,9 hehtaarin suuruista lampaiden laidunaluetta varten tarvittavan määräaikaisen käyttöoikeussopimuksen kiinteistölle Nedergård 257-470-2-136. Käyttöoikeuden haltija vastaa mm. laidunalueelle tarvittavan aitalinjan raivauksesta ja aitaamisesta tai aidan kunnostamisesta. Päätöksen liitteet: käyttöoikeussopimus Päätöksen oheismateriaali: yleiskartta"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Yleiskartta_Porkkala_Sunds&Lillkanskog",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231471-10-93652.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Kim Liljequist",
+          "kind": "evastysehdotus",
+          "text": "Lautakunta evästää mahdollisuuksien mukaan, että - käyttöoikeuden haltija on velvollinen käyttöoikeuden päättyessä viemään pois omaisuutensa alueelta. Ellei tämä toimenpide ole suoritettu 6 kuukauden sisällä sopimuksen päättymisestä, Kirkkonummen kunnalla on oikeus poistaa rakenteet käyttöoikeuden haltijan kustannuksella. - sopimusasiakirjoihin lisätään myös kunnan puolelta irtisanomisaika",
+          "source": "introduction",
+          "party": "rkp"
+        }
+      ]
+    },
+    {
+      "id": "20231471-11",
+      "ordinal": "11",
+      "title": "Käyttöoikeus lampaiden laidunalueelle kiinteistöllä Wohls 257-490-1-142",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231471-11",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti: 1 että Kirkkonummen kunta antaa Reetta Kandolinille, y-tunnus 3264080-3, käyttöoikeuden lampaiden laidunnukseen liitteenä olevan käyttöoikeussopimuksen ehdoin kiinteistöön Wohls 257-490-1-142 kuuluvaan noin 8,2 hehtaarin suuruiseen alueeseen määräaikaisella käyttöoikeussopimuksella, joka päättyy 30.4.2029. Kunta perii käyttöoikeuden haltijalta kertakorvauksena 100 euroa. Käyttöoikeussopimuksen tarkoituksena on turvata luonnon monimuotoisuus alueelle laaditun hoito- ja käyttösuunnitelman mukaisesti. 2 oikeuttaa ja valtuuttaa yhdyskuntatekniikan johtajan tekemään sopimukseen vähäisiä tarkistuksia ja allekirjoittamaan sopimuksen. 3 että päätös voidaan panna täytäntöön odottamatta sen lainvoimaisuutta. (kuntalaki 143 §) 4 evästää, että mahdollisuuksien mukaan: 4.1. käyttöoikeuden haltija on velvollinen käyttöoikeuden päättyessä viemään pois omaisuutensa alueelta. Ellei tämä toimenpide ole suoritettu 6 kuukauden sisällä sopimuksen päättymisestä, Kirkkonummen kunnalla on oikeus poistaa rakenteet käyttöoikeuden haltijan kustannuksella. 4.2. sopimusasiakirjoihin lisätään myös kunnan puolelta irtisanomisaika",
+      "votes": [],
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Yleiskartta_Vols_Vrångnäsudden Käyttöoikeus lampaiden laidunalueelle kiinteistöllä Wohls 257-490-1-142 Yhdyskuntatekniikan lautakunta 15.06.2023 § 78 492/10.00.02/2023",
+        "valmistelija": "Maankäyttöasiantuntija Erika Märkälä etunimi.sukunimi@kirkkonummi.fi, puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa sijainen kunnanarkkitehti Tero Luomajärvi Yhdyskuntatekniikan lautakunta 1 päättää, että Kirkkonummen kunta antaa Reetta Kandolinille, y-tunnus 3264080-3, käyttöoikeuden lampaiden laidunnukseen liitteenä olevan käyttöoikeussopimuksen ehdoin kiinteistöön Wohls 257-490-1-142 kuuluvaan noin 8,2 hehtaarin suuruiseen alueeseen määräaikaisella käyttöoikeussopimuksella, joka päättyy 30.4.2029. Kunta perii käyttöoikeuden haltijalta kertakorvauksena 100 euroa. Käyttöoikeussopimuksen tarkoituksena on turvata luonnon monimuotoisuus alueelle laaditun hoito- ja käyttösuunnitelman mukaisesti. 2 päättää oikeuttaa ja valtuuttaa yhdyskuntatekniikan johtajan tekemään sopimukseen vähäisiä tarkistuksia ja allekirjoittamaan sopimuksen. 3 päättää, että päätös voidaan panna täytäntöön odottamatta sen lainvoimaisuutta. (kuntalaki 143 §)",
+        "kasittely": "Käsittelyn aikana Kim Liljequist teki seuraavan evästysehdotuksen: Lautakunta evästää mahdollisuuksien mukaan, että - käyttöoikeuden haltija on velvollinen käyttöoikeuden päättyessä viemään pois omaisuutensa alueelta. Ellei tämä toimenpide ole suoritettu 6 kuukauden sisällä sopimuksen päättymisestä, Kirkkonummen kunnalla on oikeus poistaa rakenteet käyttöoikeuden haltijan kustannuksella. - sopimusasiakirjoihin lisätään myös kunnan puolelta irtisanomisaika. Puheenjohtaja totesi, että evästystä kannatettiin yksimielisesti",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti: 1 että Kirkkonummen kunta antaa Reetta Kandolinille, y-tunnus 3264080-3, käyttöoikeuden lampaiden laidunnukseen liitteenä olevan käyttöoikeussopimuksen ehdoin kiinteistöön Wohls 257-490-1-142 kuuluvaan noin 8,2 hehtaarin suuruiseen alueeseen määräaikaisella käyttöoikeussopimuksella, joka päättyy 30.4.2029. Kunta perii käyttöoikeuden haltijalta kertakorvauksena 100 euroa. Käyttöoikeussopimuksen tarkoituksena on turvata luonnon monimuotoisuus alueelle laaditun hoito- ja käyttösuunnitelman mukaisesti. 2 oikeuttaa ja valtuuttaa yhdyskuntatekniikan johtajan tekemään sopimukseen vähäisiä tarkistuksia ja allekirjoittamaan sopimuksen. 3 että päätös voidaan panna täytäntöön odottamatta sen lainvoimaisuutta. (kuntalaki 143 §) 4 evästää, että mahdollisuuksien mukaan: 4.1. käyttöoikeuden haltija on velvollinen käyttöoikeuden päättyessä viemään pois omaisuutensa alueelta. Ellei tämä toimenpide ole suoritettu 6 kuukauden sisällä sopimuksen päättymisestä, Kirkkonummen kunnalla on oikeus poistaa rakenteet käyttöoikeuden haltijan kustannuksella. 4.2. sopimusasiakirjoihin lisätään myös kunnan puolelta irtisanomisaika",
+        "tiedoksi": "Reetta Kandolin",
+        "selostus": "Tonttipalvelut on neuvotellut Reetta Kandolinin, y-tunnus 3264080-3, kanssa noin 8,2 hehtaarin suuruista lampaiden laidunaluetta varten tarvittavan käyttöoikeussopimuksen kiinteistölle Wolhs 257-490-1-142. Käyttöoikeuden haltija vastaa mm. laidunalueelle tarvittavan aitalinjan raivauksesta ja aitaamisesta tai aidan kunnostamisesta. Päätöksen liitteet: käyttöoikeussopimus Päätöksen oheismateriaali: yleiskartta"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Yleiskartta_Vols_Vrångnäsudden",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231471-11-93650.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Kim Liljequist",
+          "kind": "evastysehdotus",
+          "text": "Lautakunta evästää mahdollisuuksien mukaan, että - käyttöoikeuden haltija on velvollinen käyttöoikeuden päättyessä viemään pois omaisuutensa alueelta. Ellei tämä toimenpide ole suoritettu 6 kuukauden sisällä sopimuksen päättymisestä, Kirkkonummen kunnalla on oikeus poistaa rakenteet käyttöoikeuden haltijan kustannuksella. - sopimusasiakirjoihin lisätään myös kunnan puolelta irtisanomisaika",
+          "source": "introduction",
+          "party": "rkp"
+        }
+      ]
+    },
+    {
+      "id": "20231471-12",
+      "ordinal": "12",
+      "title": "Käyttöoikeus lampaiden laidunalueelle kiinteistöillä Nedergård 257-470-2-136 ja Lillkanalen 257-470-1-107",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231471-12",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti: 1 että Kirkkonummen kunta antaa Reetta Kandolinille, y-tunnus 3264080-3, käyttöoikeuden lampaiden laidunnukseen liitteenä olevan käyttöoikeussopimuksen ehdoin kiinteistöihin Nedergård 257-470-2-136 ja Lillkanalen 257-470-1-107 kuuluvaan noin 4,5 hehtaarin suuruiseen alueeseen määräaikaisella käyttöoikeussopimuksella, joka päättyy 30.4.2029. Kunta perii käyttöoikeuden haltijalta kertakorvauksena 100 euroa. Käyttöoikeussopimuksen tarkoituksena on turvata luonnon monimuotoisuus alueelle laaditun hoito- ja käyttösuunnitelman mukaisesti. 2 oikeuttaa ja valtuuttaa yhdyskuntatekniikan johtajan tekemään sopimukseen vähäisiä tarkistuksia ja allekirjoittamaan sopimuksen. 3 että päätös voidaan panna täytäntöön odottamatta sen lainvoimaisuutta. (kuntalaki 143 §) 4 evästää, että mahdollisuuksien mukaan: 4.1. käyttöoikeuden haltija on velvollinen käyttöoikeuden päättyessä viemään pois omaisuutensa alueelta. Ellei tämä toimenpide ole suoritettu 6 kuukauden sisällä sopimuksen päättymisestä, Kirkkonummen kunnalla on oikeus poistaa rakenteet käyttöoikeuden haltijan kustannuksella. 4.2. sopimusasiakirjoihin lisätään myös kunnan puolelta irtisanomisaika",
+      "votes": [],
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Yleiskartta_Porkkala_Sunds&Lillkanskog Käyttöoikeus lampaiden laidunalueelle kiinteistöillä Nedergård 257-470-2-136 ja Lillkanalen 257-470-1-107 Yhdyskuntatekniikan lautakunta 15.06.2023 § 79 494/10.00.02/2023",
+        "valmistelija": "Maankäyttöasiantuntija Erika Märkälä etunimi.sukunimi@kirkkonummi.fi, puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa sijainen kunnanarkkitehti Tero Luomajärvi Yhdyskuntatekniikan lautakunta 1 päättää, että Kirkkonummen kunta antaa Reetta Kandolinille, y-tunnus 3264080-3, käyttöoikeuden lampaiden laidunnukseen liitteenä olevan käyttöoikeussopimuksen ehdoin kiinteistöihin Nedergård 257-470-2-136 ja Lillkanalen 257-470-1-107 kuuluvaan noin 4,5 hehtaarin suuruiseen alueeseen määräaikaisella käyttöoikeussopimuksella, joka päättyy 30.4.2029. Kunta perii käyttöoikeuden haltijalta kertakorvauksena 100 euroa. Käyttöoikeussopimuksen tarkoituksena on turvata luonnon monimuotoisuus alueelle laaditun hoito- ja käyttösuunnitelman mukaisesti. 2 päättää oikeuttaa ja valtuuttaa yhdyskuntatekniikan johtajan tekemään sopimukseen vähäisiä tarkistuksia ja allekirjoittamaan sopimuksen. 3 päättää, että päätös voidaan panna täytäntöön odottamatta sen lainvoimaisuutta. (kuntalaki 143 §)",
+        "kasittely": "Käsittelyn aikana Kim Liljequist teki seuraavan evästysehdotuksen: Lautakunta evästää mahdollisuuksien mukaan, että - käyttöoikeuden haltija on velvollinen käyttöoikeuden päättyessä viemään pois omaisuutensa alueelta. Ellei tämä toimenpide ole suoritettu 6 kuukauden sisällä sopimuksen päättymisestä, Kirkkonummen kunnalla on oikeus poistaa rakenteet käyttöoikeuden haltijan kustannuksella. - sopimusasiakirjoihin lisätään myös kunnan puolelta irtisanomisaika. Puheenjohtaja totesi, että evästystä kannatettiin yksimielisesti",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti: 1 että Kirkkonummen kunta antaa Reetta Kandolinille, y-tunnus 3264080-3, käyttöoikeuden lampaiden laidunnukseen liitteenä olevan käyttöoikeussopimuksen ehdoin kiinteistöihin Nedergård 257-470-2-136 ja Lillkanalen 257-470-1-107 kuuluvaan noin 4,5 hehtaarin suuruiseen alueeseen määräaikaisella käyttöoikeussopimuksella, joka päättyy 30.4.2029. Kunta perii käyttöoikeuden haltijalta kertakorvauksena 100 euroa. Käyttöoikeussopimuksen tarkoituksena on turvata luonnon monimuotoisuus alueelle laaditun hoito- ja käyttösuunnitelman mukaisesti. 2 oikeuttaa ja valtuuttaa yhdyskuntatekniikan johtajan tekemään sopimukseen vähäisiä tarkistuksia ja allekirjoittamaan sopimuksen. 3 että päätös voidaan panna täytäntöön odottamatta sen lainvoimaisuutta. (kuntalaki 143 §) 4 evästää, että mahdollisuuksien mukaan: 4.1. käyttöoikeuden haltija on velvollinen käyttöoikeuden päättyessä viemään pois omaisuutensa alueelta. Ellei tämä toimenpide ole suoritettu 6 kuukauden sisällä sopimuksen päättymisestä, Kirkkonummen kunnalla on oikeus poistaa rakenteet käyttöoikeuden haltijan kustannuksella. 4.2. sopimusasiakirjoihin lisätään myös kunnan puolelta irtisanomisaika",
+        "tiedoksi": "Reetta Kandolin",
+        "selostus": "Tonttipalvelut on neuvotellut Reetta Kandolinin, y-tunnus 3264080-3, kanssa noin 4,5 hehtaarin suuruista lampaiden laidunaluetta varten tarvittavan käyttöoikeussopimuksen kiinteistöille 257-470-2-136 Nedergård ja 257-470-1-107 Lillkanalen. Käyttöoikeuden haltija vastaa mm. laidunalueelle tarvittavan aitalinjan raivauksesta ja aitaamisesta tai aidan kunnostamisesta. Päätöksen liitteet: käyttöoikeussopimus Päätöksen oheismateriaali: yleiskartta"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Yleiskartta_Porkkala_Sunds&Lillkanskog",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231471-12-93658.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Kim Liljequist",
+          "kind": "evastysehdotus",
+          "text": "Lautakunta evästää mahdollisuuksien mukaan, että - käyttöoikeuden haltija on velvollinen käyttöoikeuden päättyessä viemään pois omaisuutensa alueelta. Ellei tämä toimenpide ole suoritettu 6 kuukauden sisällä sopimuksen päättymisestä, Kirkkonummen kunnalla on oikeus poistaa rakenteet käyttöoikeuden haltijan kustannuksella. - sopimusasiakirjoihin lisätään myös kunnan puolelta irtisanomisaika",
+          "source": "introduction",
+          "party": "rkp"
+        }
+      ]
+    },
+    {
+      "id": "20231471-13",
+      "ordinal": "13",
+      "title": "Ilmoitusasioita tiedoksi",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231471-13",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti merkitä ilmoitusasiat tiedokseen",
+      "votes": [],
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko TTJ Ratasuunnitelman vaihtoehdot Perälänjärven kohdalla Ilmoitusasioita tiedoksi Yhdyskuntatekniikan lautakunta 15.06.2023 § 80",
+        "valmistelija": "hallintosihteeri Suvi Wikström, etunimi.sukunimi@kirkkonummi.fi Muuttunut yhteinen käytäntö kokouskutsujen osalta: elokuusta 2023 kokouskutsut toimitetaan lautakunnan jäsenille kalenterimerkintänä kyseiseen kokoukseen. Turun Tunnin Juna Oy sekä hankkeen suunnittelukonsultti on esittänyt pyynnön Kirkkonummen kunnalle antaa pikaisesti kantansa ratasuunnittelun yhteydessä kunnan lausunnon pohjalta laadittuihin Peräläjärventien katulinjaus vaihtoehtoihin. Pyyntö on esitetty kunnan edustajille 12.6.2023. Lautakunnalle on esitelty linjausvaihtoehdot VE1 ja VE2 sekä vaihtoehtojen vaikutukset. Linjausvaihtoehdoista kannatettavampi on vaihtoehto VE2, jossa katuyhteys kulkee ratalinjauksen ja Perälänjärven välissä. Vaihtoehdon VE2 kustannukset ovat pienemmät ja lisäksi hyötyjen ja haittojen näkökulmasta VE2 on parempi vaihtoehto. Kunta esittää kantanaan Turun Tunnin Juna Oy:lle, että vaihtoehdon VE2 mukaisen linjauksen suunnittelua vietäisiin eteenpäin. Suomen Pakkauskierrätys Rinki Oy etsii keräyspisteelleen uutta paikkaa Veikkolasta. Nykyinen paikka Puronsuuntien alkupäässä on ahdas ja valvonnan kannalta haasteellinen. Se lisää läheisen puron roskaantumista ja aiheuttaa haittaa viereisille taloyhtiöille. Uudeksi paikaksi ehdotetaan Kisapolun varrella sijaitsevan Impivaaranpuiston pysäköintialuetta. Asemakaavan mukaisen pysäköintialueen rakentaminen sisältyy kunnan investointiohjelmaan ja sen suunnittelu on käynnistetty. Uusi kierrätyspiste on mahdollista rakentaa pysäköintialueen jatkeeksi. Uusi paikka mahdollistaisi mm. nykyisten keräilyastioiden korvaamisen puristimilla, jolloin raskaan tyhjennyskaluston keskimääräiset tyhjennyskäyntimäärät vähenisivät nykyisestä päivittäisestä käynnistä yhteen kertaan viikossa. Käyttäjien kannalta myös sijainti liityntäpysäköintialueen ja Vuorenmäen koulun ja päiväkodin läheisyydessä on hyvä. Rinki Oy vastaa rakentamiskustannuksista",
+        "paatosehdotus": "Yhdyskuntatekniikan lautakunta merkitsee ilmoitusasiat tiedokseen",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti merkitä ilmoitusasiat tiedokseen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "TTJ Ratasuunnitelman vaihtoehdot Perälänjärven kohdalla",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231471-13-94324.PDF"
+        }
+      ],
+      "proposals": []
+    }
+  ],
+  "id": "20231471",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20231471"
+}

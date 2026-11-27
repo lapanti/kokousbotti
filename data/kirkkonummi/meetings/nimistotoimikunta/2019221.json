@@ -1,0 +1,152 @@
+{
+  "title": "Nimistötoimikunta Pöytäkirja 04.11.2019 klo 16:30 - 17:40 / Ei tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Nimistötoimikunta",
+  "doctype": "Pöytäkirja",
+  "date": "2019-11-04",
+  "items": [
+    {
+      "id": "2019221-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2019221-1",
+      "decision": null,
+      "sections": {},
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "2019221-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2019221-2",
+      "decision": null,
+      "sections": {},
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "2019221-3",
+      "ordinal": "3",
+      "title": "EKE-Rakennus Oy:n kaavoitusaloite datakeskuksen asemakaavoittaminen Sundsbergin alueelle, uuden kaava-alueen nimi",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2019221-3",
+      "decision": null,
+      "sections": {
+        "liitteet": "1 Sundsberg_datakeskus_sijainti Edellinen asia | Seuraava asia Kokousasia PDF-muodossa <div"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": [],
+      "initiative": {
+        "ref": null,
+        "proposer": null,
+        "party": null,
+        "name": null
+      }
+    },
+    {
+      "id": "2019221-4",
+      "ordinal": "4",
+      "title": "Keskustan urheilupuisto, hanke 11405, asemakaavaehdotus, nimistötoimikunnan lausunto",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2019221-4",
+      "decision": null,
+      "sections": {
+        "liitteet": "1 Keskustan_Urheilupuisto_3378 A4 Edellinen asia | Seuraava asia Kokousasia PDF-muodossa <div"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "2019221-5",
+      "ordinal": "5",
+      "title": "Tallinmäki, hanke 10108, asemakaavan valmisteluaineisto, nimistötoimikunnan lausunto",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2019221-5",
+      "decision": null,
+      "sections": {
+        "oheismateriaali": "Tallinmäki_Kaavakartta Edellinen asia | Seuraava asia Kokousasia PDF-muodossa <div"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "2019221-6",
+      "ordinal": "6",
+      "title": "Nimistötietokantaprojekti 2019 ja nimistönsuunnittelun suuntaviivat tulevaisuudessa",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2019221-6",
+      "decision": null,
+      "sections": {},
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "2019221-7",
+      "ordinal": "7",
+      "title": "Nimistötoimikunnan määrärahaesitys 2020",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2019221-7",
+      "decision": null,
+      "sections": {},
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "2019221-8",
+      "ordinal": "8",
+      "title": "Tiedoksi annettavat asiat",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2019221-8",
+      "decision": null,
+      "sections": {},
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "2019221-9",
+      "ordinal": "9",
+      "title": "Nimistötoimikunnan seuraava kokous",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2019221-9",
+      "decision": null,
+      "sections": {},
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "2019221-10",
+      "ordinal": "10",
+      "title": "Muut mahdolliset asiat",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=2019221-10",
+      "decision": null,
+      "sections": {},
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    }
+  ],
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=2019221",
+  "id": "2019221"
+}

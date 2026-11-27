@@ -1,0 +1,76 @@
+{
+  "title": "Tarkastuslautakunta Pöytäkirja 29.03.2023 klo 17:30 - 20:32 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Tarkastuslautakunta",
+  "doctype": "Pöytäkirja",
+  "date": "2023-03-29",
+  "items": [
+    {
+      "id": "20231360-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231360-1",
+      "decision": "Tarkastuslautakunta totesi kokouksen lailliseksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Tarkastuslautakunta toteaa kokouksen lailliseksi ja päätösvaltaiseksi",
+        "paatos": "Tarkastuslautakunta totesi kokouksen lailliseksi ja päätösvaltaiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231360-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan laatiminen ja tarkastaminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231360-2",
+      "decision": "Pöytäkirjantarkastajiksi valittiin Saara Mattero ja Matti Tanskanen",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Tarkastuslautakunta valitsee kaksi pöytäkirjantarkastajaa",
+        "paatos": "Pöytäkirjantarkastajiksi valittiin Saara Mattero ja Matti Tanskanen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231360-3",
+      "ordinal": "3",
+      "title": "Talouskatsaus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231360-3",
+      "decision": "Vt. kunnanjohtajan ja talousjohtajan antama selvitys ja asiasta käyty keskustelu merkittiin tiedoksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Vt. kunnanjohtajan ja talousjohtajan antama selvitys ja asiasta käyty keskustelu merkitään tiedoksi",
+        "paatos": "Vt. kunnanjohtajan ja talousjohtajan antama selvitys ja asiasta käyty keskustelu merkittiin tiedoksi",
+        "selostus": "Vt. kunnanjohtaja Anna-Kaisa Kauppinen ja talousjohtaja Esa Lindell on kutsuttu kokoukseen antamaan selvityksen kunnan vuoden 2022 tilinpäätöksestä, talouden tavoitteiden toteutumisesta, talouden tasapainottamisesta ja investoinneista sekä muista talouteen liittyvistä ajankohtaisista asioista"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231360-4",
+      "ordinal": "4",
+      "title": "Arviointikertomus 2022",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231360-4",
+      "decision": "Tarkastuslautakunta valmisteli arviointikertomusta vuodelta 2022. Valmistelua jatketaan seuraavassa kokouksessa",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Tarkastuslautakunta valmistelee arviointikertomusta vuodelta 2022",
+        "paatos": "Tarkastuslautakunta valmisteli arviointikertomusta vuodelta 2022. Valmistelua jatketaan seuraavassa kokouksessa",
+        "selostus": "Kuntalain 121 §:n mukaan tarkastuslautakunnan tehtävänä on arvioida, ovatko valtuuston asettamat toiminnan ja talouden tavoitteet kunnassa ja kuntakonsernissa toteutuneet ja onko toiminta järjestetty tuloksellisella ja tarkoituksenmukaisella tavalla. Arvioinnin tulokset esitetään arviointikertomuksessa. Arviointikertomus käsitellään valtuustossa tilinpäätöksen yhteydessä. Kunnanhallitus antaa valtuustolle lausunnon toimenpiteistä, joihin arviointikertomus antaa aihetta"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    }
+  ],
+  "id": "20231360",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20231360"
+}

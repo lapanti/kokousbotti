@@ -1,0 +1,171 @@
+{
+  "title": "Keskusvaalilautakunta Pöytäkirja 15.02.2023 klo 16:30 - 17:18 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Keskusvaalilautakunta",
+  "doctype": "Pöytäkirja",
+  "date": "2023-02-15",
+  "items": [
+    {
+      "id": "20231367-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231367-1",
+      "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi",
+      "sections": {
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Kokous todettiin lailliseksi ja päätösvaltaiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20231367-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231367-2",
+      "decision": "Keskusvaalilautakunta päätti yksimielisesti ehdotuksen mukaisesti. Pöytäkirjantarkastajiksi valittiin Mikko Tahko ja Marjokaisa Piironen",
+      "sections": {
+        "valmistelija": "vaalipäällikkö Rasmus Beck, etunimi.sukunimi@kirkkonummi.fi",
+        "paatosehdotus": "Keskusvaalilautakunta päättää 1 valita kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan 2 tarkastaa tämän pöytäkirjan sähköisesti seuraavan aikataulun mukaan: Torstaina 16.2.2023 lähetetään pöytäkirja sähköpostitse pöytäkirjantarkastajille, jotka ilmoittavat hyväksymisestään viimeistään maanantaina 20.2.2023. Jos hyväksymisviestiä ei tule sihteerille em. ajankohtaan mennessä, pöytäkirja katsotaan hyväksytyksi. Pöytäkirja allekirjoitetaan sähköisesti. Pöytäkirja on nähtävänä tiistaina 21.2.2023 kunnan verkkosivulla",
+        "paatos": "Keskusvaalilautakunta päätti yksimielisesti ehdotuksen mukaisesti. Pöytäkirjantarkastajiksi valittiin Mikko Tahko ja Marjokaisa Piironen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20231367-3",
+      "ordinal": "3",
+      "title": "Alustava laskenta ja laskentakeskus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231367-3",
+      "decision": "Keskusvaalilautakunta päätti yksimielisesti ehdotuksen mukaisesti",
+      "sections": {
+        "valmistelija": "vaalipäällikkö Rasmus Beck etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Hallintojohtaja Suihkonen Jaana Keskusvaalilautakunta päättää että: 1 Kaikilla vaalipäivän äänestyspaikoilla ja vaalilautakunnissa jatketaan sähköisen vaalipöytäkirjan ja sähköisen vaaliluettelon käyttämistä. 2 Alustavan laskennan tulokset tallennetaan suoraan laskentajärjestelmään äänestyspaikoilla. Vaalilautakunnat eivät lähtökohtaisesti ilmoita laskennan tuloksia laskentakeskukselle, vaalilautakunnat tallentavat tiedot suoraan laskentajärjestelmään. Tehtävän suorittavat IT-tukihenkilöt. 3 Laskentakeskus perustetaan paikallisen tallennuksen varajärjestelynä",
+        "paatos": "Keskusvaalilautakunta päätti yksimielisesti ehdotuksen mukaisesti",
+        "selostus": "Oikeusministeriön vaalituki on antanut luvan ottaa käyttöön paikallinen äänten tallenus tuloslaskentajärjestelmässä kaikilla vaalipäivän äänestyspaikoilla. Edellytyksenä on, että IT-tukihenkilöt ketkä suorittavat paikallisen äänten tallennuksen koulututetaan tuloslaskentajärjestelmän käyttöön. Varajärjestelynä on perustettava laskentakeskus sitä varten jos vaalilautakunnassa ilmenee ongelmia äänten tallennuksessa vaalipäivänä. Vaalipäivänä vaalilautakunnan puheenjohtajan julistettua äänestyksen päättyneeksi vaalilautakunnan IT-tukihenkilö merkitsee vaalipäivänä äänestäneiden lukumäärän laskentajärjestelmään klo 20.15 mennessä. Vaalilautakunnan käyttäessä laskentajärjestelmää tallennetaan kunkin ehdokkaan saamat äänimäärät ja mitättömien äänten lukumäärän. Tallennus on tehtävä viimeistään klo 22.00. Jos laskenta ei valmistu tähän mennessä, siitä on ilmoitettava laskentakeskukselle. Keskusvaalilautakunnan laskentakeskus on suoritettava alustavan ääntenlaskennan tiedotus seuraavasti niin että keskusvaalilautakunta kokoaa äänestysalueittain: - vaalipäivänä äänestäneiden lukumäärän klo 21.00 mennessä ja - vaalipäivän äänestyksen alustavan tulokset klo 22.30 mennessä. yhdistää tiedot koko kunnan tulokseksi tallentamalla tiedot tuloslaskentajärjestelmään: - vaalipäivänä äänestäneiden lukumäärä välittömästi klo 21 jälkeen. - vaalipäivän äänestyksen alustava tulos klo 23.00 mennessä (tavoiteaika). Vaalilautakunnista laskentajärjestelmää käyttävät henkilöt sekä IT-tukihenkilöt osallistuvat laskennan kenraaliharjoitukseen 9.3. Heidän on mahdollista harjoitella tallenusta vaalitietojärjestelmän koulutusympäristössä"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20231367-4",
+      "ordinal": "4",
+      "title": "Vaalityöstä maksettavat palkkiot",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231367-4",
+      "decision": "Keskusvaalilautakunta päätti yksimielisesti ehdotuksen mukaisesti",
+      "sections": {
+        "valmistelija": "Vaalipäällikkö Rasmus Beck, etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Hallintojohtaja Suihkonen Jaana Länsi-Uudenmaan hyvinvointialueelle siirtyneille Kirkkonummen kunnan entisille työntekijöille maksetaan tuntipalkka, joka määräytyy kunnan palveluksessa olevien vaalityöhön osallistuvien varsinaisesta palkasta lasketun keskimääräisen tuntipalkan mukaisesti mahdolliset ilta, yötyö- ja sunnuntailisät sekä ylityökorvaukset huomioiden",
+        "paatos": "Keskusvaalilautakunta päätti yksimielisesti ehdotuksen mukaisesti",
+        "tiedoksi": "ao. henkilöille, palkka-tiimille"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20231367-5",
+      "ordinal": "5",
+      "title": "Ulkomainostelineet",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231367-5",
+      "decision": "Keskusvaalilautakunta päätti yksimielisesti ehdotuksen mukaisesti. Lisäksi keskusvaalilautakunta päätti valtuuttaa vaalipäällikön hakemaan uuden mainostelinepaikan Munkinmäessä",
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 1 Vaalimainostelinepaikat Kirkkonummella liite",
+        "oheismateriaali": "Kuvake Otsikko Ohje vaalimainostelinepaikoista Kirkkonummella eduskuntavaalit 2023 Anvisning om utereklam i riksdagsvalet 2023 Ulkomainostelineet Keskusvaalilautakunta 15.02.2023 § 14 642/00.00.00/2022",
+        "valmistelija": "vaalipäällikkö Rasmus Beck etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Hallintojohtaja Suihkonen Jaana Keskusvaalilautakunta päättää että: 1 Mainostelineet asetetaan karttaliitteessä merkittyihin paikkoihin, 15 telinettä: 1. Torialue 2. Keskusta 3. Munkinmäki 4. Lindal 5. Uimahalli 6. Gesterby 7. Laajakallio 8. Bro-Kolsari 9. Kantvik 10. Sepänkangas 11. Masala 12. Sundsberg 13. Evitskog 14. Lapinkylä 15. Veikkola 2. Kunta yhteistyössä kunnan keskusvarikon sekä kunnossapidon kanssa asettaa telineet karttaliitteeseen merkittyihin telinepaikkoihin viimeistään tiistaina 14.3.2023. Telineet poistetaan keskusvarikon toimesta vaalien jälkeen. 3. Vaalimainostelineet ovat kaksipuoleisia ja maksuttomia. Telineiden läheistyyteen ei sjoiteta muuta vaalimainontaa. 4. Ehdokkaita asettaville puolueille ja ryhmille lähetetään ohjeistus kunnan mainostelineistä sekä karttaliite jossa telineiden sijainnit",
+        "kasittely": "Keskustelun aikana todettiin, että paikka 3. Munkinmäen kohdalla on siltatyömaa, jonka johdosta mainostelineelle on haettava uusi sijoituspaikka Munkinmäessä. Keskusvaalilautakunta valtuuttaa vaalipäällikön hakemaan uuden sopivan paikan mainostelineelle Munkinmäessä",
+        "paatos": "Keskusvaalilautakunta päätti yksimielisesti ehdotuksen mukaisesti. Lisäksi keskusvaalilautakunta päätti valtuuttaa vaalipäällikön hakemaan uuden mainostelinepaikan Munkinmäessä",
+        "selostus": "Kunnalla ei ole lakisääteisiä velvollisuuksia vaalimainonnan järjesteämisessä. Vaalien ulkomainonnan järjestäminen kunnan hallinnassa ja määräämisvallassa olevilla alueilla on kunnan vapaasti järjestettävissä. Kuntaliitto sekä oikeusministeriö suosittelevat, että ulkomainonnan saa aloittaa kunnan hallinassa olevilla alueilla viikkoa ennen enakkoäänestyksen alkua, keskiviikkona 15.3.2023. Ennakkoäänestyspaikassa tai sen välittömässä läheisyydessä ei saa äänestysaikana pitää puheita, julkipanna tai jakaa painettuja tai kirjoitettuja kehoituksia eikä muutoinkaan vaikuttaa tai yrittää vaikuttaa äänestäjien vaalivapauteen (vaaliaki 56 §). Äänestyspaikalla tai sen välittömässä läheisyydessä ei saa äänestysaikana pitää puheita, julkipanna tai jakaa painettuja tai kirjoitettuja kehotuksia eikä muutoinkaan vaikuttaa tai yrittää vaikuttaa äänestäjien vaalivapauteen (vaalilaki 72 §). Lähtökohtana on, että vaalimainokset eivät näy äänestystilaan. Mainoksia ei saa sijoittaa äänestyspaikan välittömään läheisyyteen niin, että mainosten voidaan katsoa vaikuttavan äänestäjien vaalivapauteen. Kunnan käytäntönä vaaleissa on asettaa korvauksetta ehdokkaita asettavien puolueiden ja ryhmien käyttöön vaalimainostelineitä. Ehdokkaita asettaville puolueille ja ryhmille on lähetetty ajan tasalla oleva ohjeistus kunnan mainostelineiden käytöstä. Mainostelinepaikat ovat kaksipuoleisia ja maksuttomia. Kunnalla on käytössä 15 mainostelinepaikkaa. Mainostelineiden sijainnit on päivitetty vuoden 2021 kuntavaaleissa. Kunnan kunnossapidosta on varmistettu, että keskusvaalilautakunta voi jatkaa nykyisten sijaintipaikkojen käyttämistä. Yksityisillä alueilla olevista telinepaikoista on saatu alueiden omistajien lupa telineille. Jokainen ehdokkaitta asettava puolue tai ryhmä saa jokaisessa telinepaikassa käyttöönsä yhden aukon telineessä sekä taustalevyn lainasi, joka sijoitetaan aukkoon. Puolue tai ryhmä voi lainata yhteensä 15 taustalevyä. Puolueet sopivat ja noutavat itse taustalevyt kunnan keskusvarikolta. Keskusvarikko vie mainostelineet paikoilleen viimeistään viikkoa ennen ennakkoäänestyksen alkua, 15.3.2023"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Vaalimainostelinepaikat Kirkkonummella liite",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231367-5-87463.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Ohje vaalimainostelinepaikoista Kirkkonummella eduskuntavaalit 2023",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231367-5-87462.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Anvisning om utereklam i riksdagsvalet 2023",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231367-5-87461.PDF"
+        }
+      ],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20231367-6",
+      "ordinal": "6",
+      "title": "Esteettömyyden huomioiminen äänestyspaikoilla eduskuntavaaleissa",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231367-6",
+      "decision": "Keskusvaalilautakunta päätti yksimielisesti ehdotuksen mukaisesti",
+      "sections": {
+        "valmistelija": "vaalipäällikkö Rasmus Beck etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Hallintojohtaja Suihkonen Jaana Keskuvaalilautakunta päättää: 1 merkitä tiedoksi kokouksessa näytettävät huomiot ja suunnitelman esteettömyydestä äänestyspaikoilla. 2 että huomiot esteettömyydestä äänestyspaikoilla esitellään vaalivirkailijoille vaalikoulutuksissa. 3 että äänestystilojen suunnittelussa ja kalustamisessa huomioidaan suunnitelma esteettömyydestä äänestyspaikolla",
+        "paatos": "Keskusvaalilautakunta päätti yksimielisesti ehdotuksen mukaisesti",
+        "selostus": "Keskusvaalilautakunnan tulee huolehtia esteettömyydestä ja saavutettavuudesta vaalijärjestelyissä sekä äänestyspaikoilla ja niiden kulkureittien suunnittelussa. Liikuntavammaisten ja muiden liikuntaesteisten mahdollisuuksiin äänestää äänestyspaikassa on kiinnitettävä erityistä huomiota. Keskusvaalilautakunnan on varmistettava että mm. kulku äänestyspaikalla on mahdollisimman helppoa liikuntaesteisille äänestäjille niin että äänestäjät kokevat että äänestäminen on ongelmatonta. Keskusvaalilautakunnan on otettava huomioon mm. vammaisneuvostolta saatuja huomioita ja havaittuja ongelmakohtia esteettömyydestä äänestystiloissa. Keskusvaalilautakunta tekee suunnitelman miten esteettömyys huomioidaan äänestyspaikoilla sekä miten havaittuja ongelmakohtia voidaan korjata"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20231367-7",
+      "ordinal": "7",
+      "title": "Ennakkoäänestysasiakirjojen tarkistus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231367-7",
+      "decision": "Keskusvaalilautakunta päätti yksimielisesti ehdotuksen mukaisesti",
+      "sections": {
+        "valmistelija": "vaalipäällikkö Rasmus Beck etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Hallintojohtaja Suihkonen Jaana Keskusvaalilautakunta päättää että 1 Ennakkoäänestysasiakirjojen tarkastuskokous pidetään perjantaina 31.3.2023 klo 18.00. 2 Ennakkoäänestysasiakirjojen tarkastus suoritetaan sopivassa tilassa kunnantalolla 23.3.-31.3.2023. 3 Vähintään yksi vaalitoimitsija kunnan ennakkoäänestyspaikoista sekä vaalitoimikunta tuovat ennakkoäänestyspäivän päätteeksi lähetekuoret kunnantalolle vaalipäällikön tai vaalipäällikön määräämän henkilön kuittausta vastaan. Vastaanotetut lähetekuoret säilytetään kunnantalolla varmassa tilassa. Vaalipäällikkö vie mahd. nopeasti muiden kuntien keskusvaalilautakunnille osoitetut lähetekuoret postiin. 4 Kunnan ennakkoäänestyspaikoista sekä laitos- ja kotiäänestyksestä tulleet manuaaliäänestykset rekisteröidään äänioikeusrekisteriin ennen 31.3. pidettävää kokousta. Samoin tehdään muiden kuntien ennakkoäänestyspaikoista, muiden kuntien laitos- ja kotiäänestyksistä sekä edustustoista ja laivoista saapuneille manuaaliäänestyksille. 5 Epäselvät ennakkoäänestysasiakirjat tarkastetaan ja käsitellään 31.3.2023 pidettävässä kokouksessa. 6 Tarkastuskokouksen päätyttyä keskusvaalilalautakunta pakkaa hyväksytyt vaalikuoret äänestysalueittain jaoteltuina kestävään päällykseen. Kunkin äänestyslaueen vaalikuoret pakataan erikseen nippuihin. Päällys suljetaan sinetöintinauhalla, merkitään tarvittavat tiedot ja toimitetaan vaalipiirilautakunnalle sen määräämällä tavalla",
+        "paatos": "Keskusvaalilautakunta päätti yksimielisesti ehdotuksen mukaisesti",
+        "selostus": "Keskusvaalilautakuntaan saapuneet ennakkoäänestysasiakirjat ja kirjeäänestysasiakirjat tarkastetaan vaalikuoria avaamatta kokouksessa, joka on pidettävä niin että perjantaina 31.3. kl 19.00 mennessä saapuneet asiakirjat ehditään käsitellä kokouksessa. Kirjeitse äänestävä voi äänestää ja postittaa lähetekuorensa Suomeen aikaisintaan torstaina 2.3.2023. Kirjeäänestyksen lähetekuoria saapuu keskusvaalilautakuntaan pian tämän jälkeen. Ennakkoäänestysasiakirjat ja kirjeäänestysasiakirjat tarkastetaan omina kokonaisuuksina. Tavoitteena on, että tarkastuksen päätteeksi keskusvaalilautakunnalla on erikseen äänestysalueittain lajiteltuna ennakkoäänestyksen hyväksytyt vaalikuoret ja erikseen äänestysalueittain lajiteltuna kirjeäänestyksen hyväksytyt vaalikuoret. Keskusvaalilautakunta päättää miten se käytännössä suorittaa ennakkoäänestyksen asiakirjojen tarkastamisen. Vähintään kahden henkilön on oltava samanaikaisesti paikalla aina kun asiakirjoja käsitellään"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20231367-8",
+      "ordinal": "8",
+      "title": "Muut asiat",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231367-8",
+      "decision": null,
+      "sections": {},
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    }
+  ],
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20231367",
+  "id": "20231367"
+}

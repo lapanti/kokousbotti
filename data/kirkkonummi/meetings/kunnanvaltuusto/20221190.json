@@ -1,0 +1,619 @@
+{
+  "title": "Kunnanvaltuusto Pöytäkirja 05.09.2022 klo 18:00 - 20:15 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Kunnanvaltuusto",
+  "doctype": "Pöytäkirja",
+  "date": "2022-09-05",
+  "items": [
+    {
+      "id": "20221190-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221190-1",
+      "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Kokous todettiin lailliseksi ja päätösvaltaiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20221190-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221190-2",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti. Pöytäkirjantarkastajiksi valittiin Johanna Järvinen ja Ulf Kjerin",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanvaltuusto päättää valita kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti. Pöytäkirjantarkastajiksi valittiin Johanna Järvinen ja Ulf Kjerin"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20221190-3",
+      "ordinal": "3",
+      "title": "Gesterbyn koulukeskuksen kokonaiskustannuksen hyväksyminen ja lisämäärärahan esittäminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221190-3",
+      "decision": "Kunnanvaltuusto päätti ehdotuksen mukaisesti. Puheenjohtaja Aku Leijala jätti päätöksestä eriävän mielipiteen",
+      "votes": [
+        {
+          "jaa": [
+            "Järvinen Johanna",
+            "Hedberg Hans",
+            "Liljequist Kim",
+            "Felipe Sini",
+            "Björk Tony",
+            "Karkinen Ronja",
+            "Aintila Anna",
+            "Haapaniemi Timo",
+            "Kari Marko",
+            "Blom Urho",
+            "Kjerin Ulf",
+            "Valtonen Martin",
+            "Purra Riikka",
+            "Presnukhina Anna",
+            "Myllyniemi Markus",
+            "Hakapää Minna",
+            "Männikkö Kim",
+            "Lundell Patrik",
+            "Honkanen Martin",
+            "Kaurila Matti",
+            "Ylisiurua Katja",
+            "Piili Noora",
+            "Orko Maarit",
+            "Gustafsson Stefan",
+            "Seppälä Ulla",
+            "Harinen Ari",
+            "Ekman Jani",
+            "Annila Henri",
+            "Huhmarniemi Saara",
+            "Sahiluoma Anna",
+            "Salminen Ville",
+            "Suominen Tero",
+            "Salonen Antti",
+            "Granström Anneli",
+            "Oittinen Paula",
+            "Kosonen Liisa",
+            "Basilier Linda",
+            "Virtanen Kari",
+            "Ronkainen Tuovi",
+            "Petäjäjärvi Krista",
+            "Fleming Johanna",
+            "Frantsi-Lankia Marjut",
+            "Aallonharja Piia",
+            "Määttä Jussi",
+            "Kajanti Carl-Johan",
+            "Virkki Leena",
+            "Åström Kim",
+            "Kä mpe-Hellenius Jerri"
+          ],
+          "ei": [
+            "Leijala Aku",
+            "Kilappa Antti",
+            "Ylikoski Jukka"
+          ],
+          "tyhja": [],
+          "totals": {
+            "jaa": 48,
+            "ei": 3,
+            "tyhja": 0
+          },
+          "parties": {
+            "jaa": {
+              "ps": 6,
+              "rkp": 11,
+              "sdp": 5,
+              "vihr": 8,
+              "kok": 12,
+              "pro yl": 3,
+              "vas": 1,
+              "kesk": 1,
+              "tuntematon": 1
+            },
+            "ei": {
+              "pro yl": 2,
+              "ps": 1
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta",
+            "ei_label": "Aku Leijalan vastaehdotusta",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": null,
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Aku Leijalan vastaehdotusta äänestävät Ei — annettiin 48 JAA ja 3 EI ääntä."
+          }
+        }
+      ],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 1\n1_Taustaselvitys kustannusten muodostumisesta 18.8.2022",
+        "oheismateriaali": "Kuvake Otsikko Pöytäkirjan ote §61, toimitilapalvelujen lautakunta 28.6.2022 Gesterbyn koulukeskuksen kokonaiskustannuksen hyväksyminen ja lisämäärärahan esittäminen Kunnanhallitus 15.08.2022 § 250",
+        "valmistelija": "yhdyskuntatekniikan johtaja Anna-Kaisa Kauppinen etunimi.sukunimi@kirkkonummi.fi",
+        "esittelija": "Kunnanjohtaja Aarnio Tarmo",
+        "paatosehdotus": "Kunnanhallitus esittää kunnanvaltuustolle, että se hyväksyy hankkeen kokonaiskustannuksiksi 59 045 000 euroa, josta - urakkahinta 51 222 126 euroa - lisä- ja muutostyövaraus 1 000 000 euroa - indeksoinnin aiheuttama nousuriski 5 122 212 euroa - rakennuttajan kustannukset 1 700 000 euroa",
+        "kasittely": "Valtuutettu Josephine Frimodig ilmoitti olevansa esteellinen ja poistui kokouksesta tämän pykälän käsittelyn ja päätöksenteon ajaksi. Varavaltuutettu Linda Basilier oli paikalla tämän pykälän käsittelyn ja päätöksenteon aikana, klo 18.10-19.24, ja poistui kokouksesta tämän pykälän jälkeen. Yhdyskuntatekniikan johtaja Anna-Kaisa Kauppinen, projektipäällikkö Hanne Nylund sekä rakennuttajakonsultti Kimmo Niemi esittelivät asiaa kokouksessa . P rojektipäällikkö Hanne Nylund ja rakennuttajakonsultti Kimmo Niemi poistuivat kokouksesta tämän pykälä n jälkeen klo 1 9.24 . Puheenjohtaja Aku Leijala julisti keskustelun päättyneeksi ja totesi että hän on jättänyt seuraavan vastaehdotuksen: Siirretään Gesterbyn koulukeskuksen kokonaiskustannuksista päättämistä ajassa et eenpäin (Leijala Aku) Perustelut: Muuttuneeseen maailmantilanteeseen liittyvästä suuresta epävarmuudesta ja yhdyskuntatekniikan toimialan heikosta resursointitilanteesta johtuen, sekä Kirkkonummen taloudellisen riskin hallitsemiseksi siirretään hankkeen merkittävästi nousseista kustannuksista päättämistä eteenpäin vähintään siihen asti, kun hyvinvointikeskuksen myynti on saatettu päätökseen. (tarkemmat perustelut esitetään eriävässä mielipiteessä, joka jätetään siinä tapauksessa, että valtuusto päättää hy väksyä kohonneet kustannukset ja edetä hankkeen kanssa) . Vastaehdotusta kannatti Jukka Ylikoski. Puheenjohtaja totesi, että vastaehdotusta ei hyväksytty yksimielisesti, joten siitä on äänestettävä. Puheenjohtaja ehdotti että asiasta äänestetään niin, että ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Aku Leijalan vastaehdotusta äänestävät Ei. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 48 JAA ääntä ja 3 EI ääntä. Pohjaehdotus sai enemmän ään iä. JAA äänestivät: Järvinen Johanna , Hedberg Hans , Liljequist Kim , Felipe Sini , Björk Tony , Karkinen Ronja , Aintila Anna , Haapaniemi Timo , Kari Marko , Blom Urho , Kjerin Ulf , Valtonen Martin , Purra Riikka , Presnukhina Anna , Myllyniemi Markus , Hakapää Minna , Männikkö Kim , Lundell Patrik , Honkanen Martin , Kaurila Matti , Ylisiurua Katja , Piili Noora , Orko Maarit , Gustafsson Stefan , Seppälä Ulla , Harinen Ari , Ekman Jani , Annila Henri , Huhmarniemi Saara , Sahiluoma Anna , Salminen Ville , Suominen Tero , Salonen Antti , Granström Anneli , Oittinen Paula , Kosonen Liisa , Basilier Linda , Virtanen Kari , Ronkainen Tuovi , Petäjäjärvi Krista , Fleming Johanna , Frantsi-Lankia Marjut , Aallonharja Piia , Määttä Jussi , Kajanti Carl-Johan , Virkki Leena , Åström Kim ja Kä mpe-Hellenius Jerri . EI äänestivät: Leijala Aku , Kilappa Antti ja Ylikoski Jukka",
+        "paatos": "Kunnanvaltuusto päätti ehdotuksen mukaisesti. Puheenjohtaja Aku Leijala jätti päätöksestä eriävän mielipiteen",
+        "tiedoksi": "kunnanvaltuustolle käsiteltäväksi Kunnanvaltuusto 05.09.2022 § 62 558/10.03.02.01/2019"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "paatos_labels": 3,
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite 1_Taustaselvitys kustannusten muodostumisesta 18.8.2022",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20221190-3-77782.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Pöytäkirjan ote §61, toimitilapalvelujen lautakunta 28.6.2022",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20221190-3-77786.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Aku Leijala",
+          "kind": "vastaehdotus",
+          "text": null,
+          "source": "order",
+          "party": "pro yl"
+        }
+      ]
+    },
+    {
+      "id": "20221190-4",
+      "ordinal": "4",
+      "title": "Siirtyvästä omaisuudesta, sopimuksista, vastuista ja toimitiloista 28.2.2022 mennessä annettujen selvitysten täydentäminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221190-4",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 2 kh27062022_\n1_siirtyvät_toimitilat 3 kh27062022_\n2_siirtyvät_jälleenvuokra-asunnot 4\n5 Siirtyvät omat ja leasing ajoneuvot 6 22 kh 5\n5b Kirkkonummen autot_6 22 Leasingvastuu 31122022 kh 6\n6 Leasingvastuut 6 22 ei ajoneuvot 7\n6.1 leasingvastuut ei ajoneuvot 6 22 8\n7 Varastot 6 22 9\n8 Hyvinvointialueelle siirrettävät sopimukset Siirtyvästä omaisuudesta, sopimuksista, vastuista ja toimitiloista 28.2.2022 mennessä annettujen selvitysten täydentäminen Kunnanhallitus 27.06.2022 § 234",
+        "valmistelija": "Perusturvan palvelualueen hallintopäällikkö Kati Kupiainen, yhdyskuntatekniikan palvelualueen palvelujohtaja Anna-Kaisa Kauppinen , talousjohtaja Esa Lindell , henkilöstöjohtaja Kristina Stenius ja vt. hallintojohtaja Hannu Sorvari etunimi.sukunimi@kirkkonummi.fi Lain asettama aikataulu kunnan päätöksenteolle Kunnan on täydennettävä omaisuudesta, sopimuksista, vastuista ja kunnalta vuokrattavista toimitiloista helmikuussa 2022 antamaansa selvitystä viimeistään 30 .6. 2022 mennessä . Selvitystä on täydennettävä jos toimitiloissa, siirtyvässä irtaim essa omaisuudessa tai sopimuksissa on tapahtunut olennaisia muutoksia tarkoitetun selvityksen antamisen jälkeen ja jos hyvinvointialue katsoo selvityksen täydentämisen tarpeelliseksi . Kunnan on siten toimitettava täydennys hyvinvointialueelle 30.6.2022 me nnessä . Hyvinvointialue tulee tekemään lopulliset päätökset siirtyvästä omaisuudesta, sopimuksista, vastuista ja toimitiloista syksyn 2022 aikana . Lainsäädäntö ja prosessi Sosiaali ja terveydenhuoltoa ja pelastustoimea koskevan uudistuksen toimeenpanosta ja sitä koskevan lainsäädännön voimaanpanosta (616/ 2021) todetaan: Sosiaali - ja terveydenhuollon järjestämisestä annetun lain mukainen sosiaali - ja terveydenhuollon järjestämisvastuu siirtyy kunnilta ja kuntayhtymiltä hyvinvointialueille 1 päivänä tammikuuta 2023. Sosiaali ja terveydenhuollon ja pelastustoimen järjestämisestä Uudellamaalla annetun lain ja sosiaali - ja terveydenhuollon järjestämisestä annetun lain mukainen järjestämisvastuu siirtyy HUS yhtymälle 1 päivänä tammikuuta 2023. Pe lastustoimen järjestämisestä annetun lain mukainen pelastustoimen järjestämisvastuu siirtyy kunnilta ja kuntayhtymiltä hyvinvointialueille 1 päivänä tammikuuta 2023. (4 § Järjestämisvastuun siirtäminen.) Hyvinvointialueelle siirtyvät sosiaali ja terveyden huollon sekä pelastustoimen järjestämiseen liittyvät sopimukset 1 päivästä tammikuuta 2023, jolleivät hyvinvointialue ja kunta toisin sovi. Jos sopimusta ei ole mahdollista siirtää tai jakaa, kunta tekee 26 §:ssä tarkoitetussa selvityksessä esityksen sopim ukseen liittyvän vastuun jakautumisesta. (25 § Kuntaa sitovien sopimusten ja vastuiden siirtyminen hyvinvointialueelle) Edellä 1 momentissa säädetystä poiketen hyvinvointialueelle eivät kuitenkaan, jolleivät hyvinvointialue ja kunta toisin sovi, siirry 1) sellaiset toimitilaa koskevat sopimukset, joissa kunta on sitoutunut osoittamaan ostajan tai lunastamaan toimitilan omistukseensa sopimuskauden päätyttyä 2) vahingonkorvausvastuut tai muut sopimuksen päättämisestä seuraavat vastuut sellaisista sopimuksist a, jotka kunta tekee tämän lain vahvistamisen jälkeen, mutta ennen sosiaali ja terveydenhuollon sekä pelastustoimen järjestämisvastuun siirtymistä hyvinvointialueelle. (25 § ) Jos kunta on toiminut ennen sosiaali ja terveydenhuollon sekä pelastustoimen jär jestämisvastuun siirtoa joko voimassa olevan lainsäädännön tai kuntaa sitovan sopimuksen vastaisesti, kunta vastaa tästä aiheutuvista seuraamuksista. (25 § ) Jos kunta on antanut 23 §:n 2 momentissa tarkoitetun, sosiaali ja terveyspalveluja tuottavan osakeyhtiön puolesta takaussitoumuksen, takausvastuu siirtyy hyvinvointialueelle. (25 § ) Kunnan on tehtävä viimeistään 28 päivänä helmikuuta 2022 hyvinvointialueelle selvitys voimaanpanolain 22, 23 ja 25 §:ssä tarkoitetuista sosiaali - ja terveydenhuollon tai pelastustoimen käytössä olevista toimitiloista, siirtyvästä irtaimesta omaisuudesta, sopimuksista ja vastuista. Lisäksi samassa määräajassa kunnan tulee antaa hyvinvointialueelle arvio 18 § :n nojalla siirtyvän henkilöstön määrästä, palkkakuluista ja 24 §:n mukaisesta lomapalkkavelasta. (26 § Selvitys kunnasta siirtyvästä omaisuudesta, sopimuksista, vastuista ja kunnalta vuokrattavista toimitiloista.) Hyvinvointialue voi pyytää kunnalta käyttöönsä tarpeellisiksi katsomiaan lisäselvityksiä ja asiakirjoja. Jos hyvinvointialue katsoo, että 1 momentissa tarkoitetun selvityksen mukaan hyvinvointialueen hallintaan siirtyvät toimitilat, irtaimisto ja sopimukse t eivät turvaa sosia ali ja terveystoimen tai pelastustoimen järjestämistä alueella, hyvinvointialueen on neuvoteltava kunnan kanssa. (26 § ) Kunnan on täydennettävä 1 momentissa tarkoitettua selvitystä viimeistään 30 päivänä kesäkuuta 2022, jos 1 momentis sa tarkoitetuissa toimitiloissa, siirtyvässä irtaimessa omaisuudessa tai sopimuksissa on tapahtunut olennaisia muutoksia 1 momentissa tarkoitetun selvityksen antamisen jälkeen ja jos hyvinvointialue katsoo selvityksen täydentämisen tarpeelliseksi. (26 § ) Aluevaltuusto käsittelee 26 §:ssä tarkoitetun selvityksen viimeistään 31 päivänä maaliskuuta 2022 ja päättää sen perusteella 22 - 25 §:ssä tarkoitettujen irtaimen omaisuuden, lomapalkkavelan, sopimusten ja vastuiden siirtymisestä hyvinvointialueelle ja hyvin vointialueen vastuulle. (28 § Hyvinvointialueen päätös.) Kuntayhtymien omaisuus ja irtain omaisuus siirtyy hyvinvointialueelle voimaanpanolain nojalla. Edellä 21 ja 26 § :ssä säädetty selvitys sekä 28 §:ssä tarkoitettu päätös vastaavat omaisuuden saantokirjaa. Hyvinvointialueen on haettava lainhuutoa kuuden kuukauden kuluessa omistusoikeuden siirtymisestä. HUSin kiinteä ja irtain omaisuus siirtyy tämän lain nojalla ilman eri selvitystä ja HUS hyvinvointiyhtymän on haettava lainhuutoa kuuden kuukauden kuluessa omistusoikeuden siirtymisestä. (40 § Omaisuuden saanto.) Sosiaali ja terveydenhuollon ja pelastustoimen tehtävien ja tehtäviä hoitavan henkilöstön siirto kunnista ja kuntayhtymistä hyvinvointialueelle sekä hyvinvointiyhtymään katsotaan liikkeenluovutukseksi. Liikkeenluovutukseksi katsotaan myös kunnan tai kuntayhtymän palveluksessa olevien opiskeluhuollon psykologien ja kuraattoreiden siirtyminen hyvinvointialueelle ja hyvinvointiyh tymään. Liikkeenluovutukseksi katsotaan myös kunnan 1 momentissa tarkoitettujen tehtävien tukitehtävien ja tehtäviä hoitavan henkilöstön siirrot, jos tehtävää hoitavan henkilön tosiasiallisista tehtävistä vähintään puolet on 1 momentissa tarkoitettujen teh tävien tukitehtäviä. (18 § Henkilöstön asema.) Kunnan järjestämän perusterveydenhuollon, erikoissairaanhoidon, sosiaalitoimen ja pelastustoimen käytössä olevat toimitilat siirtyvät hyvinvointialueen hallintaan 1 päivänä tammikuuta 2023. (22 § Kunnan järje stämän sosiaali ja terveydenhuollon sekä pelastustoimen toimitilat.) Taustaa Kirkkonummen kunta on toimittanut voimaanpanolain 26 § :n mukaisen selvityksen 22, 23 ja 25 § :ssä tarkoitetuista sosiaali ja terveydenhuollon tai pelastustoimen käytössä olevis ta toimitiloista, siirtyvästä irtaimesta omaisuudesta, sopimuksista ja vastuista Länsi Uudenmaan hyvinvointialueelle lain asettamaan määräaikaan 28.2.2022 mennessä. Länsi Uudenmaan hyvinvointialueen aluevaltuusto on 29.3.2022 tekemällään päätöksellä ottanut Kirkkonummen kunnan toimittaman selvityksen siirtyvästä omaisuudesta, sopimuksista, vastuista ja kunnalta vuokrattavista toimitiloista vastaan ja merkinnyt sen tiedoksi. Aluevaltuusto on saattanut asian uudelleen aluehallituksen valmist eluun ja ohjeistanut tuomaan asian uudelleen aluevaltuuston hyväksyttäväksi. Omaisuutta, sopimuksia ja tiloja koskevat siirrot tullaan saattamaan uudelleen päätöksentekoon syksyn 2022 aikana Kirkkonummen kunta on joko hyvinvointialueen pyynnöstä tai jos toimitiloissa, irtaimessa omaisuudessa tai sopimuksissa on tapahtunut olennaisia muutoksia selvityksen antamisen jälkeen, täydentänyt selvitystään voimaanpanolain 26 § :n mukaisesti. Kirkkonummen kunta täydentää tällä päätöksellä 28.2.2022 § 15 antamaansa selvitystä Länsi - Uudenmaan hyvinvointialueelle. Sopimus- ja toimitilaliitteisiin on merkitty kunnanvaltuuston käsittelyn jälkeen tehdyt muutokset värikoodein: Lisäys vihreällä, muutos keltaisella ja poisto puna isella. Irtainta omaisuutta koskevista liitteistä tämän kokousasian liitteinä ovat vain ne, joihin on tullut muutoksia kunnanvaltuuston päätöksen 28.2.2022 § 15 jälkeen. Siirtyvän henkilöstön osalta tuodaan siirtosopimus ja listaus siirtyvästä henkilöstös tä lokakuun hallituksen kokoukseen. Linkki kunnanvaltuuston päätökseen 28.2.2022 § 15 liitteineen: http://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221062-4",
+        "esittelija": "Kunnanjohtaja Aarnio Tarmo",
+        "paatosehdotus": "Kunnanhallitus toimittaa selvityksen täydennyksen ja liitteiden (1,2,5,6,7 ja 8) mukaiset tiedot sosiaali- ja terveydenhuollon sekä pelastustoimen käytössä olevista toimitiloista, siirtyvästä irtaimesta omaisuudesta, sopimuksista ja vastuista sellaisenaan kunnanvaltuustolle tiedoksi",
+        "kasittely": "Kunnanjohtaja Tarmo Aarnio esitteli asiaa kokouksessa",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+        "tiedoksi": "Kunnanvaltuusto Kunnanvaltuusto 05.09.2022 § 63 8/00.01.00/2022"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "paatos_labels": 2,
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "kh27062022_Liite1_siirtyvät_toimitilat",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20221190-4-76335.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "kh27062022_Liite2_siirtyvät_jälleenvuokra-asunnot",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20221190-4-76314.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite 5 Siirtyvät omat ja leasing ajoneuvot 6 22 kh",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20221190-4-76337.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite 5b Kirkkonummen autot_6 22 Leasingvastuu 31122022 kh",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20221190-4-76336.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite 6 Leasingvastuut 6 22 ei ajoneuvot",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20221190-4-76330.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite 6.1 leasingvastuut ei ajoneuvot 6 22",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20221190-4-76332.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite 7 Varastot 6 22",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20221190-4-76328.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite 8 Hyvinvointialueelle siirrettävät sopimukset",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20221190-4-76231.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20221190-5",
+      "ordinal": "5",
+      "title": "Vastaus valtuustoaloitteeseen 7/2020: esteettömän luontoreitin rakentaminen Linlon saareen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221190-5",
+      "decision": "Kunnanvaltuusto päätti palauttaa asian uuteen valmisteluun. Lisäksi valtuusto hyväksyi yksimielisesti evästyksen, että vammais- ja vanhusneuvosto tulisi ottaa mukaan esteettömän reitin suunnitteluun",
+      "votes": [],
+      "initiative": {
+        "ref": "7/2020",
+        "proposer": "Valtuutettu Irja Bergholm",
+        "party": null,
+        "name": "Irja Bergholm"
+      },
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus antaa selvityksen vastauksena valtuustoaloitteeseen 7/2020 ja esittää kunnanvaltuustolle, että se merkitsee vastauksen tiedoksi ja pitää vastausta riittävänä ja aloitetta loppuun käsiteltynä",
+        "kasittely": "Puheenjohtaja julisti keskustelun päättyneeksi ja totesi että valtuutettu Minna Hakapää on jättänyt seuraavan palautuseh dotuksen: Valtuustoaloite palautetaan, jonka aikana selvitetään toteuttamis kustannukset noin kilometrin mittaiseen esteettömän reitin toteuttamiseen. Palautusehdotusta kannattivat: Hans Hedberg, Johanna Fleming, Noora Piili, Martin Honkanen, Martin Valto nen, Anna Aintila, Katja Ylisiurua, Tony Björk, Josephine Frimodig, Antti Salonen, Ulf Kjerin, Anna Sahiluoma, Ari Harinen, Tero Suominen, Patrik Lundell, Sini Felipe, Kim Liljequist, Kari Virtanen, Henri Annila, Markus Myllyniemi, Jani Ekman, Leena Virkki , Tuovi Ronkainen ja Antti Kilappa. Palautusehdotusta ei hyväksytty yksimielisesti, joten puheenjohtaja totesi, että siitä on äänestettävä. Puheenjohtaja ehdotti että asiasta äänestetään niin, että ne jotka kannattavat asian jatkokäsittelyä äänestävät JA A ja ne jotka kannattavat Minna Hakapään palautusehdotusta äänestävät Ei. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 13 JAA ääntä ja 38 EI ääntä. Asian palautusehdotus sai enemmän ääniä joten asia päätettiin palauttaa uuteen valmisteluun. Valtuutettu Katja Ylisiurua on keskustelun aikana jättänyt seuraavan evästysehdotuksen: Vammais- ja vanhusneuvosto tulisi ottaa mukaan esteettömän reitin suunnitteluun. Evästysehdotusta kannattivat: Johanna Fleming, Sini Felipe, Martin Valtonen, Kari Virtanen, Henri Annila, Martin Honkanen, Tuovi Ronkainen, Leena Virkki, Ulf Kjerin, Tony Björk ja Minna Hakapää. Puheenjohtajan tiedustellessa evästysehdotus hyväksyttiin yksimielisesti",
+        "paatos": "Kunnanvaltuusto päätti palauttaa asian uuteen valmisteluun. Lisäksi valtuusto hyväksyi yksimielisesti evästyksen, että vammais- ja vanhusneuvosto tulisi ottaa mukaan esteettömän reitin suunnitteluun"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtuustoaloite esteettömän luontoreitin rakentamiseksi Linlon saareen",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20221190-5-34495.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Minna Hakapää",
+          "kind": "palautusehdotus",
+          "text": "dotuksen: Valtuustoaloite palautetaan, jonka aikana selvitetään toteuttamis kustannukset noin kilometrin mittaiseen esteettömän reitin toteuttamiseen. Palautusehdotusta kannattivat: Hans Hedberg, Johanna Fleming, Noora Piili, Martin Honkanen, Martin Valto nen, Anna Aintila, Katja Ylisiurua, Tony Björk, Josephine Frimodig, Antti Salonen, Ulf Kjerin, Anna Sahiluoma, Ari Harinen, Tero Suominen, Patrik Lundell, Sini Felipe, Kim Liljequist, Kari Virtanen, Henri Annila, Markus Myllyniemi, Jani Ekman, Leena Virkki , Tuovi Ronkainen ja Antti Kilappa. Palautusehdotusta ei hyväksytty yksimielisesti, joten puheenjohtaja totesi, että siitä on äänestettävä",
+          "source": "introduction",
+          "party": "pro yl"
+        }
+      ]
+    },
+    {
+      "id": "20221190-6",
+      "ordinal": "6",
+      "title": "Vastaus valtuustoaloitteeseen 10/2020: Kirkkonummen kunnan liittyminen oikeusministeriön Sano ei korruptiolle -kampanjaan",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221190-6",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "initiative": {
+        "ref": "10/2020",
+        "proposer": "Vihreä valtuustoryhmä",
+        "party": "vihr",
+        "name": null
+      },
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa, että Kirkkonummen kunta liittyy oikeusministeriön Sano ei korruptiolle- kampanjaan ja antaa yllä olevan selvityksen vastauksena valtuustoaloitteeseen ja esittää kunnanvaltuustolle, että se pitää annetun vastauksen riittävänä ja aloitetta täten loppuunkäsiteltynä",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtuustoaloite Kirkkonummen kunnan liittymiseksi mukaan oikeusministeriön Sano ei korruptiolle -kampanjaan",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20221190-6-40924.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20221190-7",
+      "ordinal": "7",
+      "title": "Vastaus valtuustoaloitteeseen 2/2022: Asiakasystävällisempi talvikunnossapito poistamalla tonttiliittymien aurausvallit",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221190-7",
+      "decision": "Kunnanvaltuusto päätti ehdotuksen mukaisesti",
+      "votes": [
+        {
+          "jaa": [
+            "Annila Henri",
+            "Salminen Ville",
+            "Seppälä Ulla Sahiluoma Anna",
+            "Kajanti Carl-Johan",
+            "Salonen Antti",
+            "Åström Kim",
+            "Huhmarniemi Saara",
+            "Ylikoski Jukka",
+            "Määttä Jussi",
+            "Piili Noora",
+            "Blom Urho",
+            "Karkinen Ronja",
+            "Kosonen Liisa",
+            "Leijala Aku",
+            "Granström Anneli",
+            "Virkki Leena",
+            "Kaurila Matti",
+            "Liljequist Kim",
+            "Honkanen Martin",
+            "Purra Riikka",
+            "Oittinen Paula",
+            "Virtanen Kari",
+            "Aallonharja Piia",
+            "Kari Marko",
+            "Kilappa Antti Järvinen Johanna",
+            "Männikkö Kim"
+          ],
+          "ei": [
+            "Gustafsson Stefan",
+            "Frantsi-Lankia Marjut",
+            "Aintila Anna",
+            "Lundell Patrik",
+            "Frimodig Josephine",
+            "Valtonen Martin",
+            "Kämpe-Hellenius Jerri",
+            "Presnukhina Anna",
+            "Hakapää Minna",
+            "Haapaniemi Timo",
+            "Ronkainen Tuovi",
+            "Harinen Ari",
+            "Petäjäjärvi Krista",
+            "Ekman Jani",
+            "Hedberg Hans",
+            "Fleming Johanna",
+            "Kjerin Ulf",
+            "Myllyniemi Markus",
+            "Felipe Sini",
+            "Ylisiurua Katja",
+            "Björk Tony",
+            "Orko Maarit",
+            "Suominen Tero"
+          ],
+          "tyhja": [],
+          "parties": {
+            "jaa": {
+              "vihr": 4,
+              "ps": 6,
+              "tuntematon": 2,
+              "rkp": 3,
+              "pro yl": 3,
+              "kok": 8
+            },
+            "ei": {
+              "rkp": 9,
+              "kesk": 1,
+              "vihr": 4,
+              "pro yl": 1,
+              "kok": 2,
+              "sdp": 5,
+              "vas": 1
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "asian jatkokäsittelyä",
+            "ei_label": "Jerri Kämpe-Helleniuksen palautusehdotusta",
+            "jaa_kind": "jatkokasittely",
+            "ei_kind": "jatkokasittely",
+            "kind": "procedural_substantive",
+            "rationale": "Puheenjohtaja julisti keskustelun päättyneeksi ja totesi että Jerri Kämpe-Hellenius on jättänyt seuraavan palautusehdotuksen: Aloitteen mukaisesti aloitteeseen palataan kun on esittää Va a san malli ja sen kokemukset.",
+            "winner": null,
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat asian jatkokäsittelyä äänestävät JAA, ja ne jotka kannattavat Jerri Kämpe-Helleniuksen palautusehdotusta äänestävät EI"
+          }
+        }
+      ],
+      "initiative": {
+        "ref": "2/2022",
+        "proposer": "Valtuutettu Jerri Kämpe-Hellenius",
+        "party": null,
+        "name": "Jerri Kämpe-Hellenius"
+      },
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus esittää kunnanvaltuustolle, että se pitää laadittua vastausta valtuustoaloitteeseen 2/2022 riittävänä ja aloitetta loppuun käsiteltynä. Kirkkonummen tulee tutustua Vaasan malliin",
+        "kasittely": "Puheenjohtaja julisti keskustelun päättyneeksi ja totesi että Jerri Kämpe-Hellenius on jättänyt seuraavan palautusehdotuksen: Aloitteen mukaisesti aloitteeseen palataan kun on esittää Va a san malli ja sen kokemukset. Palautusehdotusta kannattivat Sini Felipe, Marjut Frantsi-Lankia, Patrik Lundell, Tony Björk, Josephine Frimodig, Ulf Kjerin, Ari Harinen, Jani Ekman, Katja Ylisiurua, Johanna Fleming, Tero Suominen, Tuovi Ronkainen ja Markus Myllyniemi. Palautusehdotusta ei hyväksytty yksimielisesti joten puheenjohtaja totesi että asiasta on äänestettävä. Puheenjohtaja ehdotti että asiasta äänestetään niin että ne jotka kannattavat asian jatkokäsittelyä äänestävät JAA, ja ne jotka kannattavat Jerri Kämpe-Helleniuksen palautusehdotusta äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 28 JAA ääntä ja 23 ääntä. Asian jatkokäsittely sai enemmän ääniä ja asian käsittelyä päätettiin jatkaa. JAA äänestivät: Annila Henri , Salminen Ville , Seppälä Ulla Sahiluoma Anna , Kajanti Carl-Johan , Salonen Antti , Åström Kim , Huhmarniemi Saara , Ylikoski Jukka , Määttä Jussi , Piili Noora , Blom Urho , Karkinen Ronja , Kosonen Liisa , Leijala Aku , Granström Anneli , Virkki Leena , Kaurila Matti , Liljequist Kim , Honkanen Martin , Purra Riikka , Oittinen Paula , Virtanen Kari , Aallonharja Piia , Kari Marko , Kilappa Antti Järvinen Johanna ja Männikkö Kim EI äänestivät: Gustafsson Stefan , Frantsi-Lankia Marjut , Aintila Anna , Lundell Patrik , Frimodig Josephine , Valtonen Martin , Kämpe-Hellenius Jerri , Presnukhina Anna , Hakapää Minna , Haapaniemi Timo , Ronkainen Tuovi , Harinen Ari , Petäjäjärvi Krista , Ekman Jani , Hedberg Hans , Fleming Johanna , Kjerin Ulf , Myllyniemi Markus , Felipe Sini , Ylisiurua Katja , Björk Tony , Orko Maarit ja Suominen Tero",
+        "paatos": "Kunnanvaltuusto päätti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtuustoaloite asiakasystävällisempään talvikunnossapitoon poistamalla tonttiliittymien aurausvallit",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20221190-7-66951.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Jerri Kämpe-Hellenius",
+          "kind": "palautusehdotus",
+          "text": "Aloitteen mukaisesti aloitteeseen palataan kun on esittää Va a san malli ja sen kokemukset. Palautusehdotusta kannattivat Sini Felipe, Marjut Frantsi-Lankia, Patrik Lundell, Tony Björk, Josephine Frimodig, Ulf Kjerin, Ari Harinen, Jani Ekman, Katja Ylisiurua, Johanna Fleming, Tero Suominen, Tuovi Ronkainen ja Markus Myllyniemi. Palautusehdotusta ei hyväksytty yksimielisesti joten puheenjohtaja totesi että asiasta on äänestettävä",
+          "source": "introduction",
+          "party": "rkp"
+        }
+      ]
+    },
+    {
+      "id": "20221190-8",
+      "ordinal": "8",
+      "title": "Eron myöntäminen varavaltuutetun tehtävästä (H-MK)",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221190-8",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "johdon assistentti Gunnel Ekström, etunimi.sukunimi@kirkkonummi.fi Hilkka-Maija Katajisto on pyytänyt eroa kunnanvaltuuston varajäsenyydestä paikkakunnalta muuton vuoksi. Kuntalain 10 luvun 70 §:n mukaan luottamustoimesta voi erota pätevästä syystä. Eron myöntämisestä päättää luottamushenkilön valinnut toimielin. Valtuu sto myöntää eron valtuutetulle ja varavaltuutetulle",
+        "esittelija": "Kunnanjohtaja Aarnio Tarmo",
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto 1 myöntää eron Hilkka-Maija Katajistolle varavaltuutetun tehtävästä 2 merkitsee tiedokseen, että keskusvaalilautakunta arvioi tarpeen määrätä uuden varavaltuutetun 3 tarkastaa pöytäkirjan t ämän pykälän osalta kokouksessa",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+        "tiedoksi": "asianosaisille, keskusvaalilautakunnalle"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "paatos_labels": 2,
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20221190-9",
+      "ordinal": "9",
+      "title": "Eron myöntäminen kunnanhallituksen varajäsenen tehtävästä sekä uuden varajäsenen valitseminen (H-MK)",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221190-9",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Hilkka-Maija Katajistolle kunnanhallituksen varajäsenen tehtävästä 2 valita Maija Jäntin uudeksi varajäseneksi kunnanhallitukseen Hilkka-Maija Katajiston tilalle toimikauden loppuun",
+      "votes": [],
+      "sections": {
+        "valmistelija": "johdon assistentti Gunnel Ekström , etunimi.sukunimi@kirkkonummi.fi Hilkka-Maija Katajisto on 3.8.2022 päivätyllä kirjeellä pyytänyt eroa kunnanhallituksen varajäsenen tehtävästä paikkakunnalta muuton takia. Kuntalain 10 luvun 70 §:n mukaan luottamustoimesta voi erota pätevästä syystä. Eron myöntämisestä päättää luottamushenkilön valinnut toimielin. Kunnanvaltuusto on 30.8.2021 § 80 valinnut kunnanhallitukseen 13 jäsentä ja heille henkilökohtaiset varajäsenet kaudeksi 2021 - 2023 seuraavasti: Timo Haapaniemi, Kok. / Marko Kari, Kok. Piia Aallonharja, PS / Martin Honkanen, PS Tony Björk, RKP / Josephine Frimodig, RKP Anna Aintila, RKP / Kim Liljequist, RKP Marjut Frantsi-Lankia, Kesk. / Kati Kaihlaranta, Vas. Anneli Granström, PS / Ville Salminen, PS Ari Harinen, SDP / Sini Felipe , SDP Saara Huhmarniemi, Vihr. / Pietari Vuorensola, Vihr. Carl-Johan Kajanti, RKP / Kim Männikkö, RKP Antti Kilappa, Pro Kirkkonummi / Minna Hakapää, Pro Kirkkonummi Markus Myllyniemi, Vihr. / Sanni Jäppinen, Vihr. Anna Sahiluoma, Kok. / Hilkka- Maija Katajisto, Kok. Kim Åström, Kok. / Matti Kaurila, Kok. Timo Haapanie mi (Kok.) valittiin kunnanhallituksen puheenjohtajaksi, Piia Aallonharja (PS) I varapuheenjohtajaksi ja Tony Björk (RKP) II varapuheenjohtajaksi kaudeksi 2021 - 2023",
+        "esittelija": "Kunnanjohtaja Aarnio Tarmo",
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto 1 myöntää eron Hilkka-Maija Katajistolle kunnanhallituksen varajäsenen tehtävästä 2 valitsee Leena Virkin uudeksi varajäseneksi kunnanhallitukseen Hilkka-Maija Katajiston tilalle toimikauden loppuun",
+        "kasittely": "Keskustelun aikana valtuutettu Urho Blom esitti seuraavaa: Kokoomuksen valtuustoryhmä esittää kunnanhallituksen varajäseneksi varavaltuutettu Maija Jänttiä. Kunnanvaltuusto hyväksyi yksimielisesti Urho Blomin ehdotuksen",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Hilkka-Maija Katajistolle kunnanhallituksen varajäsenen tehtävästä 2 valita Maija Jäntin uudeksi varajäseneksi kunnanhallitukseen Hilkka-Maija Katajiston tilalle toimikauden loppuun",
+        "tiedoksi": "as ianosaisille"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "paatos_labels": 2,
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20221190-10",
+      "ordinal": "10",
+      "title": "Eron myöntäminen kunnanhallituksen varajäsenen tehtävästä sekä uuden varajäsenen valitseminen (PV)",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221190-10",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Pietari Vuorensolalle kunnanhallituksen varajäsenen tehtävästä 2 valita Henri Annila uudeksi varajäseneksi kunnanhallitukseen Pietari Vuorensolan tilalle toimikauden loppuun",
+      "votes": [],
+      "sections": {
+        "valmistelija": "johdon assistentti Gunnel Ekström, etunimi.sukunimi@kirkkonummi.fi Pietari Vuorensola on 10.8.2022 päivätyllä kirjeellä pyytänyt eroa kunnanhallituksen varajäsenen tehtävästä . Kuntalain 10 luvun 70 §:n mukaan luottamustoimesta voi erota pätevästä syystä. Eron myöntämisestä päättää luottamushenkilön valinnut toimielin. Kunnanvaltuusto on 30.8.2021 § 80 valinnut kunnanhallitukseen 13 jäsentä ja heille henkilökohtaiset varajäsenet kaudeksi 2021 - 2023 seuraavasti: Timo Haapaniemi, Kok. / Marko Kari, Kok. Piia Aallonharja, PS / Martin Honkanen, PS Tony Björk, RKP / Josephine Frimodig, RKP Anna Aintila, RKP / Kim Liljequist, RKP Marjut Frantsi-Lankia, Kesk. / Kati Kaihlaranta, Vas. Anneli Granström, PS / Ville Salminen, PS Ari Harinen, SDP / Sini Felipe , SDP Saara Huhmarniemi, Vihr. / Pietari Vuorensola, Vihr. Carl-Johan Kajanti, RKP / Kim Männikkö, RKP Antti Kilappa, Pro Kirkkonummi / Minna Hakapää, Pro Kirkkonummi Markus Myllyniemi, Vihr. / Sanni Jäppinen, Vihr. Anna Sahiluoma, Kok. / Hilkka- Maija Katajisto, Kok. Kim Åström, Kok. / Matti Kaurila, Kok. Timo Haapanie mi (Kok.) valittiin kunnanhallituksen puheenjohtajaksi, Piia Aallonharja (PS) I varapuheenjohtajaksi ja Tony Björk (RKP) II varapuheenjohtajaksi kaudeksi 2021 - 2023. Esi ttelijä Kunnanjohtaja Aarnio Tarmo",
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto 1 myöntää eron Pietari Vuorensolalle kunnanhallituksen varajäsenen tehtävästä 2 valitsee uuden varajäsenen kunnanhallitukseen Pietari Vuorensolan tilalle toimikauden loppuun",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Pietari Vuorensolalle kunnanhallituksen varajäsenen tehtävästä 2 valita Henri Annila uudeksi varajäseneksi kunnanhallitukseen Pietari Vuorensolan tilalle toimikauden loppuun",
+        "tiedoksi": "asianosaisille",
+        "kasittely": "Keskustelun aikana valtuutettu Markus Myllyniemi esitti, että Vihreä valtuustoryhmä esittää tehtävään varavaltuutettu Henri Annilaa. Kunnanvaltuusto hyväksyi ehdotuksen yksimielisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "paatos_labels": 2,
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20221190-11",
+      "ordinal": "11",
+      "title": "Eron myöntäminen henkilöstöjaoston jäsenyydestä ja varapuheenjohtajan tehtävästä sekä uuden jäsenen ja varapuheenjohtajan valitseminen (H-MK)",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221190-11",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Hilkka-Maija Katajistolle henkilöstöjaoston jäsenyydestä ja varapuheenjohtajan tehtävästä 2 valita Maija Jäntin uudeksi jäseneksi ja varapuheenjohtajaksi Hilkka-Maija Katajiston tilalle henkilöstöjaostoon toimikauden loppuun",
+      "votes": [],
+      "sections": {
+        "valmistelija": "johdon assistentti Gunnel Ekström, etunimi.sukunimi@kirkkonummi.fi Hilkka-Maija Katajisto on 3.8.2022 päivätyllä kirjeellä pyytänyt eroa henkilöstöjaoston varapuheenjohtajan tehtävästä paikkakunnalta muuton vuoksi. Kunnanhallitus on 6.9.2021 § 369 valinnut henkilöstöjaoston kaudeksi 2021-2023 seuraavasti: Ville Salminen (puheenjohtaja) (PS), varalle Johanna Järvinen (PS) Hilkka-Maija Katajisto (varapuheenjohtaja) (KOK), varalle Tarja Siivonen (KOK) jäseneksi: Miika Engström (RKP) , varalle Stig Kvarnström (RKP) Anita Forssén (RKP), varalle My Sundelin (RKP) Anna-Mari Toikka (Vihr), varalle Maarit Orko (Vihr) Jyki Grönlund (prok), varalle Jan Nordström ( prok) Kati Kaihlaranta (VAS), varalle Riki Saarimaa (VAS)",
+        "esittelija": "Kunnanjohtaja Aarnio Tarmo",
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto 1 myöntää eron Hilkka-Maija Katajistolle henkilöstöjaoston jäsenyydestä ja varapuheenjohtajan tehtävästä 2 valitsee Maija Jäntin uudeksi jäseneksi ja varapuheenjohtajaksi Hilkka-Maija Katajiston tilalle henkilöstöjaostoon toimikauden loppuun",
+        "kasittely": "Keskustelun aikana valtuutettu Urho Blom ehdotti seuraavaa: Kokoomuksen valtuustoryhmä esittää henkilöstöjaoston jäseneksi ja varapuheenjohtajaksi varavaltuutettu Maija Jänttiä. Kunnanvaltuusto hyväksyi yksimielisesti Urho Blomin ehdotuksen",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Hilkka-Maija Katajistolle henkilöstöjaoston jäsenyydestä ja varapuheenjohtajan tehtävästä 2 valita Maija Jäntin uudeksi jäseneksi ja varapuheenjohtajaksi Hilkka-Maija Katajiston tilalle henkilöstöjaostoon toimikauden loppuun",
+        "tiedoksi": "asianosaisille"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "paatos_labels": 2,
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20221190-12",
+      "ordinal": "12",
+      "title": "Eron myöntäminen perusturvalautakunnan varajäsenen tehtävästä sekä uuden varajäsenen valitseminen (MS)",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221190-12",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "johdon assistentti Gunnel Ekström, etunimi.sukunimi@kirkkonummi.fi Mitra Sjöroos on pyytänyt eroa luottamustehtävistä Kirkkonummella paikkakunnalta muuton takia. Kuntalain 10 luvun 70 §:n mukaan luottamustoimesta voi erota pätevästä syystä. Eron myöntämisestä päättää luottamushenkilön valinnut toimielin. Kunnanvaltuusto päätti 30.8.2021 § 81 valita perusturvalautakuntaan 11 jäsentä ja heille henkilökohtaiset varajäsenet kaudeksi 2021-2025 seuraavasti: Markus Myllyniemi, Vihr. / Virve Keskinen, Vihr. Ulf Kjerin, RKP / Kaj Sjöblom, RKP Sini Felipe, SDP / Tero Suominen, SDP Tero Strand, SDP / Katja Juuti, SDP Minna Hakapää, Pro Kirkkonummi / Ari Suoranta, Pro Kirkkonummi Sami Ragnell, Liik. / Pekka J. Mattila, Kristall. Maija Jäntti, Kok. / Tarja Siivonen, Kok. Juha Oksanen, Kok. / Tuomas Holm, Kok. Johanna Järvinen, PS / Heikki Nurmela, Kirnu ry Jani Kähkönen, PS / Mitra Sjöroos, PS Jenny Mäkinen, RKP / Beatrice Fallenius, RKP Markus Myllyniemi valittiin (Vihr.) perusturvalautakunnan puheenjohtajaksi ja Ulf Kjerin (RKP) varapuheenjohtaj aksi kaudeksi 2021-2025",
+        "esittelija": "Kunnanjohtaja Aarnio Tarmo",
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto myöntää eron Mitra Sjöroosille perusturvalautakunnan varajäsenen tehtävästä sekä valitsee Leena Salomaan uudeksi varajäseneksi Mitra Sjöroosin tilalle toimikauden loppuun",
+        "kasittely": "Keskustelun aikana jäsen Piia Aallonharja esitti että uudeksi varajäseneksi Mitra Sjöroosin tilalle valitaan Leena Salomaa",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+        "tiedoksi": "asianosaisille"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "paatos_labels": 2,
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20221190-13",
+      "ordinal": "13",
+      "title": "Valtuustoaloite 11/2022: Kirkkonummen kunnan tulee heti vähentää energiankulutustaan nopeilla ja kustannustehokkailla ratkaisuilla",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221190-13",
+      "decision": "Kunnanvaltuusto toimittaa valtuustoaloitteen kunnanhallitukselle valmisteltavaksi",
+      "votes": [],
+      "initiative": {
+        "ref": "11/2022",
+        "proposer": "ä, ensimmäisinä allekirjoittajina Kim Liljequist, Josephine Frimodig ja Carl-Johan Kajanti",
+        "party": "rkp",
+        "name": "Carl-Johan Kajanti"
+      },
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Valtuustoaloite 11-2022 Kirkkonummen kunnan tulee heti vähentää energiankulutustaan nopeilla ja kustannustehokkailla ratkaisuilla Valtuustoaloite 11/2022: Kirkkonummen kunnan tulee heti vähentää energiankulutustaan nopeilla ja kustannustehokkailla ratkaisuilla Kunnanvaltuusto 05.09.2022 § 72 950/10.03.02.03/2022 RKP valtuustoryhmä, ensimmäisinä allekirjoittajina Kim Liljequist, Josephine Frimodig ja Carl-Johan Kajanti jättivät kunnanvaltuuston kokouksessa 5.9.2022 seuraavan aloitteen: \" Niin korona kuin Venäjän sotakin ovat johtaneet tilanteeseen, jossa sekä polttoaineiden että sähkön hinnat ovat nousseet huomattavasti lyhyehköllä ajanjaksolla. On vahvoja indikaattoreita siitä, että nämä hinnat myös jatkavat nousuaan tai ainakin pysyvät hyvin korkeina tulevaisuudessa. Sähköyhtiöt uusivat tänä päivänä sähkösopimuksia monin verroin korkeampaan hinta an kuin ennen, ja HSL varautuu kalliimpiin polttoaineiden hintoihin. Kyseessä on tilanne, joka heijastuu suoraan niihin kuntaosuuksiin, joita HSL:n jäsenten tulee maksaa. Lisäksi valmisteilla on, että sähkökriisin sattuessa tehdään hallittuja lyhyitä katko ksia sähkönjakeluun talven aikana. Yhdistettynä korkeaan inflaatioon tämä johtaa siihen, että kaupunkeja ja kuntia uhkaavat suuret talouskriisit, joihin sisältyy äkkinäisiä hintasokkeja ja karkaavia sähkön hintoja. Kuntien tulee ymmärtää, että nyt on hyvä aika selvittää ja tehdä päätöksiä vastatoimista, jotta ne voisivat mahdollisimman nopeasti turvata taloutensa mahdollisimman hyvin. Tämä koskee myös Kirkkonummen kuntaa. On tullut tietoon, että vuonna 2022 energian kustannukset ylittävät budjetoidut vara t ainakin 650 000 €:ll a. Tämä on liikaa kunnalle, jolla on edessään merkittävät säästötoimet. Me allekirjoittaneet kysymme, onko summan pakko kasvaa niin suureksi (tai jopa suuremmaksi), vai olisiko toimenpiteitä, joiden avulla voisi saavuttaa yksinkerta isia ja nopeita säästöjä? Lisäksi olisi tärkeää ja esimerkillistä, että kunta osallistuisi sähkönsäästötalkoisiin, joita suunnitellaan maanlaajuisiksi vuodelle 2022. Siksi me allekirjoittaneet kehotamme Kirkkonummen kuntaa välittömästi aloittamaan selvity ksen mahdollisuuksista vähentää sähkön ja fossiilisten polttoaineiden kulutusta sekä kriittisesti tarkastelemaan riskienhallintaansa näiden taloudellisten riskien osalta. Tulisi keskittyä löytämään yksinkertaisia ja järkeviä innovatiivisia ratkaisuja, joid en toteuttaminen olisi nopeaa ja kustannustehokasta *. Kirkkonummen tulisi kantaa kortensa kekoon sähkönsäästötalkoissa. Kirkkonummella 25.8.2022 Kim Liljequist (SFP), Josephine Frimodig (SFP), Carl-Johan Kajanti (SFP) * = muutama esimerkki: täytyykö kannettavien tietokoneiden / pöytätietokoneiden oheislaitteineen aina olla latauksessa, vai voisiko kuvitella, että ne eivät olisi kytkettyinä sähköverkkoon ollessaan valmiustilassa tai sammutettuina? Voisiko kuvitella raken nusten sisälämpötilojen alentamista 1-2 asteella tai uimahallin veden lämpötilaa tilapäisesti? Voisiko katuvalaistusta aikaoptimoida tai vähentää paikoitellen? \" Aloitteen allekirjoittivat: Kim Liljequist, Josephine Frimodig, Carl-Johan Kajanti, Katja Ylis iurua, Elina Kärkimaa, Timo Haapaniemi, Anna Sahiluoma, Leena Virkki, Marko Kari, Liisa Kosonen, Kim Åström, Kari Virtanen, Jani Ekman, Urho Blom, Ulf Kjerin, Hans Hedberg, Anna Aintila, Stefan Gustafsson, Henri Annila, Marjut Frantsi-Lankia, Minna Hakapää , Antti Kilappa, Johanna Fleming, Paula Oittinen, Maarit Orko, Piia Aallonharja, Ville Salminen, Jussi Määttä, Tony Björk, Kim Männikkö, Martin Valtonen, Markus Myllyniemi, Anna Presnukhina, Patrik Lundell, Tuovi Ronkainen, Sini Felipe, Tero Suominen, Ari Harinen, Ronja Karkinen ja Krista Petäjäjärvi",
+        "paatos": "Kunnanvaltuusto toimittaa valtuustoaloitteen kunnanhallitukselle valmisteltavaksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtuustoaloite 11-2022 Kirkkonummen kunnan tulee heti vähentää energiankulutustaan nopeilla ja kustannustehokkailla ratkaisuilla",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20221190-13-78786.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20221190-14",
+      "ordinal": "14",
+      "title": "Valtuustoaloite 12/2022: Kirkkonummen liittyminen mukaan Pidä Saaristo Siistinä ry:n Mahanpuruja muovista -kampanjaan",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221190-14",
+      "decision": "Kunnanvaltuusto toimittaa aloitteen kunnanhallitukselle valmisteltavaksi",
+      "votes": [],
+      "initiative": {
+        "ref": "12/2022",
+        "proposer": "Markus Myllyniemi",
+        "party": null,
+        "name": "Markus Myllyniemi"
+      },
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Valtuustoaloite 12-2022 Kirkkonummen liittyminen mukaan Pidä Saaristo Siistinä ryn Mahanpuruja muovista -kampanjaan Valtuustoaloite 12/2022: Kirkkonummen liittyminen mukaan Pidä Saaristo Siistinä ry:n Mahanpuruja muovista -kampanjaan Kunnanvaltuusto 05.09.2022 § 73 958/00.04.02/2022 Markus Myllyniemi jätti kunnanvaltuuston kokouksessa 5.9.2022 seuraavan aloitteen: \" Roskaantuminen ja mikromuovi ovat uusimpia ongelmia, jotka uhkaavat suomalaisia vesistöjä ja Itämerta. Muoviroska päätyy järviin ja mereen erityisen helposti huleveden mukana, joka johdetaan lähes kaikkialla suoraan puhdistamatta lähimpään vesistöön. Mikromuovien vaikutuksia kala- ja muihin eliölajeihin ei vielä täysin tunneta, mutta niiden tiedetään ainakin nostavan eläinten stressitasoja, kulkeutuvan ylöspäin ravintoketjussa aina ihmisiin asti ja imevän itseensä haitta-aineita ympäristössä. Monet merieläimet voivat myös takertua, tukehtua ja nälkiintyä muoviroskan vuoksi, kun sen kappaleet täyttävät niiden mahalaukun ja suoliston. Muoviroskan vesistökuormituk sen vähentämiseksi Pidä Saaristo Siistinä ry. on käynnistänyt Mahanpuruja muovista -viestintäkampanjan, jonka tavoitteena on vähentää muoviroskaamisen määrää \"nudging\"-tekniikkaa ja positiivista vaikuttamista hyödyntäen. Kampanjassa hulevesikaivot, roskapi steet ja tuhkikset tehdään entistä näkyvämmäksi hyödyntäen hauskoja värejä, tarroja ja kylttejä. Tästä paras esimerkki ovat kaivonkansien ympärille suunnitellut kalakuvat, joissa kaivo on kalan suu, jonne roskat joutuvat hulevesien mukana. Mahanpuruja muo vista -kampanja on saanut rahoitusta ympäristöministeriöltä, minkä ansiosta siihen osallistuminen aiheuttaa kunnille vain muutaman tuhannen euron kustannukset. Viestintäkampanjassa mukana ovat yhteensä 16 kuntaa ja kaupunkia ympäri Suomen mukaan lukien Esp oo, Helsinki, Kauniainen, Vantaa ja Vihti. Me allekirjoittaneet esitämme, että Kirkkonummen kunta osallistuu Mahanpuruja muovista -viestintäkampanjaan vuodesta 2023 alkaen. Markus Myllyniemi \" Aloitteen allekirjoittivat Vihreän valtuustoryhmän Markus Myl lyniemen lisäksi: Reetta Hyvärinen, Katja Ylisiurua, Johanna Fleming, Leena Virkki, Marko Kari, Liisa Kosonen, Kari Virtanen, Kim Åström, Timo Haapaniemi, Jani Ekman, Tuovi Ronkainen, Sini Felipe, Antti Kilappa, Minna Hakapää, Kim Liljequist, Martin Valton en, Tony Björk, Josephine Frimodig, Anna Aintila, Ulf Kjerin, Urho Blom, Ville Salminen ja Krista Petäjäjärvi",
+        "paatos": "Kunnanvaltuusto toimittaa aloitteen kunnanhallitukselle valmisteltavaksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtuustoaloite 12-2022 Kirkkonummen liittyminen mukaan Pidä Saaristo Siistinä ryn Mahanpuruja muovista -kampanjaan",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20221190-14-78838.PDF"
+        }
+      ],
+      "proposals": []
+    }
+  ],
+  "id": "20221190",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20221190"
+}

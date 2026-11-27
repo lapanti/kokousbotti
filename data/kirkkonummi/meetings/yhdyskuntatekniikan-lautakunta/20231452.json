@@ -1,0 +1,490 @@
+{
+  "title": "Yhdyskuntatekniikan lautakunta Pöytäkirja 25.05.2023 klo 17:00 - 20:45 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Yhdyskuntatekniikan lautakunta",
+  "doctype": "Pöytäkirja",
+  "date": "2023-05-25",
+  "items": [
+    {
+      "id": "20231452-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231452-1",
+      "decision": "Puheenjohtaja totesi kokouksen laillisesti koolle kutsutuksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "valmistelija": "Hallintosihteeri Suvi Wikström, etunimi.sukunimi@kirkkonummi.fi",
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Puheenjohtaja totesi kokouksen laillisesti koolle kutsutuksi ja päätösvaltaiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231452-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231452-2",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaisesti. Pöytäkirjantarkistajiksi valittiin Sanni Jäppinen ja Kim Liljequist",
+      "votes": [],
+      "sections": {
+        "valmistelija": "Hallintosihteeri Suvi Wikström etunimi.sukunimi@kirkkonummi.fi",
+        "paatosehdotus": "Yhdyskuntatekniikan lautakunta päättää 1 valita kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan 2 tarkastaa tämän pöytäkirjan sähköisesti seuraavan aikataulun mukaan: Perjantaina 26.5.2023 lähetetään pöytäkirja sähköpostitse pöytäkirjantarkastajille, jotka ilmoittavat hyväksymisestään viimeistään tiistaina 30.5.2023. Jos hyväksymisviestiä ei tule sihteerille em. ajankohtaan mennessä, pöytäkirja katsotaan hyväksytyksi. Pöytäkirja allekirjoitetaan sähköisesti. Pöytäkirja on nähtävänä keskiviikkona 31.5.2023 kunnan verkkosivulla. Yleinen oikaisuvaatimusaika alkaa torstaina 8.6.2023",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaisesti. Pöytäkirjantarkistajiksi valittiin Sanni Jäppinen ja Kim Liljequist"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231452-3",
+      "ordinal": "3",
+      "title": "Kirkkonummen kunnan metsästrategian päivittäminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231452-3",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti 1.palauttaa asian valmisteluun 2. että Hannu Valtasen kokouksessa esitetämä muokattu metsästragia sekä kokouksessa esiin tuodut ehdotukset otetaan valmistelussa huomioon 3. että asia tuodaan uudelleen käsittelyyn joko seuraavaan lautakunnan kokoukseen tai kesän jälkeiseen kokoukseen",
+      "votes": [
+        {
+          "jaa": [
+            "Frimodig Josephine",
+            "Salonen Antti",
+            "Snellman Jenny",
+            "Valtanen Hannu",
+            "Liljequist Kim",
+            "Kaurila Matti",
+            "Jäppinen Pekka",
+            "Kelkka Teemu"
+          ],
+          "ei": [
+            "Karkinen Ronja",
+            "Jäppinen Sanni"
+          ],
+          "tyhja": [],
+          "named_by": "surname",
+          "totals": {
+            "jaa": 8,
+            "ei": 2,
+            "tyhja": 0
+          },
+          "as_written": {
+            "jaa": [
+              "Frimodig",
+              "Salonen",
+              "Snellman",
+              "Valtanen",
+              "Liljequist",
+              "Kaurila",
+              "Jäppinen P",
+              "Kelkka"
+            ],
+            "ei": [
+              "Karkinen",
+              "Jäppinen S"
+            ],
+            "tyhja": []
+          },
+          "names_from": "osallistujat",
+          "unresolved": [],
+          "parties": {
+            "jaa": {
+              "rkp": 3,
+              "pro yl": 1,
+              "kok": 2,
+              "sdp": 1,
+              "kesk": 1
+            },
+            "ei": {
+              "vihr": 2
+            },
+            "tyhja": {}
+          }
+        },
+        {
+          "jaa": [
+            "Karkinen Ronja"
+          ],
+          "ei": [
+            "Jäppinen Pekka",
+            "Salonen Antti",
+            "Kelkka Teemu",
+            "Jäppinen Sanni",
+            "Snellman Jenny",
+            "Valtanen Hannu",
+            "Liljequist Kim",
+            "Kaurila Matti",
+            "Frimodig Josephine"
+          ],
+          "tyhja": [],
+          "named_by": "surname",
+          "totals": {
+            "jaa": 1,
+            "ei": 9,
+            "tyhja": 0
+          },
+          "as_written": {
+            "jaa": [
+              "Karkinen"
+            ],
+            "ei": [
+              "Jäppinen P",
+              "Salonen",
+              "Kelkka",
+              "Jäppinen S",
+              "Snellman",
+              "Valtanen",
+              "Liljequist",
+              "Kaurila",
+              "Frimodig"
+            ],
+            "tyhja": []
+          },
+          "names_from": "osallistujat",
+          "unresolved": [],
+          "parties": {
+            "jaa": {
+              "vihr": 1
+            },
+            "ei": {
+              "sdp": 1,
+              "pro yl": 1,
+              "kesk": 1,
+              "vihr": 1,
+              "rkp": 3,
+              "kok": 2
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "asian jatkokäsittelyä",
+            "ei_label": "Pekka Jäppisen palautusehdotusta",
+            "jaa_kind": "jatkokasittely",
+            "ei_kind": "jatkokasittely",
+            "kind": "procedural_substantive",
+            "rationale": ", jolloin Pekka Jäppisen palautusehdotus voitti.",
+            "winner": "ei",
+            "source": "parsed",
+            "evidence": "Ne, jotka kannattavat asian jatkokäsittelyä, äänestävät JAA ja ne, jotka kannattavat Pekka Jäppisen palautusehdotusta, äänestävät EI — Äänet jakautuivat seuraavasti: 1 JAA-ääni (Karkinen) 9 EI-ääntä (Jäppinen P., Salonen, Kelkka, Jäppinen S., Snellman, Valtanen, Liljequist, Kaurila, Frimodig)"
+          }
+        }
+      ],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko Kirkkonummen kunnan metsästrategia_YT ltk 19.1.2023 Uusi_metsästrategia 08.05.23 Uusi_metsästrategia 080523_\nuusi_metsastrategia_tekstina_ja_HVan_korjauksin\n1RAMS_luokittelu Kirkkonummen kunnan metsästrategian päivittäminen Yhdyskuntatekniikan lautakunta 25.05.2023 § 60 1023/10.03.01.06/2020",
+        "valmistelija": "Kuntatekniikkapäällikkö Keski-Lusa Toni etunimi.sukunimi@kirkkonummi.fi",
+        "paatosehdotus": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa Yhdyskuntatekniikan lautakunta päättää: 1. että se merkitsee uuden metsästrategian osaltaan käsitellyksi 2. esittää kunnanhallitukselle, että se osaltaan käsittelee uuden metsästrategian ja valtuuttaa kunnallistekniikkapalveluiden kunnossapitoyksikön asettamaan uuden metsästrategian nähtäville sekä pyytämään strategiasta lausunnot",
+        "kasittely": "Käsittelyn aikana Kim Liljequist teki seuraavan vastaesityksen: VASTAESITYS: Metsästrategian sivu 4/7, kohta 1.3 \"Kunnan ilmastotyön vaikutus metsästrategiaan\" loppuun lisätään teksti: Ilmastolliset, ekologiset ja sosiaaliset arvoperiaatteet eivät saa kohtuuttomasti rajoittaa ja/tai rasittaa metsien taloudellista käyttöä. Matti Kaurila, Josephine Frimodig, Jenny Snellman ja Antti Salonen kannattivat esitystä . Lisäksi Kim Liljequist teki myös seuraavan vastaesityksen: VASTAESITYS: Metsästrategian sivu 4/7, kohta 1.3: \"Kunnan ilmastotyön vaikutus metsästrategiaan\" loppuun lisätään teksti: Metsämaiden osittainen myynti on pidettävä vaihtoehtoisena keinona kunnan metsien taloudellisen järkevyyden ja tasapainon varmistamiseksi. Josephine Frimodig kannatti esitystä. Hannu Valtanen teki vastaesityksen metsästrategiaan. Hannu Valtasen vastaesitys on pöytäkirjan liitteenä. Matti Kaurila kannatti esitystä Lisäksi Hannu Valtanen vastaesityksen luku 1.2 kpl 3: Kunnan metsätaloussuunnitelma kattaa runsaat 1300 ha metsätalouden maata. Puuston tilavuus tällä alueella on 260 000 m3, josta kuusta ja mäntyä molempia 35 %, koivua ja muita lehtipuita 30 %. Puuston keskitilavuus on lähes 200 m3/ha. Metsien ikärakenne on painottunut varttuneisiin ja vanhoihin metsiin: metsistä 55 % on yli 60 vuotista, 38 % on 20-60 vuotista ja nuoria metsiä, alle 20 vuotista on 8 % pinta-alasta. Metsien vuotuinen kasvu on n. 8500 m3/v, eli 6 m3/ha/v. Toteutunut hakkuupolitiikka on merkinnyt, että vuotuinen kasvu taantuu ja ikärakenne edelleen vinoutuu. Hiilivarasto kasvaa, mutta vuosittainen hiilinielu vähenee. Matti Kaurila kannatti esitystä. Lisäksi Hannu Valtanen teki seuraavan vastaesityksen: Metsästrategiaan lisätään liite RAMS-luokittelusta Pekka Jäppinen teki seuraavan palautusehdotuksen: Ehdotan, että metsästrategia palautetaan uudelleenvalmisteluun siten, että Hannu Valtasen kokouksessa esitetämä muokattu metsästragia sekä kokouksessa esiin tuodut otetaan valmistelussa huomioon. Teemu Kelkka ja Sanni Jäppinen kannattivat ehdotusta Ronja Karkinen teki seuraavan palautusehdotuksen: Muotoillaan niin, että metsien tulisi toimia hiilinieluina koko ajan, ei vain pitkällä aikavälillä. Muotoillaan myös niin, että hiilitaselaskelmat tehdään ennen kymmenvuotista metsäsuunnitelmaa. Muotillaan niin, että arvojen tasa-arvon sijaan uskalletaan asettaa haluamamme asiat arvojärjestykseen strategisesti. Sanni Jäppinen kannatti palautusehdotusta. Puheenjohtaja totesi, että Pekka Jäppisen ja Ronja Karkisen palautusehdotukset äänestetään toisiaan vastaan. Puheenjohtaja käynnisti äänestyksen: Ne, jotka kannattivat Pekka Jäppisen palautusehdotusta äänestävät JAA ja ne, jotka kannattavat Ronja Karkisen palautusehdotusta äänestävät EI. Puheenjohtaja päätti äänestyksen. Äänet jakautuivat seuraavasti: 8 JAA-ääntä (Frimodig, Salonen, Snellman, Valtanen, Liljequist, Kaurila, Jäppinen P., Kelkka) 2 EI-ääntä (Karkinen, Jäppinen S.), jolloin Pekka Jäppisen palautusehdotus voitti. Pekka Jäppisen palautusehdotusta ei kannatettu yksimielisesti, joten puheenjohtaja totesin, että asiasta tulee äänestää. Ne, jotka kannattavat asian jatkokäsittelyä, äänestävät JAA ja ne, jotka kannattavat Pekka Jäppisen palautusehdotusta, äänestävät EI. Äänet jakautuivat seuraavasti: 1 JAA-ääni (Karkinen) 9 EI-ääntä (Jäppinen P., Salonen, Kelkka, Jäppinen S., Snellman, Valtanen, Liljequist, Kaurila, Frimodig), jolloin Pekka Jäppisen palautusehdotus, jossa Hannu Valtasen kokouksessa esitetämä muokattu metsästragia sekä kokouksessa esiin tuodut otetaan valmistelussa huomioon, voitti",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti 1.palauttaa asian valmisteluun 2. että Hannu Valtasen kokouksessa esitetämä muokattu metsästragia sekä kokouksessa esiin tuodut ehdotukset otetaan valmistelussa huomioon 3. että asia tuodaan uudelleen käsittelyyn joko seuraavaan lautakunnan kokoukseen tai kesän jälkeiseen kokoukseen",
+        "selostus": "Uusi Kirkkonummen kunnan metsästrategia sisältää Metsästrategian ja strategian liitteen. Liitteessä on esitelty toimintaperiaatteita, metsien käsittelyperiaatteet RAMS 2020 kunnossapitoluokissa ja sanasto. Metsästrategian päivityksessä ja siihen liittyvässä liitteessä on otettu huomioon yhdyskuntatekniikan lautakunnan 22.10.2020 § 112 päätöksessä esitetyt päivitystarpeet sekä 19.01.2023 § 5 käymät evästykset kannatusten mukaisesti. Metsästrategian onnistunut toteuttaminen edellyttää kunnallistekniikkapalveluissa metsiin liittyvän osaamisen lisäämistä sekä riittävien määrärahojen varaamista osaamisen varmistamiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kirkkonummen kunnan metsästrategia_YT ltk 19.1.2023",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231452-3-85652.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Uusi_metsästrategia 08.05.23",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231452-3-92056.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Uusi_metsästrategia 080523_Liitteet",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231452-3-92456.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "uusi_metsastrategia_tekstina_ja_HVan_korjauksin",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231452-3-92811.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite1RAMS_luokittelu",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231452-3-92812.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Kim Liljequist",
+          "kind": "vastaehdotus",
+          "text": "VASTAESITYS: Metsästrategian sivu 4/7, kohta 1.3 \"Kunnan ilmastotyön vaikutus metsästrategiaan\" loppuun lisätään teksti: Ilmastolliset, ekologiset ja sosiaaliset arvoperiaatteet eivät saa kohtuuttomasti rajoittaa ja/tai rasittaa metsien taloudellista käyttöä. Matti Kaurila, Josephine Frimodig, Jenny Snellman ja Antti Salonen kannattivat esitystä . Lisäksi Kim Liljequist teki myös seuraavan vastaesityksen: VASTAESITYS: Metsästrategian sivu 4/7, kohta 1.3: \"Kunnan ilmastotyön vaikutus metsästrategiaan\" loppuun lisätään teksti: Metsämaiden osittainen myynti on pidettävä vaihtoehtoisena keinona kunnan metsien taloudellisen järkevyyden ja tasapainon varmistamiseksi. Josephine Frimodig kannatti esitystä",
+          "source": "introduction",
+          "party": "rkp"
+        },
+        {
+          "proposer": "Hannu Valtanen",
+          "kind": "vastaehdotus",
+          "text": "metsästrategiaan. Hannu Valtasen vastaesitys on pöytäkirjan liitteenä. Matti Kaurila kannatti esitystä Lisäksi Hannu Valtanen vastaesityksen luku 1.2 kpl 3: Kunnan metsätaloussuunnitelma kattaa runsaat 1300 ha metsätalouden maata. Puuston tilavuus tällä alueella on 260 000 m3, josta kuusta ja mäntyä molempia 35 %, koivua ja muita lehtipuita 30 %. Puuston keskitilavuus on lähes 200 m3/ha. Metsien ikärakenne on painottunut varttuneisiin ja vanhoihin metsiin: metsistä 55 % on yli 60 vuotista, 38 % on 20-60 vuotista ja nuoria metsiä, alle 20 vuotista on 8 % pinta-alasta. Metsien vuotuinen kasvu on n. 8500 m3/v, eli 6 m3/ha/v. Toteutunut hakkuupolitiikka on merkinnyt, että vuotuinen kasvu taantuu ja ikärakenne edelleen vinoutuu. Hiilivarasto kasvaa, mutta vuosittainen hiilinielu vähenee. Matti Kaurila kannatti esitystä. Lisäksi",
+          "source": "introduction",
+          "party": "kok"
+        },
+        {
+          "proposer": "Pekka Jäppinen",
+          "kind": "palautusehdotus",
+          "text": "Ehdotan, että metsästrategia palautetaan uudelleenvalmisteluun siten, että Hannu Valtasen kokouksessa esitetämä muokattu metsästragia sekä kokouksessa esiin tuodut otetaan valmistelussa huomioon. Teemu Kelkka ja Sanni Jäppinen kannattivat ehdotusta",
+          "source": "introduction",
+          "party": "sdp"
+        },
+        {
+          "proposer": "Ronja Karkinen",
+          "kind": "palautusehdotus",
+          "text": "Muotoillaan niin, että metsien tulisi toimia hiilinieluina koko ajan, ei vain pitkällä aikavälillä. Muotoillaan myös niin, että hiilitaselaskelmat tehdään ennen kymmenvuotista metsäsuunnitelmaa. Muotillaan niin, että arvojen tasa-arvon sijaan uskalletaan asettaa haluamamme asiat arvojärjestykseen strategisesti. Sanni Jäppinen kannatti palautusehdotusta",
+          "source": "introduction",
+          "party": "vihr"
+        }
+      ]
+    },
+    {
+      "id": "20231452-4",
+      "ordinal": "4",
+      "title": "Tallinmäen asemakaavan hyväksyminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231452-4",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti: 1. esittää kunnanhallitukselle, että kunnanhallitus 1.1. hyväksyy Tallinmäen asemakaavaehdotuksesta saatuun palautteeseen laaditut perustellut kannanotot (ns. kaavoittajan vastineet) tämän asian liitteen mukaisesti, 1.2. hyväksyy Tallinmäen asemakaavan (piir. 3490) ja siihen liittyvät asiakirjat MRL 52 §:n mukaisesti sekä esittää ne edelleen kunnanvaltuuston hyväksyttäväksi, 2. todeta, että ennen Tallinmäen asemakaavan hyväksymistä kunnanvaltuustossa kunnan ja määrättyjen maanomistajien kesken on oltava lainvoimainen maankäyttösopimus. 3. että lautakunta valtuuttaa valmistelijan tekemään teknisiä korjauksia kaavamateriaaliin. 4. muuttaa asemakaavamerkintöjä kohdassa 4, hulevedet: Tontilla päällystetyt piha-alueet suositellaan tehtäväksi vettä läpäisevää materiaalia käyttäen. 5. että kaavan tori- ja katu-alueen suunnitelmat tuotava erikseen lautakuntaan esille ja käsittelyyn. 6. evästää, että Kirkkonummen keskustan jatkosuunnittelussa koordinoidaan, että maakuntamuseo saa kattavat tiedot rakennusten mahdollisen arvon arvioimiseen. 7. että jatkosuunnittelussa varmistetaan, että torialue voi valmistuttuaan toimia torina, asumisen ja elämisen keskuksena",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko Asemakaavaselostus_230525_sst_Su\n4-11 Lausunnot ja vastineet uusi_nn TallinmaÌˆki Asemakaava 230525\n3 Rakentamistapaohje Tallinmäen asemakaavan hyväksyminen Yhdyskuntatekniikan lautakunta 25.05.2023 § 61 86/10.02.03/2019",
+        "valmistelija": "asemakaavapäällikkö Simon Store etunimi.sukunimi@kirkkonummi.fi , puh. 0447602282",
+        "paatosehdotus": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa Yhdyskuntatekniikan lautakunta päättää 1. esittää kunnanhallitukselle, että kunnanhallitus 1.1. hyväksyy Tallinmäen asemakaavaehdotuksesta saatuun palautteeseen laaditut perustellut kannanotot (ns. kaavoittajan vastineet) tämän asian liitteen mukaisesti, 1.2. hyväksyy Tallinmäen asemakaavan (piir. 3490) ja siihen liittyvät asiakirjat MRL 52 §:n mukaisesti sekä esittää ne edelleen kunnanvaltuuston hyväksyttäväksi, 2. todeta että ennen Tallinmäen asemakaavan hyväksymistä kunnanvaltuustossa kunnan ja määrättyjen maanomistajien kesken on oltava lainvoimainen maankäyttösopimus. 3. että lautakunta valtuuttaa valmistelijan tekemään teknisiä korjauksia kaavamateriaaliin",
+        "kasittely": "Käsittelyn aikana puheenjohtaja Matti Kaurila teki seuraavan muutosesityksen asemakaavamerkintöihin kohtaan hulevedet: Tontilla päällystetyt piha-alueet suositellaan tehtäväksi vettä läpäisevää materiaalia käyttäen. Vastaava kohta päätöksessä on tällä hetkellä: Tontilla päällystetyt piha-alueet on oltava vettä läpäisevää materiaalia Kim Liljequist, Ronja Karkinen, Hannu Valtanen, Josephine Frimodig, Jenny Snellman ja Teemu Kelkka kannattivat esitystä Puheenjohtaja totesi, että esitystä kannatettiin yksimielisesti. Sanni Jäppinen teki seuraavan vastaehdotuksen: Kaavan tori- ja katu-alueen suunnitelmat tuotava erikseen lautakuntaaan esille ja käsittelyyn. Ronja Karkinen, Matti Kaurila, Hannu Valtanen, Antti Salonen, Josephine Frimodig, Teemu Kelkka, Pekka Jäppinen ja Jenny Snellman kannattivat esitystä Puheenjohtaja totesi, että esitystä kannatettiin yksimielisesti. Ronja Karkinen teki seuraavan evästyksen: Kirkkonummen keskustan jatkosuunnittelussa koordinoidaan, että maakuntamuseo saa kattavat tiedot rakennusten mahdollisen arvon arvioimiseen. Sanni Jäppinen, Pekka Jäppinen ja Teemu Kelkka kannattivat evästystä. Puheenjohtaja totesi, että esitystä kannatettiin yksimielisesti. Sanni Jäppinen teki seuraavan vastaesityksen: Jatkosuunnittelussa varmistetaan, että tori alue voi valmistuttaan toimia torina, asumisen ja elämisen keskuksena. Antti Salonen, Matti Kaurila, Hannu Valtanen, Ronja Karkinen, Pekka Jäppinen, Teemu Kelkka, Jenny Snellman ja Kim Liljequist kannattivat esitystä. Puheenjohtaja totesi, että esitystä kannatettiin yksimielisesti",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti: 1. esittää kunnanhallitukselle, että kunnanhallitus 1.1. hyväksyy Tallinmäen asemakaavaehdotuksesta saatuun palautteeseen laaditut perustellut kannanotot (ns. kaavoittajan vastineet) tämän asian liitteen mukaisesti, 1.2. hyväksyy Tallinmäen asemakaavan (piir. 3490) ja siihen liittyvät asiakirjat MRL 52 §:n mukaisesti sekä esittää ne edelleen kunnanvaltuuston hyväksyttäväksi, 2. todeta, että ennen Tallinmäen asemakaavan hyväksymistä kunnanvaltuustossa kunnan ja määrättyjen maanomistajien kesken on oltava lainvoimainen maankäyttösopimus. 3. että lautakunta valtuuttaa valmistelijan tekemään teknisiä korjauksia kaavamateriaaliin. 4. muuttaa asemakaavamerkintöjä kohdassa 4, hulevedet: Tontilla päällystetyt piha-alueet suositellaan tehtäväksi vettä läpäisevää materiaalia käyttäen. 5. että kaavan tori- ja katu-alueen suunnitelmat tuotava erikseen lautakuntaan esille ja käsittelyyn. 6. evästää, että Kirkkonummen keskustan jatkosuunnittelussa koordinoidaan, että maakuntamuseo saa kattavat tiedot rakennusten mahdollisen arvon arvioimiseen. 7. että jatkosuunnittelussa varmistetaan, että torialue voi valmistuttuaan toimia torina, asumisen ja elämisen keskuksena",
+        "selostus": "Taustaa Tallinmäen asemakaava sisältyy Kirkkonummen kunnanvaltuuston hyväksymään kaavoitusohjelmaan 2021-2025. Kaavahanke kuulutettiin vireille 2.3.2018, ja sen tarkistettu osallistumis- ja arviointisuunnitelma hyväksyttiin yhdyskuntatekniikan lautakunnan käsittelyssä 14.12.2017. Kaavaehdotus Kunnanhallitus päätti kokouksessaan 23.1.2023 § 19 (§ 19) asettaa Tallinmäen asemakaavaehdotuksen nähtäville MRL 65 §:n ja MRA 27 §:n mukaisesti. Ehdotus oli julkisesti nähtävillä 13.2. - 17.3.2023, ja siitä saatiin yhteensä kaksi muistutusta sekä 14 lausuntoa. Kaavaehdotuksesta pidettiin asukastilaisuus Kirkkonummen kunnantalolla 1.3.2023. Saadun palautteen mukaisesti kaavakartalle tehtiin muutoksia ja maankäyttö- ja rakennusasetuksen 32 §:n mukaisesti korjauksia kaavaehdotukseen (piir. 3487). Muutosten vuoksi suoritettiin kahden naapurikiinteistön kuulemistoimitukset. Kuulemisten johdosta naapuritaloyhtiöillä ei ollut huomautettavaa. Lausuntoihin laaditut ns. kaavoittajan perustellut vastineet ovat osa kaava-aineistoa. Hyväksymiskäsittelyyn valmisteltu asemakaava Nähtävänä olleesta asemakaavaehdotuksesta saatu palaute liittyi pitkälti Kirkkotoria ja Fyyriä vasten rajautuvien rakennusten korkeuteen. Lopullisessa kaavaehdotuksessa on kahden tontin osalta laskettu suurinta kerroslukua kuudesta viiteen. Lisäksi on korttelin 111 tontin 10 kaksi pistetaloa yhdistetty yhdeksi porrastetuksi rakennusmassaksi, jonka vuoksi voidaan säästää suoria näkymiä viereisten taloyhtiöiden asuntoparvekkeilta maisemaan. Lisäksi on saadun palautteen perusteella laajennettu (palautettu) kaavan aluerajausta koskemaan myös korttelia 114. Perusteena on autopaikkamitoituksen harmonisointi lähialueen kerrostalokortteleissa. Maankäyttösopimukset Ennen asemakaavan hyväksymistä kunnanvaltuustossa on kunnan ja tarvittavien maanomistajatahojen kesken oltava allekirjoitettu maankäyttösopimus. Jatkosuunnittelu ja kaavan toteuttaminen Alueen jatkosuunnittelu ja toteutus tulee varmasti olemaan monivaiheinen ja verrattain pitkäkestoinen hankekokonaisuus. On selvää, että kaava-alue tulee lähivuosina näyttäytymään eri vaiheessa toteutuvien rakennushankkeiden ja infrarakentamisen vuoksi osin työmaa-alueena, osin hyvin keskeneräisenä ympäristönä. Laadittujen kunnallisteknisten yleissuunnitelmien valossa on todettu, että olemassa oleva maanalainen kunnallistekniikka on lähes kokonaan uusimisen tarpeessa. Esim. hulevesien johtaminen ja hallinta pitää suunnitella ja rakentaa nykynormien mukaisesti - tavoitteena tasaisemmat virtaamat ja parempi vedenlaatu Jolkbynjoessa. Osana Yhteiskampuksen rakennussuunnittelua suunnitellaan myös Rovastinpuisto yhtenä toiminnallisena kokonaisuutena. Alueen suunnittelu jatkuu lisäksi katu- ja torisuunnitelmalla, joka asetetaan nähtäville. Asiakirjat Kaavakartta kaavamääräyksineen (piir. 3490) Kaavaselostus liitteineen Kaavoittajan perustellut kannanotot (ns. kaavoittajan vastineet) tarkistetusta asemakaavaehdotuksesta saatuihin lausuntoihin. <Aloita selostus tästä>"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Asemakaavaselostus_230525_sst_Su",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231452-4-92300.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liitteet 4-11",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231452-4-92301.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Lausunnot ja vastineet uusi_nn",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231452-4-92298.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "TallinmaÌˆki Asemakaava 230525",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231452-4-92320.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite 3 Rakentamistapaohje",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231452-4-92372.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Matti Kaurila",
+          "kind": "vastaehdotus",
+          "text": "asemakaavamerkintöihin kohtaan hulevedet: Tontilla päällystetyt piha-alueet suositellaan tehtäväksi vettä läpäisevää materiaalia käyttäen. Vastaava kohta päätöksessä on tällä hetkellä: Tontilla päällystetyt piha-alueet on oltava vettä läpäisevää materiaalia Kim Liljequist, Ronja Karkinen, Hannu Valtanen, Josephine Frimodig, Jenny Snellman ja Teemu Kelkka kannattivat esitystä",
+          "source": "introduction",
+          "party": "kok"
+        },
+        {
+          "proposer": "Sanni Jäppinen",
+          "kind": "vastaehdotus",
+          "text": "Kaavan tori- ja katu-alueen suunnitelmat tuotava erikseen lautakuntaaan esille ja käsittelyyn. Ronja Karkinen, Matti Kaurila, Hannu Valtanen, Antti Salonen, Josephine Frimodig, Teemu Kelkka, Pekka Jäppinen ja Jenny Snellman kannattivat esitystä",
+          "source": "introduction",
+          "party": "vihr"
+        }
+      ]
+    },
+    {
+      "id": "20231452-5",
+      "ordinal": "5",
+      "title": "Masalanportti II asemakaava (hanke 34103), asemakaavan vireilletulo sekä osallistumis- ja arviointisuunnitelman hyväksyminen (MRL 62 § ja 63 §)",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231452-5",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaan",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko OAS_Masalanportti_II PDB_Masabyporten_II Masalanportti II asemakaava (hanke 34103), asemakaavan vireilletulo sekä osallistumis- ja arviointisuunnitelman hyväksyminen (MRL 62 § ja 63 §) Yhdyskuntatekniikan lautakunta 25.05.2023 § 62 419/10.02.03/2023\n- Masalanportti II asemakaavan osallistumis- ja arviointisuunnitelma",
+        "valmistelija": "kaavoitusarkkitehti Leena Kankaanpää etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa Yhdyskuntatekniikan lautakunta päättää hyväksyä Masalanportti II asemakaavan osallistumis- ja arviointisuunnitelman (MRL 62 § ja 63 §)",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaan",
+        "selostus": "Taustaa Masalanportti II asemakaava sisältyy kunnanvaltuuston hyväksymään Kirkkonummen kaavoitusohjelmaan vuosille 2023-2027. Kaava käynnistetään omana työnä kaavoitusohjelman mukaisesti. Kaava-alue Masalanportti II asemakaava-alue sijaitsee Masalan keskustan tuntumassa ja käsittää sen pääsisääntuloväylän alueita. Kaava-alue sijoittuu Kehä III:n ja ja Sundsbergintien risteysalueelle ja se on rajattu tiesuunnitelman mukaisesti, kattamaan alueelle suunitellun eritasoliittymän tarvitsemat aluevaraukset. Suunnittelualue käsittää Suomen valtion, Kirkkonummen kunnan ja yksityisessä omistuksessa olevia yleisen tien-, katu-, lähivirkistys-, suojaviher-, vesi- sekä luonnonsuojelualueita. Suunnittelualueen kokonaispinta-ala on noin 10,4 ha. Tavoitteet ja suunnittelun tarve Maankäyttötavoitteena on mahdollistaa Kehä III:n tiesuunnitelman mukaiset toimenpiteet, jotta aluetta koskeva tiesuunnitelma: Kantatien 50 (Kehä III) parantaminen Masalan ja Majvikin kohdalla, Kirkkonummi liikennejärjestelyineen olisi hyväksyttävissä. Eritasoliittymän toteutuessa alueen kehitysmahdollisuudet parantuvat sekä asumisen, että palveluiden osalta ja ajoneuvoliikenteen liikenneturvallisuus nousee uudelle tasolle. Asemakaavassa turvataan myös eritasoliittymän läheisyydessä sijaitsevien suojaviher- ja luonnonsuojelualueiden säilyminen. Kaavaprosessi ja alustava aikataulu Hankkeelle on laadittu osallistumis- ja arviointisuunnitelmassa alustava rajaus ja aikataulu, joita tarkennetaan tarpeen mukaan suunnitteluprosessin edetessä. Kaavaehdotus laaditaan syksyllä 2023 ja kaava on tavoitteena hyväksyä vuoden 2024 Osallistuminen, osalliset ja yhteistyö on kuvattu osallistumis- ja arviointisuunnitelmassa"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "OAS_Masalanportti_II",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231452-5-92346.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "PDB_Masabyporten_II",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231452-5-92472.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20231452-6",
+      "ordinal": "6",
+      "title": "Urakkahankinta: Juhlakallion asemakaava-alueen katujen ja kunnallistekniikan rakentaminen, urakoitsijan valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231452-6",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaisesti ja evästi seuraavasti jatkotoimenpiteenä: jotta Kirkkonummen kunnallistekniikan urakat olisivat houkuttelevampia, urakkatarjousten arvostus muutetaan siten, että sähkökäyttöisen työkoneen käyttö työmaalla on 1 % maksimipistemäärästä ja fossiilittomien polttoaineiden käyttö työmaalla on 2 % maksimipistemäärästä",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko Opaskartta Urakkahankinta: Juhlakallion asemakaava-alueen katujen ja kunnallistekniikan rakentaminen, urakoitsijan valinta Yhdyskuntatekniikan lautakunta 25.05.2023 § 63 446/10.03.01.00/2021",
+        "valmistelija": "Projektipäällikkö Hannu Ruhanen etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa Yhdyskuntatekniikan lautakunta päättää: 1. Hyväksyä Juhlakallion asemakaava-alueen katujen ja kunnallistekniikan rakentamisen urakoitsijaksi kelpoisuusehdot täyttävien tarjouksien joukosta suurimmat kokonaispisteet saaneen (100 pistettä) VM Suomalainen Oy hintaan 10 400 000,00 € (alv 0 %). 2. Tarkastaa pöytäkirja tämän kokousasian osalta kokouksessa",
+        "kasittely": "Käsittelyn aikana puheenjohtaja Matti Kaurila teki seuraavan evästyksen: Jatkotoimenpiteenä. Jotta Kirkkonummen kunnallistekniikan urakat olisivat houkuttelevampia, urakkatarjousten arvostus muutetaan siten, että sähkökäyttöisen työkoneen käyttö työmaalla on 1 % maksimipistemäärästä ja fossiilittomien polttoaineiden käyttö työmaalla on 2 % maksimipistemäärästä. Antti Salonen ja Hannu Valtanen kannattivat kyseistä esitystä. Teemu Kelkka teki seuraavan evästyksen: Lautakunnalle tuodaan valmisteltu esitys seuraavaan lautakuntaan jossa luodaan yleiset pelisäännöt: sähkökäyttöisten koneiden ja fossiilittomien polttoaineiden maksimipistemäärä prosenteista urakoiden yhteydessä. Pekka Jäppinen ja Sanni Jäppinen kannattivat evästystä. Puheenjohtaja totesi evästysten olevat vastakkaiset, joten asiasta tulee äänestää. Ne, jotka kannattavat puheenjohtaja Matti Kaurilan evästystä, äänestävät JAA ja ne, jotka kannattavat Teemu Kelkan evästystä, äänestävät EI. Äänestys: 6 JAA-ääntä ( Kaurila, Valtanen, Liljequist, Salonen, Snellman, Frimodig) 4 EI-ääntä (Karkinen, Jäppinen S., Kelkka, Jäppinen P.) jolloin puheenjohtajan evästys voitti",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaisesti ja evästi seuraavasti jatkotoimenpiteenä: jotta Kirkkonummen kunnallistekniikan urakat olisivat houkuttelevampia, urakkatarjousten arvostus muutetaan siten, että sähkökäyttöisen työkoneen käyttö työmaalla on 1 % maksimipistemäärästä ja fossiilittomien polttoaineiden käyttö työmaalla on 2 % maksimipistemäärästä",
+        "selostus": "Kunnallistekniikkapalvelut on pyytänyt Juhlakallion asemakaava-alueen katujen ja kunnallistekniikan rakentamisesta urakkatarjoukset Cloudia tarjousplavelussa 12.4.2023. Kyseessä on EU-hankinta. Tarjousten jättöpäivä oli 12.5.2023 klo 12.00. Tarjouspyynnön mukaan urakoitisja valitaan kelpoisuusehdot täyttävien tarjousten joukosta halvimman urakkatarjouksen, yksikköhintaluettelon, sähkökäyttöisen työkoneen käytöstä työmaalla sekä fossiilittomien polttoaineden käytöstä työmaalla perusteella. Urakkatarjouksen arvostus on 60 % maksimipistemäärästä, yksikköhintaluettelon arvostus on 10 %, sähkökäyttöisen työkoneen käyttö työmaalla on 10 % maksimipistemäärästä ja fossiilittomien polttoaineiden käyttö työmaalla on 20 % maksimipistemäärästä. Urakka koskee Kirkkonummen Heikkilässä sijaitsevan Juhlakallion alueen katujen ja kunnallistekniikan rakentamisen. Investoinnille on varattu vuoden 2023 talousarviossa kaduille 2 000 000 €. Urakan laskennallinen kustannusarvio (2023) 11 416 900 € (sisältää kadut ja vesihuollon). Määräaikaan mennessä saatiin yksi (1) tarjous ja se oli tarjouspyynnön mukainen. Urakkatarjouksen arvostus on 60 % maksimipistemäärästä, yksikköhintaluettelon 10 % maksimipistemäärästä, sähkökäyttöisen työkoneen käyttö työmaalla 10 % maksimipistemäärästä ja fossiilittomien polttoaineiden käyttö työmaalla 20 % maksimipistemäärästä. Hyväksytyn tarjouksen jätti VM Suomalainen Oy (10 400 000,00 €, alv 0 %)"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Opaskartta",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231452-6-92129.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Matti Kaurila",
+          "kind": "evastysehdotus",
+          "text": null,
+          "source": "order",
+          "party": "kok"
+        }
+      ]
+    },
+    {
+      "id": "20231452-7",
+      "ordinal": "7",
+      "title": "Urakkahankinta: Bjönsinmäen asemakaava-alueen katujen ja kunnallistekniikan rakentaminen, urakoitsijan valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231452-7",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko Opaskartta Urakkahankinta: Bjönsinmäen asemakaava-alueen katujen ja kunnallistekniikan rakentaminen, urakoitsijan valinta Yhdyskuntatekniikan lautakunta 25.05.2023 § 64 688/10.03.01.00/2022",
+        "valmistelija": "Projektipäällikkö Hannu Ruhanen etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa Yhdyskuntatekniikan lautakunta päättää: 1. Hyväksyä Bjönsinmäen asemakaava-alueen katujen ja kunnallistekniikan rakentamisen urakoitsijaksi kelpoisuusehdot täyttävien tarjouksien joukosta suurimmat kokonaispisteet saaneen (100 pistettä) VM Suomalainen Oy:n hintaan 1 343 000,00 € (alv 0%). 2. Tarkastaa pöytäkirja tämän kokousasian osalta kokouksessa",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti päätösehdotuksen mukaisesti",
+        "selostus": "Kunnallistekniikkapalvelut on pyytänyt Bjönsinmäen asemakaava-alueen katujen ja kunnallistekniikan rakentamisesta urakkatarjoukset Cloudia tarjousplavelussa 13.4.2023. Kyseessä on EU-kynnysarvon alittava hankinta ja avoin hankintamenettely. Tarjousten jättöpäivä oli 12.5.2023 klo 12.00. Tarjouspyynnön mukaan urakoitsija valitaan kelpoisuusehdot täyttävien tarjousten joukosta halvimman urakkatarjouksen, yksikköhintaluettelon, sähkökäyttöisen työkoneen käytöstä työmaalla sekä fossiilittomien polttoaineden käytöstä työmaalla perusteella. Urakkatarjouksen arvostus on 60 % maksimipistemäärästä, yksikköhintaluettelon arvostus on 10 %, sähkökäyttöisen työkoneen käyttö työmaalla on 10 % maksimipistemäärästä ja fossiilittomien polttoaineiden käyttö työmaalla on 20 % maksimipistemäärästä. Rakennustyö käsittää Kirkkonummen Masalassa sijaitsevan Bjönsinmäen alueen kadun, vesihuollon ja muun infran rakentamisen. Työhön kuuluu Tinantien, Suomelanpolun ja Köpaksenpolun saneeraus. Lisäksi alueelle rakennetaan Aittakuja niminen katu, Aittapolku niminen jalankulku ja pyöräilyväylä sekä puistoraitti. Investoinnille on varattu vuoden 2023 talousarviossa kaduille 500 000 €. Urakan laskennallinen kustannusarvio (2023) 1 301 500 € (sisältää kadut ja vesihuollon). Määräaikaan mennessä saatiin kaksi (2) tarjousta, joista kumpikin oli tarjouspyynnön mukaisia. Urakkatarjouksen arvostus on 60 % maksimipistemäärästä, yksikköhintaluettelon 10 % maksimipistemäärästä, sähkökäyttöisen työkoneen käyttö työmaalla 10 % maksimipistemäärästä ja fossiilittomien polttoaineiden käyttö työmaalla 20 % maksimipistemäärästä. Hyväksytyn tarjouksen jättivät VM Suomalainen Oy (urakkatarjous 1 343 000,00 € ja yksikköhintaluettelo 1 109 396,00 €) ja Maisemarakennus Viitanen Oy (urakkatarjous 1 280 000,00 € ja yksikköhintaluettelo 1 280 000,00 €). Kaikki hinnat alv 0 %. Molemmat tarjoajat saivat maksipisteet laadusta (30 pistettä). Hinnan osalta yksikköhintaluettelo vaikutti pisteytykseen niin, että VM Suomalaisen tarjous sai maksimipistemäärän (70 pistettä) hinnasta ja näin ollen kokonaispisteiksi maksimipistemäärän 100"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Opaskartta",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231452-7-92130.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20231452-8",
+      "ordinal": "8",
+      "title": "Oikaisuvaatimus kunnossapitoinsinöörin päätöksestä",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231452-8",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti päätösesityksen mukaan",
+      "votes": [],
+      "sections": {
+        "valmistelija": "Kunnossapitopäällikkö Annika Selart etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Yhdyskuntatekniikan palvelualueen johtaja Kauppinen Anna-Kaisa Yhdyskuntatekniikan lautakunta päättää hylätä oikaisuvaatimuksen",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti päätösesityksen mukaan",
+        "selostus": "Lupahakemuksessa hakija on ilmoittanut, että rajatulla alueella työskentelee kaivinkone ja maa-ainesten kuljettamista varten varattu kalusto. Lupa on evätty 19.4.2023 seuraavilla perusteluilla: Ajantasaisessa kaavassa Sarvvikinraitti on merkitty jalankululle ja polkupyöräilylle varatuksi kaduksi (kaava saanut lainvoiman 16.11.2005). Lupa on evätty yllä olevan kaavamerkinnän johdosta. Alueella on evätty myös vastaavanlaiset luvat, jotka koskevat Sarvvikinraittia. Hakija on pyytänyt evätyn päätöksen saatuaan sähköpostitse 19.4.2023 uudelleenarvioimaan päätöksen ja jättänyt oikaisuvaatimuksen yhdyskuntatekniikan lautakuntaan 20.4.2023. Perusteluina hakija on esittänyt seuraavaa: Hakijalle on myönnetty 7.9.2022 lupa LP-2357-2022-01960 koskien nostotyötä. Sarvvikinraitin Sinikellontien päässä Siklan rakennustyömaaosuudella on ollut jatkuvaa työmaaliikennettä. Hakija vetoaa oikaisuvaatimuksessa viherrakentamisen vaikeuteen johtuen ahtaista tiloista sekä kohtuuttoman työläästä ja kalliista ratkaisusta ilman luvan saantia. Työn valmiiksi saattaminen ei kuitenkaan hakijan mukaan ole mahdotonta tontin kautta. Sovellettavat ehdot ja lait Maankäyttö- ja rakennuslaki 132/1999 Rakennuslupa LP-257-2021-01466 Harakankellonkuja 5b. Asuinpientalon rakentaminen. Katulupalausunto 14.06.2021, lausunnon antaja vs. kunnossapitopäällikkö Annika Selart: kaikki rakennushankkeeseen kuuluvat työt pitää suorittaa kiinteistöltä. Vastine Lupa LP-2357-2022-01960 on koskenut nostotyötä. Hakemuksessa on ilmoitettu, että betoniauto syöttää soraa tontille hihnan avulla. Lyhytaikaiset nostotyöt kadulta on sallittu. Lupa LP-257-2023-00523 koskee yleisen alueen työmaakäyttöä. Hakemuksessa on ilmoitettu, että rajatulla alueella on kaivinkone ja maa-ainesten kuljettamista varten varattu kalusto. Sarvvikinraitti on kaavassa merkitty jalankululle ja polkupyöräilylle varatuksi kaduksi. Sarvvikinraitin katurakenteet eivät kestä raskasta liikennettä. Siklan työmaalta (Sinikellontie 5) on evätty käyttölupa Sarvvikinraitilla, mahdollinen työskentely on tapahtunut ilman asianmukaista lupaa. Sarvvikinraitin päällyste on rakennettu jalankulkua ja pyöräilyä varten, joten päällystettä ei ole tehty kestämään työmaakäyttöä. Sarvvikinraitti ei ole päällysohjelmassa lähivuosina. Kunnallistekniikan kunnossapitopalvelut katsovat, ettei luvan myöntämiselle ole perusteita. Hakijan perustelu rakentamisen työläisyydestä, hitaudesta ja kalleudesta eivät ole riittävä peruste luvan myöntämiseen. Hakijan ilmoituksen mukaan kaivinkonetta suuremmat maa-ajoneuvot voivat työskennellä tontin kautta, joten emme näe estettä myös kaivinkoneen työskentelylle tontin puolelta"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231452-9",
+      "ordinal": "9",
+      "title": "Investointien tilannekatsaus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231452-9",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti merkitä tilannekatsauksen tiedoksi",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko Talouden ja toiminnan seurantaraportti 03_2022 Toimitilapalvelujen lautakunta Investointien tilanne 052023 Investointien tilannekatsaus Yhdyskuntatekniikan lautakunta 25.05.2023 § 66 4/02.02.02/2023",
+        "valmistelija": "Yhdyskuntatekniikan johtaja Anna-Kaisa Kauppinen etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa Yhdyskuntatekniikan lautakunta päättää merkitä tilannekatsauksen tiedoksi",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti merkitä tilannekatsauksen tiedoksi",
+        "selostus": "Yhdyskuntatekniikan talousarvion investointien tilannekatsaus esitellään kokouksessa"
+      },
+      "lang": "fi",
+      "text_encoding": "repaired",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Talouden ja toiminnan seurantaraportti 03_2022 Toimitilapalvelujen lautakunta",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231452-9-92282.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Investointien tilanne 052023",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231452-9-92773.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20231452-10",
+      "ordinal": "10",
+      "title": "Ilmoitusasioita tiedoksi",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231452-10",
+      "decision": "Yhdyskuntatekniikan lautakunta päätti merkitä ilmoitusasiat tiedoksi",
+      "votes": [],
+      "sections": {
+        "valmistelija": "Virkanimeke Etunimi Sukunimi, etunimi.sukunimi@kirkkonummi.fi Valtioneuvoston päätös: Fortum Power and Heat Oy:n hakemus kiinteän omaisuuden ja erityisten oikeuksien lunastuksesta, Epoo-Kirkkonummi 2x400kV, maakaapeliyhteys Uudenmaan ELY-keskus tieliikenteen toimivaltaisena viranomaisena on valmistelemassa päätöstä järjestää joukkoliikennepalveluita EU:n palvelusopimusasetuksen (PSA:n) mukaisesti. PSA:n mukaiset järjestettävät joukkoliikennepalvelut koskevat Inkoon, Karkkilan, Lohjan sekä Vihdin kuntien alueita palvelevaa liikennettä sekä hankittaessa näiden kuntien alueilta joukkoliikennepalveluita Raaseporin ja Helsingin seudun liikenne -kuntayhtymän alueille sekä Uudenmaan ELY-keskuksen toimivalta-alueen muihin kuntiin",
+        "paatos": "Yhdyskuntatekniikan lautakunta päätti merkitä ilmoitusasiat tiedoksi",
+        "paatosehdotus": "Yhdyskuntatekniikan lautakunta merkitsee ilmoitusasiat tiedokseen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "paatos_labels": 2,
+      "attachments": [],
+      "proposals": []
+    }
+  ],
+  "id": "20231452",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20231452"
+}

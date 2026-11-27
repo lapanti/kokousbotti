@@ -1,0 +1,899 @@
+{
+  "title": "Kunnanvaltuusto Pöytäkirja 12.12.2022 klo 18:00 - 20:09 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Kunnanvaltuusto",
+  "doctype": "Pöytäkirja",
+  "date": "2022-12-12",
+  "items": [
+    {
+      "id": "20221291-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221291-1",
+      "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Kokous todettiin lailliseksi ja päätösvaltaiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20221291-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221291-2",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti. Pöytäkirjantarkastajiksi valittiin Antti Kilappa ja Liisa Kosonen",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanvaltuusto päättää valita kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti. Pöytäkirjantarkastajiksi valittiin Antti Kilappa ja Liisa Kosonen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20221291-3",
+      "ordinal": "3",
+      "title": "Yhdyskuntatekniikan lautakunnan lisämäärärahaesitys",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221291-3",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "kuntatekniikkapäällikkö Toni Keski-Lusa, etunimi.sukunimi@kirkkonummi.fi",
+        "esittelija": "Kunnanjohtaja Aarnio Tarmo",
+        "paatosehdotus": "Kunnanhallitus esittää kunnanvaltuustolle, että valtuusto myöntää yhdyskuntatekniikan lautakunnan toimintakatteeseen 331 000 euron lisämääräraha",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+        "tiedoksi": "kunnanvaltuustolle käsiteltäväksi Kunnanvaltuusto 12.12.2022 § 104 670/10.03.01.01/2022",
+        "kasittely": "Talousjohtaja Esa Lindell esitteli asiaa kokouksessa"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "paatos_labels": 3,
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20221291-4",
+      "ordinal": "4",
+      "title": "Toimitilapalvelujen lautakunnan lisämäärärahaesitys",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221291-4",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Talouden ja toiminnan seurantaraportti_topa10_2022 Toimitilapalvelujen lautakunnan lisämäärärahaesitys Toimitilapalvelujen lautakunta 17.11.2022 § 91",
+        "valmistelija": "yhdyskuntatekniikan johtaja Anna-Kaisa Kauppinen etunimi.sukunimi@kirkkonummi.fi",
+        "esittelija": "Kunnanjohtaja Aarnio Tarmo",
+        "paatosehdotus": "Kunnanhallitus esittää kunnanvaltuustolle, että toimitilapalvelujen lautakunnan toimintakatteeseen myönnetään 300 000 euron lisämääräraha",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+        "tiedoksi": "Kunnanhallitus 28.11.2022 § 404",
+        "kasittely": "Talousjohtaja Esa Lindell esitteli asiaa kokouksessa"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "paatos_labels": 3,
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Talouden ja toiminnan seurantaraportti_topa10_2022",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20221291-4-82849.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20221291-5",
+      "ordinal": "5",
+      "title": "Talousarvion investointiosan määrärahamuutokset",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221291-5",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "hallintopäällikkö Sirpa Salminen ja talousjohtaja Esa Lindell, etunimi.sukunimi@kirkkonummi.fi Kunnanhallitus on päättänyt kokouksessaan 20.12.2021 § 583 vuoden 2022 talousarvion täytäntöönpano-ohjeista. Liikenneväylät ja puistot sekä liikunta- ja virkistysalueet hankeryhmien määrärahaa saa käyttää muihin taloussuunnitteluvuosien hankkeisiin kunnanhallituksen päätöksellä, jos talousarviovuoden jonkin hankkeen toteuttamista ei ole voitu aloittaa. Liikenneväylät ja puistot hankeryhmässä ei ole esitetty määrärahoja hankkeelle Vesitorninmäki länsiosa: Jokiniityntie. Kunnanvaltuuston tulee päättää hankkeen lisäämisestä talousarvion 2022 toteutettaviin investointihankkeiden kokonaisuuteen ja siirtää hankkeelle 24 000 € määrärahan investointiosan hankkeelta Sarvikinranta Jokiniityntien takuuaikaisten viherhoitotöiden kustantamista varten. Talousarvion täytäntöönpano-ohjeissa todetaan, että; Hallintosäännön 89 §:n mukaan talousarvioon tehtävät muutokset on esitettävä kunnanvaltuustolle ennen asianomaisen talousarviovuoden päättymistä. Määrärahan muutosesityksessä on selvitettävä myös muutoksen vaikutus toiminnallisiin tavoitteisiin ja tuloarvioihin. Vastaavasti toiminnallisia tavoitteita ja tuloarvioita koskevassa muutosesityksessä on selvitettävä muutoksen vaikutus määrärahoihin. Muutos ei vaikuta tavoitteisiin, toiminnallisiin tuloarvioihin tai investointien hankekokonaisuuden kokonaismäärärahoihin. Maa- ja vesialueiden hankinta ja myynti on sitova määräraha. Maa- ja vesialueiden hankintaan on varattu 0,5 milj. euron määräraha vuodelle 2022 ja myynteihin 0 euroa. Toteumassa 23.11.2022 maa- ja vesialueiden myyntituottoja on kirjattu 323 361 euroa ja hankintamenoja 306 207 euroa. Osakkeiden myyntiin ja osakkeiden osuuksiin ei ole varattu määrärahaa vuodelle 2022. Lokakuun tilanteen mukaisesti osakkeiden myyntituottoihin on kirjattu 0 euroa ja osakkeiden osuuksiin menoina 84 257 euroa. Sitovuustaso on osakkeiden myynti sekä osakkeet ja osuudet yhteensä",
+        "esittelija": "Kunnanjohtaja Aarnio Tarmo",
+        "paatosehdotus": "Kunnanhallitus esittää kunnanvaltuustolle hyväksyttäväksi vuoden 2022 talousarvion investointiosaan, että 1 liikenneväylät ja puistot hankekokonaisuudelle hankkeen Vesitorninmäki länsiosa: Jokiniityntie vuonna 2022 toteutettavaksi sekä sille siirrettäväksi hankkeelta Sarvvikinranta määrärahoja 24 000 € takuuaikaisten viherhoitotöiden kustantamista varten 2 maa- ja vesialueiden myyntituloihin varataan 323 361 euroa 3 osakkeiden osuuksiin myönnetään 100 000 euron määräraha",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+        "tiedoksi": "Kunnanhallitus 28.11.2022 § 405",
+        "kasittely": "Talousjohtaja Esa Lindell esitteli asia kokouksessa"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "paatos_labels": 3,
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20221291-6",
+      "ordinal": "6",
+      "title": "Lisämääräraha-anomus liittyen valmistavan opetuksen järjestämiseen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221291-6",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "Suomenkielisten opetuspalveluiden johtaja Astrid Kauber, etunimi.sukunimi@kirkkonummi.fi",
+        "esittelija": "Kunnanjohtaja Aarnio Tarmo",
+        "paatosehdotus": "Kunnanhallitus esittää kunnanvaltuustolle, että kunnanvaltuusto hyväksyy suomenkielisen kasvatus- ja koulutuslautakunnan talousarvioon 203 000 €:n lisämäärärahan vuodelle 2022 kattamaan valmistavan opetuksen aiheuttamat kustannukset",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+        "tiedoksi": "Kunnanhallitukselle jatkokäsittelyä varten Kunnanhallitus 05.12.2022 § 422",
+        "kasittely": "Sivistysjohtaja Eeva-Kaisa Ikonen esitteli asiaa kokouksessa"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "paatos_labels": 3,
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20221291-7",
+      "ordinal": "7",
+      "title": "Perusturvan lisämäärärahaesitys vuodelle 2022",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221291-7",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "erityissuunnittelija Elli Laiho ja talousjohtaja Esa Lindell, etunimi.sukunimi@kirkkonummi.fi",
+        "esittelija": "Kunnanjohtaja Aarnio Tarmo",
+        "paatosehdotus": "Kunnanhallitus esittää valtuustolle, että kunnanvaltuusto päättää 1 korottaa perusturvapalveluiden vuoden 2022 määrärahaa toimintakatetasolla 2 400 000 eurolla, 2 korottaa erikoissairaanhoidon vuoden 2022 määrärahaa toimintakatetasolla 4 800 000 eurolla",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+        "tiedoksi": "kunnanhallitus (jatkokäsittelyyn) Kunnanhallitus 28.11.2022 § 406",
+        "kasittely": "Talousjohtaja Esa Lindell esitteli asiaa kokouksessa"
+      },
+      "lang": "fi",
+      "text_encoding": "repaired",
+      "paatos_labels": 3,
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20221291-8",
+      "ordinal": "8",
+      "title": "Vuoden 2023 talousarvion ja vuosien 2024-25 taloussuunnitelman hyväksyminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221291-8",
+      "decision": "Kunnanvaltuusto päätti hyväksyä korjatun, pöytäkirjan liitteenä olevan kunnanhallituksen ehdotuksen vuoden 2023 talousarvioksi ja vuosien 2024-2025 taloussunnitelmaksi. Lisäksi kunnanvaltuusto päätti yksimielisesti hyväksyä seuraavan ponnen: Kunnanvaltuusto on päättänyt Nissnikun koulun rakentamisesta yhtä aikaa lukiokampuksen kanssa. Toimitilapalvelujen henkilöstövaihdosten ja resurssipuutteen vuoksi Nissnikun koulun väistötilojen hankinta on viivästynyt. Kunnanvaltuusto edellyttää, että toimitilapalvelujen lautakunta tuo kunnanhallitukselle tammi - helmikuussa selvityksen, sekä väistötilojen että uudisrakennuksen tilanteesta ja aikataulusta sekä keinoista, joilla terveysturvallisten väistötilojen hankintaa voitaisi nopeuttaa",
+      "votes": [
+        {
+          "jaa": [
+            "Kajanti Carl-Johan",
+            "Myllyniemi Markus",
+            "Haapaniemi Timo",
+            "Åström Kim",
+            "Granström Anneli",
+            "Aallonharja Piia",
+            "Huhmarniemi Saara",
+            "Aintila Anna",
+            "Frantsi-Lankia Marjut",
+            "Sahiluoma Anna",
+            "Frimodig Josephine"
+          ],
+          "ei": [
+            "Kilappa Antti",
+            "Harinen Ari Antti Kilapan muutosehdotus",
+            "Uuden kuntastrategian valmistelu aloitetaan 2023 alkupuolella"
+          ],
+          "tyhja": [],
+          "totals": {
+            "jaa": 11,
+            "ei": 2,
+            "tyhja": 0
+          },
+          "parties": {
+            "jaa": {
+              "rkp": 3,
+              "vihr": 2,
+              "kok": 3,
+              "ps": 2,
+              "kesk": 1
+            },
+            "ei": {
+              "pro yl": 1,
+              "tuntematon": 2
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta",
+            "ei_label": "lisäysehdotusta",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": null,
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat pohjaehdotusta äänestävät JAA ja ne jotka kannattavat lisäysehdotusta äänestävät EI — annettiin 11 JAA ja 2 EI ääntä."
+          },
+          "suspect": true
+        },
+        {
+          "jaa": [
+            "Frimodig Josephine",
+            "Kajanti Carl-Johan",
+            "Aintila Anna",
+            "Granström Anneli",
+            "Kilappa Antti",
+            "Myllyniemi Markus",
+            "Aallonharja Piia",
+            "Huhmarniemi Saara"
+          ],
+          "ei": [
+            "Harinen Ari",
+            "Åström Kim",
+            "Frantsi-Lankia Marjut",
+            "Sahiluoma Anna",
+            "Haapaniemi Timo"
+          ],
+          "tyhja": [],
+          "totals": {
+            "jaa": 8,
+            "ei": 5,
+            "tyhja": 0
+          },
+          "parties": {
+            "jaa": {
+              "rkp": 3,
+              "ps": 2,
+              "pro yl": 1,
+              "vihr": 2
+            },
+            "ei": {
+              "sdp": 1,
+              "kok": 3,
+              "kesk": 1
+            },
+            "tyhja": {}
+          }
+        },
+        {
+          "jaa": [
+            "Felipe Sini",
+            "Ekman Jani",
+            "Männikkö Kim",
+            "Kämpe-Hellenius Jerri",
+            "Huhmarniemi Saara",
+            "Honkanen Martin",
+            "Orko Maarit",
+            "Kilappa Antti",
+            "Harinen Ari",
+            "Piili Noora",
+            "Suominen Tero",
+            "Hyvärinen Reetta",
+            "Kosonen Liisa",
+            "Fleming Johanna",
+            "Oittinen Paula",
+            "Blom Urho",
+            "Liljequist Kim",
+            "Gustafsson Stefan",
+            "Hedberg Hans",
+            "Karkinen Ronja",
+            "Åström Kim",
+            "Frantsi-Lankia Marjut",
+            "Virtanen Kari",
+            "Kari Marko",
+            "Haapaniemi Timo",
+            "Myllyniemi Markus",
+            "Määttä Jussi",
+            "Polkko Aleksander",
+            "Annila Henri",
+            "Björk Tony",
+            "Kärkimaa Elina",
+            "Leijala Aku",
+            "Valtonen Martin",
+            "Mäkinen Jenny",
+            "Seppälä Ulla",
+            "Valtanen Hannu",
+            "Salonen Antti",
+            "Sahiluoma Anna",
+            "Hakapää Minna",
+            "Ronkainen Tuovi",
+            "Kjerin Ulf",
+            "Aintila Anna",
+            "Adlercreutz Anders",
+            "Basilier Linda"
+          ],
+          "ei": [
+            "Kaurila Matti",
+            "Granström Anneli",
+            "Lankinen Arttu",
+            "Purra Riikka",
+            "Järvinen Johanna"
+          ],
+          "tyhja": [],
+          "totals": {
+            "jaa": 44,
+            "ei": 5,
+            "tyhja": 0
+          },
+          "parties": {
+            "jaa": {
+              "sdp": 5,
+              "kok": 11,
+              "rkp": 12,
+              "vihr": 8,
+              "ps": 2,
+              "pro yl": 5,
+              "kesk": 1
+            },
+            "ei": {
+              "kok": 1,
+              "ps": 4
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta",
+            "ei_label": "Anneli Granströmin muutosehdotusta",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": null,
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Anneli Granströmin muutosehdotusta äänestävät EI — annettiin 44 JAA ja 5 EI ääntä."
+          }
+        },
+        {
+          "jaa": [
+            "Honkanen Martin",
+            "Sahiluoma Anna",
+            "Kämpe-Hellenius Jerri",
+            "Kärkimaa Elina",
+            "Fleming Johanna",
+            "Adlercreutz Anders",
+            "Leijala Aku",
+            "Aintila Anna",
+            "Gustafsson Stefan",
+            "Polkko Aleksander",
+            "Kjerin Ulf",
+            "Blom Urho",
+            "Haapaniemi Timo",
+            "Karkinen Ronja",
+            "Kilappa Antti",
+            "Orko Maarit",
+            "Piili Noora",
+            "Ekman Jani",
+            "Suominen Tero",
+            "Määttä Jussi",
+            "Åström Kim",
+            "Salonen Antti",
+            "Valtanen Hannu",
+            "Valtonen Martin",
+            "Harinen Ari",
+            "Mäkinen Jenny",
+            "Huhmarniemi Saara",
+            "Männikkö Kim",
+            "Kari Marko",
+            "Liljequist Kim",
+            "Felipe Sini",
+            "Seppälä Ulla",
+            "Myllyniemi Markus",
+            "Annila Henri",
+            "Hedberg Hans",
+            "Kosonen Liisa",
+            "Frantsi-Lankia Marjut",
+            "Hakapää Minna",
+            "Björk Tony",
+            "Virtanen Kari",
+            "Basilier Linda",
+            "Hyvärinen Reetta",
+            "Oittinen Paula",
+            "Ronkainen Tuovi"
+          ],
+          "ei": [
+            "Järvinen Johanna",
+            "Granström Anneli",
+            "Lankinen Arttu",
+            "Purra Riikka"
+          ],
+          "tyhja": [
+            "Kaurila Matti"
+          ],
+          "totals": {
+            "jaa": 44,
+            "ei": 4,
+            "tyhja": 1
+          },
+          "parties": {
+            "jaa": {
+              "ps": 2,
+              "kok": 11,
+              "rkp": 12,
+              "vihr": 8,
+              "sdp": 5,
+              "pro yl": 5,
+              "kesk": 1
+            },
+            "ei": {
+              "ps": 4
+            },
+            "tyhja": {
+              "kok": 1
+            }
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta",
+            "ei_label": "Anneli Granströmin muutosehdotusta",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": null,
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Anneli Granströmin muutosehdotusta äänestävät EI — annettiin 44 JAA ja 4 EI ääntä."
+          }
+        },
+        {
+          "jaa": [
+            "Lankinen Arttu",
+            "Oittinen Paula",
+            "Annila Henri",
+            "Männikkö Kim",
+            "Myllyniemi Markus",
+            "Fleming Johanna",
+            "Gustafsson Stefan",
+            "Hedberg Hans",
+            "Kämpe-Hellenius Jerri",
+            "Honkanen Martin",
+            "Huhmarniemi Saara",
+            "Valtonen Martin",
+            "Polkko Aleksander",
+            "Björk Tony",
+            "Järvinen Johanna",
+            "Adlercreutz Anders",
+            "Hyvärinen Reetta",
+            "Blom Urho",
+            "Liljequist Kim",
+            "Kjerin Ulf",
+            "Kilappa Antti",
+            "Karkinen Ronja",
+            "Basilier Linda",
+            "Aintila Anna",
+            "Kärkimaa Elina",
+            "Leijala Aku",
+            "Mäkinen Jenny",
+            "Hakapää Minna"
+          ],
+          "ei": [
+            "Kari Marko",
+            "Kosonen Liisa",
+            "Orko Maarit",
+            "Suominen Tero",
+            "Salonen Antti",
+            "Frantsi-Lankia Marjut",
+            "Määttä Jussi",
+            "Piili Noora",
+            "Åström Kim",
+            "Kaurila Matti",
+            "Harinen Ari",
+            "Sahiluoma Anna",
+            "Virtanen Kari",
+            "Haapaniemi Timo",
+            "Seppälä Ulla",
+            "Ekman Jani",
+            "Ronkainen Tuovi",
+            "Valtanen Hannu",
+            "Felipe Sini",
+            "Purra Riikka"
+          ],
+          "tyhja": [
+            "Granström Anneli"
+          ],
+          "totals": {
+            "jaa": 28,
+            "ei": 20,
+            "tyhja": 1
+          },
+          "parties": {
+            "jaa": {
+              "ps": 4,
+              "vihr": 7,
+              "rkp": 12,
+              "sdp": 1,
+              "kok": 1,
+              "pro yl": 3
+            },
+            "ei": {
+              "kok": 11,
+              "vihr": 1,
+              "sdp": 4,
+              "pro yl": 2,
+              "kesk": 1,
+              "ps": 1
+            },
+            "tyhja": {
+              "ps": 1
+            }
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta",
+            "ei_label": "Marjut Frantsi-Lankian muutosehdotusta",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": null,
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Marjut Frantsi-Lankian muutosehdotusta äänestävät EI — annettiin 28 JAA ja 20 EI ääntä."
+          }
+        },
+        {
+          "jaa": [
+            "Suominen Tero",
+            "Hakapää Minna",
+            "Ronkainen Tuovi",
+            "Salonen Antti",
+            "Piili Noora",
+            "Harinen Ari",
+            "Kilappa Antti",
+            "Felipe Sini"
+          ],
+          "ei": [
+            "Mäkinen Jenny",
+            "Gustafsson Stefan",
+            "Kämpe-Hellenius Jerri",
+            "Fleming Johanna",
+            "Seppälä Ulla",
+            "Lankinen Arttu",
+            "Virtanen Kari",
+            "Kari Marko",
+            "Valtonen Martin",
+            "Oittinen Paula",
+            "Björk Tony",
+            "Kosonen Liisa",
+            "Adlercreutz Anders",
+            "Aintila Anna",
+            "Blom Urho",
+            "Frantsi-Lankia Marjut",
+            "Polkko Aleksander",
+            "Määttä Jussi",
+            "Kjerin Ulf",
+            "Liljequist Kim",
+            "Järvinen Johanna",
+            "Haapaniemi Timo",
+            "Honkanen Martin",
+            "Basilier Linda",
+            "Orko Maarit",
+            "Hyvärinen Reetta",
+            "Valtanen Hannu",
+            "Purra Riikka",
+            "Åström Kim",
+            "Karkinen Ronja",
+            "Huhmarniemi Saara",
+            "Kaurila Matti",
+            "Sahiluoma Anna",
+            "Ekman Jani",
+            "Männikkö Kim",
+            "Kärkimaa Elina",
+            "Annila Henri",
+            "Hedberg Hans",
+            "Myllyniemi Markus",
+            "Granström Anneli"
+          ],
+          "tyhja": [
+            "Leijala Aku"
+          ],
+          "totals": {
+            "jaa": 8,
+            "ei": 40,
+            "tyhja": 1
+          },
+          "parties": {
+            "jaa": {
+              "sdp": 4,
+              "pro yl": 4
+            },
+            "ei": {
+              "rkp": 12,
+              "sdp": 1,
+              "kok": 12,
+              "ps": 6,
+              "vihr": 8,
+              "kesk": 1
+            },
+            "tyhja": {
+              "pro yl": 1
+            }
+          }
+        }
+      ],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 1 TA 2023 KV 12122022, kunnanvaltuuston 12.12.2022 hyväksymä Vuoden 2023 talousarvion ja vuosien 2024-25 taloussuunnitelman hyväksyminen Kunnanhallitus 07.11.2022 § 383",
+        "valmistelija": "Talousjohtaja Esa Lindell, etunimi.sukunimi@kirkkonummi.fi Kunnanhallitus jatkaa talousarvion käsittelyä. Talousarviokirjaan on merkitty vihreällä edellisen kokouksen yhteydessä tehdyt talousarvioneuvottelutoimikunnan hyväksymät lisäykset, jotka puuttuivat edelliseen kokoukseen tuoduista muutoksista. Avustusliitteeseen on tehty korjaus ja talousarvion loppusumma on tarkennettu päätettyjen muutosten mukaiseksi. Oheimateriaalina on kunnanhallituksen palvelualuekohtainen talousarvioehdotus ulkoiset ja sisäiset erät erikseen, jossa on rinnalla myös kunnanjohtajan talousarvioesitys",
+        "esittelija": "Kunnanjohtaja Aarnio Tarmo",
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto hyväksyy liitteenä olevan kunnanhallituksen ehdotuksen vuoden 2023 talousarvioksi ja vuosien 2024-2025 taloussunnitelmaksi",
+        "kasittely": "Kunnanjohtaja Tarmo Aarnio, kunnanhallituksen puheenjohtaja Timo Haapaniemi, talousjohtaja Esa Lindell sekä kunnanvaltuuston puheenjohtaja Anders Adlercreutz esittelivät asiaa kokouksessa. Kunnanhallituksen puheenjohtaja Timo Haapaniemi esitti seuraavia teknisiä korjauksia talousarvioehdotukseen, joita kunnanvaltuuston puheenjohtaja kannatti: 1) Budjetointiohjelmaan ei oltu syötetty Kirkkonummen Veden poistoja johtokunnan hyväksymää määrää. Tämä poistojen korjaus eli niiden lisäys 813 400 eurolla johtokunnan esityksen mukaiseksi tarkoittaa sekä Veden ja kunnan ylijäämän pienentymistä 813 400 eurolla. Muuttuneet taulukot toimitettiin valtuutetuille sähköpostilla. 2) Yhdyskuntatekniikan excel-investointitaulukossa oli kaavavirhe, jossa yksi hanke (Tolsanportti) oli vuosina 2023 ja 2024 otettu yhteenlaskuun kahteen kertaan, jonka korjaus vähensi investointeja vuonna 2023 50 000 € ja vuonna 2024 300 000 €. Tekniset korjaukset hyväksyttiin yksimielisesti. Puheenjohtaja julisti keskustelun päättyneeksi ja totesi, että keskustelun aikana on jätetty muutosehdotuksia ja ponsiehdotuksia seuraavasti: Anneli Granströmin muutosehdotus (109.1) Maahanmuuttokoordinaattorin virkaa ei perusteta vaan tehtävät hoidetaan olemassa olevin voimin ja yhteistyössä lähikuntien kanssa. Muutosehdotusta kannattivat Riikka Purra, Arttu Lankinen, Johanna Järvinen ja Matti Kaurila. Muutosehdotusta ei hyväksytty yksimielisesti joten puheenjohtaja ilmoitti että asiasta on äänestettävä. Puheenjohtaja ehdotti että asiasta äänestetään niin, että ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Anneli Granströmin muutosehdotusta äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 44 JAA ääntä ja 5 EI ääntä, 2 poissa Pohjaehdotus sai enemmän ääniä. JAA äänestivät: Felipe Sini, Ekman Jani, Männikkö Kim, Kämpe-Hellenius Jerri, Huhmarniemi Saara, Honkanen Martin, Orko Maarit, Kilappa Antti, Harinen Ari, Piili Noora, Suominen Tero, Hyvärinen Reetta, Kosonen Liisa, Fleming Johanna, Oittinen Paula, Blom Urho, Liljequist Kim, Gustafsson Stefan, Hedberg Hans, Karkinen Ronja, Åström Kim, Frantsi-Lankia Marjut, Virtanen Kari, Kari Marko, Haapaniemi Timo, Myllyniemi Markus, Määttä Jussi, Polkko Aleksander, Annila Henri, Björk Tony, Kärkimaa Elina, Leijala Aku, Valtonen Martin, Mäkinen Jenny, Seppälä Ulla, Valtanen Hannu, Salonen Antti, Sahiluoma Anna, Hakapää Minna, Ronkainen Tuovi, Kjerin Ulf, Aintila Anna, Adlercreutz Anders ja Basilier Linda EI äänestivät: Kaurila Matti, Granström Anneli, Lankinen Arttu, Purra Riikka ja Järvinen Johanna Poissa: Ylisiurua Katja ja Ylikoski Jukka Anneli Granströmin muutosehdotus (109.2) Hyte-koordinaattorin virkaa ei perusteta vaan tehtävät hoidetaan olemassa olevin resurssein. Asiaan voidaan palata kun kunnan taloustilanne paranee. Muutosehdotusta kannattivat Riikka Purra, Arttu Lankinen ja Johanna Järvinen. Muutosehdotusta ei hyväksytty yksimielisesti joten puheenjohtaja ilmoitti että asiasta on äänestettävä. Puheenjohtaja ehdotti että, että asiasta äänestetään niin, että ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Anneli Granströmin muutosehdotusta äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 44 JAA ääntä ja 4 EI ääntä, 1 tyhjä ääni ja 2 poissa Pohjaehdotus sai enemmän ääniä. JAA äänestivät: Honkanen Martin, Sahiluoma Anna, Kämpe-Hellenius Jerri, Kärkimaa Elina, Fleming Johanna, Adlercreutz Anders, Leijala Aku, Aintila Anna, Gustafsson Stefan, Polkko Aleksander, Kjerin Ulf, Blom Urho, Haapaniemi Timo, Karkinen Ronja, Kilappa Antti, Orko Maarit, Piili Noora, Ekman Jani, Suominen Tero, Määttä Jussi, Åström Kim, Salonen Antti, Valtanen Hannu, Valtonen Martin, Harinen Ari, Mäkinen Jenny, Huhmarniemi Saara, Männikkö Kim, Kari Marko, Liljequist Kim, Felipe Sini, Seppälä Ulla, Myllyniemi Markus, Annila Henri, Hedberg Hans, Kosonen Liisa, Frantsi-Lankia Marjut, Hakapää Minna, Björk Tony, Virtanen Kari, Basilier Linda, Hyvärinen Reetta, Oittinen Paula ja Ronkainen Tuovi EI äänestivät: Järvinen Johanna, Granström Anneli, Lankinen Arttu ja Purra Riikka Tyhjää äänesti Kaurila Matti Poissa: Ylisiurua Katja ja Ylikoski Jukka Marjut Frantsi-Lankian muutosehdotus (109.4) Ehdotan kotihoidon tuen kuntalisän (ns. Kirkkonummilisä) palauttamista alle 2-vuotiaille 100e/kk. Muutosehdotusta kannattivat Ari Harinen, Antti Salonen, Liisa Kosonen, Hannu Valtanen, Noora Piili, Matti Kaurila, Sini Felipe, Tero Suominen, Kim Åström, Marko Kari, Kari Virtanen, Anna Sahiluoma, Riikka Purra, Jussi Määttä ja Timo Haapaniemi. Muutosehdotusta ei hyväksytty yksimielisesti joten puheenjohtaja ilmoitti että asiasta on äänestettävä. Puheenjohtaja ehdotti, että asiasta äänestetään niin, että ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Marjut Frantsi-Lankian muutosehdotusta äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 28 JAA ääntä, 20 EI ääntä ja 1 tyhjä, 2 poissa Pohjaehdotus sai enemmän ääniä. JAA äänestivät: Lankinen Arttu, Oittinen Paula, Annila Henri, Männikkö Kim, Myllyniemi Markus, Fleming Johanna, Gustafsson Stefan, Hedberg Hans, Kämpe-Hellenius Jerri, Honkanen Martin, Huhmarniemi Saara, Valtonen Martin, Polkko Aleksander, Björk Tony, Järvinen Johanna, Adlercreutz Anders, Hyvärinen Reetta, Blom Urho, Liljequist Kim, Kjerin Ulf, Kilappa Antti, Karkinen Ronja, Basilier Linda, Aintila Anna, Kärkimaa Elina, Leijala Aku, Mäkinen Jenny ja Hakapää Minna EI äänestivät: Kari Marko, Kosonen Liisa, Orko Maarit, Suominen Tero, Salonen Antti, Frantsi-Lankia Marjut, Määttä Jussi, Piili Noora, Åström Kim, Kaurila Matti, Harinen Ari, Sahiluoma Anna, Virtanen Kari, Haapaniemi Timo, Seppälä Ulla, Ekman Jani, Ronkainen Tuovi, Valtanen Hannu, Felipe Sini ja Purra Riikka Tyhjää äänesti Granström Anneli Poissa: Ylisiurua Katja ja Ylikoski Jukka Antti Kilapan ponsiehdotus (109.3) Virkahenkilöt tuo selvityksen Nissnikun koulun rakentamisen viivästymisestä toimitilapalveluiden lautakunnalle 15.2.2023 ja kunnanhallitukselle 27.2.2023. Viivästymistä on perusteltu talousarviokäsittelyn yhteydessä urakkamuodon muuttamisella, joka tapahtui vuosi sitten talousarviokäsittelyn yhteydessä. Lisäksi viivästymistä on aiheuttanut henkilöstövaje sekä henkilöstön valmius toteuttaa uutta urakkamuotoa kouluhankkeessa. Vuoden aikana hanke ei ole mennyt eteenpäin yllä olevien syiden vuoksi. Selvityksessä tulee ottaa kantaa aikataulutukseen eri urakkamuodoilla ja mahdolliset lisäresurssi tarpeet, jotta hanke etenee. Hankesuunnitelma on hyväksytty kunnanvaltuustossa 2019. Ponsiehdotusta kannattivat Noora Piili, Ari Harinen, Antti Salonen, Tero Suominen ja Minna Hakapää. Ponsiehdotusta ei hyväksytty yksimielisesti, joten puheenjohtaja ilmoitti että asiasta on äänestettävä. Puheenjohtaja ehdotti, että asiasta äänestetään niin, että ne jotka kannattavat Antti Kilapan ponsiehdotuksen hyväksymistä äänestävät JAA, ja ne jotka eivät kannata ponsiehdotusta äänestävät EI. Äänestyksessä annettiin 8 JAA ääntä, 40 EI ääntä ja yksi tyhjä ääni, 2 poissa. Pohjaehdotus ilman pontta sai enemmän ääniä, joten ponsiehdotusta ei hyväksytty. JAA äänestivät: Suominen Tero, Hakapää Minna, Ronkainen Tuovi, Salonen Antti, Piili Noora, Harinen Ari, Kilappa Antti ja Felipe Sini EI äänestivät: Mäkinen Jenny, Gustafsson Stefan, Kämpe-Hellenius Jerri, Fleming Johanna, Seppälä Ulla, Lankinen Arttu, Virtanen Kari, Kari Marko, Valtonen Martin, Oittinen Paula, Björk Tony, Kosonen Liisa, Adlercreutz Anders, Aintila Anna, Blom Urho, Frantsi-Lankia Marjut, Polkko Aleksander, Määttä Jussi, Kjerin Ulf, Liljequist Kim, Järvinen Johanna, Haapaniemi Timo, Honkanen Martin, Basilier Linda, Orko Maarit, Hyvärinen Reetta, Valtanen Hannu, Purra Riikka, Åström Kim, Karkinen Ronja, Huhmarniemi Saara, Kaurila Matti, Sahiluoma Anna, Ekman Jani, Männikkö Kim, Kärkimaa Elina, Annila Henri, Hedberg Hans, Myllyniemi Markus ja Granström Anneli. Tyhjää äänesti Leijala Aku Poissa: Ylisiurua Katja ja Ylikoski Jukka Timo Haapaniemen ponsiehdotus (109.5) Kunnanvaltuusto on päättänyt Nissnikun koulun rakentamisesta yhtä aikaa lukiokampuksen kanssa. Toimitilapalvelujen henkilöstövaihdosten ja resurssipuutteen vuoksi Nissnikun koulun väistötilojen hankinta on viivästynyt. Kunnanvaltuusto edellyttää, että toimitilapalvelujen lautakunta tuo kunnanhallitukselle tammi - helmikuussa selvityksen, sekä väistötilojen että uudisrakennuksen tilanteesta ja aikataulusta sekä keinoista, joilla terveysturvallisten väistötilojen hankintaa voitaisi nopeuttaa. Ponsiehdotusta kannattivat Riikka Purra, Anneli Granström, Johanna Järvinen, Aleksander Polkko, Martin Honkanen, Urho Blom, Arttu Lankinen, Kim Åström, Tony Björk, Liisa Kosonen, Hannu Valtanen, Kari Virtanen, Linda Basilier, Ulf Kjerin, Kim Männikkö, Marko Kari, Anna Sahiluoma, Martin Valtonen, Kim Liljequist, Jussi Määttä, Anna Aintila, Jenny Mäkinen, Jani Ekman, Markus Myllyniemi, Henri Annila, Jerri Kämpe-Hellenius, Minna Hakapää, Antti Salonen ja Antti Kilappa. Puheenjohtajan tiedustellessa ponsiehdotus hyväksyttiin yksimielisesti",
+        "paatos": "Kunnanvaltuusto päätti hyväksyä korjatun, pöytäkirjan liitteenä olevan kunnanhallituksen ehdotuksen vuoden 2023 talousarvioksi ja vuosien 2024-2025 taloussunnitelmaksi. Lisäksi kunnanvaltuusto päätti yksimielisesti hyväksyä seuraavan ponnen: Kunnanvaltuusto on päättänyt Nissnikun koulun rakentamisesta yhtä aikaa lukiokampuksen kanssa. Toimitilapalvelujen henkilöstövaihdosten ja resurssipuutteen vuoksi Nissnikun koulun väistötilojen hankinta on viivästynyt. Kunnanvaltuusto edellyttää, että toimitilapalvelujen lautakunta tuo kunnanhallitukselle tammi - helmikuussa selvityksen, sekä väistötilojen että uudisrakennuksen tilanteesta ja aikataulusta sekä keinoista, joilla terveysturvallisten väistötilojen hankintaa voitaisi nopeuttaa",
+        "tiedoksi": "Kunnanvaltuusto 12.12.2022 § 109 618/02.02.00/2022"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "paatos_labels": 4,
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "TA 2023 KV 12122022, kunnanvaltuuston 12.12.2022 hyväksymä",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20221291-8-84339.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Anneli Granström",
+          "kind": "vastaehdotus",
+          "text": null,
+          "source": "order",
+          "party": "ps"
+        },
+        {
+          "proposer": "Marjut Frantsi-Lankia",
+          "kind": "vastaehdotus",
+          "text": null,
+          "source": "order",
+          "party": "kesk"
+        }
+      ]
+    },
+    {
+      "id": "20221291-9",
+      "ordinal": "9",
+      "title": "Hallintosäännön muuttaminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221291-9",
+      "decision": "Kunnanvaltuusto päätti ehdotuksen mukaisesti lisättynä seuraavalla ponnella: Nuorisovaltuuston edustaja kutsutaan jatkossa säännöllisesti myös niiden toimielinten kokouksiin, joissa edustajalla ei ole hallintosäännön mukaan pysyvää läsnäolo- ja puheoikeutta, mutta oikeus olla kutsuttuna paikalla. Erityisesti perustettavan elinvoimajaoston kokouksissa nuorten ääni olisi hyvä saada kuuluviin",
+      "votes": [
+        {
+          "jaa": [
+            "Haapaniemi Timo",
+            "Annila Henri",
+            "Kjerin Ulf",
+            "Liljequist Kim",
+            "Basilier Linda",
+            "Åström Kim",
+            "Huhmarniemi Saara",
+            "Granström Anneli",
+            "Kämpe-Hellenius Jerri",
+            "Hakapää Minna",
+            "Kosonen Liisa",
+            "Harinen Ari",
+            "Leijala Aku",
+            "Männikkö Kim",
+            "Gustafsson Stefan",
+            "Järvinen Johanna",
+            "Virtanen Kari",
+            "Honkanen Martin",
+            "Suominen Tero",
+            "Orko Maarit",
+            "Aintila Anna",
+            "Kari Marko",
+            "Hedberg Hans",
+            "Lankinen Arttu",
+            "Felipe Sini",
+            "Oittinen Paula",
+            "Kärkimaa Elina",
+            "Frantsi-Lankia Marjut",
+            "Purra Riikka",
+            "Björk Tony",
+            "Sahiluoma Anna",
+            "Adlercreutz Anders",
+            "Määttä Jussi",
+            "Polkko Aleksander",
+            "Fleming Johanna",
+            "Myllyniemi Markus",
+            "Ronkainen Tuovi",
+            "Mäkinen Jenny",
+            "Hyvärinen Reetta",
+            "Blom Urho"
+          ],
+          "ei": [
+            "Ekman Jani",
+            "Kilappa Antti",
+            "Piili Noora",
+            "Salonen Antti",
+            "Valtonen Martin",
+            "Seppälä Ulla",
+            "Valtanen Hannu",
+            "Kaurila Matti"
+          ],
+          "tyhja": [
+            "Karkinen Ronja"
+          ],
+          "totals": {
+            "jaa": 40,
+            "ei": 8,
+            "tyhja": 1
+          },
+          "parties": {
+            "jaa": {
+              "kok": 8,
+              "vihr": 7,
+              "rkp": 11,
+              "ps": 6,
+              "pro yl": 2,
+              "sdp": 5,
+              "kesk": 1
+            },
+            "ei": {
+              "kok": 4,
+              "pro yl": 3,
+              "rkp": 1
+            },
+            "tyhja": {
+              "vihr": 1
+            }
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta",
+            "ei_label": "Jani Ekmanin muutosehdotusta",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "vastaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": null,
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Jani Ekmanin muutosehdotusta äänestävät EI — annettiin 40 JAA ja 8 EI ääntä."
+          }
+        }
+      ],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 2 Hallintosääntö vs muutokset_palstoitettu, Kh 5.12.2022 Hallintosäännön muuttaminen Kunnanhallitus 21.11.2022 § 389",
+        "valmistelija": "Hallintojohtaja Jaana Suihkonen ja kunnanlakimies Hannu Sorvari, etunimi.sukunimi@kirkkonummi.fi Kuntalain 90 § 1 mom:n mukaan kunnan hallintosäännössä annetaan tarpeelliset määräykset, jotka ainakin koskevat kunnan 1) hallinnon ja toiminnan järjestämistä, 2) päätöksenteko- ja hallintomenettelyä ja 3) valtuuston toimintaa. Hallintosäännössä voidaan 1 momentin perusteella antaa tarpeellisilta osin muitakin, kuin ao. kuntalain säännöksessä nimenomaisesti edellytettyjä määräyksiä. Voimassa oleva Kirkkonummen hallintosääntö on hyväksytty kunnanvaltuustossa 30.8.2021 ja astunut voimaan 31.8. 2021. Runsaan vuoden mittaisena soveltamisaikanaan hallintosäännössä on ilmennyt tarvetta sekä korjata että uudistaa sitä. Nyt esitetyn suppean ensimmäisen vaiheen jälkeen tarkoitus on ryhtyä valmistelemaan hallintosäännön perusteellista uudistamista. Suuremman uudistuksen tavoitteena on saada aikaan Kirkkonummelle selkeydeltään ja käytettävyydeltään hyvä hallintosääntö. Valmisteluun on tällöin tarkoitus saada riittävästi mukaan luottamushenkilöiden edustajia ja viranhaltijoita. Tässä esityksessä tehtävät muutokset painottuvat teknisiin ja lakipäivityksistä johtuviin korjauksiin. Esityksen mukaisesti uusitun Kirkkonummen kunnan hallintosäännön on tarkoitus astua voimaan 1.1.2023. Luottamushenkilöorganisaation näkökulmasta merkittävimpiä muutosehdotuksia ovat: Ehdotus muuttaa opetus- ja kasvatustyöstä vastaavien lautakuntien alaisuudessa toimivien johtavien viranhaltijoiden nimikkeitä ja täsmentää tehtäväkuvia sekä tähän liittyen kumota nykyisen hallintosäännön pykälät 62 ja 63. Ehdotus kunnanhallituksen valvontatehtävän perumisesta asioissa, jotka koskevat lautakunnan delegoimalla päätösvallalla tehtyjä päätöksiä. Tarkoituksena on palauttaa valvontatehtävä ao. lautakunnalle kuten toimintatapa on ollut aiemman voimassa olleen hallintosäännön aikana. Ehdotus vuoden 2023 alusta voimaan tulevan hyvinvointialueuudistuksen seurauksena lopetettavista perusturvalautakunnasta ja -jaostosta. Siltä osin, kun perusturvan palvelualueelta jää vielä 1.1.2023 jälkeen tehtäviä kunnalle, eli erityisesti vuoden 2022 toimintakertomuksen hyväksymisen ja mahdollisten ennen vuotta 2023 vireille tulleiden oikaisuvaatimusten ja oikeudenkäyntien neuvonnan ja valmistelutehtävien osalta, toimivalta jäljelle jääviin tehtäviin esitetään siirrettäväksi kunnanhallitukselle. Ehdotus poistaa kunnasta palo- ja pelastustoimen järjestämisvastuuseen kuuluvat tehtävät. Ehdotus perustaa kunnanhallituksen yhteyteen elivoimajaosto, jonka tehtävänä on edistää kunnan elinkeinopolitiikkaa, kunnan vetovoimaista kehitystä, kunnan elinvoimaisuutta sekä huolehtia elinvoiman aluetta koskevista ohjeista ja periaatteista. Tarkoitus on päättää kuntamarkkinoinnista ja niistä periaatteista, joilla palvelualueet osaltaan markkinoivat kuntaa, valmistella valtuustolle hyväksyttäväksi kunnan elinvoimaisuuden ohjelma, koordinoida kunnan toiminnan kehittämistä, päättää kunnan työllistämistoimenpiteistä, vastata kunnan hyvinvoinnin ja terveyden edistämisestä ja kunnan hyvinvointikertomuksesta, vastata kunnan kotoutumisasioista sekä vastata kunnan asumisneuvonnasta. Esityksen liitteenä ovat hallintosäännön muutosehdotukset rinnakkaistekstinä. Esitys on laadittu siten, että muutokset löytyvät oikeanpuoleisesta sarakkeesta ja ne on merkitty tekstiin siten, että ennen 21.11. tehdyt esitykset on korostetu kursiivilla ja alleviivaamalla sekä sen jälkeen tehdyt esitykset on korostettu punavärillä. Poistettavaksi esitetyt kohdat on lisäksi yliviivattu",
+        "esittelija": "Kunnanjohtaja Aarnio Tarmo",
+        "paatosehdotus": "Kunnanhallitus esittää kunnanvaltuuston hyväksyttäväksi liitteen mukaisesti muokatun hallintosäännön, joka astuu voimaan 1.1.2023",
+        "kasittely": "Hallintojohtaja Jaana Suihkonen esitteli asiaa kokouksessa. Puheenjohtaja julisti keskustelun päättyneeksi ja totesi että keskustelun aikana oli jätetty muutosehdotus ja ponsiehdotus seuraavasti: Jani Ekmanin muutosehdotus Muutetaan teksti \"muiden kunnan ohjeiden mukaisesti\" muotoon \"talonrakennushankkeiden hankeohjeen mukaisesti\" Muutosehdotus kannattivat Matti Kaurila, Hannu Valtanen ja Noora Piili. Muutosehdotus ei hyväksytty yksimielisesti joten puheenjohtaja ilmoitti että asiasta on äänestettävä. Puheenjohtaja ehdotti, että asiasta äänestetään niin, että ne jotka kannattavat pohjaehdotusta äänestävät JAA, ja ne jotka kannattavat Jani Ekmanin muutosehdotusta äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin 40 JAA ääntä, 8 EI ääntä, 1 tyhjä, 2 poissa. JAA äänestivät: Haapaniemi Timo, Annila Henri, Kjerin Ulf, Liljequist Kim, Basilier Linda, Åström Kim, Huhmarniemi Saara, Granström Anneli, Kämpe-Hellenius Jerri, Hakapää Minna, Kosonen Liisa, Harinen Ari, Leijala Aku, Männikkö Kim, Gustafsson Stefan, Järvinen Johanna, Virtanen Kari, Honkanen Martin, Suominen Tero, Orko Maarit, Aintila Anna, Kari Marko, Hedberg Hans, Lankinen Arttu, Felipe Sini, Oittinen Paula, Kärkimaa Elina, Frantsi-Lankia Marjut, Purra Riikka, Björk Tony, Sahiluoma Anna, Adlercreutz Anders, Määttä Jussi, Polkko Aleksander, Fleming Johanna, Myllyniemi Markus, Ronkainen Tuovi, Mäkinen Jenny, Hyvärinen Reetta ja Blom Urho EI äänestivät: Ekman Jani, Kilappa Antti, Piili Noora, Salonen Antti, Valtonen Martin, Seppälä Ulla, Valtanen Hannu ja Kaurila Matti Tyhjää äänesti Karkinen Ronja Poissa: Ylisiurua Katja ja Ylikoski Jukka Elina Kärkimaan ponsiehdotus: Nuorisovaltuuston edustaja kutsutaan jatkossa säännöllisesti myös niiden toimielinten kokouksiin, joissa edustajalla ei ole hallintosäännön mukaan pysyvää läsnäolo- ja puheoikeutta, mutta oikeus olla kutsuttuna paikalla. Erityisesti perustettavan elinvoimajaoston kokouksissa nuorten ääni olisi hyvä saada kuuluviin. Ponsiehdotusta kannattivat Maarit Orko, Kim Åström, Markus Myllyniemi, Johanna Fleming, Hannu Valtanen, Tuovi Ronkainen, Henri Annila, Reetta Hyvärinen, Martin Honkanen, Aleksander Polkko, Saara Huhmarniemi, Paula Oittinen, Ronja Karkinen, Tony Björk, Kari Virtanen, Anna Aintila, Jenny Mäkinen, Marko Kari, Urho Blom, Sini Felipe, Kim Liljequist, Liisa Kosonen, Anna Sahiluoma, Linda Basilier, Antti Kilappa, Marjut Fransi-Lankia ja Tero Suominen. Puheenjohtajan tiedustellessa ponsiehdotus hyväksyttiin yksimielisesti",
+        "paatos": "Kunnanvaltuusto päätti ehdotuksen mukaisesti lisättynä seuraavalla ponnella: Nuorisovaltuuston edustaja kutsutaan jatkossa säännöllisesti myös niiden toimielinten kokouksiin, joissa edustajalla ei ole hallintosäännön mukaan pysyvää läsnäolo- ja puheoikeutta, mutta oikeus olla kutsuttuna paikalla. Erityisesti perustettavan elinvoimajaoston kokouksissa nuorten ääni olisi hyvä saada kuuluviin"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "paatos_labels": 3,
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Hallintosääntö vs muutokset_palstoitettu, Kh 5.12.2022",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20221291-9-84151.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Jani Ekman",
+          "kind": "vastaehdotus",
+          "text": null,
+          "source": "order",
+          "party": "kok"
+        }
+      ]
+    },
+    {
+      "id": "20221291-10",
+      "ordinal": "10",
+      "title": "Vastaus valtuustoaloitteeseen 17/2021: Riippumaton selvitys ja toimenpideohjelma henkilöstön hyvinvoinnin parantamiseksi",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221291-10",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti lisättynä seuraavalla ponnella: Kunta järjestää luottamushenkilöille suunnatun koulutuksen, jossa käydään läpi, mitä on luottamushenkilön epäasiallinen käyttäytyminen työntekijöitä kohtaan ja toimenpiteet, joilla luottamushenkilöt voivat tarvittaessa puuttua havaitsemaansa epäasialliseen käytökseen. Koulutukseen osallistumiseen annetaan vahva suositus, joka velvoittaa kaikkia luottamushenkilöitä. Perustelut: Nyt esitetty vastaus valtuustoaloitteeseen ja siinä esitetyt toimenpiteet ovat arvokkaita ja tarpeellisia, mutta liittyvät lähinnä operatiiviseen työhön. Kuitenkin henkilöstökertomuksen käsittelyn yhteydessä on tullut ilmi, että henkilöstö on raportoinut päättäjien epäasiallisesta käytöksestä viranhaltijoita kohtaan. Asia kävi ilmi myös luottamustoimielimille tehdyissä kyselyissä. Asia ei ole vähäpätöinen, sillä luottamushenkilöt ovat kunnan toiminnan keskiössä: Edustaahan esimerkiksi kunnanhallitus koko työnantajaa. Epäasiallinen kohtelu on hyvinvointiriski, joka voi vaarantaa terveyttä, vähentää työn tuottavuutta, aiheuttaa työnantajalle kustannuksia ja voi johtaa jopa työntekijän irtisanoutumiseen. Kuitenkin luottamushenkilöiden epäasialliseen käytökseen voi olla vaikea puuttua, sillä esimerkiksi henkilöstöasioista vastaavan viranhaltijan toimivaltaan ei lukeudu varoituksen antaminen paikallispoliitikolle tai kuulemiseen kutsuminen. Näin ollen asiassa avainroolissa ovat itse luottamushenkilöt ja heidän toimintansa. Haasteena on, että luottamushenkilöille voi olla epäselvää, mikä on epäasiallista käyttäytymistä luottamustoimessa ja toisaalta se, että luottamushenkilöt eivät välttämättä ole tietoisia vastuustaan puuttua tai mahdollisista keinoista puuttua epäasialliseen käytökseen. Ponnessa esitetty koulutus vastaa osaltaan tähän haasteeseen",
+      "votes": [],
+      "initiative": {
+        "ref": "17/2021",
+        "proposer": "Vihreä valtuustoryhmä",
+        "party": "vihr",
+        "name": null
+      },
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus antaa yllä olevan vastauksen valtuustoaloitteeseen 17/2021 ja ehdottaa kunnanvaltuustolle, että valtuusto pitää vastausta riittävänä ja aloitetta loppuunkäsiteltynä",
+        "kasittely": "Puheenjohtaja julisti keskustelun päättyneeksi ja totesi, että keskustelun aikana Reetta Hyvärinen oli jättänyt seuraavan ponsiehdotuksen: Kunta järjestää luottamushenkilöille suunnatun koulutuksen, jossa käydään läpi, mitä on luottamushenkilön epäasiallinen käyttäytyminen työntekijöitä kohtaan ja toimenpiteet, joilla luottamushenkilöt voivat tarvittaessa puuttua havaitsemaansa epäasialliseen käytökseen. Koulutukseen osallistumiseen annetaan vahva suositus, joka velvoittaa kaikkia luottamushenkilöitä. Perustelut: Nyt esitetty vastaus valtuustoaloitteeseen ja siinä esitetyt toimenpiteet ovat arvokkaita ja tarpeellisia, mutta liittyvät lähinnä operatiiviseen työhön. Kuitenkin henkilöstökertomuksen käsittelyn yhteydessä on tullut ilmi, että henkilöstö on raportoinut päättäjien epäasiallisesta käytöksestä viranhaltijoita kohtaan. Asia kävi ilmi myös luottamustoimielimille tehdyissä kyselyissä. Asia ei ole vähäpätöinen, sillä luottamushenkilöt ovat kunnan toiminnan keskiössä: Edustaahan esimerkiksi kunnanhallitus koko työnantajaa. Epäasiallinen kohtelu on hyvinvointiriski, joka voi vaarantaa terveyttä, vähentää työn tuottavuutta, aiheuttaa työnantajalle kustannuksia ja voi johtaa jopa työntekijän irtisanoutumiseen. Kuitenkin luottamushenkilöiden epäasialliseen käytökseen voi olla vaikea puuttua, sillä esimerkiksi henkilöstöasioista vastaavan viranhaltijan toimivaltaan ei lukeudu varoituksen antaminen paikallispoliitikolle tai kuulemiseen kutsuminen. Näin ollen asiassa avainroolissa ovat itse luottamushenkilöt ja heidän toimintansa. Haasteena on, että luottamushenkilöille voi olla epäselvää, mikä on epäasiallista käyttäytymistä luottamustoimessa ja toisaalta se, että luottamushenkilöt eivät välttämättä ole tietoisia vastuustaan puuttua tai mahdollisista keinoista puuttua epäasialliseen käytökseen. Ponnessa esitetty koulutus vastaa osaltaan tähän haasteeseen. Ponsiehdotusta kannattivat Markus Myllyniemi, Maarit Orko, Jerri Kämpe-Hellenius, Paula Oittinen, Elina Kärkimaa, Anna Aintila, Henri Annila, Martin Valtonen ja Jenny Mäkinen. Puheenjohtajan tiedustellessa ponsiehdotus hyväksyttiin yksimielisesti",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti lisättynä seuraavalla ponnella: Kunta järjestää luottamushenkilöille suunnatun koulutuksen, jossa käydään läpi, mitä on luottamushenkilön epäasiallinen käyttäytyminen työntekijöitä kohtaan ja toimenpiteet, joilla luottamushenkilöt voivat tarvittaessa puuttua havaitsemaansa epäasialliseen käytökseen. Koulutukseen osallistumiseen annetaan vahva suositus, joka velvoittaa kaikkia luottamushenkilöitä. Perustelut: Nyt esitetty vastaus valtuustoaloitteeseen ja siinä esitetyt toimenpiteet ovat arvokkaita ja tarpeellisia, mutta liittyvät lähinnä operatiiviseen työhön. Kuitenkin henkilöstökertomuksen käsittelyn yhteydessä on tullut ilmi, että henkilöstö on raportoinut päättäjien epäasiallisesta käytöksestä viranhaltijoita kohtaan. Asia kävi ilmi myös luottamustoimielimille tehdyissä kyselyissä. Asia ei ole vähäpätöinen, sillä luottamushenkilöt ovat kunnan toiminnan keskiössä: Edustaahan esimerkiksi kunnanhallitus koko työnantajaa. Epäasiallinen kohtelu on hyvinvointiriski, joka voi vaarantaa terveyttä, vähentää työn tuottavuutta, aiheuttaa työnantajalle kustannuksia ja voi johtaa jopa työntekijän irtisanoutumiseen. Kuitenkin luottamushenkilöiden epäasialliseen käytökseen voi olla vaikea puuttua, sillä esimerkiksi henkilöstöasioista vastaavan viranhaltijan toimivaltaan ei lukeudu varoituksen antaminen paikallispoliitikolle tai kuulemiseen kutsuminen. Näin ollen asiassa avainroolissa ovat itse luottamushenkilöt ja heidän toimintansa. Haasteena on, että luottamushenkilöille voi olla epäselvää, mikä on epäasiallista käyttäytymistä luottamustoimessa ja toisaalta se, että luottamushenkilöt eivät välttämättä ole tietoisia vastuustaan puuttua tai mahdollisista keinoista puuttua epäasialliseen käytökseen. Ponnessa esitetty koulutus vastaa osaltaan tähän haasteeseen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtuustoaloite 17/2021: Riippumaton selvitys ja toimenpideohjelma henkilöstön hyvinvoinnin parantamiseksi",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20221291-10-53938.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20221291-11",
+      "ordinal": "11",
+      "title": "Vastaus valtuustoaloitteeseen 1/2022: Parenteesikeskuksen perustaminen Kirkkonummelle - vaihe 1",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221291-11",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "initiative": {
+        "ref": "1/2022",
+        "proposer": "Valtuutettu Kari Virtanen",
+        "party": null,
+        "name": "Kari Virtanen"
+      },
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus antaa yllä olevan vastauksen valtuustoaloitteeseen 1/2022 ja ehdottaa kunnanvaltuustolle, että valtuusto pitää vastausta riittävänä ja aloitetta loppuunkäsiteltynä",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtuustoaloite: Esitys Parenteesikeskuksen perustamisesta Kirkkonummelle - vaihe 1",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20221291-11-66783.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20221291-12",
+      "ordinal": "12",
+      "title": "Eron myöntäminen käräjäoikeuden lautamiehen tehtävästä sekä uuden lautamiehen valitseminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221291-12",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Rose-Marie Fager-Pintilälle käräjäoikeuden lautamiehen tehtävästä 2 valita Pia Lappalaisen uudeksi käräjäoikeuden lautamieheksi Fager-Pintilän tilalle toimikauden loppuun",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto 1 myöntää eron Rose-Marie Fager-Pintilälle käräjäoikeuden lautamiehen tehtävästä 2 valitsee uuden käräjäoikeuden lautamiehen Fager-Pintilän tilalle toimikauden loppuun",
+        "kasittely": "Markus Myllyniemi: Vihreä valtuustoryhmä esittää tehtävään Pia Lappalaista",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Rose-Marie Fager-Pintilälle käräjäoikeuden lautamiehen tehtävästä 2 valita Pia Lappalaisen uudeksi käräjäoikeuden lautamieheksi Fager-Pintilän tilalle toimikauden loppuun"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20221291-13",
+      "ordinal": "13",
+      "title": "Sidonnaisuusilmoitukset",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221291-13",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Tarkastuslautakunta ehdottaa kunnanvaltuustolle, että valtuusto päättää merkitä sidonnaisuusrekisterin tiedoksi",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "repaired",
+      "paatos_labels": 2,
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20221291-14",
+      "ordinal": "14",
+      "title": "Valtuustoaloite nro 17/2022: Pitkä hiihtolatu Kirkkonummelle",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221291-14",
+      "decision": "Kunnanvaltuusto lähettää valtuustoaloitteen kunnanhallitukselle valmisteltavaksi",
+      "votes": [],
+      "initiative": {
+        "ref": null,
+        "proposer": null,
+        "party": null,
+        "name": null
+      },
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Valtuustoaloite pitkästä ladusta Kirkkonummelle Valtuustoaloite nro 17/2022: Pitkä hiihtolatu Kirkkonummelle Kunnanvaltuusto 12.12.2022 § 115 1346/12.04.02/2022 Kunnanvaltuuston kokouksessa 12.12.2022 jätettiin seuraava valtuustoaloite: \"Hiihtokausi on jälleen alkanut, mutta kirkkonummelaiset joutuvat jälleen matkustamaan naapurikuntiin päästäkseen pidemmälle laturetkelle. Kirkkonummella on useita kunnan ylläpitämiä lyhyitä latuja, joista suurin osa on noin 1-3 km pitkiä sekä kaksi latua, jotka ovat pisimmillään 5-6km. Kunnassa on myös yksityisten henkilöiden, golfkeskusten sekä kyläyhdistyksen ylläpitämiä latuja, mutta niiden ylläpito perustuu näiden tahojen hyväntahtoisuuteen ja satunnaisiin mahdollisuuksiin. Hiihdolla tiedetään olevan terveyttä ja hyvinvointia edistäviä vaikutuksia. Luonnon virkistyskäytön inventoinnissa todetaan, että Suomessa 15 - 80 -vuotiaista henkilöistä 1.2 miljoonaa eli noin 30% ilmoittaa harrastavansa maastohiihtoa. Tämä mahdollistuu ainoastaan, jos on latu. Pitkän ladun helppo saavutettavuus olisi tärkeä, mikä toteutuukin jo hyvin lyhyissä laduissa. Kunnan ylläpitämä pitkä latu voisi olla esimerkiksi Keskusmetsässä, jossa on aikanaan ollutkin latu. Tai lähteä Jokirinteen koululta kohti Humaljärveä. Me allekirjoittaneet kunnanvaltuutetut haluamme selvityksen, minne kuntaan voisi toteuttaa pidemmän ladun sekä arvion sen toteuttamiskustannuksista. Lisäksi haluamme selvityksen, miten tukea yksityisiä ladun tekijöitä, jotta he tekevät latuja myös jatkossa. Luettelo Kirkkonummen kunnan ylläpitämistä laduista ja niiden hoitoluokitukset: Sundet 2.8km III Jerikonmäki 6,2 km I Kantvik valaistu 1,1 km II Gesterbyn koulukeskus 1,9 km II Kyrkvalla 1.7km II Laajakallio 1.9km III Neidonkallion metsätie 3.5km II Sundet 2.8 km III Framnäs 0,9 km III Bobäck 2.5 km III Veikkolan urheilupuisto 0,4 - 5 km valaistu I Masalan kuntorata valaistu 1.8 km I Joitain yksityisten yllläpitämä latuja Kirkkonummella: Peuramaalla golfkentällä, Max Wignerin latu Gunnarsbyn pelloilla Masagårdin (Stor Åkern)pelto, Sepänkylän Gesterbyn väliset pellot, golfkentillä esim. Peuramaalla ja Kurk-golfissa ja Wohls-gårdin viereisellä pellolla. Näiden latujen olemassa olo on täysin yksityisten hyväntahtoisuuden ja voimavarojen varassa. Minna Hakapää, Antti Kilappa, Noora Piili ja Antti Salonen\". Aloitteen allekirjoittivat Minna Hakapään, Antti Kilapan, Noora Piilin ja Antti Salosen lisäksi seuraavat valtuutetut ja varavaltuutetut: Hannu Valtanen, Marko Kari, Matti Kaurila, Liisa Kosonen, Kim Åström, Kari Virtanen, Timo Haapaniemi, Jani Ekman, Jussi Määttä, Urho Blom, Hans Hedberg, Ulf Kjerin, Jenny Mäkinen, Anna Aintila, Tony Björk, Linda Basilier, Stefan Gustafsson, Martin Valtonen, Kim Liljequist, Aku Leijala, Tuovi Ronkainen, Sini Felipe, Tero Suominen, Elina Kärkimaa ja Henri Annila",
+        "paatos": "Kunnanvaltuusto lähettää valtuustoaloitteen kunnanhallitukselle valmisteltavaksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtuustoaloite pitkästä ladusta Kirkkonummelle",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20221291-14-84315.PDF"
+        }
+      ],
+      "proposals": []
+    }
+  ],
+  "id": "20221291",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20221291"
+}

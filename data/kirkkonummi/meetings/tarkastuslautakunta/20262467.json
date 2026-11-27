@@ -1,0 +1,149 @@
+{
+  "title": "Tarkastuslautakunta Pöytäkirja 22.10.2026 klo 17:40 - 19:27 ⁄ Tarkastettu Kirkkonummen kunnantalo, Ervast -kokoustila 1. kerroksessa | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Tarkastuslautakunta",
+  "doctype": "Pöytäkirja",
+  "date": "2026-10-22",
+  "items": [
+    {
+      "id": "20262467-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262467-1",
+      "decision": "Tarkastuslautakunta totesi kokouksen lailliseksi ja päätösvaltaiseksi",
+      "sections": {
+        "paatosehdotus": "Tarkastuslautakunta toteaa kokouksen lailliseksi ja päätösvaltaiseksi",
+        "paatos": "Tarkastuslautakunta totesi kokouksen lailliseksi ja päätösvaltaiseksi",
+        "selostus": "Hallintosäännön 162 §:n mukaan avattuaan kokouksen puheenjohtaja toteaa läsnä olevat sekä kokouksen laillisuuden ja päätösvaltaisuuden. Kuntalain 103 §:n mukaan lautakunta on päätösvaltainen, kun enemmän kuin puolet jäsenistä on läsnä"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20262467-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan laatiminen ja tarkastaminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262467-2",
+      "decision": "Tarkastuslautakunta päätti valita pöytäkirjantarkastajiksi Maarit Orkon ja Lauri Vallin",
+      "sections": {
+        "paatosehdotus": "Tarkastuslautakunta päättää valita kaksi pöytäkirjantarkastajaa",
+        "paatos": "Tarkastuslautakunta päätti valita pöytäkirjantarkastajiksi Maarit Orkon ja Lauri Vallin",
+        "selostus": "Hallintosäännön 173 §:n mukaan pöytäkirjan pitämisestä ja sisällöstä vastaa toimielimen puheenjohtaja. Pöytäkirjan allekirjoittaa puheenjohtaja ja sen varmentaa pöytäkirjanpitäjä. Tarkastuslautakunta on 18.9.2025 § 30 päättänyt, että jokaisessa kokouksessa valitaan kaksi pöytäkirjantarkastajaa. Pöytäkirja tarkastetaan ja allekirjoitetaan sähköisesti. Pöytäkirja asetetaan nähtäväksi tarkastuspäivää seuraavana arkipäivänä. Tarkastuslautakunta valitsee tämän kokouksen pöytäkirjantarkastajat. Hallintosäännön 174 §:n mukaan lautakunnan pöytäkirja pidetään tarkastamisen jälkeen nähtävänä kunnan verkkosivuilla siten kuin kuntalain 140 §:ssä säädetään"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20262467-3",
+      "ordinal": "3",
+      "title": "Hankintatoimen järjestäminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262467-3",
+      "decision": "Tarkastuslautakunta päätti merkitä hankintapäällikön antaman selvityksen sekä siitä käydyn keskustelun tiedokseen",
+      "sections": {
+        "paatosehdotus": "Hankintapäällikön antama selvitys sekä siitä käyty keskustelu merkitään tiedoksi",
+        "kasittely": "Hankintapäällikkö Ari Hasu poistui kokouksesta tämän pykälän jälkeen klo 18.45",
+        "paatos": "Tarkastuslautakunta päätti merkitä hankintapäällikön antaman selvityksen sekä siitä käydyn keskustelun tiedokseen",
+        "selostus": "Hankintapäällikkö Ari Hasu on kutsuttu kokoukseen antamaan selvitys kunnan hankintatoimen järjestämisestä"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20262467-4",
+      "ordinal": "4",
+      "title": "Kunnan turvallisuus ja varautuminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262467-4",
+      "decision": "Tarkastuslautakunta päätti merkitä vastaavan turvallisuusasiantuntijan antaman selvityksen sekä siitä käydyn keskustelun tiedokseen",
+      "sections": {
+        "paatosehdotus": "Vastaavan turvallisuusasiantuntijan antama selvitys sekä siitä käyty keskustelu merkitään tiedoksi",
+        "kasittely": "Vastaava turvallisuusasiantuntija Heikki Saarnio poistui kokouksesta tämän pykälän jälkeen klo 19.21",
+        "paatos": "Tarkastuslautakunta päätti merkitä vastaavan turvallisuusasiantuntijan antaman selvityksen sekä siitä käydyn keskustelun tiedokseen",
+        "selostus": "Vastaava turvallisuusasiantuntija Heikki Saarnio on kutsuttu kokoukseen antamaan tilannekatsaus Kirkkonummen kunnan turvallisuudesta ja varautumisesta poikkeusoloihin"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20262467-5",
+      "ordinal": "5",
+      "title": "Kunnanhallituksen vastine vuoden 2025 arviointikertomukseen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262467-5",
+      "decision": "Tarkastuslautakunta päätti merkitä kunnanhallituksen vastineen vuoden 2025 arviointikertomukseen tiedokseen",
+      "sections": {
+        "paatosehdotus": "Tarkastuslautakunta merkitsee tiedoksi kunnanhallituksen vastineen vuoden 2025 arviointikertomukseen",
+        "paatos": "Tarkastuslautakunta päätti merkitä kunnanhallituksen vastineen vuoden 2025 arviointikertomukseen tiedokseen",
+        "selostus": "Kuntalain 121 §:n mukaan kunnanhallitus antaa valtuustolle lausunnon toimenpiteistä, joihin arviointikertomus antaa aihetta"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20262467-6",
+      "ordinal": "6",
+      "title": "Tarkastuslautakunnan talousarvio 2027 ja taloussuunnitelma 2027–2029",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262467-6",
+      "decision": "Tarkastuslautakunta päätti jättää asian pöydälle ja käsitellä asian seuraavassa kokouksessa",
+      "sections": {
+        "paatosehdotus": "Tarkastuslautakunta päättää esittää kunnanhallitukselle ja edelleen kunnanvaltuustolle tarkastuslautakunnan talousarvioehdotuksen vuodelle 2027 ja taloussuunnitelman vuosille 2027–2029",
+        "paatos": "Tarkastuslautakunta päätti jättää asian pöydälle ja käsitellä asian seuraavassa kokouksessa",
+        "selostus": "Kuntalain 121 §:n mukaan tarkastuslautakunnan tehtävänä on valmistella kunnanhallitukselle esitys arvioinnin ja tarkastuksen talousarvioksi. Talousarvioehdotus esitellään kokouksessa"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20262467-7",
+      "ordinal": "7",
+      "title": "Kunnanvaltuuston päätös eron myöntämisestä tarkastuslautakunnan jäsenyydestä (V.S) ja uuden jäsenen valinnasta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262467-7",
+      "decision": "Tarkastuslautakunta päätti merkitä kunnanvaltuuston päätöksen 15.6.2026 § 53 uuden jäsenen valinnasta tiedokseen",
+      "sections": {
+        "paatosehdotus": "Tarkastuslautakunta päättää merkitä kunnanvaltuuston päätöksen 15.6.2026 § 53 uuden jäsenen valinnasta tiedokseen",
+        "paatos": "Tarkastuslautakunta päätti merkitä kunnanvaltuuston päätöksen 15.6.2026 § 53 uuden jäsenen valinnasta tiedokseen",
+        "selostus": "Ville Salminen on pyytänyt eroa tarkastuslautakunnan jäsenyydestä paikkakunnalta muuton takia. Kuntalain 10 luvun 70 §:n mukaan luottamustoimesta voi erota pätevästä syystä. Eron myöntämisestä päättää luottamushenkilön valinnut toimielin. Tarkastuslautakunnan kokoonpano 2025-2027: Jäsenet / varajäsenet: pj. Miika Engström (KOK) / Tuomas Holm (KOK) vpj. Anna Aintila (RKP) / Siv Ahlberg (RKP) Kimmo Collander (Keskusta) / Marjut Frantsi-Lankia (Keskusta) Mikael Gerkman (SDP) / Roope Rasi (SDP) Jyki Grönlund (ProK) / Ramon Dibbets (ProK) Kati Kaihlaranta (Vas) / Annu Ituarte (Vas) Maiju Kiukas (KD) / Marko Repo (KOK) Maarit Orko (Vihreät) / Mervi Somervuori (Vihreät) Ville Salminen (PS) / Tuomo Loiviola (PS). Kunnanvaltuusto päätti 15.6.2026 § 53 myöntää eron Ville Salmiselle ja päätti valita Lauri Vallin uudeksi jäseneksi toimikauden loppuun"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20262467-8",
+      "ordinal": "8",
+      "title": "Option käyttäminen: tilintarkastusta koskeva hankintasopimus (KPMG Oy Ab)",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20262467-8",
+      "decision": "Tarkastuslautakunta päätti päätösehdotuksen mukaisesti",
+      "sections": {
+        "paatosehdotus": "Tarkastuslautakunta esittää kunnanvaltuustolle, että valtuusto 1 päättää käyttää kunnan ja KPMG Oy Ab:n väliseen tilintarkastuspalveluita koskevaan sopimukseen otetun tilikautta 2027 koskevan option, 2 edellyttää, että kunnan tytäryhteisöt valitsevat tilikautta 2027 koskien tilintarkastusyhteisökseen KPMG Oy Ab:n",
+        "kasittely": "Esityslistan tämä asia käsiteltiin §:n 45 jälkeen. Anna-Pauliina Suhonen poistui kokouksesta esteellisenä tämän pykälän käsittelyn ja päätöksenteon ajaksi. Tarkastuslautakunnan puheenjohtaja toimi pöytäkirjanpitäjänä tämän pykälän aikana",
+        "paatos": "Tarkastuslautakunta päätti päätösehdotuksen mukaisesti",
+        "selostus": "Kirkkonummen kunnanvaltuusto on päättänyt valita päätöksellään 4.3.2024 (§ 14) Kirkkonummen kunnan tilintarkastusyhteisöksi KPMG Oy Ab:n. Valtuuston tekemä valintapäätös on perustunut julkisena hankinta toteutettuun hankintamenettelyyn. Kirkkonummen kunnan ja KPMG Oy:n välinen tilintarkastuspalveluita koskeva sopimus on tullut voimaan 13.5.2024. Sopimus kattaa kunnan lakisääteistä hallinnon ja talouden tarkastamista koskevat palvelut, kunnan tytäryhteisöjen tilintarkastuspalvelut, erityistilintarkastukset ja muut tilintarkastukset, EU-hankkeiden ja muiden ulkopuolisella rahoituksella toimivien hankkeiden tilintarkastukset, tarkastuslautakunnan sihteerin tehtävät sekä arviointikertomuksen laadinnan tuen. Kunnan ja KPMG Oy Ab:n välisen sopimuksen sopimuskausi kattaa edellä tarkoitetut palvelut tilikausilla 2025 ja 2026 sopimuskauden päättyessä ajankohtana, jolloin kunnanvaltuusto on hyväksynyt vuoden 2026 tilinpäätöksen ja tämä päätös on saanut lainvoiman. Sopimukseen on sisällytetty optiokausi koskien tilikauden 2027 hallinnon ja talouden lakisääteistä tarkastamista (sekä muita edellä tarkoitettuja palveluita). Optiokausi (sikäli kuin Kirkkonummen kunta päättää ottaa optiokauden käyttöön) päättyy, kun kunnanvaltuusto on hyväksynyt vuoden 2027 tilinpäätöksen ja tämä päätös on saanut lainvoiman. Optiokaudella sovelletaan sopimuksen mukaisia ehtoja. Sopimusehtojen perusteella Kirkkonummen kunnan tulee ilmoittaa sopimuskumppanille (KPMG Oy Ab) optiokauden käyttämisestä kolmen (3) vuoden kuluessa sopimuksen voimaan tulosta lukien (sopimus on tullut voimaan 13.5.2024). Kuntalain (410/ 2015) 122 §:n perusteella Valtuusto valitsee hallinnon ja talouden tarkastamista varten tilintarkastusyhteisön. Edelleen kuntalain 122 §:n perusteella kunnan tytäryhteisön tilintarkastajaksi on valittava kunnan tilintarkastusyhteisö, jollei tästä poikkeamiseen ole perusteltua tarkastuksen järjestämiseen liittyvää syytä. Tästä syystä (kunnan päätyessä käyttämään em. optiokausi) kunnan tytäryhteisöiden (Kirkkonummen Vuokra-asunnot Oy, Kiinteistö Oy Kirkkonummen pankkitalo, Kiinteistö Oy Kirkkonummen Keskustapysäköinti Oy, Kirkkonummen palvelukeskussäätiö) tulee valita tilintarkastusyhteisökseen kunnan valitsema tilintarkastusyhteisö (KPMG Oy Ab) myös edellä tarkoitetulle tilikautta 2027 koskevalle optiokaudelle (ellei kuntalaissa tarkoitettua perusteltua syytä tästä poikkeamiseen ole). Kirkkonummen kunnan hallintosäännön (§ 101) perusteella valtuusto valitsee tarkastuslautakunnan esityksestä hallinnon ja talouden tarkastamista varten yhden tilintarkastusyhteisön kuntalain 122 § mukaisesti. Kunnan hallintosäännön (96 §) perusteella hankinta- tai käyttöoikeussopimukseen liittyvistä toimista (kuten sopimuksen irtisanominen tai sopimukseen kuuluvan optiokauden käyttämistä koskeva ratkaisu) päättää sopimukseen liittyvän hankintapäätöksen tehnyt toimielin tai viranhaltija tai näiden valtuuttama"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    }
+  ],
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20262467",
+  "id": "20262467"
+}

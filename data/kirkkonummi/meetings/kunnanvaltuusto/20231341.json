@@ -1,0 +1,383 @@
+{
+  "title": "Kunnanvaltuusto Pöytäkirja 30.01.2023 klo 19:10 - 19:54 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Kunnanvaltuusto",
+  "doctype": "Pöytäkirja",
+  "date": "2023-01-30",
+  "items": [
+    {
+      "id": "20231341-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231341-1",
+      "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Kokous todettiin lailliseksi ja päätösvaltaiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231341-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231341-2",
+      "decision": "Pöytäkirjantarkastajiksi valittiin Elina Kärkimaa ja Kim Männikkö",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanvaltuusto päättää valita kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan",
+        "paatos": "Pöytäkirjantarkastajiksi valittiin Elina Kärkimaa ja Kim Männikkö"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231341-3",
+      "ordinal": "3",
+      "title": "Vastaus valtuustoaloitteeseen 19/2021: Järjestöystävällinen Kirkkonummi",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231341-3",
+      "decision": "Kunnanvaltuusto päätti ehdotuksen mukaisesti. Lisäksi kunnanvaltuusto hyväksyi seuraavan ponnen: Kunta tekee sivuston johon yhdistykset voivat itse rekisteröidä tapahtumiaan jos haluavat enemmän näkyvyyttä, jotta kuntalaiset helposti voivat katsoa missä on itselleen sopivia tapahtumia",
+      "votes": [
+        {
+          "jaa": [
+            "Sahiluoma Anna",
+            "Aallonharja Piia",
+            "Kähkönen Jani",
+            "Blom Urho",
+            "Polkko Aleksander",
+            "Kaurila Matti",
+            "Björk Tony",
+            "Seppälä Ulla",
+            "Purra Riikka",
+            "Järvinen Johanna",
+            "Määttä Jussi",
+            "Liljequist Kim",
+            "Ekman Jani",
+            "Salminen Ville",
+            "Valtonen Martin",
+            "Gustafsson Stefan",
+            "Åström Kim",
+            "Orko Maarit",
+            "Haapaniemi Timo",
+            "Pekka M"
+          ],
+          "ei": [
+            "Adlercreutz Anders",
+            "Huhmarniemi Saara",
+            "Piili Noora",
+            "Valtanen Hannu",
+            "Frimodig Josephine",
+            "Ylisiurua Katja",
+            "Hakapää Minna",
+            "Fleming Johanna",
+            "Hedberg Hans",
+            "Männikkö Kim",
+            "Harinen Ari",
+            "Virtanen Kari",
+            "Kajanti Carl-Johan",
+            "Frantsi-Lankia Marjut",
+            "Karkinen Ronja",
+            "Kari Marko",
+            "Aintila Anna",
+            "Hyvärinen Reetta",
+            "Kjerin Ulf",
+            "Jäppinen Sanni",
+            "Salonen Antti",
+            "Suominen Tero",
+            "Kämpe-Hellenius Jerri",
+            "Kosonen Liisa",
+            "Felipe Sini",
+            "Kilappa Antti",
+            "Kärkimaa Elina",
+            "Petäjäjärvi Krista",
+            "Myllyniemi Markus",
+            "Juuti Katja"
+          ],
+          "tyhja": [],
+          "parties": {
+            "jaa": {
+              "kok": 8,
+              "ps": 6,
+              "rkp": 4,
+              "vihr": 1,
+              "tuntematon": 1
+            },
+            "ei": {
+              "rkp": 8,
+              "vihr": 7,
+              "pro yl": 4,
+              "kok": 4,
+              "vas": 1,
+              "sdp": 5,
+              "kesk": 1
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta lisättynä ponnella",
+            "ei_label": "pohjaehdotusta ilman pontta",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "pohjaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": null,
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat pohjaehdotusta lisättynä ponnella äänestävät JAA, ja ne jotka kannattavat pohjaehdotusta ilman pontta äänestävät EI"
+          }
+        },
+        {
+          "jaa": [
+            "Kaurila Matti",
+            "Aallonharja Piia",
+            "Sinisalo Pekka M",
+            "Valtanen Hannu",
+            "Määttä Jussi",
+            "Virtanen Kari",
+            "Männikkö Kim",
+            "Kjerin Ulf",
+            "Kajanti Carl-Johan",
+            "Åström Kim",
+            "Seppälä Ulla",
+            "Blom Urho",
+            "Frantsi-Lankia Marjut",
+            "Felipe Sini",
+            "Hedberg Hans",
+            "Frimodig Josephine",
+            "Polkko Aleksander",
+            "Liljequist Kim",
+            "Björk Tony",
+            "Järvinen Johanna",
+            "Kosonen Liisa",
+            "Gustafsson Stefan",
+            "Salminen Ville",
+            "Haapaniemi Timo",
+            "Aintila Anna",
+            "Orko Maarit",
+            "Valtonen Martin",
+            "Kämpe-Hellenius Jerri",
+            "Ylisiurua Katja"
+          ],
+          "ei": [
+            "Kari Marko",
+            "Harinen Ari",
+            "Piili Noora",
+            "Juuti Katja",
+            "Petäjäjärvi Krista",
+            "Fleming Johanna",
+            "Suominen Tero",
+            "Hakapää Minna",
+            "Hyvärinen Reetta",
+            "Purra Riikka",
+            "Jäppinen Sanni",
+            "Kärkimaa Elina",
+            "Myllyniemi Markus",
+            "Kähkönen Jani",
+            "Salonen Antti",
+            "Ekman Jani",
+            "Sahiluoma Anna",
+            "Karkinen Ronja",
+            "Huhmarniemi Saara",
+            "Kilappa Antti",
+            "Adlercreutz Anders"
+          ],
+          "tyhja": [],
+          "parties": {
+            "jaa": {
+              "kok": 9,
+              "ps": 4,
+              "prok": 1,
+              "rkp": 11,
+              "kesk": 1,
+              "sdp": 1,
+              "vihr": 1,
+              "vas": 1
+            },
+            "ei": {
+              "kok": 3,
+              "sdp": 4,
+              "pro yl": 4,
+              "vihr": 7,
+              "ps": 2,
+              "rkp": 1
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta lisättynä ponnella",
+            "ei_label": "pohjaehdotusta ilman pontta",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "pohjaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": null,
+            "source": "parsed",
+            "evidence": "ne jotka kannattavat pohjaehdotusta lisättynä ponnella äänestävät JAA, ja ne jotka kannattavat pohjaehdotusta ilman pontta äänestävät EI"
+          }
+        }
+      ],
+      "initiative": {
+        "ref": "19/2021",
+        "proposer": "Keskustan valtuustoryhmän puheenjohtaja Marjut Frantsi-Lankia",
+        "party": "kesk",
+        "name": "Marjut Frantsi-Lankia"
+      },
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Valtuustoaloite 19/2021: Järjestöystävällinen Kirkkonummi Vastaus valtuustoaloitteeseen 19/2021: Järjestöystävällinen Kirkkonummi Kunnanvaltuusto 30.01.2023 § 3 675/00.04.02/2021",
+        "paatosehdotus": "Kunnanhallitus antaa selvityksen vastauksena valtuustoaloitteeseen ja esittää kunnanvaltuustolle, että se merkitsee vastauksen tiedoksi ja pitää vastausta riittävänä ja aloitetta loppuun käsiteltynä",
+        "kasittely": "Puheenjohtaja julisti keskustelun päättyneeksi ja totesi että keskustelun aikana oli jätetty ponsiehdotuksia seuraavasti: Valtuutettu Matti Kaurilan ponsiehdotus: Kunnan tulee kartoittaa ja olla tietoinen, mitä palveluita yhdistykset tuottavat. Kun kunta kehittää palvelutarjontaansa on tärkeää, että vältetään päällekkäisyyksiä. Ponsiehdotusta kannattivat Aleksander Polkko, Jani Ekman, Jussi Määttä, Timo Haapaniemi, Tony Björk, Maarit Orko, Kim Liljequist, Pekka M. Sinisalo, Piia Aallonharja ja Ville Salminen. Ponsiesitystä ei hyväksytty yksimielisesti joten puheenjohtaja ilmoitti että asiasta on äänestettävä. Puheenjohtaja ehdotti, että asiasta äänestetään niin, että ne jotka kannattavat pohjaehdotusta lisättynä ponnella äänestävät JAA, ja ne jotka kannattavat pohjaehdotusta ilman pontta äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin yhteensä 50 ääntä (yksi poissa), 20 JAA ääntä ja 30 EI ääntä. Pohjaehdotus ilman pontta sai enemmän ääniä. JAA äänestivät: Sahiluoma Anna, Aallonharja Piia, Kähkönen Jani, Blom Urho, Polkko Aleksander, Kaurila Matti, Björk Tony, Seppälä Ulla, Purra Riikka, Järvinen Johanna, Määttä Jussi, Liljequist Kim, Ekman Jani, Salminen Ville, Valtonen Martin, Gustafsson Stefan, Åström Kim, Orko Maarit, Haapaniemi Timo ja Pekka M. Sinisalo. EI äänestivät: Adlercreutz Anders, Huhmarniemi Saara, Piili Noora, Valtanen Hannu, Frimodig Josephine, Ylisiurua Katja, Hakapää Minna, Fleming Johanna, Hedberg Hans, Männikkö Kim, Harinen Ari, Virtanen Kari, Kajanti Carl-Johan, Frantsi-Lankia Marjut, Karkinen Ronja, Kari Marko, Aintila Anna, Hyvärinen Reetta, Kjerin Ulf, Jäppinen Sanni, Salonen Antti, Suominen Tero, Kämpe-Hellenius Jerri, Kosonen Liisa, Felipe Sini, Kilappa Antti, Kärkimaa Elina, Petäjäjärvi Krista, Myllyniemi Markus ja Juuti Katja. Poissa: Jukka Ylikoski Valtuutettu Josephine Frimodigin ponsiehdotus: Kunta tekee sivuston johon yhdistykset voivat itse rekisteröidä tapahtumiaan jos haluavat enemmän näkyvyyttä, jotta kuntalaiset helposti voivat katsoa missä on itselleen sopivia tapahtumia. Ponsiehdotusta kannattivat Matti Kaurila, Aleksander Polkko, Kim Åström, Kari Virtanen, Jussi Määttä, Tony Björk, Urho Blom, Katja Ylisiurua, Sini Felipe, Stefan Gustafsson, Hannu Valtanen, Ulf Kjerin, Marjut Frantsi-Lankia, Maarit Orko, Ville Salminen, Timo Haapaniemi, Kim Liljequist, Pekka M. Sinisalo, Martin Valtonen, Hans Hedberg, Anna Aintila, Jerri Kämpe-Hellenius, Piia Aallonharja ja Minna Hakapää. Ponsiesitystä ei hyväksytty yksimielisesti joten puheenjohtaja ilmoitti että asiasta on äänestettävä. Puheenjohtaja ehdotti, että asiasta äänestetään niin, että ne jotka kannattavat pohjaehdotusta lisättynä ponnella äänestävät JAA, ja ne jotka kannattavat pohjaehdotusta ilman pontta äänestävät EI. Äänestysjärjestys hyväksyttiin. Äänestyksessä annettiin yhteensä 50 ääntä (yksi poissa), 29 JAA ääntä ja 21 EI ääntä. Pohjaehdotus lisättynä ponnella sai enemmän ääniä. JAA äänestivät: Kaurila Matti, Aallonharja Piia, Sinisalo Pekka M., Valtanen Hannu, Määttä Jussi, Virtanen Kari, Männikkö Kim, Kjerin Ulf, Kajanti Carl-Johan, Åström Kim, Seppälä Ulla, Blom Urho, Frantsi-Lankia Marjut, Felipe Sini, Hedberg Hans, Frimodig Josephine, Polkko Aleksander, Liljequist Kim, Björk Tony, Järvinen Johanna, Kosonen Liisa, Gustafsson Stefan, Salminen Ville, Haapaniemi Timo, Aintila Anna, Orko Maarit, Valtonen Martin, Kämpe-Hellenius Jerri ja Ylisiurua Katja. EI äänestivät: Kari Marko, Harinen Ari, Piili Noora, Juuti Katja, Petäjäjärvi Krista, Fleming Johanna, Suominen Tero, Hakapää Minna, Hyvärinen Reetta, Purra Riikka, Jäppinen Sanni, Kärkimaa Elina, Myllyniemi Markus, Kähkönen Jani, Salonen Antti, Ekman Jani, Sahiluoma Anna, Karkinen Ronja, Huhmarniemi Saara, Kilappa Antti ja Adlercreutz Anders. Poissa: Jukka Ylikoski",
+        "paatos": "Kunnanvaltuusto päätti ehdotuksen mukaisesti. Lisäksi kunnanvaltuusto hyväksyi seuraavan ponnen: Kunta tekee sivuston johon yhdistykset voivat itse rekisteröidä tapahtumiaan jos haluavat enemmän näkyvyyttä, jotta kuntalaiset helposti voivat katsoa missä on itselleen sopivia tapahtumia"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtuustoaloite 19/2021: Järjestöystävällinen Kirkkonummi",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231341-3-53941.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20231341-4",
+      "ordinal": "4",
+      "title": "Elinvoimajaoston jäsenten ja varajäsenten valinta kaudelle 2023-2025",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231341-4",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti 1 valita elinvoimajaostoon 9 jäsentä ja heille henkilökohtaiset varajäsenet kaksivuotiskaudeksi 2023 - 2025 seuraavasti: Varsinainen jäsen / henkilökohtainen varajäsen: Marko Kari (kok) / Jani Ekman (kok) Urho Blom (kok) / Maija Jäntti (kok) Ulf Kjerin (RKP) / Kaj Sjöblom (RKP) Jenny Mäkinen (RKP) / Beatrice Fallenius (RKP) Sini Felipe (SDP) / Tero Strand (SDP) Ville Salminen (PS) / Johanna Järvinen (PS) Anni-Mari Syväniemi (ProK) / Jani Kähkönen (PS) Markus Myllyniemi (vihreät) / Anna Presnukhina (vihreät) 14 kk: Reetta Hyvärinen (vihreät) / Mikael Gerkman (SDP) 14 kk jälkeen: Tuovi Ronkainen (SDP) / Marian Jecu (vihreät) 2 valita elinvoimajaoston puheenjohtajaksi Ville Salmisen ja varapuheenjohtajaksi Markus Myllyniemen kaksivuotiskaudeksi 2023 - 2025 3 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, 1 että se valitsee elinvoimajaostoon 9 jäsentä ja heille henkilökohtaiset varajäsenet kaksivuotiskaudeksi 2023 - 2025 ja 2 että se valitsee elinvoimajaostolle jäsenten keskuudesta puheenjohtajan ja varapuheenjohtajan kaksivuotiskaudeksi 2023 - 2025 ja 3 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "kasittely": "Keskustelun aikana ehdotettiin jäseniä ja varajäseniä elinvoimajaostoon kaudelle 2023-2025 seuraavasti: Pro Kirkkonummen jäsen (Salonen Antti) Pro Kirkkonummi esittää elinvoimajaoston jäseneksi Anni-Mari Syväniemeä Perussuomalaisten esitykset (Aallonharja Piia): Puheenjohtaja: Ville Salminen Varajäsen (pj): Johanna Järvinen Varajäsen (pro): Jani Kähkönen RKP:n esitykset (Björk Tony): RKP esittää Ulf Kjeriniä varsinaiseksi jäseneksi ja Kaj Sjöblomia hänen henkilökohtaiseksi varajäseneksi. RKP esittää Jenny Mäkistä varsinaiseksi jäseneksi ja Beatrice Falleniusta hänen henkilökohtaiseksi varajäseneksi. Kirkkonummen SDP:n esitykset (Felipe Sini): Varsinainen jäsen: Sini Felipe, vara: Tero Strand Varsinainen jäsen (14kk): Tuovi Ronkainen, vara: Mikael Gerkman Vihreiden esitysehdotukset (Myllyniemi Markus): Markus Myllyniemi vpj - vara Anna Presnukhina, Reetta Hyvärinen 1. vuosi - Marian Jecu vara 2. vuosi Kokoomus (Blom Urho): Kokoomuksen valtuustoryhmä esittää elinvoimajaostoon varsinaisiksi jäseniksi: - Marko Kari, - Urho Blom ja varajäseniksi - Jani Ekman sekä - Maija Jäntti Kunnanvaltuusto hyväksyi ehdotukset yksimielisesti",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti 1 valita elinvoimajaostoon 9 jäsentä ja heille henkilökohtaiset varajäsenet kaksivuotiskaudeksi 2023 - 2025 seuraavasti: Varsinainen jäsen / henkilökohtainen varajäsen: Marko Kari (kok) / Jani Ekman (kok) Urho Blom (kok) / Maija Jäntti (kok) Ulf Kjerin (RKP) / Kaj Sjöblom (RKP) Jenny Mäkinen (RKP) / Beatrice Fallenius (RKP) Sini Felipe (SDP) / Tero Strand (SDP) Ville Salminen (PS) / Johanna Järvinen (PS) Anni-Mari Syväniemi (ProK) / Jani Kähkönen (PS) Markus Myllyniemi (vihreät) / Anna Presnukhina (vihreät) 14 kk: Reetta Hyvärinen (vihreät) / Mikael Gerkman (SDP) 14 kk jälkeen: Tuovi Ronkainen (SDP) / Marian Jecu (vihreät) 2 valita elinvoimajaoston puheenjohtajaksi Ville Salmisen ja varapuheenjohtajaksi Markus Myllyniemen kaksivuotiskaudeksi 2023 - 2025 3 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "tiedoksi": "Asianosaisille, palkka-tiimille"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231341-5",
+      "ordinal": "5",
+      "title": "Kunnanjohtajan irtisanoutuminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231341-5",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus antaa kunnanjohtajan irtisanoutumisen kunnanvaltuustolle tiedoksi",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231341-6",
+      "ordinal": "6",
+      "title": "Eron myöntäminen toimitilapalvelujen lautakunnan varajäsenyydestä ja uuden varajäsenen valitseminen (NK)",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231341-6",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Niikka Halénille (ent. Järviselle) toimitilapalvelujen lautakunnan varajäsenyydestä 2 valita Sea Eklundin uudeksi varajäseneksi Niikka Halénin tilalle toimitilapalvelujen lautakuntaan toimikauden loppuun",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto 1 myöntää eron Niikka Halénille (ent. Järviselle) toimitilapalvelujen lautakunnan varajäsenyydestä 2 valitsee uuden varajäsenen Niikka Halénin tilalle toimitilapalvelujen lautakuntaan toimikauden loppuun",
+        "kasittely": "Keskustelun aikana valtuutettu Myllyniemi Markus ehdotti seuraavaa: Vihreät esittää toimitilapalveluiden lautakunnan varajäsenen tehtävään Sea Eklundia",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Niikka Halénille (ent. Järviselle) toimitilapalvelujen lautakunnan varajäsenyydestä 2 valita Sea Eklundin uudeksi varajäseneksi Niikka Halénin tilalle toimitilapalvelujen lautakuntaan toimikauden loppuun",
+        "tiedoksi": "Asianosaisille, palkka-tiimille"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231341-7",
+      "ordinal": "7",
+      "title": "Eroanomuksia keskusvaalilautakunnan varajäsenyyksistä (HK ja RH) sekä uusien varajäsenten nimeäminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231341-7",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Heli Kauhaselle ja Rita Holopaiselle keskusvaalilautakunnan varajäsenyykistä sekä nimesi Viveca Lindgren uudeksi varajäseneksi Rita Holopaisen tilalle ja Marjaana Muntherin uudeksi varajäseneksi Heli Kauhasen tilalle toimikauden loppuun 2 tarkastaa pöytäkirjan tämän pykälän oalta kokouksessa",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto myöntää eron Heli Kauhaselle ja Rita Holopaiselle keskusvaalilautakunnan varajäsenyykistä sekä nimeää uudet varajäsenet Heli Kauhasen ja Rita Holopaisen tilalle toimikauden loppuun",
+        "kasittely": "Keskustelun aikana annettiin ehdotuksia seuraavasti: Valtuutettu Urho Blom: Kokoomus ehdottaa Rita Holopaisen tilalle keskusvaalilautakunnan varajäseneksi Viveca Lindgreniä. Valtuutettu Marjut Frantsi-Lankia: Keskusta esittää Heli Kauhasen tilalle Marjaana Munther varajäseneksi keskusvaalilautakuntaan",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti 1 myöntää eron Heli Kauhaselle ja Rita Holopaiselle keskusvaalilautakunnan varajäsenyykistä sekä nimesi Viveca Lindgren uudeksi varajäseneksi Rita Holopaisen tilalle ja Marjaana Muntherin uudeksi varajäseneksi Heli Kauhasen tilalle toimikauden loppuun 2 tarkastaa pöytäkirjan tämän pykälän oalta kokouksessa",
+        "tiedoksi": "Asianosaisille, palkka-tiimille"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231341-8",
+      "ordinal": "8",
+      "title": "Valtuustoaloite nro 1/2023: Koiraladun toteuttaminen Kirkkonummelle",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231341-8",
+      "decision": "Kunnanvaltuusto toimittaa valtuustoaloitteen kunnanhallitukselle valmisteltavaksi",
+      "votes": [],
+      "initiative": {
+        "ref": null,
+        "proposer": "nnanhallitukselle valmisteltavaksi.     Selostus   Valtuutettu Markus Myllyniemi (Vihreät)",
+        "party": "vihr",
+        "name": "Markus Myllyniemi"
+      },
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 1 Valtuustoaloite - fullmäktigemotion, 1-2023 Valtuustoaloite nro 1/2023: Koiraladun toteuttaminen Kirkkonummelle Kunnanvaltuusto 30.01.2023 § 8 56/10.03.01.02/2023",
+        "paatos": "Kunnanvaltuusto toimittaa valtuustoaloitteen kunnanhallitukselle valmisteltavaksi",
+        "selostus": "Valtuutettu Markus Myllyniemi (Vihreät) jätti kunnanvaltuuston kokouksessa 30.1.2023 seuraavan aloitteen: \" Kirkkonummella on Suomen Kennelliiton arvioiden mukaan rekisteröityneenä noin 10 000 koiraa ja noin 4000 koiranomistajaa. Moni koiranomistaja harrastaa koiriensa kanssa aktiivisesti ja hyödyntää samalla myös kunnan tarjoamia virkistys- ja urheilumahdollisuuksia. Talvisin näitä liikuntamahdollisuuksia on kuitenkin selkeästi vähemmän kuin kesällä. Moni Kirkkonummen lähikunta tarjoaa koiranomistajille talvisin mahdollisuuden liikkua koirahiihtoladuilla, joilla koirat voivat juosta ihmisen rinnalla hiihdon aikana. Koirahiihtolatuja löytyy naapurikunnistamme muun muassa Espoossa Oittaalta ja Lohjan Harjulta. Oittaalla koirahiihtäjien käytössä tietty 1,1 kilometrin pituinen hiihtolenkki ympäri vuorokauden, kun taas Lohjalla koiransa kanssa hiihtäjät saavat käyttää koko Harjun 6,6 kilometriä pitkää latua tietyn aika- ja viikonpäivärajoituksen puitteissa. Koirahiihtoon soveltuvat ladut ovat hyvin suosittuja, ja sellaiselle on kuntalaispalautteen perusteella tilausta myös Kirkkonummella. Koiralatu voitaisiin toteuttaa Kirkkonummelle jonkin olemassa olevan ladun yhteyteen tai tietylle osuudelle asentamalla roskalaatikoita ladun siisteyden varmistamiseksi. Toinen vaihtoehto olisi seurata Lohjan esimerkkiä ja varata olemassa oleva rata koirahiihtäjien käyttöön tiettyinä viikonpäivinä ilta-aikaan tai muuten, kun latu ei ole kovalla käytöllä. Oli vaihtoehto kumpi tahansa, koiraladun perustamiskustannukset eivät olisi merkittävät. Me allekirjoittaneet esitämmekin, että Kirkkonummelle toteutetaan koiralatu esimerkiksi edellä mainituin tavoin kuitenkin hyödyntäen jo olemassa olevia hiihtolatuja. Markus Myllyniemi\" Aloitteen allekirjoitti Markus Myllyniemen lisäksi seuraavat valtuutetut: Vihreä valtuustoryhmä: Maarit Orko, Elina Kärkimaa, Krista Petäjäjärvi, Sanni Jäppinen, Reetta Hyvärinen, Saara Huhmarniemi, Ronja Karkinen, Johanna Fleming, Sini Felipe, Katja Juuti ja Noora Piili"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Valtuustoaloite - fullmäktigemotion, 1-2023",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231341-8-86754.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20231341-9",
+      "ordinal": "9",
+      "title": "Valtuustoaloite 2/2023: Kirkkonummen kunnan tulee selvittää mahdollisuudet rakentaa yksi tai useampi aurinkopaneelipuisto",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231341-9",
+      "decision": "Kunnanvaltuusto toimittaa valtuustoaloitteen kunnanhallitukselle valmisteltavaksi",
+      "votes": [],
+      "initiative": {
+        "ref": "2/2023",
+        "proposer": "teen kunnanhallitukselle valmisteltavaksi.     Selostus   Valtuutettu Kim Liljequist (RKP)",
+        "party": "rkp",
+        "name": "Kim Liljequist"
+      },
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 2 Valtuustoaloite - fullmäktigemotion, 2-2023 Valtuustoaloite 2/2023: Kirkkonummen kunnan tulee selvittää mahdollisuudet rakentaa yksi tai useampi aurinkopaneelipuisto Kunnanvaltuusto 30.01.2023 § 9 61/00.04.02/2023",
+        "paatos": "Kunnanvaltuusto toimittaa valtuustoaloitteen kunnanhallitukselle valmisteltavaksi",
+        "selostus": "Valtuutettu Kim Liljequist (RKP) jätti kunnanvaltuuston kokouksessa 30.1.2023 seuraavan aloitteen: \"Kirkkonummen kunnan tulee selvittää mahdollisuudet rakentaa yksi tai useampi aurinkopaneelipuisto. Puistot voisivat olla kunnan omaa toimintaa tai vaihtoehtoisesti ne voisi vuokrata toimijoille, jotka möisivät halvempaa sähköä kunnalle. Energiapuistot voisi esimerkiksi rakentaa kunnan omistamille ylimääräisille maa-aloille tai peltomaille ja nurmikoille logistisesti sopivilla paikoilla, lähellä kulutuskohtia/kiinteistöjä ja/tai sähkönsiirtoverkkoa. Yksi mahdollinen sijoituspaikka voisi olla jossain Länsiväylän / Kehä III:n liikennemeluvyöhykkeellä. Pitäisi myös selvittää, onko yksityisillä maanomistajilla ja suurempien teollisuuskiinteistöjen kiinteistönomistajilla kiinnostusta vuokrata maa-/kattoalaa kunnalle kyseiseen tarkoitukseen. Esimerkiksi Raaseporin Energia Oy:n rakentama energiapuisto Tammisaaren keskustan läheisyydessä (lisätietoa https://re.fi/fi/aurinkopuisto-on-avattu/) tai SOK:n rakentama puisto Kirkkonummen Prisman pihalla voisivat toimia energiapuiston mallina. Aloitetta sekä siirtymää vihreään, uusiutuvaan energiaan perustellaan sillä, että kiristynyt maailmantilanne on korottanut energian ja sähkön hintoja merkittävästi suhteellisen lyhyessä ajassa, mikä on riski kunnan taloudelle ja lisää kunnallisen talouden kustannuspaineita. Lisäksi aloitetta perusteellaan sillä, että Kirkkonummen kunta: kuuluu Hiilineutraalien kuntien HINKU-verkostoon, joten kunta on sitoutunut vähentämään kasvihuonekaasupäästöjä 80 prosenttia vuoden 2007 tasosta vuoteen 2030 mennessä. on liittynyt kestävän energian ja ilmaston toimenpideohjelmaan Covenant of Mayors for Climate and Energy / SECAP, jossa sitoudutaan konkreettisiin toimenpiteisiin päästövähennystavoitteen saavuttamiseksi vuoteen 2030 mennessä. on mukana kunta-alan energiatehokkuussopimuksessa ja tavoittelee 7,5 % energiatehokkuuden parantamista vuodelle 2025. Todettakoon, että asiaa on syytä selvittää myös siitä syystä, että Euroopan komission suunnitelmien mukaan tietyn kokoisissa uusissa julkisissa ja yksityisissä rakennuksissa energiakatto olisi mahdollisesti pakollinen jo vuodesta 2025. Aurinkoenergiapuistojen hyöty on vihreän energian tuottamisen lisäksi se, että kunta voisi hyödyntää näitä myös itse. Tämä auttaa etenkin tilanteissa, joissa sähkön hinta on korkea ja ostetun kalliin sähkön määrää voisi vähentää aurinkopaneelien avulla. Lisäksi ylijäämätuotannon voi myydä markkinahintaan, mikä tuottaa tuloja kunnalle. Kirkkonummi 18.1.2023 Kim Liljequist (RKP)\" Aloitteen allekirjoittivat Kim Liljequistin lisäksi seuraavat valtuutetut: Josephine Frimodig, Ulf Kjerin, Anna Sahiluoma, Reetta Hyvärinen, Markus Myllyniemi, Maarit Orko, Krista Petäjäjärvi, Elina Kärkimaa, Antti Kilappa, Anders Adlercreutz, Saara Huhmarniemi, Ronja Karkinen, Katja Ylisiurua, Johanna Fleming, Sini Felipe, Noora Piili, Sanni Jäppinen, Jani Ekman, Anna Aintila, Stefan Gustafsson Kim Männikkö Minna Hakapää, Marjut Frantsi-Lankia, Pekka M. Sinisalo, Martin Valtonen, Carl-Johan Kajanti, Piia Aallonharja, Liisa Kosonen, Tony Björk, Timo Haapaniemi, Urho Blom, Jussi Määttä, Jerri Kämpe-Hellenius, Kim Åström, Marko Kari, Kari Virtanen ja Hannu Valtanen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Valtuustoaloite - fullmäktigemotion, 2-2023",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231341-9-86756.PDF"
+        }
+      ],
+      "proposals": []
+    }
+  ],
+  "id": "20231341",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20231341"
+}

@@ -1,0 +1,75 @@
+{
+  "title": "Keskusvaalilautakunta Pöytäkirja 20.08.2024 klo 16:00 - 17:17 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Keskusvaalilautakunta",
+  "doctype": "Pöytäkirja",
+  "date": "2024-08-20",
+  "items": [
+    {
+      "id": "20241787-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241787-1",
+      "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi",
+      "sections": {
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Kokous todettiin lailliseksi ja päätösvaltaiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20241787-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241787-2",
+      "decision": "Keskusvaalilautakunta päätti yksimielisesti ehdotuksen mukaisesti. Pöytäkirjantarkastajiksi valittiin Marjokaisa Piironen ja Harriet Hagelberg",
+      "sections": {
+        "valmistelija": "hallinnon asiantuntija Gunnel Ekström, etunimi.sukunimi@kirkkonummi.fi",
+        "paatosehdotus": "Keskusvaalilautakunta päättää 1 valita kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan 2 tarkastaa tämän pöytäkirjan sähköisesti seuraavan aikataulun mukaan: Torstaina 22.8.2024 lähetetään pöytäkirja sähköpostitse pöytäkirjantarkastajille, jotka ilmoittavat hyväksymisestään viimeistään maanantaina 26.8.2024. Jos hyväksymisviestiä ei tule sihteerille em. ajankohtaan mennessä, pöytäkirja katsotaan hyväksytyksi. Pöytäkirja allekirjoitetaan sähköisesti. Pöytäkirja on nähtävänä tiistaina 27.8.2024 kunnan verkkosivulla",
+        "paatos": "Keskusvaalilautakunta päätti yksimielisesti ehdotuksen mukaisesti. Pöytäkirjantarkastajiksi valittiin Marjokaisa Piironen ja Harriet Hagelberg"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20241787-3",
+      "ordinal": "3",
+      "title": "Europarlamenttivaalien 2024 palaute",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241787-3",
+      "decision": "Keskusvaalilautakunta päätti merkitä tiedoksi europarlamenttivaaleista kerätyn palautteen",
+      "sections": {
+        "valmistelija": "keskusvaalilautakunnan sihteeri etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Hallintojohtaja Suihkonen Jaana Keskusvaalilautakunta päättää merkitä tiedoksi europarlamenttivaaleista kerätyn palautteen",
+        "kasittely": "Keskusvaalilautakunta kävi läpi saadut palautteet ja otetaan huomioon esitettyjä muutostarpeita seuraavia vaaleja silmällä pitäen",
+        "paatos": "Keskusvaalilautakunta päätti merkitä tiedoksi europarlamenttivaaleista kerätyn palautteen",
+        "selostus": "Europarlamenttivaalien 2024 vaalitoimitsijoilta on kysytty palautetta kesäkuun vaalien järjestelyistä. Vaalilautakunnilta, ennakkoäänestyksen vaalitoimitsijoilta sekä äänestysasiakirjojen tarkastajilta on palautteen lisäksi pyydetty huomioita sekä parannusehdotuksia kevään 2025 alue- ja kuntavaaleja varten. Vaalitoimitsijoiden antama palaute esitetään keskusvaalilautakunnalle tässä kokouksessa"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20241787-4",
+      "ordinal": "4",
+      "title": "Muut asiat",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241787-4",
+      "decision": null,
+      "sections": {},
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    }
+  ],
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20241787",
+  "id": "20241787"
+}

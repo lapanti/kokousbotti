@@ -1,0 +1,316 @@
+{
+  "title": "Kunnanvaltuusto Pöytäkirja 08.05.2023 klo 18:00 - 19:01 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Kunnanvaltuusto",
+  "doctype": "Pöytäkirja",
+  "date": "2023-05-08",
+  "items": [
+    {
+      "id": "20231405-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231405-1",
+      "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Kokous todettiin lailliseksi ja päätösvaltaiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231405-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231405-2",
+      "decision": "Pöytäkirjantarkastajiksi valittiin Noora Piili ja Tuovi Ronkainen",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanvaltuusto päättää valita kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan",
+        "paatos": "Pöytäkirjantarkastajiksi valittiin Noora Piili ja Tuovi Ronkainen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231405-3",
+      "ordinal": "3",
+      "title": "Kunnanjohtajan viran täyttäminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231405-3",
+      "decision": "Kunnanvaltuusto päätti 1 valita Virpi Sailaksen kunnanjohtajan virkaan. 2 valita Inka Tikkasen varalle kunnanjohtajan virkaan. 3 että kunnanjohtajan virassa noudatetaan kuuden kuukauden koeaikaa. 4 että kunnanjohtajan virka täytetään seitsemän vuoden määräajaksi",
+      "votes": [
+        {
+          "jaa": [
+            "Purra Riikka",
+            "Felipe Sini",
+            "Järvinen Johanna",
+            "Seppälä Ulla",
+            "Kilappa Antti",
+            "Ronkainen Tuovi",
+            "Aallonharja Piia",
+            "Kaurila Matti",
+            "Salminen Ville",
+            "Petäjäjärvi Krista",
+            "Huhmarniemi Saara",
+            "Valtanen Hannu",
+            "Virtanen Kari",
+            "Kari Marko",
+            "Jäppinen Sanni",
+            "Oittinen Paula",
+            "Kosonen Liisa",
+            "Salonen Antti",
+            "Harinen Ari",
+            "Orko Maarit",
+            "Suominen Tero",
+            "Ylisiurua Katja",
+            "Myllyniemi Markus",
+            "Ekman Jani",
+            "Polkko Aleksander",
+            "Toikka Anna-Mari",
+            "Fleming Johanna",
+            "Granström Anneli"
+          ],
+          "ei": [
+            "Salomaa Leena",
+            "Piili Noora",
+            "Frimodig Josephine",
+            "Liljequist Kim",
+            "Lundell Patrik",
+            "Kajanti Carl-Johan",
+            "Valtonen Martin",
+            "Björk Tony",
+            "Männikkö Kim",
+            "Kjerin Ulf",
+            "Kämpe-Hellenius Jerri",
+            "Sahiluoma Anna",
+            "Basilier Linda",
+            "Hyvärinen Reetta",
+            "Gustafsson Stefan",
+            "Määttä Jussi",
+            "Åström Kim",
+            "Hakapää Minna",
+            "Hedberg Hans"
+          ],
+          "tyhja": [
+            "Blom Urho",
+            "Frantsi-Lankia Marjut",
+            "Leijala Aku",
+            "Haapaniemi Timo"
+          ],
+          "parties": {
+            "jaa": {
+              "ps": 6,
+              "sdp": 5,
+              "kok": 7,
+              "pro yl": 2,
+              "vihr": 7,
+              "vas": 1
+            },
+            "ei": {
+              "ps": 1,
+              "pro yl": 2,
+              "rkp": 12,
+              "kok": 3,
+              "vihr": 1
+            },
+            "tyhja": {
+              "kok": 2,
+              "kesk": 1,
+              "pro yl": 1
+            }
+          },
+          "direction": {
+            "jaa_label": "pohjaehdotusta ilman pontta",
+            "ei_label": "pohjaehdotusta lisättynä Ulf Kjerinin tekemällä ponnella",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "pohjaehdotus",
+            "kind": "substantive",
+            "rationale": null,
+            "winner": null,
+            "source": "parsed",
+            "evidence": "ne, jotka kannattavat pohjaehdotusta ilman pontta äänestävät JAA, ja ne, jotka kannattavat pohjaehdotusta lisättynä Ulf Kjerinin tekemällä ponnella äänestävät EI"
+          }
+        }
+      ],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle 1 että valtuusto päättä valita kunnanjohtajan virkaan yhden kärkiehdokkaista, jotka ovat Jorma Haapanen, Virpi Sailas ja Inka Tikkanen. 2 että valtuusto päättää valita virkaan varalle yhden kärkiehdokkaista, jotka ovat Jorma Haapanen, Virpi Sailas ja Inka Tikkanen",
+        "kasittely": "Käsittelyn aikana kunnanhallituksen puheenjohtaja Timo Haapaniemi esitti kokouksessa seuraavan täydennetyn päätösehdotuksen: Kunnanhallitus ehdottaa kunnanvaltuustolle 1 että valtuusto päättä valita kunnanjohtajan virkaan yhden kärkiehdokkaista, jotka ovat Jorma Haapanen, Virpi Sailas ja Inka Tikkanen. 2 että valtuusto päättää valita virkaan varalle yhden kärkiehdokkaista, jotka ovat Jorma Haapanen, Virpi Sailas ja Inka Tikkanen. 3 että kunnanjohtajan valinnassa noudatetaan kuuden kuukauden koeaikaa. 4 että kunnanjohtajan virka täytetään seitsemän vuoden määräajaksi. Ehdotusta kannattivat Liisa Kosonen, Aleksander Polkko, Kari Virtanen, Matti Kaurila, Anna Sahiluoma, Ulla Seppälä, Ville Salminen, Kim Liljequist, Tony Björk, Hannu Valtanen, Johanna Järvinen, Martin Valtonen, Patrik Lundell, Antti Salonen, Jussi Määttä, Tuovi Ronkainen, Ulf Kjerin, Urho Blom, Piia Aallonharja, Anneli Granström, Antti Kilappa, Linda Basilier ja Leena Salomaa. Puheenjohtajan tiedustellessa täydennetty päätösehdotus hyväksyttiin yksimielisesti. Jäsen Jerri Kämpe-Hellenius esitti seuraavan ehdotuksen: Enemmistövaali suljetulla äänestyksellä: Kirkkonummen kunnan hallintosäännön kappaleen 18 mukaisesti nyt käsiteltävä kunnanjohtajan vaali on henkilövaali joka toimitetaan enemmistövaalina. Esitän hallintosäännön § 131 Vaaleja koskevat yleiset määräykset mukaisesti, että mainittu enemmistövaali suoritetaan suljetuin lipuin. Joko lippu- tai sähköisenä äänestyksenä. Ehdotusta kannattivat Ulf Kjerin, Linda Basilier, Kim Liljequist, Piia Aallonharja, Tony Björk, Ville Salminen, Anneli Granström, Patrik Lundell, Anna Sahiluoma ja Liisa Kosonen. Puheenjohtajan tiedustellessa ehdotus hyväksyttiin yksimielisesti ja päätettiin yksimielisesti että enemmistövaali suoritetaan suljettuna, sähköisenä äänestyksenä. Sähköisesti toimitetussa suljetussa äänestyksessä, jossa ehdolla olivat 12 kunnanjohtajan virkaa hakenutta kelpoisuusvaatimuksen täyttävää hakijaa. Äänestyksessä annettiin yhteensä 51 ääntä, äänet jakautuivat seuraavasti: Markku Alanne, 0 ääntä Henrika Backlund, 0 ääntä Jorma Haapanen, 10 ääntä Minna Ikäheimonen, 0 ääntä Jukka Laiho, 0 ääntä Joni Putkinen, 0 ääntä Virpi Sailas, 34 ääntä Toivo Salminen, 0 ääntä Jonne Sandberg, 0 ääntä Inka Tikkanen, 7 ääntä Juuso Vuorinen, 0 ääntä Mika Wirtanen, 0 ääntä Virpi Sailas sai yhteensä 34 ääntä, eli yli 50 % annetuista äänistä, joten hänet valittiin kunnanjohtajan virkaan. Seuraavaksi päätettin äänestää kunnanjohtajan virkaan varalle valittavasta henkilöstä. Sähköisesti, suljetussa äänestyksessä toimitetussa äänestyksessä annettiin yhteensä 51 ääntä seuraavasti: Markku Alanne, 0 ääntä Henrika Backlund, 0 ääntä Jorma Haapanen, 21 ääntä Minna Ikäheimonen, 0 ääntä Jukka Laiho, 0 ääntä Joni Putkinen, 0 ääntä Toivo Salminen, 0 ääntä Jonne Sandberg, 0 ääntä Inka Tikkanen, 30 ääntä Juuso Vuorinen, 0 ääntä Mika Wirtanen, 0 ääntä Inka Tikkanen sai eniten ääniä, joten hänet valittiin varalle kunnanjohtajan virkaan. Keskustelun aikana jäsen Ulf Kjerin oli jättänyt seuraavan ponsiehdotuksen kielitaidosta: Kirkkonummen kunta on kasvava kaksikielinen kunta, jossa on 6244 ruotsinkielistä asukasta. Kunnan strategian mukaisesti kunta tähtää väestönkasvuun sekä nykyisten kuntalaisten pitämiseen. Tämä koskee myös ruotsinkielistä väestöä. Siksi on tärkeää, että kunnanjohtajamme hallintokielen lisäksi pystyy keskustelemaan ja seurustelemaan kuntalaisten kanssa vapaasti myös ruotsiksi. RKP:n valtuustoryhmä esittää, että kunnanhallitus ja vt. kunnanjohtaja uuden kunnanjohtajan työ- ja johtajasopimuksen laatimisen yhteydessä asettavat yhdeksi tavoitteeksi, että kunnanjohtaja kehittää kielitaitojaan ruotsissa sekä edellyttää häneltä hyväksyttyä soveltuvaa kielikoetta kohtuullisessa ajassa. Ponsiehdotusta kannattivat Hannu Valtanen, Josephine Frimodig, Hans Hedberg, Patrik Lundell, Linda Basilier, Kim Liljequist, Martin Valtonen, Kim Åström, Tony Björk, Minna Hakapää ja Jussi Määttä. Ponsiehdotusta ei hyväksytty yksimielisesti, joten puheenjohtaja ilmoitti että asiasta on äänestettävä. Puheenjohtaja ehdotti, että asiasta äänestetään niin, että ne, jotka kannattavat pohjaehdotusta ilman pontta äänestävät JAA, ja ne, jotka kannattavat pohjaehdotusta lisättynä Ulf Kjerinin tekemällä ponnella äänestävät EI. Äänestysjärjestys hyväksyttiin yksimielisesti. Sähköisesti toimitetussa äänestyksessä annettiin yhteensä 51 ääntä. JAA sai 28 ääntä, EI 19 ääntä ja 4 tyhjää ääntä. Pohjaehdotus sai enemmän ääniä, joten pohjaehdotus ilman pontta hyväksyttiin. JAA äänestivät: Purra Riikka, Felipe Sini, Järvinen Johanna, Seppälä Ulla, Kilappa Antti, Ronkainen Tuovi, Aallonharja Piia, Kaurila Matti, Salminen Ville, Petäjäjärvi Krista, Huhmarniemi Saara, Valtanen Hannu, Virtanen Kari, Kari Marko, Jäppinen Sanni, Oittinen Paula, Kosonen Liisa, Salonen Antti, Harinen Ari, Orko Maarit, Suominen Tero, Ylisiurua Katja, Myllyniemi Markus, Ekman Jani, Polkko Aleksander, Toikka Anna-Mari, Fleming Johanna ja Granström Anneli EI äänestivät: Salomaa Leena, Piili Noora, Frimodig Josephine, Liljequist Kim, Lundell Patrik, Kajanti Carl-Johan, Valtonen Martin, Björk Tony, Männikkö Kim, Kjerin Ulf, Kämpe-Hellenius Jerri, Sahiluoma Anna, Basilier Linda, Hyvärinen Reetta, Gustafsson Stefan, Määttä Jussi, Åström Kim, Hakapää Minna ja Hedberg Hans Tyhjää äänestivät: Blom Urho, Frantsi-Lankia Marjut, Leijala Aku ja Haapaniemi Timo",
+        "paatos": "Kunnanvaltuusto päätti 1 valita Virpi Sailaksen kunnanjohtajan virkaan. 2 valita Inka Tikkasen varalle kunnanjohtajan virkaan. 3 että kunnanjohtajan virassa noudatetaan kuuden kuukauden koeaikaa. 4 että kunnanjohtajan virka täytetään seitsemän vuoden määräajaksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231405-4",
+      "ordinal": "4",
+      "title": "Uudenmaan ELY-keskuksen oikaisukehotus koskien Kirkkonummen kunnan kunnanvaltuuston päätöstä hyväksyä Kuntakeskuksen 2. vaiheen osayleiskaava",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231405-4",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 1 Kirkkonummen kunnan vastaus oikaisukehotukseen_ liite Kh 13.3. korjattu",
+        "oheismateriaali": "Kuvake Otsikko Ely-keskus Oikaisukehotus; Kirkkonummi, kuntakeskuksen 2. vaiheen osayleiskaava Vastine ELYn lausuntoon valmisteluaineistosta Vastine ELYn lausuntoon kaavaehdotuksesta Työneuvottelu ELY_muistio_13032020 Uudenmaan ELY-keskuksen oikaisukehotus koskien Kirkkonummen kunnan kunnanvaltuuston päätöstä hyväksyä Kuntakeskuksen 2. vaiheen osayleiskaava Kunnanvaltuusto 08.05.2023 § 30 661/10.02.02/2019",
+        "paatosehdotus": "Kunnanhallitus esittää kunnanvaltuustolle, että se päättää hyväksyä liitteen mukaisen Kirkkonummen kunnan vastauksen Uudenmaan ELY-keskuksen oikaisukehotukseen",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+        "selostus": "Muutoksenhaku: Kunnallisvalitus: -kunnanvaltuuston päätöksestä 24.10.2022 § 77 jo valituksen tehneet, -Uudenmaan ELY-keskus, toimialaansa kuuluvissa asioissa (maankäyttö- ja rakennuslaki 18 § ja 191 §)"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Kirkkonummen kunnan vastaus oikaisukehotukseen_ liite Kh 13.3. korjattu",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231405-4-88967.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Ely-keskus Oikaisukehotus; Kirkkonummi, kuntakeskuksen 2. vaiheen osayleiskaava",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231405-4-88320.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Vastine ELYn lausuntoon valmisteluaineistosta",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231405-4-87128.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Vastine ELYn lausuntoon kaavaehdotuksesta",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231405-4-87129.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Työneuvottelu ELY_muistio_13032020",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231405-4-87130.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20231405-5",
+      "ordinal": "5",
+      "title": "Vastaus valtuustoaloitteeseen 2/2021: Etelä-Karjalan malli käyttöön lainvastaisiin tekoihin puuttumiseksi kouluissa",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231405-5",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "initiative": {
+        "ref": "2/2021",
+        "proposer": "Kunnanvaltuutettu Timo Haapaniemi",
+        "party": null,
+        "name": "Timo Haapaniemi"
+      },
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Valtuustoaloite (allekirjoitettu) Etelä-Karjalan malli käyttöön lainvastaisiin tekoihin puuttumiseksi kouluissa Vastaus valtuustoaloitteeseen 2/2021: Etelä-Karjalan malli käyttöön lainvastaisiin tekoihin puuttumiseksi kouluissa Kunnanvaltuusto 08.05.2023 § 31 318/12.01.03/2021",
+        "paatosehdotus": "Kunnanhallitus antaa kunnanvaltuustolle selostusosan mukaisen vastauksen valtuustoaloitteeseen nro 2/2021 ja ehdottaa että valtuusto pitää vastausta riittävänä ja aloitetta loppuunkäsiteltynä",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtuustoaloite (allekirjoitettu) Etelä-Karjalan malli käyttöön lainvastaisiin tekoihin puuttumiseksi kouluissa",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231405-5-47543.JPG"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20231405-6",
+      "ordinal": "6",
+      "title": "Vastaus valtuustoaloitteeseen 9/2021: Vols-kodin kiinteistön käyttö peruskorjauksen jälkeen ikäihmisten asumis- ja tukiasumismuotona",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231405-6",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "initiative": {
+        "ref": "9/2021",
+        "proposer": "Valtuutettu Ulf Kjerin, rkp",
+        "party": "rkp",
+        "name": "Ulf Kjerin"
+      },
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Valtuustoaloite: Vols-kodin kiinteistön käyttö peruskorjauksen jälkeen ikäihmisten asumis- ja tukiasumismuotona Vastaus valtuustoaloitteeseen 9/2021: Vols-kodin kiinteistön käyttö peruskorjauksen jälkeen ikäihmisten asumis- ja tukiasumismuotona Kunnanvaltuusto 08.05.2023 § 32 335/05.23.00/2021",
+        "paatosehdotus": "Kunnanhallitus antaa selostusosan mukaisen vastauksen valtuustoaloitteeseen 9/2021 ja esittää kunnanvaltuustolle, että valtuusto pitää vastausta riittävänä ja aloitetta loppuun käsiteltynä",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtuustoaloite: Vols-kodin kiinteistön käyttö peruskorjauksen jälkeen ikäihmisten asumis- ja tukiasumismuotona",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231405-6-47664.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20231405-7",
+      "ordinal": "7",
+      "title": "Ilmoitus Pro Kirkkonummen valtuustoryhmään liittymisestä ja SDP:n valtuustoryhmästä eroamisesta (K.J.)",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231405-7",
+      "decision": "Kunnanvaltuusto päätti merkitä ilmoituksen tiedoksi",
+      "votes": [],
+      "sections": {
+        "paatos": "Kunnanvaltuusto päätti merkitä ilmoituksen tiedoksi",
+        "selostus": "Varavaltuutettu Katja Juuti on 2.5.2023 ilmoittanut eroavansa SDP:n valtuustoryhmästä ja siirtyvänsä Pro Kirkkonummen valtuustoryhmään"
+      },
+      "lang": "fi",
+      "text_encoding": "repaired",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231405-8",
+      "ordinal": "8",
+      "title": "Valtuustoaloite 5/2023: ResQ-applikaation käyttöönotto koulujen ylijäämäruuan myymiseksi ja hävikin vähentämiseksi",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231405-8",
+      "decision": "Kunnanvaltuusto lähettää aloitteen kunnanhallitukselle valmisteltavaksi",
+      "votes": [],
+      "initiative": {
+        "ref": "5/2023",
+        "proposer": "eltavaksi.     Selostus   Kirkkonummen Perussuomalaisten valtuustoryhmä / Anneli Granström",
+        "party": "ps",
+        "name": "Anneli Granström"
+      },
+      "sections": {
+        "oheismateriaali": "Kuvake Otsikko Valtuustoaloite ResQ-applikaation käyttöönotosta koulujen ylijäämäruuan myymiseksi ja hävikin vähentämiseksi Valtuustoaloite 5/2023: ResQ-applikaation käyttöönotto koulujen ylijäämäruuan myymiseksi ja hävikin vähentämiseksi Kunnanvaltuusto 08.05.2023 § 34 425/10.03.02.06/2023",
+        "paatos": "Kunnanvaltuusto lähettää aloitteen kunnanhallitukselle valmisteltavaksi",
+        "selostus": "Kirkkonummen Perussuomalaisten valtuustoryhmä / Anneli Granström jätti kunnanvaltuuston kokouksessa 8.5.2023 seuraavan valtuustoaloitteen: \"Ylijäämäruokaa syntyy lähes aina, ja sen poisheittäminen ei ole hyvä ratkaisu kenellekään. ResQ sovelluksen avulla voidaan myydä ylijääneitä annoksia puoleen hintaan lähiseudun asiakkaille. Se vähentää hävikkiä ja siitä tulee pientä lisätuloa ruokapalvelun tuottajalle. Näillä tuloilla koulut ovat esim. toteuttaneet oppilaiden jälkiruokatoiveita. Miten ResQ sovellus toimii: . Ruokapalvelun tuottaja, joka on liittynyt ResQ - partneriksi, katsoo esim. lopettaessaan päivän lounastarjoilun, mitä tuotteita on jäänyt yli. . Sen jälkeen hän ilmoittaa nämä tuotteet ResQ palveluun käyttämällä sovellusta kännykällä tai tietokoneella. . Annokset pakataan mukaan vietäviksi (take away) ja hinnoitellaan noin 50 % halvemmiksi. . Asiakkaat näkevät ostettavissa olevat tuotteet sovelluksessa. Asiakas saa sovelluksessa ajantasaisen tiedon siitä, montako annosta on jäljellä, tiedot päivittyvät reaaliajassa. Jokainen osto tapahtuu suoraan sovelluksessa, joten ei tarvitse käyttää kassakonetta tai hankkia uusia laitteita. Kun asiakas on maksanut ostoksen, se katoaa sovelluksesta. . Asiakkaat tulevat noutamaan ostoksensa myyjän määrittelemässä aikaikkunassa. . Ostoksen voi suorittaa esim. lapsen tai ikääntyneen henkilön puolesta. Pirkkalan ja Nurmijärven kouluissa ruokahävikkiä torjutaan jo myymällä ruokaa ulos ResQ-sovelluksen kautta. Me allekirjoittaneet ehdotamme, että Kirkkonummen kunnan ruokapalvelu liittyy sovelluksen käyttäjäksi. Alkuun voisi kokeiluun liittää Kirkkonummen keskustan koulun/kouluja. Kirkkonummen Perussuomalainen valtuustoryhmä Anneli Granström\" Valtuustoaloitteen allekirjoittivat Anneli Granströmin lisäksi seuraavat valtuutetut ja varavaltuutetut: Aku Leijala, Piia Aallonharja, Tony Björk, Urho Blom, Johanna Fleming, Marjut Frantsi-Lankia, Josephine Frimodig, Stefan Gustafsson, Saara Huhmarniemi, Sanni Jäppinen, Johanna Järvinen, Carl-Johan Kajanti, Marko Kari, Antti Kilappa, Liisa Kosonen, Kim Liljequist, Markus Myllyniemi, Jussi Määttä, Maarit Orko, Krista Petäjäjärvi, Riikka Purra, Tuovi Ronkainen, Anna Sahiluoma, Antti Salonen, Ville Salminen, Tero Suominen, Martin Valtonen, Kari Virtanen, Kim Åström, Anna-Mari Toikka, Paula Oittinen, Leena Salomaa, Patrik Lundell, Linda Basilier, Minna Hakapää, Sini Felipe ja Ari Harinen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Valtuustoaloite ResQ-applikaation käyttöönotosta koulujen ylijäämäruuan myymiseksi ja hävikin vähentämiseksi",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231405-8-91683.PDF"
+        }
+      ],
+      "proposals": []
+    }
+  ],
+  "id": "20231405",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20231405"
+}

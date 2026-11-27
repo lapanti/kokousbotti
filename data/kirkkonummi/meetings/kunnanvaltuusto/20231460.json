@@ -1,0 +1,390 @@
+{
+  "title": "Kunnanvaltuusto Pöytäkirja 19.06.2023 klo 18:00 - 19:16 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Kunnanvaltuusto",
+  "doctype": "Pöytäkirja",
+  "date": "2023-06-19",
+  "items": [
+    {
+      "id": "20231460-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231460-1",
+      "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Kokous todettiin lailliseksi ja päätösvaltaiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231460-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231460-2",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti. Pöytäkirjantarkastajiksi valittiin Katja Ylisiurua ja Ville Salminen",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanvaltuusto päättää valita kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti. Pöytäkirjantarkastajiksi valittiin Katja Ylisiurua ja Ville Salminen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231460-3",
+      "ordinal": "3",
+      "title": "Tallinmäen asemakaavan hyväksyminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231460-3",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 1 Tallinmäki Asemakaava_230619 2 Asemakaavaselostus_230619 3\n2 Asemakaavakartta ja kaavamääräykset_230619 4\n3 Rakentamistapaohje 5\n4-11 6\n12 Kirkkotori_kyselytulokset_0321 7 Lausunnot ja vastineet uusi_nn\nKuvake Numero Otsikko 1 Tallinmäki Asemakaava_230619 2 Asemakaavaselostus_230619 3\n2 Asemakaavakartta ja kaavamääräykset_230619 4\n3 Rakentamistapaohje 5\n4-11 6\n12 Kirkkotori_kyselytulokset_0321 7 Lausunnot ja vastineet uusi_nn Tallinmäen asemakaavan hyväksyminen Kunnanvaltuusto 19.06.2023 § 46 86/10.02.03/2019",
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto päättää hyväksyä Tallinmäen asemakaavan (piir. 3492) ja siihen liittyvät asiakirjat MRL 52 §:n mukaisesti sekä esittää ne edelleen kunnanvaltuuston hyväksyttäväksi",
+        "kasittely": "Asemakaavapäällikkö Simon Store esitteli asiaa kokouksessa",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Tallinmäki Asemakaava_230619",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231460-3-93973.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Asemakaavaselostus_230619",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231460-3-93974.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite 2 Asemakaavakartta ja kaavamääräykset_230619",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231460-3-93976.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite 3 Rakentamistapaohje",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231460-3-93978.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liitteet 4-11",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231460-3-93977.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite 12 Kirkkotori_kyselytulokset_0321",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231460-3-93975.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Lausunnot ja vastineet uusi_nn",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231460-3-92298.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20231460-4",
+      "ordinal": "4",
+      "title": "Masalan osayleiskaavaa (piir.nro 3481) koskevan kunnanvaltuuston 6.3.2023 (13 §) päätöksen asiavirheen korjaaminen hallintolain 8 luvun 50 §:n mukaisesti ja kirjoitusvirheiden korjaaminen hallintolain 8 luvun 51 §:n mukais...",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231460-4",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 8 3486_Masalan_oyk_kaavakartta_pienennös_A3 9 3486_Masala_oyk_määräykset_A0 10 3486_Masalan_oyk_kaavakartta_ja_määräykset 11 3486 Masala_selostus_su_hyväksyminen_ kh_12.6.2023 12 3486 Masaby_beskrivning_sv_godkännande_ kst_12.6.2023 13 3486_\n1-14_päivitetty_08062023 14\n15. Kantatie 50 (Kehä III) tiesuunnitelman meluselvitys (Uudenmaan ELY-keskus & Afry Oy, 2020) 15 Vastineet_su_kh_12.6.2023 16 Bemötanden_sv_kst_12.6.2023\nKuvake Numero Otsikko 8 3486_Masalan_oyk_kaavakartta_pienennös_A3 9 3486_Masala_oyk_määräykset_A0 10 3486_Masalan_oyk_kaavakartta_ja_määräykset 11 3486 Masala_selostus_su_hyväksyminen_ kh_12.6.2023 12 3486 Masaby_beskrivning_sv_godkännande_ kst_12.6.2023 13 3486_\n1-14_päivitetty_08062023 14\n15. Kantatie 50 (Kehä III) tiesuunnitelman meluselvitys (Uudenmaan ELY-keskus & Afry Oy, 2020) 15 Vastineet_su_kh_12.6.2023 16 Bemötanden_sv_kst_12.6.2023",
+        "oheismateriaali": "Kuvake Otsikko Pöytäkirja kh 25.10.2021 § 471 Masalan oykn ehdotuksen asettaminen nähtäville Protokoll ks 25.10.2021 § 471, delgeneralplanen för Masaby, framläggning av förslaget till delgeneralplan Pöytäkirja kv 6.3.2023 § 13 Masalan osayleiskaavan hyväksyminen Protokoll kf 6.3.2023 § 13 Godkännande av delegeneralplanen för Masaby Masalan osayleiskaavan ilmastovaikutusten arviointi - Loppuraportti 6.5.2022 Masala_liikenneselvitys_31.3.2021 Kaavatalousarviointi_Masala_Raportti\n, Hallintolaki\nKuvake Otsikko Pöytäkirja kh 25.10.2021 § 471 Masalan oykn ehdotuksen asettaminen nähtäville Protokoll ks 25.10.2021 § 471, delgeneralplanen för Masaby, framläggning av förslaget till delgeneralplan Pöytäkirja kv 6.3.2023 § 13 Masalan osayleiskaavan hyväksyminen Protokoll kf 6.3.2023 § 13 Godkännande av delegeneralplanen för Masaby Masalan osayleiskaavan ilmastovaikutusten arviointi - Loppuraportti 6.5.2022 Masala_liikenneselvitys_31.3.2021 Kaavatalousarviointi_Masala_Raportti\n, Hallintolaki Masalan osayleiskaavaa (piir.nro 3481) koskevan kunnanvaltuuston 6.3.2023 (13 §) päätöksen asiavirheen korjaaminen hallintolain 8 luvun 50 §:n mukaisesti ja kirjoitusvirheiden korjaaminen hallintolain 8 luvun 51 §:n mukaisesti Kunnanvaltuusto 19.06.2023 § 47 1643/10.02.02/2019",
+        "paatosehdotus": "Kunnanhallitus esittää kunnanvaltuustolle, että se päättää kunnanvaltuuston hyväksymän 6.3.2023 (§ 13) Masalan osayleiskaavan (piir.nro 3481) asiavirheen korjaamisen hallintolain (6.6.2003/434) 8 luvun 50 §:n mukaisesti sekä muutamien kirjoitusvirheiden korjaamisesta hallintolain 8 luvun 51 §:n mukaisesti siten, että hyväksyttävän Masalan osayleiskaavan uusi piirustusnumero on 3486 ja sen päiväys on 12.6.2023",
+        "kasittely": "Kunnanarkkitehti Tero Luomajärvi esitteli asiaa kokouksessa. Kunnanarkkitehti Tero Luomajärvi ja asemakaavapäällikkö Simon Store poistuivat kokouksesta tämän pykälän jälkeen klo 18.38",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "3486_Masalan_oyk_kaavakartta_pienennös_A3",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231460-4-93748.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "3486_Masala_oyk_määräykset_A0",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231460-4-93752.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "3486_Masalan_oyk_kaavakartta_ja_määräykset",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231460-4-93756.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "3486 Masala_selostus_su_hyväksyminen_ kh_12.6.2023",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231460-4-93706.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "3486 Masaby_beskrivning_sv_godkännande_ kst_12.6.2023",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231460-4-93705.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "3486_Liitteet 1-14_päivitetty_08062023",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231460-4-93753.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Liite 15. Kantatie 50 (Kehä III) tiesuunnitelman meluselvitys (Uudenmaan ELY-keskus & Afry Oy, 2020)",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231460-4-93728.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Vastineet_su_kh_12.6.2023",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231460-4-93707.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Bemötanden_sv_kst_12.6.2023",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231460-4-93708.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Pöytäkirja kh 25.10.2021 § 471 Masalan oykn ehdotuksen asettaminen nähtäville",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231460-4-90772.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Protokoll ks 25.10.2021 § 471, delgeneralplanen för Masaby, framläggning av förslaget till delgeneralplan",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231460-4-90771.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Pöytäkirja kv 6.3.2023 § 13 Masalan osayleiskaavan hyväksyminen",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231460-4-90776.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Protokoll kf 6.3.2023 § 13 Godkännande av delegeneralplanen för Masaby",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231460-4-90777.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Masalan osayleiskaavan ilmastovaikutusten arviointi - Loppuraportti 6.5.2022",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231460-4-90780.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Masala_liikenneselvitys_31.3.2021",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231460-4-90779.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Kaavatalousarviointi_Masala_Raportti",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231460-4-90781.PDF"
+        },
+        {
+          "group": "oheismateriaali",
+          "prefix": null,
+          "title": "Oheismateriaali, Hallintolaki",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231460-4-90673.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20231460-5",
+      "ordinal": "5",
+      "title": "Vastine vuoden 2022 arviointikertomukseen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231460-5",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 17 Arviointikertomus 2022\nKuvake Numero Otsikko 17 Arviointikertomus 2022 Vastine vuoden 2022 arviointikertomukseen Kunnanvaltuusto 19.06.2023 § 48 40/02.02.02/2023",
+        "paatosehdotus": "Kunnanhallitus antaa kuntalain mukaisena selvityksenä kunnanvaltuustolle seuraavat toteutetut tai toimielimille evästykseksi annetut tai annettavat toimenpiteet: 1 Kirkkonummen kunnalle laaditaan kuntastrategiasta johdettu henkilöstöstrategia, joka ottaa kantaa kunnan henkilöstövoimavarojen suuntaamiseen sekä laadullisesti että määrällisesti koko strategiakaudella. Se laaditaan osana kuntastrategian päivittämistyötä. Henkilöstöstrategia linjaa vuosittain laadittavaa, tulevan vuoden henkilöstö- ja koulutussuunnitelmaa. 2 Palvelualueille oli annettu kehyksen mukainen velvoite vuoden 2023 talousarvioesityksen tekemiseksi. Kehystavoite vuodelle 2024 on annettu siten, että tulos jää 8,2 milj. euroa ylijäämäiseksi. Toukokuun valtuustoseminaarissa esitellyt kymmenen vuoden talouden skenaariot näyttävät suunnitelulla investointimäärillä tarkoittavan lainamäärän suurta kasvua ja sitä kautta kasvavia rahoituskuluja ja poistoja. Vuosikatteen ilman käyttöomaisuuden myyntejä ja maankäyttösopimustuottoja tulee kattaa vähintään investointien poistot, jotta lainanottoa voidaan hillitä. Lainojen takaisinmaksuajan suhteen tulee tavoitella enintään 15 vuotta. Tasapainottamissuunnitelman reunaehdot annetaan vuosikatetasolla seuraaville vuosille kehyksen yhteydessä. Toimielimet esittävät talousarvioesityksessään toimenpiteet, jotta kehystavoitteessa pysytään. 3 Valtuuston talousarvioseminaarissa 29.5.2023 esiteltiin skenaarioita investointitason vaikutuksesta +/- 20 % perustasoon nähden. Näiden ääripäiden vaikutus lainojen takaisinmaksuajan perustasoon on kuusi vuotta. Investointien poistojen merkitys on kaksinkertaistunut hyvinvointialueuudistuksen puolittaessa tulorahoituksen. Suurten kouluhankkeiden toteuttaminen merkitsee lainakannan merkittävää kasvua ja rahoituskustannusten kasvua korkotason noustessa. Kehysesitykseen on aiemmasta poiketen tuotu investointitaso huomioon yhtenä tasapainotukseen vaikuttavana osatekijänä. 4 Kunnan viestintää sekä markkinointia tullaan kehittämään yhteistyössä palvelualueiden kanssa. Viestintä- ja markkinointisuunnitelmassa tulee ottaa kantaa mitä, kenelle, missä välineessä ja ketkä viestivät. Avoimuutta ja palautteen saamisen mahdollisuutta kuntalaisille tulee tavoitella. Suunnitelman toteutussuunnittelu aloitetaan kesän 2023 jälkeen. 5 Valtuustoaloitetta sisäisen tarkastuksen järjestämisestä käsiteltiin valtuustossa 22.5. Vastauksessa todettiin, että selvitetään mahdollisuus järjestää tarkastus omana työnä sisäisin järjestelyin. Valtuusto hyväksyi aloitteen käsittelyssä ponnen, että vuoden 2024 talousarviokehykseen tulee varata määräraha sisäisen tarkastuksen järjestämiseksi, joka varattiin. 6 Päivitetyt sisäisen valvonnan ohjeet velvoitetaan käymään läpi lautakunnissa vuoden 2023 aikana ja samalla arvioidaan ovatko toimintatavat sen mukaisia. Näin varmistutaan osaltaan siitä, että kunnan toimintamenettelyt tukevat tavoitteiden sekä lakien ja määräysten mukaista toimintaa kunnassa. 7 Kirkkonummen Veden henkilöresursseja on vahvistettu jo talousarviovuodelle 2023 uuden verkostoinsinöörin toimen myötä. Selvityksessä pyritään arvioimaan mitkä toimet voidaan hoitaa nykyisillä resursseilla. Ne tehtävät, joihin nykyisen resurssointi ei riitä, arvioidaan henkilötyövuosina, jotta liikelaitoksen johtaja pystyy tarvittaessa arvioimaan lisäresurssien kohdentamista jo talousarviovuodesta 2024 alkaen. 8 Kunnan kiinteistö- ja infraomaisuuden arvon säilyttävä ylläpito sekä oikea-aikaiset korjaustoimenpiteet edellyttää riittävien määrärahojen varaamista sekä käyttötalouteen että investointiohjelmaan. Lisäksi ennakoivan kunnossapidon kannalta on olennaista varmistaa, että kunnassa on riittävät henkilöresurssit korjausohjelman ja kiinteistöjen sekä infraomaisuuden kunnossapidon toteuttamiseen ja että henkilöstön osaamisesta pidetään huolta. Kehitystyö on jatkuvaa. Henkilöstövajaus on vaikeuttanut usean vuoden ajan ylläpidon ja investointien toteuttamista, mutta vuoden 2023 aikana pääosaan avoinna olevista ylläpidon tehtävistä toimitilapalveluissa, kunnallistekniikassa ja Kirkkonummen Vedessä on saatu rekrytoitua henkilöstöä. Lisäksi on kehitetty henkilöstön työnjakoa ja tehtävänkuvia. Kunta panostaa sekä kiinteistöjen että infraomaisuuden ylläpitoon sekä vuosikorjauksiin jatkossa entistä vahvemmin. Talousarvion laadintakehyksessä 2024 on huomioitu ylläpidon määrärahatarve huomioiden ylläpidon kustannusindeksin voimakas nousu viimeisen vuoden aikana. Kiinteistöjen suunnitelmallista kunnossapitoa varmistetaan jatkossa myös toteuttamalla rakennushankkeita elinkaarimallilla. Gesterbyn koulukeskus, yhteiskampus ja Nissnikun koulun rakennushankkeet on päätetty toteuttaaa elinkaarimallilla, jossa kiinteistön kunnossapitovastuu jää määritellyksi ajaksi urakoitsijalle. Kunnan vuosittaisissa talousarvioissa on osoitettu kiinteistöjen korjausohjelman määräraha, joka on ollut vuosina 2021-2022 kaksi miljoonaa euroa. Lisäksi energiatehokkuushankkeisiin on viime vuosina osoitettu 0,4 milj. euroa vuosittain ja määräraha on nostettu 0,7 milj. euroon vuonna 2023. Infraomaisuuden osalta talousarvion 2023 investointiosassa osoitettiin saneerauskohteisiin/korjausrakentamiseen yhteensä noin 6 milj. euron määrärahat ja myös talousarvion 2024 investointiosassa on tarkoitus osoittaa määrärahoja korjausinvestointeihin. Kirkkonummen Vesi teettää kevään 2023 aikana kaksi konsulttiselvitystä, joissa arvioidaan Kirkkonummen Veden toiminnan nykytilaa. Työ suoritetaan kevään 2023 aikana ja loppuraportti luovutetaan Kirkkonummen Vedelle elokuussa. Selvitystyön lopputuloksena konsultti laatii yhteystyössä laitoksen johdon kanssa kehittämisohjelman vuosille 2024-2028, jotta selvityksessä havaitut kehittämiskohteet saadaan korjattua vähintään tyydyttävällä tasolle. 9 Vastauksena valtuustoponteen todetaan, että vuoden 2023 talousarviokehys annettiin siten, että se ei sisältänyt toiminnan laajennuksia lakisääteisten velvoitteiden lisäksi. Kehyksessä ja myös talousarviossa 2023 pysyttiin perusturvaa lukuun ottamatta huolimatta inflaatiokehityksestä. Olennaista on, että uusia tarpeita ja lakivelvoitteita toteutetaan tehostamalla nykyistä toimintaa, jolloin toimintakatteen kasvu pysyy hallinnassa. Tärkeintä on asettaa vuosikatteelle investointitasoon suhteutettu riittävä tavoite. Vuosikatteen kehitykseen vaikuttaa myös mm. lainojen rahoituskustannusten kautta myös investoinnit, joiden osalta tulee asettaa euromääräiset rajat varsinkin niiden hankkeiden osalta, jotka lisäävät käyttömenoja käyttöönoton jälkeen. Investointitaso vaikuttaa lainanottotarpeeseen, jos ja kun vuosikatteella ei voida kattaa uusia investointeja. Kehyksellä 2024 ohjataan toimintakatetta siten, että vuosikatteen määrä todetaan riittäväksi, jotta lainakannan kasvu pysyy kohtuullisena ja tulos on selvästi ylijäämäinen. Kehyksessä tuodaan esille suuret menokehitykseen vaikuttavat muutokset. Toukokuun valtuustoseminaarissa esitettiin Inspira Oy:n kanssa yhteistyössä laaditut talousskenaariot kymmenelle tulevalle vuodelle. Skenaariot ovat nyt varmemmalla pohjalla, kun hyvinvointialueuudistuksen vaikutus kunnan talouteen on pääosin selvillä. Ulkoisia riskitekijöitä niiden vaikutuksia perusskenaarioon on useita. Esityksessä korostettiin riittävää vuosikatetta, jolla vähennetään uutta lainanottoa ja estetään lainojen takaisinmaksuaikojen venyminen. Sisäistä valvontaa kehitetään palkkaamalla sisäinen tarkastaja vuonna 2024 ellei sisäisellä järjestelyillä onnistuta aloittamaan jo aiemmin",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Arviointikertomus 2022",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231460-5-91789.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20231460-6",
+      "ordinal": "6",
+      "title": "Henkilöstöetuudet vuodelle 2023",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231460-6",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus esittää kunnanvaltuustolle henkilöstöetuuksia koskevan 60 000 euron lisämäärärahan osoittamista tämän vuoden talousarvioon selostusosassa kuvatun mukaisesti",
+        "kasittely": "Vt. henkilöstöjohtaja Teija Parkkonen esitteli asiaa kokouksessa",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231460-7",
+      "ordinal": "7",
+      "title": "Aiesopimus TE-uudistuksen mukaisesta yhteistyöstä kuntien välillä",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231460-7",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko 18 TE_aiesopimus_kh29052023_hyväksytty 19 TE25_AIESOPIMUS_EKKV\nKuvake Numero Otsikko 18 TE_aiesopimus_kh29052023_hyväksytty 19 TE25_AIESOPIMUS_EKKV Aiesopimus TE-uudistuksen mukaisesta yhteistyöstä kuntien välillä Kunnanvaltuusto 19.06.2023 § 50 338/00.04.01/2022",
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että valtuusto merkitsee päätöksen aiesopimuksesta TE-uudistuksen mukaisesta yhteistyöstä kuntien välillä tiedokseen",
+        "kasittely": "Vt. kunnanjohtaja Anna-Kaisa Kauppinen esitteli asiaa kokouksessa",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti ehdotuksen mukaisesti"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "TE_aiesopimus_kh29052023_hyväksytty",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231460-7-92952.PDF"
+        },
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "TE25_AIESOPIMUS_EKKV",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20231460-7-92763.PDF"
+        }
+      ],
+      "proposals": []
+    },
+    {
+      "id": "20231460-8",
+      "ordinal": "8",
+      "title": "Kunnanvaltuuston puheenjohtajan ja varapuheenjohtajien valinta kaudelle 2023-2025",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231460-8",
+      "decision": "Kunnannanvaltuusto päätti yksimielisesti 1 valita Anders Adlercreutzin (RKP) kunnanvaltuuston puheenjohtajaksi kaksivuotiskaudeksi 2023 - 2025 2 valita Reetta Hyvärisen (Vihr.) kunnanvaltuuston I varapuheenjohtajaksi kaksivuotiskaudeksi 2023 - 2025 3 valita Minna Hakapään (Pro Kirkkonummi) kunnanvaltuuston II varapuheenjohtajaksi kaksivuotiskaudeksi 2023 - 2025",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että 1 valtuusto päättää valita valtuustolle puheenjohtajan kaksivuotiskaudeksi 2023 - 2025 2 valtuusto päättää valita valtuustolle I varapuheenjohtajan kaksivuotiskaudeksi 2023 - 2025 3 valtuusto päättää valita valtuustolle II varapuheenjohtajan kaksivuotiskaudeksi 2023 - 2025",
+        "paatos": "Kunnannanvaltuusto päätti yksimielisesti 1 valita Anders Adlercreutzin (RKP) kunnanvaltuuston puheenjohtajaksi kaksivuotiskaudeksi 2023 - 2025 2 valita Reetta Hyvärisen (Vihr.) kunnanvaltuuston I varapuheenjohtajaksi kaksivuotiskaudeksi 2023 - 2025 3 valita Minna Hakapään (Pro Kirkkonummi) kunnanvaltuuston II varapuheenjohtajaksi kaksivuotiskaudeksi 2023 - 2025"
+      },
+      "lang": "fi",
+      "text_encoding": "repaired",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231460-9",
+      "ordinal": "9",
+      "title": "Kunnanhallituksen jäsenten ja varajäsenten valinta kaudelle 2023-2025",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231460-9",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti 1 valita kunnanhallitukseen 13 jäsentä ja heille henkilökohtaiset varajäsenet kaudeksi 2023 - 2025 seuraavasti (toimikausi alkaa 1.7.2023): varsinaiset jäsenet / henkilökohaiset varajäsenet: Timo Haapaniemi, Kok. / Jussi Määttä, Kok. Piia Aallonharja, PS / Arttu Lankinen, PS Tony Björk, RKP / Josephine Frimodig, RKP Anna Aintila, RKP / Kim Liljequist, RKP Kati Kaihlaranta, Vas. / Sari Haapasaari, Kesk. Anneli Granström, PS / Ville Salminen, PS Ari Harinen, SDP / Sini Felipe, SDP Saara Huhmarniemi, Vihr. / Johanna Fleming, Vihr. Carl-Johan Kajanti, RKP / Kim Männikkö, RKP Antti Kilappa, Pro Kirkkonummi / Outi Saloranta-Eriksson, Pro Kirkkonummi Markus Myllyniemi, Vihr. / Sanni Jäppinen, Vihr. Anna Sahiluoma, Kok. / Maija Jäntti, Kok. Matti Kaurila, Kok. / Kim Åström, Kok. 2 valita Timo Haapaniemen (Kok.) kunnanhallituksen puheenjohtajaksi, Piia Aallonharjan (PS) kunnanhallituksen I varapuheenjohtajaksi ja Tony Björkin (RKP) kunnanhallituksen II varapuheenjohtajaksi kaudeksi 2023 - 2025",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että 1 se valitsee kunnanhallitukseen 13 jäsentä ja heille henkilökohtaiset varajäsenet kaudeksi 2023 - 2025. Toimikausi alkaa 1.7.2023. 2 se valitsee kunnanhallituksen jäsenten keskuudesta kunnanhallitukselle puheenjohtajan, I varapuheenjohtajan ja II varapuheenjohtajan kaudeksi 2023 - 2025",
+        "kasittely": "<Aloita käsittelyn kuvaus tästä>",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti 1 valita kunnanhallitukseen 13 jäsentä ja heille henkilökohtaiset varajäsenet kaudeksi 2023 - 2025 seuraavasti (toimikausi alkaa 1.7.2023): varsinaiset jäsenet / henkilökohaiset varajäsenet: Timo Haapaniemi, Kok. / Jussi Määttä, Kok. Piia Aallonharja, PS / Arttu Lankinen, PS Tony Björk, RKP / Josephine Frimodig, RKP Anna Aintila, RKP / Kim Liljequist, RKP Kati Kaihlaranta, Vas. / Sari Haapasaari, Kesk. Anneli Granström, PS / Ville Salminen, PS Ari Harinen, SDP / Sini Felipe, SDP Saara Huhmarniemi, Vihr. / Johanna Fleming, Vihr. Carl-Johan Kajanti, RKP / Kim Männikkö, RKP Antti Kilappa, Pro Kirkkonummi / Outi Saloranta-Eriksson, Pro Kirkkonummi Markus Myllyniemi, Vihr. / Sanni Jäppinen, Vihr. Anna Sahiluoma, Kok. / Maija Jäntti, Kok. Matti Kaurila, Kok. / Kim Åström, Kok. 2 valita Timo Haapaniemen (Kok.) kunnanhallituksen puheenjohtajaksi, Piia Aallonharjan (PS) kunnanhallituksen I varapuheenjohtajaksi ja Tony Björkin (RKP) kunnanhallituksen II varapuheenjohtajaksi kaudeksi 2023 - 2025"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231460-10",
+      "ordinal": "10",
+      "title": "Henkilöstöjaoston jäsenten ja varajäsenten valinta kaudelle 2023-2025",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231460-10",
+      "decision": "Kunnanvaltuusto päätti yksimielisesti 1 henkilöstöjaostoon seitsemän jäsentä ja heille henkilökohtaiset varajäsenet kaksivuotiskaudeksi 2023 - 2025 seuraavasti (toimikausi alkaa 1.7.2023): Varsinaiset jäsenet / henkilökohtaiset varajäsenet: Arttu Lankinen, PS / Johanna Järvinen, PS Maija Jäntti, Kok ./ Tarja Siivonen, Kok. Miika Engström, SFP / Stig Kvarnström, SFP Anita Forssén, SFP / My Sundelin, SFP Anna-Mari Toikka, Vihr. / Maarit Orko, Vihr. Jyki Grönlund, Pro Kirkkonummi / Jan Nordström, Pro Kirkkonummi Kati Kaihlaranta, VAS / Riki Saarimaa, VAS 2 valita Arttu Lankisen (PS) henkilöstöjaoston puheenjohtajaksi ja Maija Jäntin (Kok.) henkilöstöjaoston varapuheenjohtajaksi kaksivuotiskaudeksi 2023 - 2025",
+      "votes": [],
+      "sections": {
+        "paatosehdotus": "Kunnanhallitus ehdottaa kunnanvaltuustolle, että 1 se valitsee henkilöstöjaostoon seitsemän jäsentä ja heille henkilökohtaiset varajäsenet kaksivuotiskaudeksi 2023 - 2025. Toimikausi alkaa 1.7.2023. 2 se valitsee jäsenten keskuudesta henkilöstöjaostolle puheenjohtajan ja varapuheenjohtajan kaksivuotiskaudeksi 2023 - 2025",
+        "paatos": "Kunnanvaltuusto päätti yksimielisesti 1 henkilöstöjaostoon seitsemän jäsentä ja heille henkilökohtaiset varajäsenet kaksivuotiskaudeksi 2023 - 2025 seuraavasti (toimikausi alkaa 1.7.2023): Varsinaiset jäsenet / henkilökohtaiset varajäsenet: Arttu Lankinen, PS / Johanna Järvinen, PS Maija Jäntti, Kok ./ Tarja Siivonen, Kok. Miika Engström, SFP / Stig Kvarnström, SFP Anita Forssén, SFP / My Sundelin, SFP Anna-Mari Toikka, Vihr. / Maarit Orko, Vihr. Jyki Grönlund, Pro Kirkkonummi / Jan Nordström, Pro Kirkkonummi Kati Kaihlaranta, VAS / Riki Saarimaa, VAS 2 valita Arttu Lankisen (PS) henkilöstöjaoston puheenjohtajaksi ja Maija Jäntin (Kok.) henkilöstöjaoston varapuheenjohtajaksi kaksivuotiskaudeksi 2023 - 2025"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20231460-11",
+      "ordinal": "11",
+      "title": "Ilmoitus siirtymisestä Kirnun valtuustoryhmään, A.P.",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20231460-11",
+      "decision": "Kunnanvaltuusto päätti merkitä ilmoituksen tiedokseen",
+      "votes": [],
+      "sections": {
+        "paatos": "Kunnanvaltuusto päätti merkitä ilmoituksen tiedokseen",
+        "selostus": "Varavaltuutettu Aleksander Polkko jätti kunnanvaltuuston kokouksessa 19.6.2023 seuraavan ilmoituksen: \"Ilmoitan että olen siirtynyt Kirnun valtuustoryhmään tänään 19.6.2023 Myöskin yhdistyksen hallitus on nimennyt minut ryhmän puheenjohtajaksi. Yst.terv. Aleksander Polkko\""
+      },
+      "lang": "fi",
+      "text_encoding": "repaired",
+      "paatos_labels": 2,
+      "attachments": [],
+      "proposals": []
+    }
+  ],
+  "id": "20231460",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20231460"
+}

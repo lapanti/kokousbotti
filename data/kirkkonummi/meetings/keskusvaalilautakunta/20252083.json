@@ -1,0 +1,75 @@
+{
+  "title": "Keskusvaalilautakunta Pöytäkirja 22.05.2025 klo 16:30 - 17:25 / Ei tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Keskusvaalilautakunta",
+  "doctype": "Pöytäkirja",
+  "date": "2025-05-22",
+  "items": [
+    {
+      "id": "20252083-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252083-1",
+      "decision": "Kokous todettiin lailliseksi ja päätösvaltaiseksi",
+      "sections": {
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi",
+        "paatos": "Kokous todettiin lailliseksi ja päätösvaltaiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20252083-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252083-2",
+      "decision": "Pöytäkirjantarkastajiksi valittiin Harriet Hagelberg ja Marjokaisa Piironen",
+      "sections": {
+        "valmistelija": "hallinnon asiantuntija Gunnel Ekström, etunimi.sukunimi@kirkkonummi.fi",
+        "paatosehdotus": "Keskusvaalilautakunta päättää 1 valita kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan 2 tarkastaa tämän pöytäkirjan sähköisesti seuraavan aikataulun mukaan: Perjantaina 23.5.2025 lähetetään pöytäkirja sähköpostitse pöytäkirjantarkastajille, jotka ilmoittavat hyväksymisestään viimeistään maanantaina 26.5.2025. Jos hyväksymisviestiä ei tule sihteerille em. ajankohtaan mennessä, pöytäkirja katsotaan hyväksytyksi. Pöytäkirja allekirjoitetaan sähköisesti. Pöytäkirja julkaistaan tiistaina 27.5.2025 kunnan verkkosivulla",
+        "paatos": "Pöytäkirjantarkastajiksi valittiin Harriet Hagelberg ja Marjokaisa Piironen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20252083-3",
+      "ordinal": "3",
+      "title": "Palaute alue- ja kuntavaaleista 2025",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252083-3",
+      "decision": "Keskusvaalilautakunta päätti yksimielisesti ehdotuksen mukaisesti",
+      "sections": {
+        "valmistelija": "keskusvaalilautakunnan sihteeri Rasmus Beck etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Hallintojohtaja Suihkonen Jaana Keskusvaalilautakunta päättää merkitä tiedoksi alue- ja kuntavaalien järjestelyistä saadun palautteen",
+        "kasittely": "Hallintojohtaja Jaana Suihkonen saapui tämän pykälän käsittelyn aikana klo 16.54. Palautteet käytiin huolellisesti läpi, niistä keskusteltiin ja kirjattiin useita asioita lisättäväksi vaalikäsikirjaan",
+        "paatos": "Keskusvaalilautakunta päätti yksimielisesti ehdotuksen mukaisesti",
+        "selostus": "Keskusvaalilautakunta on pyytänyt palautetta alue- ja kuntavaaleissa toimineilta vaalivirkailijoilta sekä keskusvaalilautakuntaa vaalien aikana avustaneilta henkilöiltä. Palaute ja huomiot sekä parannusehdotukset tuplavaalien järjestelyistä esitetään tässä pykälässä"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20252083-4",
+      "ordinal": "4",
+      "title": "Muut asiat",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20252083-4",
+      "decision": null,
+      "sections": {},
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    }
+  ],
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20252083",
+  "id": "20252083"
+}

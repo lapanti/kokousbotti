@@ -1,0 +1,59 @@
+{
+  "title": "Toimitilapalvelujen lautakunta Pöytäkirja 23.10.2024 klo 17:00 - 18:10 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Toimitilapalvelujen lautakunta",
+  "doctype": "Pöytäkirja",
+  "date": "2024-10-23",
+  "items": [
+    {
+      "id": "20241879-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241879-1",
+      "decision": null,
+      "votes": [],
+      "sections": {},
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241879-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastaminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241879-2",
+      "decision": "Toimitilapalvelujen lautakunta valitsi tämän kokouksen pöytäkirjantarkastajiksi ja Anneli Granströmin ja Pekka Oksasen",
+      "votes": [],
+      "sections": {
+        "esittelija": "yhdyskuntatekniikan johtaja Anna-Kaisa Kauppinen",
+        "paatosehdotus": "Toimitilapalveluiden lautakunta valitsee kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan sähköisesti. Pöytäkirja tarkastetaan tiistaina 29.10.2024. Jos hyväksymisviestiä ei tule sihteerille em. ajankohtaan mennessä, pöytäkirja katsotaan hyväksytyksi. Tarkastettu pöytäkirja asetetaan yleisesti nähtäville kunnan julkiseen tietoverkkoon keskiviikkona 30.10.2024",
+        "paatos": "Toimitilapalvelujen lautakunta valitsi tämän kokouksen pöytäkirjantarkastajiksi ja Anneli Granströmin ja Pekka Oksasen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241879-3",
+      "ordinal": "3",
+      "title": "Talouden ja toiminnallisten tavoitteiden toteutuminen, toimitilapalvelujen lautakunta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241879-3",
+      "decision": "Toimitilapalvelujen lautakunta päätti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa Toimitilapalvelujen lautakunta päättää merkitä taloustilanteen sekä toiminnallisten tavoitteiden tilanteen tiedoksi",
+        "kasittely": "Jäsen Hans Hedberg saapui kokoukseen tämän kokousasian käsittelyn aikana klo 17.26",
+        "paatos": "Toimitilapalvelujen lautakunta päätti päätösehdotuksen mukaisesti",
+        "selostus": "Kokouksessa esitellään kokousajankohtana tiedossa oleva taloustilanne"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    }
+  ],
+  "id": "20241879",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20241879"
+}

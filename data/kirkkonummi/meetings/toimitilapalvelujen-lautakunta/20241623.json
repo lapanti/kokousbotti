@@ -1,0 +1,217 @@
+{
+  "title": "Toimitilapalvelujen lautakunta Pöytäkirja 17.01.2024 klo 17:00 - 19:10 / Tarkastettu  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Toimitilapalvelujen lautakunta",
+  "doctype": "Pöytäkirja",
+  "date": "2024-01-17",
+  "items": [
+    {
+      "id": "20241623-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241623-1",
+      "decision": null,
+      "votes": [],
+      "sections": {},
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241623-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastaminen",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241623-2",
+      "decision": "Toimitilapalvelujen lautakunta valitsi tämän kokouksen pöytäkirjantarkastajiksi Elina Kärkimaan ja Elina Utriaisen",
+      "votes": [],
+      "sections": {
+        "esittelija": "yhdyskuntatekniikan johtaja, Anna-Kaisa Kauppinen",
+        "paatosehdotus": "Toimitilapalveluiden lautakunta valitsee kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan sähköisesti. Pöytäkirja tarkastetaan tiistaina 23.1.2024. Jos hyväksymisviestiä ei tule sihteerille em. ajankohtaan mennessä, pöytäkirja katsotaan hyväksytyksi. Tarkastettu pöytäkirja asetetaan yleisesti nähtäville kunnan julkiseen tietoverkkoon keskiviikkona 24.1.2024",
+        "paatos": "Toimitilapalvelujen lautakunta valitsi tämän kokouksen pöytäkirjantarkastajiksi Elina Kärkimaan ja Elina Utriaisen"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241623-3",
+      "ordinal": "3",
+      "title": "Valtuustoaloite 6/2023: Kasvisruoan edistäminen koulu- ja päiväkotiruokailussa",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241623-3",
+      "decision": "Toimitilapalvelujen lautakunta päätti päätösehdotuksen mukaisesti",
+      "votes": [
+        {
+          "jaa": [
+            "Oksanen Pekka",
+            "Ekman Jani",
+            "Piili Noora",
+            "Hedberg Hans",
+            "Björkqvist Matilda",
+            "Kari Marko",
+            "Järvinen Johanna",
+            "Utriainen Elina"
+          ],
+          "ei": [
+            "Jeremejew Miisa",
+            "Kärkimaa Elina"
+          ],
+          "tyhja": [],
+          "named_by": "surname",
+          "totals": {
+            "jaa": 8,
+            "ei": 2,
+            "tyhja": 0
+          },
+          "as_written": {
+            "jaa": [
+              "Oksanen",
+              "Ekman",
+              "Piili",
+              "Hedberg",
+              "Björkqvist",
+              "Kari",
+              "Järvinen",
+              "Utriainen"
+            ],
+            "ei": [
+              "Jeremejew",
+              "Kärkimaa"
+            ],
+            "tyhja": []
+          },
+          "names_from": "osallistujat",
+          "unresolved": [],
+          "parties": {
+            "jaa": {
+              "sdp": 1,
+              "kok": 2,
+              "pro yl": 2,
+              "rkp": 2,
+              "ps": 1
+            },
+            "ei": {
+              "vihr": 2
+            },
+            "tyhja": {}
+          },
+          "direction": {
+            "jaa_label": "esittelijän päätösehdotusta",
+            "ei_label": "Miisa Jeremejewin evästystä",
+            "jaa_kind": "pohjaehdotus",
+            "ei_kind": "evastys",
+            "kind": "procedural_substantive",
+            "rationale": "Keskustelun aikana jäsen Miisa Jeremejew esitti seuraavan evästyksen: Lautakunta evästää valmistelemaan johonkin yksittäiseen kouluun kokeilun, jossa kaurajuomaa olisi tarjolla vaihtoehtona lehmänmaidolle.",
+            "winner": "jaa",
+            "source": "parsed",
+            "evidence": "ne, jotka kannattavat esittelijän päätösehdotusta, äänestävät Jaa, ja ne, jotka kannattavat Miisa Jeremejewin evästystä, äänestävät Ei — Puheenjohtaja päätti äänestyksen ja totesi, että äänet jakautuivat seuraavasti: 8 kpl Jaa-ääniä (Oksanen, Ekman, Piili, Hedberg, Björkqvist, Kari, Järvinen ja Utriainen) ja 2 kpl ei-ääniä (Jeremejew ja Kärkimaa)"
+          }
+        }
+      ],
+      "initiative": {
+        "ref": "6/2023",
+        "proposer": "ätti päätösehdotuksen mukaisesti.   Tiedoksi   Selostus   Kunnanvaltuutettu Ronja Karkinen",
+        "party": null,
+        "name": "Ronja Karkinen"
+      },
+      "sections": {
+        "valmistelija": "palvelujohtaja Johanna Tuppurainen etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa Toimitilapalvelujen lautakunta päättää antaa selostusosan mukaisen vastauksen valtuustoaloitteeseen 6/2023 Kasvisruoan edistäminen koulu- ja päiväkotiruokailussa ja esittää kunnanhallitukselle ja edelleen kunnanvaltuustolle, että valtuusto pitää vastausta riittävänä ja aloitetta loppuun käsiteltynä",
+        "kasittely": "Keskustelun aikana jäsen Miisa Jeremejew esitti seuraavan evästyksen: Lautakunta evästää valmistelemaan johonkin yksittäiseen kouluun kokeilun, jossa kaurajuomaa olisi tarjolla vaihtoehtona lehmänmaidolle. Elina Kärkimaa kannatti Miisa Jeremejewin evästystä. Puheenjohtaja totesi, että evästystä ei kannatettu yksimielisesti, jolloin asiasta tulee äänestää. Puhenjohtaja käynnisti äänestyksen: ne, jotka kannattavat esittelijän päätösehdotusta, äänestävät Jaa, ja ne, jotka kannattavat Miisa Jeremejewin evästystä, äänestävät Ei. Puheenjohtaja päätti äänestyksen ja totesi, että äänet jakautuivat seuraavasti: 8 kpl Jaa-ääniä (Oksanen, Ekman, Piili, Hedberg, Björkqvist, Kari, Järvinen ja Utriainen) ja 2 kpl ei-ääniä (Jeremejew ja Kärkimaa), jolloin esittelijän päätösehdotus voitti",
+        "paatos": "Toimitilapalvelujen lautakunta päätti päätösehdotuksen mukaisesti",
+        "selostus": "Kunnanvaltuutettu Ronja Karkinen jätti kunnanvaltuuston kokouksessa 4.9.2023 seuraavan valtuustoaloitteen: \"Valtuustoaloite kasvisruoan edistämisestä koulu- ja päiväkotiruokailussa Kesällä julkaistut uudet pohjoismaiset ravitsemussuositukset ottavat ensimmäistä kertaa huomioon ravitsemuksen lisäksi myös ympäristötekijät. Kun suomalaista ruokailua viedään suosituksen osoittamaan suuntaan, huolehditaan samaan aikaan kansalaisten terveydestä ja hyvinvoinnista sekä ympäristön kantokyvystä. Uudet suositukset ovat neljän vuoden mittavan tieteellisen tutkimuksen tulos. Valtioneuvoston tiedotteessa ravitsemussuositushankkeen päällikkö, professori Rune Blomhoff toteaa raportin tarjoavan tieteellisen perustan syömiseen: \"Terveyden ja ympäristön välillä on monia suuria synergiaetuja, kun pyrimme toteuttamaan ruoankulutuksessa välttämättömän kestävyyssiirtymän.\" Myös maailman terveysjärjestö WHO:n pääjohtaja Ghebreyesus onnittelee vaikuttavasta ja tieteeseen perustuvasta työstä. Suosituksissa kannustetaan pääasiassa kasvipainotteiseen ruokavalioon. Prosessoitua lihaa kannustetaan välttämään ja lihaa suositellaan syötäväksi maksimissaan 350 grammaa viikossa. Tämä vastaa noin kahta tai kolmea viikoittaista liha-annosta. Kirkkonummen ruokapalveluissa on tehty kasvisruoan edistämiseksi toimia esimerkiksi ruokien esillepanolla ja kasvisruokapäivillä. Me allekirjoittaneet haluamme antaa tukemme työlle lihankulutuksen pienentämiseksi ruokailussa edelleen. Olisimmeko matkalla kasvisruokapäivän sijaan kohti lihapäivää? Koulu- ja päiväkotiruokailun merkitys on kokoaan suurempi. Kasviproteiinien sekä kestävästi tuotetun kalan lisääntyvä käyttö ei ainoastaan vähennä tämän päivän päästöjä, vaan auttaa lapsia ja nuoria kasvamaan muuttuvassa maailmassa. Maitotuotteiden aiheuttaman ympäristövaikutuksen vähentämiseksi olisi myös tärkeää, että perheillä olisi mahdollisuus valita kasviperäiset tuotteet ruokailussa. Esimerkiksi kauramaito on tällä hetkellä Kirkkonummella mahdollinen päivähoidossa vain maitoallergisille lapsille. Ehdotammekin, että kunnallinen ruokailu tukee myös kokonaan kasviperäiseen ruokavalioon sekä maitotuotteiden vähentämiseen pyrkiviä perheitä. Kunnanvaltuutettu Ronja Karkinen\" Aloitteen allekirjoitti Ronja Karkisen lisäksi seuraavat valtuutetut ja varavaltuutetut: Reetta Hyvärinen, Anna Aintila, Jani Ekman, Sini Felipe, Minna Hakapää, Saara Huhmarniemi, Sanni Jäppinen, Kim Liljequist, Markus Myllyniemi, Maarit Orko, Krista Petäjäjärvi, Tuovi Ronkainen, Martin Valtonen, Kari Virtanen ja Katja Ylisiurua. Vastaus valtuustoaloitteeseen: Valtion ravitsemusneuvottelukunnan (VNR) antamilla kansallisilla ravitsemussuosituksilla edistetään koko väestön ravitsemuksen ja terveyden myönteistä kehitystä. Suosituksen pohjana ovat \"Terveyttä ruoasta - suomalaiset ravitsemussuositukset\" (2014) ja \"Syödään yhdessä - ruokasuositukset lapsiperheille\" (2016). Kansallisten suositusten lisäksi VNR antaa kohderyhmäkohtaisia ohjeita joukkoruokailuun, joista \"Syödään ja opitaan yhdessä\" (2017) kouluruokasuositus koskee esi- ja perusopetusta ja \"Terveyttä ja iloa ruoasta\" (2018) varhaiskasvatuksen ruokailusuositus koskee varhaiskasvatusta. Suositukset linjaavat ateriapalvelujen toteuttamista, hyvän ravitsemuksen kokonaisvaltaista edistämistä sekä ruokakasvatusta osana lasten ja nuorten palveluja. Suositusten laatimiseen on osallistunut VRN:n asettama työryhmä, johon on osallistunut eri tahojen ravitsemuksen ja joukkoruokailun asiantuntijoita. Kirkkonummen kunnan ruokapalvelut noudattaa VRN:n kouluruokailun sekä varhaiskasvatuksen ruokailusuosituksia toiminnassaan. Omaa toimintaa kehitetään, ja ruokalistoja suunnitellaan suositusten, asiakaspalautteiden sekä yhteistyön perusteella. Kirkkonummen kouluruokailussa on jo vuosia ollut kasvisruoka toisena pääruokavaihtoehtona vapaasti otettavana ja yksi päivä viikossa kokonaan kasvisruokapäivä. Ruokapalvelujen teettämän asiakastyytyväisyyskyselyn mukaan (2023) kasvisruoka aiheuttaa kuitenkin eniten tyytymättömyyttä vastaajissa. Yli puolet vastaajista toivovat, että kasvisruoka poistetaan kokonaan tai että liharuokaa olisi tarjolla myös toisena vaihtoehtona kasvisruokapäivänä. Ruokapalvelujen kokemuksen mukaan tarjoilu- ja lautashävikkiä syntyy eniten juuri kasvisruoista sekä lisukkeena olevista salaateista, tuoreraasteista sekä vihanneksista. Kouluruokailussa päivittäin vapaasti valittava kasvisruokavaihtoehto ei ole kaikissa kunnissa tai kaupungeissa itsestäänselvyys, joten Kirkkonummella oppilailla on jo nyt hyvät mahdollisuudet tutustua kasvisruokaan omassa tahdissaan. Asennemuutoksella sekä kotona, varhaiskasvatuksessa ja kouluissa annettavalla ruokakasvatuksella tulee tulevaisuudessa olemaan entistä tärkeämpi rooli, kun tapamme syödä ja tehdä kestäviä ruokavalintoja muuttuvat. On muistettava, että vain syöty ruoka ravitsee, ja hävikin vähentäminen on kaikkien etu. Uudet pohjoismaiset ravitsemussuositukset julkaistiin kesäkuussa 2023 ja suositukset ottavat ravitsemuksen lisäksi huomioon myös ympäristötekijät. Suositukset muun muassa ohjaavat lisäämään kasviksia ja kasvisproteiinia ruokavalioon sekä lisäämään erityisesti kestävästi tuotetun kalan syöntiä sekä vähentämään lihan syöntiä. Uudet pohjoismaiset ravitsemussuositukset tulevat todennäköisesti vaikuttamaan myös kansallisiin ravitsemussuosituksiin sekä eri kohderyhmäkohtaisiin ohjeisiin ja suosituksiin joukkoruokailuun, joiden päivitykset aloitetaan vuoden 2024 aikana. Kirkkonummen ruokapalvelut huomioi mahdolliset uudet kohderyhmäkohtaiset suositukset omassa toiminnassaan niiden julkaisin jälkeen. Käytännössä tämä tarkoittanee punaisen lihan ja lihajalosteiden vähentämistä entisestään ruokalistoilta ja kasvisten, kasvisproteiinin, kalan ja mahdollisesti siipikarjan lisäämistä. Kouluruokasuosituksen mukaan ruokajuomaksi tulisi tarjota vesijohtoveden lisäksi D-vitaminoitua rasvatonta maitoa/maitojuomaa ja piimää. Kirkkonummella kasvispohjaisia ruokajuomia, kuten esimerkiksi kauramaitoa, ei tällä hetkellä ole mahdollista tarjota kaikille vapaasti otettavaksi. Syynä ovat muun muassa kustannukset ja monen vaihtoehdon tarjoamisen aiheuttama mahdollinen hävikki. Suomessa on pitkään toiminut koulumaito- ja kouluhedelmäjärjestelmä ja EU-rahoitteisen koulujärjestelmän mukaisesti koulut voivat saada rasvatonta maitoa, ykkösmaitoa ja rasvatonta piimää alennettuun hintaan. Kohderyhminä ovat kaikki päivähoidossa, esiasteen, perusasteen ja toisen asteen koulutuksessa olevat oppilaat. Kasvispohjaisista ruokajuomista ei tukea myönnetä, mutta tähän on mahdollisesti tulossa muutos lähivuosina. Kirkkonummen ruokapalvelut seuraa tilannetta"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": [
+        {
+          "proposer": "Miisa Jeremejew",
+          "kind": "evastysehdotus",
+          "text": null,
+          "source": "order",
+          "party": "vihr"
+        }
+      ]
+    },
+    {
+      "id": "20241623-4",
+      "ordinal": "4",
+      "title": "Kirkkonummen kunnan liittyminen Hansel Oy:n dynaamiseen hankintajärjestelmään Sähköautojen latausasemat 2022-2028",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241623-4",
+      "decision": "Toimitilapalvelujen lautakunta päätti päätösehdotuksen mukaisesti",
+      "votes": [],
+      "sections": {
+        "valmistelija": "Hankinta-asiantuntija Jari Mulari etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa Toimitilapalvelujen lautakunta päättää 1 että Kirkkonummen kunta liittyy Hansel Oy:n dynaamiseen hankintajärjestelmään Sähköautojen latausasemat 2022-2028 2 valtuuttaa Kirkkonummen kunnan keskitetyn hankintatoimen jäsenet allekirjoittamaan ja toimittamaan Hansel Oy:lle liittymispäätöksen toteutukseen tarvittavat asiakirjat ja tiedot tavalla, joka sitoo kunnan juridisesti puheena olevaan hankintajärjestelmään 3 tarkastaa pöytäkirjan tämän pykälän osalta kokouksessa",
+        "paatos": "Toimitilapalvelujen lautakunta päätti päätösehdotuksen mukaisesti",
+        "tiedoksi": "Hansel Oy",
+        "selostus": "Vuoden 2020 marraskuussa voimaan astunut laki rakennusten varustamisesta sähköajoneuvojen latauspisteillä ja latauspistevalmiudella sekä automaatio- ja ohjausjärjestelmillä (733/2020) velvoittaa kiinteistöjen omistajat varustamaan yli 20 autopaikan parkkipaikat ei-asuinkäytössä olevien kiinteistöjen yhteydessä vähintään yhdellä latauspisteellä. Laissa asetettu määräaika latauspisteiden asentamiselle on 31.12.2024. Hankinnan arvioitu arvo ajalle 2024-2027 on 500 000 € (alv 0%) . Laki julkisista hankinnoista ja käyttöoikeussopimuksista 1397/2016 (myöhemmin \"Hankintalaki\") velvoittaa kunnan kilpailuttamaan tämän suuruisen hankinnan. Kilpailuttamisvelvoitteen täyttämiseksi kunnalla on vaihtoehtoina: 1) kilpailuttaa hankinta itse tai jonkin yhdessä jonkin toisen kunnan kanssa. 2) liittää kunta yhteishankintayksikön yhteishankintaan, puitejärjestelyyn tai dynaamiseen hankintajärjestelmään. Vaihtoehtojen etuja ja haittoja arvioitaessa keskeiseksi tekijäksi nousee kunnan oman organisaation resurssien tehokas käyttö. Koska hankintaan ei liity tarvetta Hansel Oy:n dynaamisesta hankintajärjestelmästä poikkeavaan määrittelyyn tai asiasisältöön, kunnan omalle kilpailutukselle ei ole perustetta. Näin ollen edellä kuvattuja vaihtoehtoja vertailtaessa Kirkkonummen kunnan kannalta edullisimmaksi ja parhaaksi vaihtoehdoksi nähdään Kirkkonummen kunnan liittäminen Hansel Oy:n dynaamiseen hankintajärjestelmään Sähköautojen latausasemat 2022-2028. Juridinen peruste kunnan mahdollisuudelle hyödyntää Hansel Oy:n dynaamisia hankintajärjestelmää perustuu: Hankintalaki 4 § kohta 12: Hansel Oy on Hankintalain tarkoittama yhteishankintayksikkö Laki Hansel Oy-nimisestä yhtiöstä, 2 §: Laki määrittää kunnat Hansel Oy:n mahdollisiksi asiakkaiksi. Hansel Oy:n dynaaminen hankintajärjestelmä Sähköautojen latausasemat 2022-2028 mahdollistaa kunnan liittymisen siihen sopimuskauden loppuun 31.3.2028 mennessä. Asiakaskohtaiset sopimukset voivat olla toimittajien ja kuntien välillä voimassa 31.3.2034 saakka. Ehdotuksen kohteena oleva Hansel Oy:n dynaaminen hankintajärjestelmä Sähköautojen latausasemat 2022-2028 mahdollistaa erilaisten sähköajoneuvojen latausratkaisut sekä niihin liittyvät tuotteet ja palvelut. Hankittavat laitteet voidaan ostaa omaksi tai palveluna pisimmillään kuuden vuoden sopimuksella. Puheena olevan Hansel Oy:n dynaamisen hankintajärjestelmän käyttö edellyttää kunnalta kevennettyjä kilpailutuksia dynaamisessa hankintajärjestelmässä mukana olevien toimittajien kesken. Jos Kirkkonummen kunnan alueella on asiasta kiinnostuneita alan yrityksiä, näitä kannustetaan tutustumaan Hansel Oy:n kotisivuilla olevaan materiaaliin ja arvioimaan halukkuuttaan liittyä Hansel Oy:n puheena olevaan dynaamiseen hankintajärjestelmään tarjouspyyntöjen saamiseksi niin Kirkkonummen kunnalta kuin muiltakin puheena olevaa hankintajärjestelmää hyödyntäviltä julkisen sektorin toimijoilta. Päätösehdotuksen kohteena olevasta hankintajärjestelmästä on luettavissa yksityiskohtaisempaa lisätietoa Hansel Oy:n kotisivuilla www.hansel.fi. Tämän päätöksen toimivalta tulee kunnanvaltuuston päätöksestä 2.12.2019 § 401"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "proposals": []
+    },
+    {
+      "id": "20241623-5",
+      "ordinal": "5",
+      "title": "Toimitilapalveluiden lautakunnan käyttösuunnitelma vuodelle 2024",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20241623-5",
+      "decision": "Toimitilapalvelujen lautakunta päätti: 1 hyväksyä toimitilapalvelujen lautakunnan käyttösuunnitelman vuodelle 2024 liitteiden mukaisesti 2 lisätään käyttösuunnitelman riskilistaan uusi riski: investointikustannusten ylittyminen. 3 että lautakunnan käyttösuunnitelman investointiosaan sisältyvän \"korjausohjelma\" -hankkeen määrärahaa kohdennetaan liitteen mukaisesti korjausohjelman muilta osin, paitsi kunnantalon muutostöiden (420 000 €) sekä sähköautojen lataustolppien osalta (200 000 €). Näistä pyydetään lisätietoa, miten saataisiin pois korjausohjelman määrärahoista ja tilalle resurssien ja budjetin mukaan muita korjauskohteita 4 että lautakunnan käyttösuunnitelman investointiosaan sisältyvän \"energiatehokkuushankkeet\" -hankkeen määrärahaa kohdennetaan liitteen mukaisesti 5 että lautakunnan käyttösuunnitelman investointiosaan sisältyvän \"koulujen ja päiväkotien pihojen perusparannushankkeet\" -hankkeen määrärahaa kohdennetaan liitteen mukaisesti 6 oikeuttaa yhdyskuntatekniikan palvelualueen johtajan tekemään talousarviovuoden aikana tarvittavia muutoksia esityslistan liitteenä olevaan luetteloon vastuuhenkilöistä 7 myöntää investointien vastuuhenkilöille käyttösuunnitelmassa kuvattujen investointien osalta ostolaskujen hyväksymisoikeuden ko. investoinnin kokonaiskustannusten puitteissa 8 että käyttötalouden rakennusprojektien osalta projektien vetäjät toimivat turvallisuuskoordinaattorina, ellei sopimusasiakirjoissa ole muuta mainittu 9 evästää seuraavasti: Kunnan tiloja käyttäville asiakkaille ja kuntalaisille tulee luoda mahdollisuus tehdä sisäilmailmoituksia www.kirkkonummi.fi sivuston kautta. Ilmoituksen tekemisen tulee olla selkeää ja helppoa. Korjaussuunnitelmat sekä niihin myönnetyt määrärahat tiedotetaan heti päätöksen jälkeen kohteiden rehtoreille/johtajille",
+      "votes": [],
+      "sections": {
+        "liitteet": "Kuvake Numero Otsikko Käyttösuunnitelma 2024, Toimitilapalvelujen lautakunta, hyväksytty Topa 17.1.2024 § 8 Toimitilapalveluiden lautakunnan käyttösuunnitelma vuodelle 2024 Toimitilapalvelujen lautakunta 17.01.2024 § 8 889/02.02.02/2023",
+        "valmistelija": "yhdyskuntatekniikan johtaja Anna-Kaisa Kauppinen, toimitilajohtaja Kari Toikka, hallintopäällikkö Kia Forsell etunimi.sukunimi@kirkkonummi.fi , puh. 09 29671 (vaihde)",
+        "paatosehdotus": "Yhdyskuntatekniikan johtaja Kauppinen Anna-Kaisa Toimitilapalvelujen lautakunta päättää 1 hyväksyä toimitilapalvelujen lautakunnan käyttösuunnitelman vuodelle 2024 liitteiden mukaisesti 2 että lautakunnan käyttösuunnitelman investointiosaan sisältyvän \"korjausohjelma\" -hankkeen määrärahaa kohdennetaan liitteen mukaisesti 3 että lautakunnan käyttösuunnitelman investointiosaan sisältyvän \"energiatehokkuushankkeet\" -hankkeen määrärahaa kohdennetaan liitteen mukaisesti 4 että lautakunnan käyttösuunnitelman investointiosaan sisältyvän \"koulujen ja päiväkotien pihojen perusparannushankkeet\" -hankkeen määrärahaa kohdennetaan liitteen mukaisesti 5 oikeuttaa yhdyskuntatekniikan palvelualueen johtajan tekemään talousarviovuoden aikana tarvittavia muutoksia esityslistan liitteenä olevaan luetteloon vastuuhenkilöistä 6 myöntää investointien vastuuhenkilöille käyttösuunnitelmassa kuvattujen investointien osalta ostolaskujen hyväksymisoikeuden ko. investoinnin kokonaiskustannusten puitteissa 7 että käyttötalouden rakennusprojektien osalta projektien vetäjät toimivat turvallisuuskoordinaattorina, ellei sopimusasiakirjoissa ole muuta mainittu",
+        "kasittely": "Keskusteluna aikana esitettiin seuraavat evästykset: Miisa Jeremejew evästys: Toimitilapalvelujen lautakunta esittää, että kunnan tiloja käyttäville asiakkaille ja kuntalaisille tulee luoda mahdollisuus tehdä sisäilmailmoituksia www.kirkkonummi.fi sivuston kautta. Ilmoituksen tekemisen tulee olla selkeää ja helppoa. Noora Piili, Elina Utriainen, Johanna Järvinen, Marko Kari ja Elina Kärkimaa kannattivat Miisa Jeremejewin evästystä. Puheenjohtaja totesi, että evästystä kannatettiin yksimielisesti. Marko Kari esitti seuraavan evästyksen: Lautakunta evästää, että korjaussuunnitelmat sekä niihin myönnetyt määrärahat tiedotetaan heti päätöksen jälkeen kohteiden rehtoreille/johtajille. Jani Ekman kannatti Marko Karin evästystä. Puheenjohtaja totesi, että evästystä kannatettiin yksimielisesti. Lisäksi puheenjohtaja Noora Piili esitti seuraavan vastaesityksen: Toimitilapalveluiden lautakunta päättää, että korjausohjelmassa oleva kunnantalon muutostyöt 420 000 €, sekä sähköautojen lataustolpat 200 000 € siirretään pois korjausohjelmasta, ja nämä katetaan muusta budjetista. Korjausohjelmaan tuodaan lisää kohteita resurssien ja budjetin mukaisesti. Elina Utriainen, Marko Kari, Pekka Oksanen ja Miisa Jeremejew kannattivat Noora Piilin vastaesitystä. Keskustelun jälkeen Noora Piili veti em. vastaesityksensä pois. Elina Kärkimaa esitti seuraavan vastaesityksen: Kunnantalon muutostöihin varataan ainakin osin määrärahat muualta niin, että tuleville kunnan ulkopuolisille vuokralaisille vyörytettävät kustannukset eivät pienennä korjausohjelman budjettia. Näin varmistetaan riittävät määrärahat tarvittaviin rakennusten korjauksiin eikä kerrytetä korjausvelkaa, kunnan resurssit huomioiden. Jani Ekman, Elina Utriainen, Pekka Oksanen, Miisa Jeremejew ja Johanna Järvinen kannattivat Elina Kärkimaan vastaesitystä. Keskustelun jälkeen Elina Kärkimaa veti em. vastaesityksensä pois. Jani Ekman esitti seuraavan lisäyksen: Lisätään käyttösuunnitelman riskilistaan uusi riski: investointikustannusten ylittyminen. Pekka Oksanen, Noora Piili, Marko Kari, Miisa Jeremejew, Elina Utriainen ja Johanna Järvinen kannattivat Jani Ekmanin lisäystä. Puheenjohtaja totesi, että lisäystä kannatettiin yksimielisesti. Noora Piili esitti seuraavan muutosesityksen: Päätetään korjausohjelmasta muilta osin, paitsi kunnantalon muutostöiden (420 000 €) sekä sähköautojen lataustolppien osalta (200 000 €). Näistä pyydetään lisätietoa, miten saataisiin pois korjausohjelman määrärahoista ja tilalle resussien ja budjetin mukaan muita korjauskohteita. Miisa Jeremejew, Hans Hedberg, Elina Utriainen, Elina Kärkimaa ja Marko Kari kannattivat Noora Piilin muutosehdotusta. Puheenjohtaja totesi, että muutosesitystä kannatettiin yksimielisesti",
+        "paatos": "Toimitilapalvelujen lautakunta päätti: 1 hyväksyä toimitilapalvelujen lautakunnan käyttösuunnitelman vuodelle 2024 liitteiden mukaisesti 2 lisätään käyttösuunnitelman riskilistaan uusi riski: investointikustannusten ylittyminen. 3 että lautakunnan käyttösuunnitelman investointiosaan sisältyvän \"korjausohjelma\" -hankkeen määrärahaa kohdennetaan liitteen mukaisesti korjausohjelman muilta osin, paitsi kunnantalon muutostöiden (420 000 €) sekä sähköautojen lataustolppien osalta (200 000 €). Näistä pyydetään lisätietoa, miten saataisiin pois korjausohjelman määrärahoista ja tilalle resurssien ja budjetin mukaan muita korjauskohteita 4 että lautakunnan käyttösuunnitelman investointiosaan sisältyvän \"energiatehokkuushankkeet\" -hankkeen määrärahaa kohdennetaan liitteen mukaisesti 5 että lautakunnan käyttösuunnitelman investointiosaan sisältyvän \"koulujen ja päiväkotien pihojen perusparannushankkeet\" -hankkeen määrärahaa kohdennetaan liitteen mukaisesti 6 oikeuttaa yhdyskuntatekniikan palvelualueen johtajan tekemään talousarviovuoden aikana tarvittavia muutoksia esityslistan liitteenä olevaan luetteloon vastuuhenkilöistä 7 myöntää investointien vastuuhenkilöille käyttösuunnitelmassa kuvattujen investointien osalta ostolaskujen hyväksymisoikeuden ko. investoinnin kokonaiskustannusten puitteissa 8 että käyttötalouden rakennusprojektien osalta projektien vetäjät toimivat turvallisuuskoordinaattorina, ellei sopimusasiakirjoissa ole muuta mainittu 9 evästää seuraavasti: Kunnan tiloja käyttäville asiakkaille ja kuntalaisille tulee luoda mahdollisuus tehdä sisäilmailmoituksia www.kirkkonummi.fi sivuston kautta. Ilmoituksen tekemisen tulee olla selkeää ja helppoa. Korjaussuunnitelmat sekä niihin myönnetyt määrärahat tiedotetaan heti päätöksen jälkeen kohteiden rehtoreille/johtajille",
+        "tiedoksi": "valmistelijat, tilivelvolliset vastuuhenkilöt, talousjohtaja",
+        "selostus": "Kunnanvaltuusto hyväksyi vuoden 2024 talousarvion ja vuosien 2025-26 taloussuunnitelman kokouksessaan 13.11.2022 § 91. Talousarvion sitovuus on määritelty pääsääntöisesti siten, että käyttötalousosan?kunkin toimielimen tehtävien yhteenlaskettu ulkoisten toimintatulojen ja -menojen erotus eli toimintakate on valtuuston nähden sitova. Kunnanhallitus on 4.12.2023 § 426 päättänyt talousarvion täytäntöönpano-ohjeet. Kunnanvaltuusto päätti toimielinten ja viranhaltijoiden hankintavaltuuksista 16.12.2019 § 127 siten, että ne ovat toistaiseksi voimassa. Käyttösuunnitelmassa toimielin merkitsee tiedokseen tilivelvolliset vastuuhenkilöt.?Tilivelvollinen vastuuhenkilö vastaa alueensa tai - yksikkönsä tavoitteiden saavuttamisesta, osamäärärahojen edelleen jakamisesta ja käytöstä talousarvion täytäntöönpano-ohjeiden mukaisesti. Vastuuhenkilöt määritellään myös investoinneille. Palvelualuejohtaja tai tilivelvollinen vastuuhenkilö voi jatkodelegoida toimivaltaa edelleen alaisilleen viranhaltijoille. Täytäntöönpano-ohjeiden mukaan palvelualuejohtaja tai käyttösuunnitelman tilivelvollinen vastuuhenkilö voi siirtää osamäärärahoja toimielimen sitovuuden puitteissa sekä määritellä ja muuttaa talousvastuussa olevia henkilöitä. Palvelualuejohtaja tekee päätöksen palvelualueellaan ostolaskujen hyväksyjistä ja asiatarkastajista, jotka laitetaan kunnan intraan henkilöstön nähtäväksi ja jota päivitetään palvelualuejohtajien tai tilivelvollisten vastuuhenkilöiden pyynnöstä. Työntekijävaihdoksista ei erillistä päätöstä tarvitse tehdä (asemaan perustuva oikeus ja velvollisuus) vaan ne korjataan ylläpidettävään luetteloon. Aiemmasta poiketen talouden ja toiminnan raportointia kehitetään siten, että laaditaan kaksi osavuosikatsausta yhden sijaan huhti- ja elokuun tilanteesta. Kunnanvaltuuston 16.5.2022 § 43 hyväksymän riskienhallinnan ja sisäisen valvonnan ohjeen mukaan toimielinten tulee vuosittain laatia käyttösuunnitelmaan perustuva sisäisen valvonnan painopiste- ja kehittämisalueet sekä toimenpiteet sisältävä suunnitelma, jotka on johdettu toimielimelle esitettyjen riskien pohjalta"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [
+        {
+          "group": "liite",
+          "prefix": null,
+          "title": "Käyttösuunnitelma 2024, Toimitilapalvelujen lautakunta, hyväksytty Topa 17.1.2024 § 8",
+          "size": null,
+          "url": "https://kirkkonummi.oncloudos.com/kokous/20241623-5-102814.PDF"
+        }
+      ],
+      "proposals": [
+        {
+          "proposer": "Noora Piili",
+          "kind": "vastaehdotus",
+          "text": "Toimitilapalveluiden lautakunta päättää, että korjausohjelmassa oleva kunnantalon muutostyöt 420 000 €, sekä sähköautojen lataustolpat 200 000 € siirretään pois korjausohjelmasta, ja nämä katetaan muusta budjetista. Korjausohjelmaan tuodaan lisää kohteita resurssien ja budjetin mukaisesti. Elina Utriainen, Marko Kari, Pekka Oksanen ja Miisa Jeremejew kannattivat Noora Piilin vastaesitystä. Keskustelun jälkeen Noora Piili veti em. vastaesityksensä pois",
+          "source": "introduction",
+          "party": "pro yl"
+        },
+        {
+          "proposer": "Elina Kärkimaa",
+          "kind": "vastaehdotus",
+          "text": "Kunnantalon muutostöihin varataan ainakin osin määrärahat muualta niin, että tuleville kunnan ulkopuolisille vuokralaisille vyörytettävät kustannukset eivät pienennä korjausohjelman budjettia. Näin varmistetaan riittävät määrärahat tarvittaviin rakennusten korjauksiin eikä kerrytetä korjausvelkaa, kunnan resurssit huomioiden. Jani Ekman, Elina Utriainen, Pekka Oksanen, Miisa Jeremejew ja Johanna Järvinen kannattivat Elina Kärkimaan vastaesitystä. Keskustelun jälkeen Elina Kärkimaa veti em. vastaesityksensä pois. Jani Ekman esitti seuraavan lisäyksen: Lisätään käyttösuunnitelman riskilistaan uusi riski: investointikustannusten ylittyminen. Pekka Oksanen, Noora Piili, Marko Kari, Miisa Jeremejew, Elina Utriainen ja Johanna Järvinen kannattivat Jani Ekmanin lisäystä",
+          "source": "introduction",
+          "party": "vihr"
+        },
+        {
+          "proposer": "Miisa Jeremejew",
+          "kind": "evastysehdotus",
+          "text": null,
+          "source": "order",
+          "party": "vihr"
+        },
+        {
+          "proposer": "Marko Kari",
+          "kind": "evastysehdotus",
+          "text": null,
+          "source": "order",
+          "party": "kok"
+        }
+      ]
+    }
+  ],
+  "id": "20241623",
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20241623"
+}

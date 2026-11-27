@@ -1,0 +1,73 @@
+{
+  "title": "Vammaisneuvosto Esityslista 03.11.2022 klo 17:00 -  \nKirkkonummi-sali, kunnantalon 1 krs.  | Dynasty tietopalvelu : Kirkkonummen kunta",
+  "body": "Vammaisneuvosto",
+  "doctype": "Esityslista",
+  "date": "2022-11-03",
+  "items": [
+    {
+      "id": "20221278-1",
+      "ordinal": "1",
+      "title": "Kokouksen laillisuus ja päätösvaltaisuus",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221278-1",
+      "decision": null,
+      "sections": {
+        "valmistelija": "toimistopäällikkö Marika Kinnunen, etunimi.sukunimi@kirkkonummi.fi",
+        "paatosehdotus": "Puheenjohtaja toteaa kokouksen laillisesti kokoonkutsutuksi ja päätösvaltaiseksi"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20221278-2",
+      "ordinal": "2",
+      "title": "Pöytäkirjan tarkastus ja tarkastajien valinta",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221278-2",
+      "decision": null,
+      "sections": {
+        "valmistelija": "toimistopäällikkö Marika Kinnunen, etunimi.sukunimi@kirkkonummi.fi Vammaisneuvosto",
+        "paatosehdotus": "Valitaan kaksi pöytäkirjantarkastajaa tarkastamaan tämän kokouksen pöytäkirjan"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20221278-3",
+      "ordinal": "3",
+      "title": "Gesterbyn koulukeskuksen suunnitteluhankeen esittely",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221278-3",
+      "decision": null,
+      "sections": {
+        "valmistelija": "toimistopäällikkö Marika Kinnunen, etunimi.sukunimi@kirkkonummi.fi Kirkkonummen kunnan rakennuttajainsinööri Hanne Nylund esittelee vammaisneuvostolle Gesterbyn koulukeskushanketta. Tämän asian osalta pöytäkirja tarkastetaan kokouksessa",
+        "paatosehdotus": "Vammaisneuvosto"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    },
+    {
+      "id": "20221278-4",
+      "ordinal": "4",
+      "title": "Muut asiat",
+      "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meetingitem&id=20221278-4",
+      "decision": null,
+      "sections": {
+        "valmistelija": "toimistopäällikkö Marika Kinnunen, etunimi.sukunimi@kirkkonummi.fi Käsitellään muut mahdolliset esille tulevat asiat"
+      },
+      "lang": "fi",
+      "text_encoding": "ok",
+      "attachments": [],
+      "votes": [],
+      "proposals": []
+    }
+  ],
+  "url": "https://kirkkonummi.oncloudos.com/cgi/DREQUEST.PHP?page=meeting&id=20221278",
+  "id": "20221278"
+}
