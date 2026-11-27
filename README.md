@@ -55,7 +55,19 @@ Huomioita:
   `thread_exists`-kentässä, löytyykö ketju jo, kun token on asetettu.
 - Ajo ilman `--meeting`-parametria hakee sivut tyhjään väliaikaiseen välimuistiin ja kirjoittaa uudet
   esityslistat kuntapaatokset-checkoutin `data/`-kansioon. Historia (aiemmat käsittelyt,
-  äänestysosuudet) luetaan samasta kansiosta, joten sen pitää olla ajettu kunnalle valmiiksi.
+  äänestysosuudet) luetaan samasta kansiosta.
+
+## Data
+
+Botin lukema päätöshistoria on tämän repon `data/<kunta>/`-kansiossa: `bodies.json`, valtuustokausien
+`roster-*.json`-puoluekartat ja `meetings/`. Ne ovat julkisten pöytäkirjojen johdannaisia;
+alkuperäiset asiakirjat ovat kunnan julkisia asiakirjoja. `SOURCE` kertoo, minkä kuntapaatokset-
+version parseri datan kirjoitti.
+
+- **CI** osoittaa `kuntapaatokset/data`-polun tähän kansioon ja committaa ajossa hakemansa uudet
+  kokoukset takaisin (`chore(data): meetings crawled <päivä>`).
+- **Täydennys** kuntapaatokset-datasetistä (uusi kunta, parserimuutoksen jälkeinen `reparse`,
+  esityslistan korvaava pöytäkirja): `scripts/sync-data.sh <kuntapaatokset-checkout> <kunta>`.
 
 Id:t saa Discordista: Asetukset → Lisäasetukset → Kehittäjätila, sitten hiiren oikea → Kopioi ID.
 
