@@ -1,13 +1,14 @@
 name: poll
 
-# Public repository: this log is public. The bot prints counters only (bot/log.py).
+# Public repository: this log is public. The bot prints counters only (bot/log.py), and the
+# commit step below prints nothing about what it commits.
 on:
   schedule:
     - cron: "0 3,8,12,16 * * *"
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write  # commits newly crawled meetings back to data/
 
 concurrency:
   group: poll
@@ -25,6 +26,9 @@ jobs:
           ssh-key: ${{ secrets.KUNTAPAATOKSET_DEPLOY_KEY }}
           path: kuntapaatokset
           persist-credentials: false
+      # The decision history lives in this repository's data/. kuntapaatokset reads and writes
+      # <checkout>/data, so that path is pointed here; new meetings land in this repo's data/.
+      - run: rm -rf kuntapaatokset/data && ln -s "$GITHUB_WORKSPACE/data" kuntapaatokset/data
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -34,3 +38,14 @@ jobs:
           PYTHONPATH: kuntapaatokset
           BOT_CONFIG: ${{ secrets.BOT_CONFIG }}
           DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
+      # Also after a failed run: meetings crawled before the failure are history worth keeping.
+      - name: commit new meetings
+        if: ${{ !cancelled() }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if ! git diff --cached --quiet; then
+            git commit --quiet -m "chore(data): meetings crawled $(date -u +%F)"
+            git push --quiet
+          fi
